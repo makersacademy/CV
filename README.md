@@ -6,7 +6,7 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ### Name of Skill
 
-Descriptive paragraph of how capable you are at this skill.
+Descriptive paragraph of how capable you are at this skill and how it has developed, including your commitment to developing it.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
