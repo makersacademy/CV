@@ -32,4 +32,19 @@ Descriptive paragraph
 
 ## Education
 
-### Makers Academy - Dec 2014 to Mar 2015
+### Makers Academy - START to FINISH
+
+- Curiosity and hungry passion for code
+- Independent learner and problem-solver
+- OOP, TDD, SOLID, MVC, DDD
+- Software Craftsmanship
+- Ruby, Rails, Javascript, Node.js, Angular,js
+- Rspec, Jasmine, Mocha
+
+### Your University - START to FINISH
+
+- Subject, any specialisms
+- Grade
+- Other cool stuff
+
+### Any other qualifications

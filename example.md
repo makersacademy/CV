@@ -8,19 +8,22 @@ A beardy, bear-like thing with a sometimes overly enthusiastic passion for recru
 
 Comfortable and confident in front of large groups of people, even when mightily unprepared, I'm an effective and entertaining speaker, using humour, metaphor and occasionally audience participation to make clear and memorable points.
 
-- TEDxSquareMile
-- Digital Shoreditch
-- Live TV interview
+- [TEDxSquareMile](https://www.youtube.com/watch?v=j6eOT0nxQJ0): Embrace Your Inner Spiderman
+- Main stage of [Digital Shoreditch 2015]()
+- [Live TV interview](http://www.londonlive.co.uk/news/helping-kick-start-an-educational-revolution) on LondonLive, with a very silly moustache
 
-### Account Management
+### Ruby
 
-Paragraph
+I think this is pretty impressive:
+``` ruby
+@basket.reduce(:+)
+```
 
-- Evidence
-- Evidence
-- Evidence
+- I did the Hartl tutorial, but couldn't do any of the exercises.
+- Embarrassingly, it's actually [still on Heroku](http://fierce-bastion-1684.heroku.com/).
+- I can't do better than a 7kyu on Codewars right now.
 
-### Skill
+### Recruitment
 
 Paragraph
 
@@ -30,4 +33,4 @@ Paragraph
 
 ## Education
 
-### Makers Academy - Dec 2014 to Mar 2015
+### Makers Academy - (not yet, but)
