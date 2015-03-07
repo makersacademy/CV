@@ -4,15 +4,15 @@ A beardy, bear-like thing with a sometimes overly enthusiastic passion for recru
 
 ## Skills
 
-### Skill
+### Public Speaking
 
-Paragraph
+Comfortable and confident in front of large groups of people, even when mightily unprepared, I'm an effective and entertaining speaker, using humour, metaphor and occasionally audience participation to make clear and memorable points.
 
-- Evidence
-- Evidence
-- Evidence
+- TEDxSquareMile
+- Digital Shoreditch
+- Live TV interview
 
-### Skill
+### Account Management
 
 Paragraph
 
