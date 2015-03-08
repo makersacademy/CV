@@ -27,10 +27,16 @@ I think this is pretty impressive:
 
 Paragraph
 
-- Evidence
-- Evidence
+- Arranged the hiring of hundreds of graduates into jobs in some of the Europe's best young tech companies, running the partnership between [Wayra Europe](http://wayra.co/) and [Enternships](http://www.enternships.com/).
+- Coached, mentored and consulted with startups, accelerators and small businesses on their recruitment practices, especially finding and attracting technical talent.
 - Evidence
 
 ## Education
 
 ### Makers Academy - (not yet, but)
+
+### Heythrop College, University of London - 2007 to 2010
+
+- Philosophy, especially the philosophy of maths and language.
+- First Class Honours
+- Founded the drama society: HeADS
