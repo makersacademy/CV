@@ -9,7 +9,7 @@ A beardy, bear-like thing with a sometimes overly enthusiastic passion for recru
 Comfortable and confident in front of large groups of people, even when mightily unprepared, I'm an effective and entertaining speaker, using humour, metaphor and occasionally audience participation to make clear and memorable points.
 
 - [TEDxSquareMile](https://www.youtube.com/watch?v=j6eOT0nxQJ0): Embrace Your Inner Spiderman
-- Main stage of [Digital Shoreditch 2015]()
+- Main stage of [Digital Shoreditch 2015](http://digitalshoreditch.com/)
 - [Live TV interview](http://www.londonlive.co.uk/news/helping-kick-start-an-educational-revolution) on LondonLive, with a very silly moustache
 
 ### Ruby
