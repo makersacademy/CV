@@ -25,11 +25,9 @@ I think this is pretty impressive:
 
 ### Recruitment
 
-Paragraph
-
 - Arranged the hiring of hundreds of graduates into jobs in some of the Europe's best young tech companies, running the partnership between [Wayra Europe](http://wayra.co/) and [Enternships](http://www.enternships.com/).
-- Coached, mentored and consulted with startups, accelerators and small businesses on their recruitment practices, especially finding and attracting technical talent.
-- Evidence
+- Coached and mentored startups on their recruitment practices, especially finding and attracting technical talent, on behalf of [Wayra UK](http://wayra.co/uk/), [The Accelerator Academy](http://acceleratoracademy.com/) and [IDEALondon](http://www.idea-london.co.uk/).
+- Co-founded a social enterprise recruiting UK graduates to teach English in Syria, to local children and adults displaced form Iraq.
 
 ## Education
 
