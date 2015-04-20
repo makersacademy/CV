@@ -1,9 +1,9 @@
 ## Rizwan ALi
 
 ```
-As a...     hardworking individual and passionate about enhancing user experience with the technology 
-I want to...Find an organisation where I can serve as a developer, work in a team, pair and enhance my programing skills
-So that...  I can continue learning about user experience with the technology and implementing best practices.
+As a...     Hardworking individual and passionate about enhancing user experience of using technology 
+I want to...Find an organisation where I can serve as a developer, work in a team and pair
+So that...  I can continue learning end user experience and behaviour with the technology and keep implementing best practices.
 ```
 
 ## Skills
