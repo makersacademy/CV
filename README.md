@@ -79,10 +79,25 @@ Skills learnt in the course
 - Participated in institution development planning and professional training.
 
 
+### Dynamic Ads Ltd.
+    2004 - 2005
+    3D Animation Designer
+
+- Using advanced animation software, successfully developed attractive displays promoting product
+  profiles and marketing messages to the targeted customer segments.
+
+- Evaluated client needs and cutomer profile to guide selection of art work and design. 
+
+### VIS MEdia Television.
+    2001 - 2004 -  London & Leicester
+    Animator
+    
+
+- Produced graphics and animations for commercials, and for signature logos of major satellite
+  television networks.
+
+- Acquired expertise in the use of the following software: 3D Studio Max; Adobe After Effects; Adobe   Photoshop & Illustrator/Freehand; also, familiarity with Quark Xpress.
 
 
 
-- Gained Qualified Teacher Status
-- Taught basic principles of computing - DfES No: 06/56341
-** Company Name (start_date to end-date)**  
-*Your job title*
+
