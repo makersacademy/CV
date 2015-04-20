@@ -25,11 +25,9 @@ So that...  I can continue learning end user experience and behaviour with the t
 - **Testing Frameworks:** RSpec, Cucumber, Capybara, Jasmine
 
 ## Projects
-Rails - STEMettes Webapp - https://github.com/RizAli/royalty_loyalty/blob/master/README.md
-
-Need to link - ToDo project
-
-html-css - https://github.com/RizAli/html_css
+- Rails - STEMettes Webapp - https://github.com/RizAli/royalty_loyalty/blob/master/README.md
+- Treebook - https://github.com/RizAli/treebook
+- html-css - https://github.com/RizAli/html_css
 
 ## Education
 
