@@ -26,9 +26,9 @@ So that...  I can continue learning end user experience and behaviour with the t
 
 ## Projects
 - Rails - STEMettes Webapp - https://github.com/RizAli/royalty_loyalty/blob/master/README.md
-- Treebook - https://github.com/RizAli/treebook
+- Rails - Treebook - https://github.com/RizAli/treebook
 - html-css - https://github.com/RizAli/html_css
-
+- JavaScript - Jasmine - https://github.com/RizAli/bowling-challenge
 ## Education
 
 ### Makers Academy
