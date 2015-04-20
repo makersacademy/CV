@@ -1,6 +1,10 @@
-## Your Name
+## Rizwan ALi
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+```
+As a...       Junior Web Developer
+I want to...  Find an organisation where I can serve as a developer, work in a team, pair, solo (where applicable) and enhance my programing skills
+So that...    I can continue learning and implementing best practices.
+```
 
 ## Skills
 
@@ -23,22 +27,38 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end-date)
+### Makers Academy
+     BootCamp Computer programming Feb 2015 - April 2015
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular,js
-- Rspec, Jasmine, Mocha
+#### Skills learnt in the course
 
-#### Your University / College (start_date to end-date)
+- Independent learning and problem-solving
+- Agile and lean principles of software development
+- Version Control using Git
+- Pair programming on projects every week
+- Team projects
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- **Technologies:** - Ruby, Ruby on Rails, Javascript, jQuery, Angularjs
+- **Testing Frameworks:** RSpec, Cucumber, Capybara, Jasmine
 
-#### Any other qualifications
+
+### Institute of Education (IOE)  - University College London (UCL)
+     MA in Educational Leadership - Sep 2012 – Jan 2015
+
+- Modules: Leading and Managing Change , Coaching and Mentoring principles , Educational leadership and Management research
+
+### University of Keele
+     MA in Educational Leadership - Sep 2012 – Jan 2015
+- Gained Qualified Teacher Status
+- Taught basic principles of computing - DfES No: 06/56341
+
+
+### University of Wolverhampton
+    Bachelors in Computer Animation - Sep 2001 – Aug 2004
+
+Skills learnt in the course
+- After Effects, 3D Max, Adobe Photoshop, Adobe Illustrator, Macromedia Flash
+
 
 ## Experience
 
