@@ -1,46 +1,48 @@
-## Your Name
+## Thomas Strothjohann
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a digital journalist and web developer. I have reported on a transport of relief goods to the Syrian border with as much effort as I have on people brewing beer. With my new web development skills I would like to contribute to innovative storrytelling projects.
 
 ## Skills
 
-#### This Skill
+#### Reporting
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
-- Achievements
-- Evidence
+- Almost three years of working as an editor for [Oberhessische Press](http://op-marburg.de)
+- I was responsible for growing their social media audience, developing digital projects and producing a daily page in the paper starring local reportages.
+- I have won two journalism awards for online journalism projects in the past three years [Ernst-Schneider-Preis 2012](http://de.wikipedia.org/wiki/Ernst-Schneider-Preis#2012) and [Deutscher Lokaljournalistenpreis 2014]( http://www.op-marburg.de/Lokales/Marburg/Deutscher-Lokaljournalistenpreis-fuer-die-OP))
 
-#### Another Skill
+#### Tech in Journalism
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I specialize in technology in journalism.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- I have been writing as a freelancer for [medium magazin](http://www.mediummagazin.de), a professional journal for journalists.
+- I reported on content management systems, web documentaries and technology in journalism in general but also explained new tools to other journalists.
+- For example I recently wrote a [16-page special about the New York Times Innovation Report](http://cf.newsroom.de/shop/index.cfm?step=1&kategorie=wkst).
 
 ## Education
 
-#### Makers Academy (start_date to end-date)
+#### Makers Academy (Feb 2015 - May 2015)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular,js
-- Rspec, Jasmine, Mocha
+- Ruby/Rails, JavaScript, Node.js, AngularJS
+- Rspec, Cucumber, Jasmine, Protractor
+- Agile project management
+- I have written a [blog about my dive into code at Makers Academy](http://www.codereporter.de).
 
-#### Your University / College (start_date to end-date)
+#### University of Applied Sciences Darmstadt (2008/10 - 2012/03)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Online Journalism
+- Grade: 1,2
+- Thesis: A [web documentary](http://www.bergdreh.de) about a film team trying to climb the Mont Blanc.
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name (start_date to end-date)**  
-*Your job title*
+**Oberhessische Presse, Marburg (2012/05 - 2015/02)**  
+*Editor*
+**medium magazin, Frankfurt (2008/11 - today)**  
+*Member of the editorial team*
