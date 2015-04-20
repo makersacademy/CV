@@ -12,22 +12,20 @@ So that...    I can continue learning about user experience with the technology 
 
 ## Skills
 
-#### This Skill
+- Independent learning and problem-solving
+- Agile and lean principles of software development
+- Version Control using Git
+- Pair programming on projects every week
+- Team project
+- Agile values, principles and practice
+- Test Driven Development
+- User authentication and authorisation with bcrypt and Devise
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- **Technologies:** - Ruby, Ruby on Rails, Javascript, jQuery, Angularjs
+- **Testing Frameworks:** RSpec, Cucumber, Capybara, Jasmine, Behaviour driven development with Cucumber
 
-- Experience
-- Achievements
-- Evidence
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
