@@ -5,9 +5,9 @@
 
 
 ```
-As a...       hardworking individual and passionate about enhancing user experience with the technology 
-I want to...  Find an organisation where I can serve as a developer, work in a team, pair and enhance my programing skills
-So that...    I can continue learning about user experience with the technology and implementing best practices.
+As a...     hardworking individual and passionate about enhancing user experience with the technology 
+I want to...Find an organisation where I can serve as a developer, work in a team, pair and enhance my programing skills
+So that...  I can continue learning about user experience with the technology and implementing best practices.
 ```
 
 ## Skills
@@ -28,21 +28,6 @@ So that...    I can continue learning about user experience with the technology 
 - **Technologies:** - Ruby, Ruby on Rails, Javascript, jQuery, Angularjs
 - **Testing Frameworks:** RSpec, Cucumber, Capybara, Jasmine
 
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
