@@ -1,10 +1,10 @@
-# Your Name
+## Your Name
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
-## Skills
+### Skills
 
-### This Skill
+#### This Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +12,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-### Another Skill
+#### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -21,9 +21,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
-## Education
+### Education
 
-### Makers Academy (start_date to end-date)
+#### Makers Academy (start_date to end-date)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,15 +32,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular,js
 - Rspec, Jasmine, Mocha
 
-### Your University / College (start_date to end-date)
+#### Your University / College (start_date to end-date)
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
-### Any other qualifications
+#### Any other qualifications
 
-## Experience
+### Experience
 
 **Company Name (start_date to end-date)**  
 *Your job title*
