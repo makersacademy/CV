@@ -1,9 +1,5 @@
 ## Rizwan ALi
 
-      rizcube@gmail.com, @rizcube, Rizwan  Ali Khowaja (linked in)
-
-
-
 ```
 As a...     hardworking individual and passionate about enhancing user experience with the technology 
 I want to...Find an organisation where I can serve as a developer, work in a team, pair and enhance my programing skills
@@ -108,5 +104,5 @@ Skills learnt in the course
 - Acquired expertise in the use of the following software: 3D Studio Max; Adobe After Effects; Adobe   Photoshop & Illustrator/Freehand; also, familiarity with Quark Xpress.
 
 
-
+ rizcube@gmail.com, @rizcube, Rizwan  Ali Khowaja (linked in)
 
