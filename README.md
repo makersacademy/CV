@@ -1,9 +1,9 @@
 ## Rizwan ALi
 
 ```
-As a...       Junior Web Developer
-I want to...  Find an organisation where I can serve as a developer, work in a team, pair, solo (where applicable) and enhance my programing skills
-So that...    I can continue learning and implementing best practices.
+As a...       hardworking individual and passionate about enhancing user experience with the technology 
+I want to...  Find an organisation where I can serve as a developer, work in a team, pair and enhance my programing skills
+So that...    I can continue learning about user experience with the technology and implementing best practices.
 ```
 
 ## Skills
@@ -28,8 +28,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Education
 
 ### Makers Academy
-     BootCamp Computer programming Feb 2015 - April 2015
-
+     Feb 2015 - April 2015
+     BootCamp Computer programming 
+     
 #### Skills learnt in the course
 
 - Independent learning and problem-solving
@@ -43,18 +44,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 ### Institute of Education (IOE)  - University College London (UCL)
-     MA in Educational Leadership - Sep 2012 – Jan 2015
+      Sep 2012 – Jan 2015
+      MA in Educational Leadership
 
 - Modules: Leading and Managing Change , Coaching and Mentoring principles , Educational leadership and Management research
 
 ### University of Keele
-     MA in Educational Leadership - Sep 2012 – Jan 2015
-- Gained Qualified Teacher Status
-- Taught basic principles of computing - DfES No: 06/56341
+     Sep 2012 – Jan 2015
+     Post Graduate Certificate in Education 
+     
+- Gained Qualified Teacher Status (QTS) - DfES No: 06/56341
+- Taught from Y7 upto GCSE - Computing and ICT 
 
 
 ### University of Wolverhampton
-    Bachelors in Computer Animation - Sep 2001 – Aug 2004
+     Sep 2001 – Aug 2004
+     Bachelors in Computer Animation
 
 Skills learnt in the course
 - After Effects, 3D Max, Adobe Photoshop, Adobe Illustrator, Macromedia Flash
@@ -64,7 +69,7 @@ Skills learnt in the course
 
 
 ### Magna Carta School: Specialist technology college (11-16)
-    Sep 2007 – Dec 2014
+    Sep 2007 – Dec 2014 - Staines, Surrey
     Teacher of Computing / ICT
 
 - Commended for achieving student success rate of 90+%  in national ICT examinations.
@@ -80,7 +85,7 @@ Skills learnt in the course
 
 
 ### Dynamic Ads Ltd.
-    2004 - 2005
+    2004 - 2005 - Middlesbrough
     3D Animation Designer
 
 - Using advanced animation software, successfully developed attractive displays promoting product
