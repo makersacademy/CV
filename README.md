@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-### Makers Academy - START to FINISH
+### Makers Academy (start_date to end-date)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,10 +32,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular,js
 - Rspec, Jasmine, Mocha
 
-### Your University - START to FINISH
+### Your University (start_date to end-date)
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
 ### Any other qualifications
+
+## Experience
+
+### Company Name (start_date to end-date)
+#### Your job title
