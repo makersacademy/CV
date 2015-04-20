@@ -62,5 +62,27 @@ Skills learnt in the course
 
 ## Experience
 
-**Company Name (start_date to end-date)**  
+
+### Magna Carta School: Specialist technology college (11-16)
+    Sep 2007 – Dec 2014
+    Teacher of Computing / ICT
+
+- Commended for achieving student success rate of 90+%  in national ICT examinations.
+  Planned innovative schemes of work and liaised with senior management team to assure provision of    effective learning supports and resources.
+
+- Taught the full range of ICT topics, incorporating cross-curricular skills related to
+  graphics/animation, website design, and database development.
+
+- Trained and mentored learning support assistants (LSAs).
+  Enhanced resource planning and operational efficiencies through collaborative work and innovative    use of IT.
+
+- Participated in institution development planning and professional training.
+
+
+
+
+
+- Gained Qualified Teacher Status
+- Taught basic principles of computing - DfES No: 06/56341
+** Company Name (start_date to end-date)**  
 *Your job title*
