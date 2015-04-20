@@ -1,5 +1,9 @@
 ## Rizwan ALi
 
+      rizcube@gmail.com, @rizcube, https://uk.linkedin.com/pub/rizwan-ali-khowaja/50/52b/a66
+
+
+
 ```
 As a...       hardworking individual and passionate about enhancing user experience with the technology 
 I want to...  Find an organisation where I can serve as a developer, work in a team, pair and enhance my programing skills
