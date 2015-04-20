@@ -24,6 +24,9 @@ So that...  I can continue learning end user experience and behaviour with the t
 - **Technologies:** - Ruby, Ruby on Rails, Javascript, jQuery, Angularjs
 - **Testing Frameworks:** RSpec, Cucumber, Capybara, Jasmine
 
+## Projects
+STEMettes Webapp - https://github.com/RizAli/royalty_loyalty/blob/master/README.md
+
 
 ## Education
 
