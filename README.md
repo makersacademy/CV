@@ -30,7 +30,6 @@ So that...  I can continue learning end user experience and behaviour with the t
 - html-css - https://github.com/RizAli/html_css
 - JavaScript - Jasmine - https://github.com/RizAli/bowling-challenge
 
-
 ## Education
 
 ### Makers Academy
