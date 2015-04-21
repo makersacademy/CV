@@ -4,14 +4,14 @@ I am a digital journalist and web developer. I have reported on serious topics l
 
 ## Skills
 
-#### Reporting
+### Reporting
 Almost three years of working as an editor for [Oberhessische Presse](http://op-marburg.de)
 
-- I was responsible for growing their social media audience, developing digital projects and producing a daily page of the paper starring local reportages.
+- I was responsible for digital projects, apps, social media and producing a daily page of the paper starring local reportages.
 - I have won two journalism awards for online journalism projects in the past three years [Ernst-Schneider-Preis 2012](http://de.wikipedia.org/wiki/Ernst-Schneider-Preis#2012) and [Deutscher Lokaljournalistenpreis 2014]( http://www.op-marburg.de/Lokales/Marburg/Deutscher-Lokaljournalistenpreis-fuer-die-OP))
-- A collection of journalistic work I have done in the past you can find in my [torial portfolio](https://www.torial.com/thomas.strothjohann). 
+- A collection of my journalistic work you can find in my [torial portfolio](https://www.torial.com/thomas.strothjohann). 
 
-#### Tech in Journalism
+### Tech in Journalism
 
 I specialize in technology in journalism.
 
@@ -31,7 +31,7 @@ During my time at Makers I haven't done anything but to code. We started with Ru
 
 - Of all those technologies I have developed a particular interest in RESTful APIs. I have learned how to serve them, test them and experimented with different ways of using content from several APIs.
 
-- TDD has guided me through this process: RSpec, Capybara and Cucumber in Ruby projects, Jasmine and Protractor for testing JS and Angular.
+- TDD has guided me through this process of learning: RSpec, Capybara and Cucumber in Ruby projects, Jasmine and Protractor for testing JS and Angular.
 
 - I've been [blogging about my dive into code](http://www.codereporter.de)
 
@@ -49,5 +49,5 @@ During my time at Makers I haven't done anything but to code. We started with Ru
 
 - Oberhessische Presse, Marburg (2012/05 - 2015/02), *Editor*
 - medium magazin, Frankfurt (2008/11 - today), *Member of the editorial team*
-- Social service at a german library in Managua, Nicaragua (2007-2008)
+- Social service at a German library in Managua, Nicaragua (2007-2008)
 - Student exchange in Quito, Ecuador (2004-2005)
