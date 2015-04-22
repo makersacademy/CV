@@ -2,20 +2,20 @@
 
 A relaxed easy person to get along with who is focused and driven to be an outstanding software engineer.
 
-Successful former software tester who is very experienced with working in a development team and liaising with business stakeholders directly to meet software requirements. Now a junior web developer with 3 months experience building web applications.
+Successful former software tester who is very experienced with working in a development team and reporting current status to business stakeholders directly. Now a junior web developer with 3 months experience building web applications.
 
-The perfect role will allow me to immediately contribute on projects whilst learning best practice of experienced developers. I want to work with people that enjoy their job and working with others, are proactive to improve and a company that backs their employees to deliver outstanding solutions.
+The perfect role is to immediately contribute on projects, learn best practice off experienced developers. To work with people that enjoy their job, working with others, proactive to improve and a company that backs their employees to deliver outstanding solutions.
 
 
 ## Skills
 
 #### Communication
 
-Excellent communication skills whilst working in development teams as a software tester. Capable of conveying accurate information to the development team, project managers and business analysts which resulted in them making the most informed decisions available.
+Excellent communication skills built working in development teams as a software tester. Capable of conveying accurate information to the development team, project managers and business analysts which resulted in them making the most informed decisions available.
 
-- Listening skills allowing me to clearly understand the problem and ask suitable questions for clarification before working on the most fitting solution.
+- Listening skills to clearly understand the problem and ask for clarification before working on the most fitting solution.
 - Greatly improved the testing process at Trafigura by setting up a more efficient testing work flow and bug tracking templates because I listened to the problems developers were having reproducing defects.
-- Pair programming at Makers required open communication to solve problems. A successful example was pair coding the game battleships where bouncing ideas off and sharing knowledge was a very quick way to solve problems.
+- Pair programming at Makers required open communication to solve problems. A successful example was pair coding the game battleships, bouncing ideas off and sharing knowledge was a very quick way to solve problems.
 
 
 #### Problem Solving
