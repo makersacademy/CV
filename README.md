@@ -3,7 +3,7 @@
 ```
 As a...     Hardworking individual and passionate about enhancing user experience of using technology 
 I want to...Find an organisation where I can serve as a developer, work in a team and pair
-So that...  I can continue learning end user experience and behaviour with the technology and keep implementing best practices.
+So that...  I can continue learning about end user experience and behaviour with the technology and keep implementing best practices.
 ```
 
 ## Skills
