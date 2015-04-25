@@ -12,17 +12,25 @@ GitHub Repo | Live URL | Project Description
 
 ## Skills
 
-#### Ruby/Rails
+#### Ruby
 
-As my first programming language, Ruby will always have a special place in my heart. I love the syntactic sugar, but what I enjoy most is the thriving global community.
+As my first programming language, Ruby will always have a special place in my heart. I love the syntactic sugar, but what I enjoy most of all is the thriving global community. I have a solid working understanding of the following frameworks and technologies:
 
-- Previously the in-house designer at Just IT Training and Recruitment, responsible for all print and web material.
+- Rails/ActiveRecord
+- Sinatra/DataMapper
+- RSpec/Cucumber/Capybara
+- Rake/Karma
 
-#### JavaScript Ecosystem
+#### JavaScript
 
-I've begun to explore the worlds of client-side and server-side JavaScript but feel like I've barely scratched the surface of what's possible. I'm excited to experiment with up and coming frameworks, as well as build something in node with a websockets library.
+I've begun to explore the worlds of client-side and server-side JavaScript but feel like I've barely scratched the surface of what's possible. I'm excited to experiment with up and coming frameworks, as well as build something substantial in node with a websockets library.
 
-- Previously the in-house designer at Just IT Training and Recruitment, responsible for all print and web material.
+- Node.js/Express.js
+- Jasmine/Protractor
+- Angular.js
+- jQuery/AJAX
+- Bower/NPM package managers
+- Grunt
 
 #### Design
 
@@ -46,29 +54,31 @@ Developed my writing style at university and learned to apply it within both B2B
 ## Education
 
 #### Makers Academy (February to May 2015)
+I wrote about my experience of the three-month long bootcamp [here](http://tomcoakes.tumblr.com)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
+- OOP, TDD, SOLID, MVC
 - Ruby, Rails, Javascript, Node.js, Angular,js
 - Rspec, Jasmine
 - Agile project management
-- I wrote about my experience of the three-month long bootcamp [here](http://tomcoakes.tumblr.com)
+
 
 #### University of Kent (Graduated in 2011)
 
-- BA English Language and Linguistics
-- 2:1
+- BA English Language and Linguistics - 2:1
 - Media and Marketing Officer for Darwin College Student Committee
 
 ## Experience
 
 **Just IT Training and Recruitment (April 2013 to December 2014)**
+
 *Versatile Marketing Executive serving lead generation and brand awareness for three businesses in distinct sectors.*
 
 **West Mercia Police Service (August 2012 to April 2013)**
+
 *Member of a small team on an 8-month project involving the organisation of police crime files.*
 
 **Lasercomb Group (July 2011 to May 2012)**
+
 *Customer Services Executive for an industry-leader in the manufacturing of die tooling.*
