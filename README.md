@@ -2,6 +2,13 @@
 
 I'm a huge coding enthusiast with a semi-useful Linguistics degree from the University of Kent. I have several years of commercial experience in a number of industries, during which time I've made enough wrong decisions to now know how to make the right ones. More than anything else, I'm looking for a company that will help me to continue my journey of learning and allow me to make valuable contributions within a team that 'clicks'.
 
+## Example Projects
+
+GitHub Repo | Live URL | Project Description
+--- | --- | ---
+[STEMettes Royalty Loyalty](https://github.com/STEMettes/royalty_loyalty) | [stemettes-master.herokuapp.com](http://stemettes-master.herokuapp.com) | For my final project at Makers Academy, I worked with three other students to deliver an app that gamified the feedback experience for a charity. Following the brief provided to us by the charity STEMettes, we produced a responsive web app built on Rails with a front-end for users and back-end for administrators.
+[Journeats](https://github.com/Journeats/Journeats) | [journeats.com](http://www.journeats.com) | Having just been introduced to manipulating the data from APIs, I took part in a hackathon and created a restaurant aggregator with a team of four others. I was responsible for the UI and utilised Angular JS to manage updating the view with the data received from various public APIs.
+
 ## Skills
 
 #### Ruby/Rails
