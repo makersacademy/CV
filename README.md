@@ -8,6 +8,7 @@ GitHub Repo | Live URL | Project Description
 --- | --- | ---
 [STEMettes Royalty Loyalty](https://github.com/STEMettes/royalty_loyalty) | [stemettes-master.herokuapp.com](http://stemettes-master.herokuapp.com) | For my final project at Makers Academy, I worked with three other students to deliver an app that gamified the feedback experience for a charity. Following the brief provided to us by the charity STEMettes, we produced a responsive web app built on Rails with a front-end for users and back-end for administrators.
 [Journeats](https://github.com/Journeats/Journeats) | [journeats.com](http://www.journeats.com) | Having just been introduced to manipulating the data from APIs, I took part in a hackathon and created a restaurant aggregator with a team of four others. I was responsible for the UI and utilised Angular JS to manage updating the view with the data received from various public APIs.
+[Multiplayer Rock, Paper, Scissors](https://github.com/tomcoakes/rps-multiplayer) | [rockpaperscissors-tomcoakes.herokuapp.com](https://rockpaperscissors-tomcoakes.herokuapp.com) | Working solo, this was my first foray into building a fully-tested Sinatra app that follows the MVC design pattern. At the time I worked on this I hadn't yet learned about databases and ORMs so instead made use of browser sessions to implement the multiplayer functionality.
 
 ## Skills
 
