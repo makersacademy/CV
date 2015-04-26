@@ -22,7 +22,7 @@ Excellent clear and concise communication skills built up over my working career
 Breaking problems down into manageable chunks, attention to detail and planning skills to design out a solution and implement it.
 
 - Final project at Makers [Proximibee](https://arcane-citadel-3693.herokuapp.com) required innovative thinking to take the Beacon technology and turn this into a working phone app solution.
-- Planning and design. One example with the [rock-paper scissors](https://github.com/meads58/rps-challenge/tree/master/lib) project shows how the single responsibility principle was used to design the system features. Now to adding in 2 player mode or  .
+- Planning and design. One example with the [rock-paper scissors](https://github.com/meads58/rps-challenge/tree/master/lib) project shows how the single responsibility principle was used to design the system features. Result is that it is clear to anyone else what each class does and any changes are limited to that class.
 
 #### Junior Web Developer
 
@@ -54,12 +54,12 @@ Coding Examples
 - BCom Management
 
 ## Experience
-- Barings Asset Management, March 2014 - February 2015, System Test Analyst
-  -End to end testing of the financial systems.
+- Barings Asset Management, March 2014 - February 2015, System Test Analyst.
+  - End to end testing of the financial systems.
 - Barclays Bank, July 2013 - December 2013, Analyst - Contractor
   - Data analytics writing SQL queries to track sanctioned payments as part of the anti-terroism program.
 - Trafigura Ltd, March 2007 – March 2013, System Tester
-  - Writing and execution of tests to ensure that the trading systems fuctioned as expected. Running of the UAT phase and working with stakeholders to ensure live implementation ran successfully.  
+  - Writing and execution of tests to ensure that the trading systems functioned as expected. Running of the UAT phase and working with stakeholders to ensure live implementation ran successfully.  
 
 ## Interests
 - Kitesurfing, snowboard, surfing and more kitesurfing.
