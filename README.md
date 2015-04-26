@@ -14,39 +14,39 @@ Excellent clear and concise communication skills built up over my working career
 
 |Listening skills|Pair programming|Communication through code|
 |----------------|----------------|----------------------------|
-|Enure the problem is understood and asks for clarification before working on the most fitting solution| Constantly used at Makers to knowledge share, test out ideas and smash through problems.|Well formatted code with clear and descriptive names. Tests that act as documentation.|
-|Removed a workflow bottleneck in the testing process at Trafigura after redesigning the bug tracking templates as a result of listening to the problems developers were having reproducing defects.|[GitHub](https://github.com/meads58) showing the volume of work achieved in a short space of time achieved by pairing.| [Battleship project](https://github.com/meads58/battleships/blob/master/spec/board_spec.rb) is an example of tests acting as documentation. |
+|Ensures the problem is understood and asks for clarification before working on the most fitting solution| Constantly used at Makers to knowledge share, test out ideas and smash through problems.|Well formatted code with clear and descriptive names. Tests that act as documentation.|
+|Removed a workflow bottleneck in the testing process at Trafigura after redesigning the bug tracking templates as a result of listening to the problems developers were having reproducing defects.|[GitHub](https://github.com/meads58) showing the volume and range of work achieved in a short space of time achieved with pairing.|[rock-paper scissors](https://github.com/meads58/rps-challenge/blob/master/features/rock_paper_scissor.feature) is an example of tests acting as documentation.|
 
 #### Problem Solving
 
 Breaking problems down into manageable chunks, attention to detail and planning skills to design out a solution and implement it.
 
 - Final project at Makers [Proximibee](https://arcane-citadel-3693.herokuapp.com) required innovative thinking to take the Beacon technology and turn this into a working phone app solution.
-- Planning and design. One example with the [rock-paper scissors](https://github.com/meads58/rps-challenge/tree/master/lib) project shows how the single responsibility principle was used to design the system features. Result is that it is clear to anyone else what each class does and any changes are limited to that class.
+- Planning and design. One example with the [Battleship project](https://github.com/meads58/battleships/tree/master/lib)  project shows how the single responsibility principle was used to design the system features. Result is that it is clear to anyone else what each class does and any changes are limited to that class.
 
 #### Junior Web Developer
 
 A fast learner who has been thrown into new technology weekly at Makers and throughly enjoys , think about problem and make a suitable choice on what tools to use. Understanding that software development is an ongoing learning process but well grounded in solid principles of OOD, TDD and Software Design.
 
-|Questioning skills|Testing and TDD| Learning fast|
+|Questioning skills|Testing and TDD| Learns fast|
 |------------------|---------------|---------|
-|When faced with a problem steps taken are to define the problem, research and attempt a solution then seek help using the attempted solution as an example. This process greatly sped up getting the right answer.|Exceptional attention to detail from 9 years of Software Testing but now the TDD skill set to apply this to code.
+|Greatly sped up getting the right answer by defining the problem, researching and attempting a solution then seek help using the attempted solution as an example.|Exceptional attention to detail from 9 years of Software Testing to create effective and efficient test scenarios. Now with the TDD skill set to apply this to code.|Makers taught pick up a new technology and start playing with it to build up knowledge quickly. Show in the huge range of tested and functional web applications built during the course. |
 
 Coding Examples
 
-|[Proximibee](https://arcane-citadel-3693.herokuapp.com)|[Battleships](https://github.com/meads58/battleships)|[Instagram Clone](https://github.com/meads58/instagram-challenge)|[Lizard King](https://github.com/meads58/lizardKing2)|
+|[Proximibee](https://arcane-citadel-3693.herokuapp.com)|[Rock Paper Scissors ](https://github.com/meads58/rps-challenge)|[Instagram Clone](https://github.com/meads58/instagram-challenge)|[Lizard King](https://github.com/meads58/lizardKing2)|
 |-----------|----------|-----------|----------------|
-|Final project setting up a Beacon network for personalised shopping.|The battleship game build in ruby|Weekend challenge to build an instagram clone in Rails|A really fun team hakerthon challenge using Express.js and Angular.js for ranking the funniest gif or image.|
+|Final project setting up a Beacon network for personalised shopping.| Throughly tested rock, paper, scissors game written in Ruby and Sinatra web framework|Weekend challenge to build an instagram clone in Rails|A really fun team hakerthon challenge using Express.js and Angular.js for ranking the funniest gif or image.|
 
 ## Education
 
 #### Makers Academy February cohort 2015
 
-- Independent learner and problem-solver
-- OOP, TDD, MVC
-- Software Engineering
-- Git, Ruby, Rails, Javascript, HTML, CSS, Node.js, Express.js, Angular.js
-- Rspec, Jasmine, Capybara, Protractor
+- Independent learner and problem-solver.
+- OOP, TDD, MVC.
+- Software Engineering.
+- Git, Ruby, Rails, Javascript, HTML, CSS, Node.js, Express.js, Angular.js.
+- Rspec, Jasmine, Capybara, Protractor, Cucumber.
 - Final project: [Proximibee](https://arcane-citadel-3693.herokuapp.com). Beacon network for customisable shopping from your phone.
 
 #### Otago University - 1998 to 2002
@@ -54,11 +54,11 @@ Coding Examples
 - BCom Management
 
 ## Experience
-- Barings Asset Management, March 2014 - February 2015, System Test Analyst.
+- [Barings Asset Management](http://www.barings.com/global/index.htm), March 2014 - February 2015, System Test Analyst.
   - End to end testing of the financial systems.
 - Barclays Bank, July 2013 - December 2013, Analyst - Contractor
   - Data analytics writing SQL queries to track sanctioned payments as part of the anti-terroism program.
-- Trafigura Ltd, March 2007 – March 2013, System Tester
+- [Trafigura Ltd](http://www.trafigura.com), March 2007 – March 2013, System Tester
   - Writing and execution of tests to ensure that the trading systems functioned as expected. Running of the UAT phase and working with stakeholders to ensure live implementation ran successfully.  
 
 ## Interests
