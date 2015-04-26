@@ -13,15 +13,9 @@ The perfect junior role would push for innovation, continuous learning and teamw
 Excellent clear and concise communication skills built up over my working career.
 
 |Listening skills|Pair programming|Communication through code|
-|-----------------------------------|
-|Listen to clearly understand the problem and ask for clarification before working on the most fitting solution|Constaly used at Makers to knowledge share, test out ideas and smash through problems.|Well formatted code with clear and descriptive names and tests that are documentation.|
-|Removed a defect bottleneck in the testing process at Trafigura through the efficient of the testing work flow from redesigning the bug tracking templates after listening to the problems developers were having reproducing defects.|Using a quick
-
-
-
-
-- Pair programming at Makers Academy to solve problems. A successful example was pair coding the game [battleships](https://github.com/meads58/battleships), bouncing ideas off and sharing knowledge was a very quick way to solve problems.
-- Gain buy in of an idea from the team through presenting a well planned solution. Whilst
+|-------------------------------------------------------------|
+|Listens to understand the problem and ask for clarification before working on the most fitting solution| Constantly used at Makers to knowledge share, test out ideas and smash through problems.|Well formatted code with clear and descriptive names and tests that are documentation.|
+|Removed a workflow bottleneck in the testing process at Trafigura redesigning the bug tracking templates after listening to the problems developers were having reproducing defects.|Using a quick| empty space|
 
 
 #### Problem Solving
@@ -37,13 +31,14 @@ A fast learner who has been thrown into new technology weekly at Makers and thou
 
 |Questioning skills|Testing and TDD
 |---------------------------------|
-|                 |Exceptional attention to detail from 9 years of Software Testing but now the TDD skill set to apply this to code.
+|    empty space             |Exceptional attention to detail from 9 years of Software Testing but now the TDD skill set to apply this to code.
 
 
-|Coding Examples|
-|---------------|
+Coding Examples
+
 |[Proximibee](https://arcane-citadel-3693.herokuapp.com)|[Battleships](https://github.com/meads58/battleships)|[Instagram Clone](https://github.com/meads58/instagram-challenge)|[Lizard King](https://github.com/meads58/lizardKing2)|
-| |The battleship game build in ruby|Weekend challenge to build an instagram clone in Rails|A really fun team hakerthon challenge using Epxress.js and Angular.js for ranking the funniest gif or image.|
+|-----------------------------------|
+|Final challenge |The battleship game build in ruby|Weekend challenge to build an instagram clone in Rails|A really fun team hakerthon challenge using Epxress.js and Angular.js for ranking the funniest gif or image.|
 
  learned whilst a software tester and effectively transferred to web development. When faced with a problem steps taken are to define the problem, research and attempt a solution then seek help using the attempted solution as an example. This process greatly sped up getting the right answer.
 - Testing and TDD. Already 9 years of software testing but now the TDD skills to apply this to code.
