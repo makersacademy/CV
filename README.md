@@ -2,7 +2,7 @@
 
 I'm a huge coding enthusiast with a degree in English Language and Linguistics. Several years of commercial experience in a number of industries has helped me to develop my problem-solving and creative skills, as well as understand what it is that drives me. More than anything else, I'm looking for a company that will help me to continue my learning journey and allow me to make valuable contributions within a team that really 'clicks'.
 
-## Example Projects
+## Recent Projects
 
 GitHub Repo | Live URL | Project Description
 --- | --- | ---
