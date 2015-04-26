@@ -42,7 +42,7 @@ I have an appreciation for clean and effective design that is as functional as i
 
 - Previously the in-house designer at Just IT Training and Recruitment, responsible for all print and web material.
 - Very experienced at using Adobe Creative Suite to produce easily maintainable branding or mockups for web/mobile sites.
-- Designed the front-ends of both [Journeats](http://journeats.com) and [STEMettes Royalty Loyalty app](http://stemettes-staging.herokuapp.com) (designed for mobile devices)
+- Designed the front-ends of both [Journeats](http://journeats.com) and the [STEMettes Royalty Loyalty app](http://stemettes-staging.herokuapp.com) (designed for mobile devices)
 
 #### Copywriting and Blogging
 
