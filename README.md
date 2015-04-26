@@ -30,18 +30,13 @@ A fast learner who has been thrown into new technology weekly at Makers and thro
 
 |Questioning skills|Testing and TDD| Learning fast|
 |------------------|---------------|---------|
-|    empty space             |Exceptional attention to detail from 9 years of Software Testing but now the TDD skill set to apply this to code.
-
+|When faced with a problem steps taken are to define the problem, research and attempt a solution then seek help using the attempted solution as an example. This process greatly sped up getting the right answer.|Exceptional attention to detail from 9 years of Software Testing but now the TDD skill set to apply this to code.
 
 Coding Examples
 
 |[Proximibee](https://arcane-citadel-3693.herokuapp.com)|[Battleships](https://github.com/meads58/battleships)|[Instagram Clone](https://github.com/meads58/instagram-challenge)|[Lizard King](https://github.com/meads58/lizardKing2)|
 |-----------|----------|-----------|----------------|
-|Final project setting up a Beacon network for personalised shopping.|The battleship game build in ruby|Weekend challenge to build an instagram clone in Rails|A really fun team hakerthon challenge using Epxress.js and Angular.js for ranking the funniest gif or image.|
-
- learned whilst a software tester and effectively transferred to web development. When faced with a problem steps taken are to define the problem, research and attempt a solution then seek help using the attempted solution as an example. This process greatly sped up getting the right answer.
-- Testing and TDD. Already 9 years of software testing but now the TDD skills to apply this to code.
-- OOD. All Makers Academy projects used TDD to lead the development of the code. This had the added benefit of documenting the functionality and was extremely valuable to seeing what the current features are.
+|Final project setting up a Beacon network for personalised shopping.|The battleship game build in ruby|Weekend challenge to build an instagram clone in Rails|A really fun team hakerthon challenge using Express.js and Angular.js for ranking the funniest gif or image.|
 
 ## Education
 
@@ -67,6 +62,6 @@ Coding Examples
   - Writing and execution of tests to ensure that the trading systems fuctioned as expected. Running of the UAT phase and working with stakeholders to ensure live implementation ran successfully.  
 
 ## Interests
-- Kitesufing, snowboard, surfing and more kitesurfing.
+- Kitesurfing, snowboard, surfing and more kitesurfing.
 - All things techi, reading and watching clips about what is happening in this area.
 - Photography and traveling.
