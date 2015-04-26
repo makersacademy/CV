@@ -32,7 +32,7 @@ A fast learner who has been thrown into new technology weekly at Makers and thor
 |------------------|---------------|---------|
 |Greatly sped up getting the right answer by defining the problem, researching and attempting a solution then seek help using the attempted solution as an example.|Exceptional attention to detail from 9 years of Software Testing to create effective and efficient test scenarios. Now with the TDD skill set to apply this to code.|Makers taught pick up a new technology and start playing with it to build up knowledge quickly. Show in the huge range of tested and functional web applications built during the course. |
 
-Coding Examples
+### Coding Examples
 
 |[Proximibee](https://arcane-citadel-3693.herokuapp.com)|[Rock Paper Scissors ](https://github.com/meads58/rps-challenge)|[Instagram Clone](https://github.com/meads58/instagram-challenge)|[Lizard King](https://github.com/meads58/lizardKing2)|
 |-----------|----------|-----------|----------------|
