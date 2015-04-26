@@ -13,7 +13,7 @@ The perfect junior role would push for innovation, continuous learning and teamw
 Excellent clear and concise communication skills built up over my working career.
 
 |Listening skills|Pair programming|Communication through code|
-|-------------------------------------------------------------|
+|----------------|----------------|----------------------------|
 |Listens to understand the problem and ask for clarification before working on the most fitting solution| Constantly used at Makers to knowledge share, test out ideas and smash through problems.|Well formatted code with clear and descriptive names and tests that are documentation.|
 |Removed a workflow bottleneck in the testing process at Trafigura redesigning the bug tracking templates after listening to the problems developers were having reproducing defects.|Using a quick| empty space|
 
@@ -30,14 +30,14 @@ Breaking problems down into manageable chunks, attention to detail and planning 
 A fast learner who has been thrown into new technology weekly at Makers and thoughly enjoys , think about problem and make a suitable choice on what tools to use. Understanding that software development is an ongoing learning process but well grounded in solid principles of OOD, TDD and Software Design.
 
 |Questioning skills|Testing and TDD
-|---------------------------------|
+|------------------|---------------|
 |    empty space             |Exceptional attention to detail from 9 years of Software Testing but now the TDD skill set to apply this to code.
 
 
 Coding Examples
 
 |[Proximibee](https://arcane-citadel-3693.herokuapp.com)|[Battleships](https://github.com/meads58/battleships)|[Instagram Clone](https://github.com/meads58/instagram-challenge)|[Lizard King](https://github.com/meads58/lizardKing2)|
-|-----------------------------------|
+|-----------|----------|-----------|----------------|
 |Final challenge |The battleship game build in ruby|Weekend challenge to build an instagram clone in Rails|A really fun team hakerthon challenge using Epxress.js and Angular.js for ranking the funniest gif or image.|
 
  learned whilst a software tester and effectively transferred to web development. When faced with a problem steps taken are to define the problem, research and attempt a solution then seek help using the attempted solution as an example. This process greatly sped up getting the right answer.
