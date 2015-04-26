@@ -26,7 +26,7 @@ Breaking problems down into manageable chunks, attention to detail and planning 
 
 #### Junior Web Developer
 
-A fast learner who has been thrown into new technology weekly at Makers and throughly enjoys , think about problem and make a suitable choice on what tools to use. Understanding that software development is an ongoing learning process but well grounded in solid principles of OOD, TDD and Software Design.
+A fast learner who has been thrown into new technology weekly at Makers and thoroughly enjoys being challenged. Understanding that software development is an ongoing learning process but well grounded in solid principles of OOD, TDD and Software Design.
 
 |Questioning skills|Testing and TDD| Learns fast|
 |------------------|---------------|---------|
@@ -36,7 +36,7 @@ Coding Examples
 
 |[Proximibee](https://arcane-citadel-3693.herokuapp.com)|[Rock Paper Scissors ](https://github.com/meads58/rps-challenge)|[Instagram Clone](https://github.com/meads58/instagram-challenge)|[Lizard King](https://github.com/meads58/lizardKing2)|
 |-----------|----------|-----------|----------------|
-|Final project setting up a Beacon network for personalised shopping.| Throughly tested rock, paper, scissors game written in Ruby and Sinatra web framework|Weekend challenge to build an instagram clone in Rails|A really fun team hakerthon challenge using Express.js and Angular.js for ranking the funniest gif or image.|
+|Final project setting up a Beacon network for personalised shopping.| Thoroughly tested rock, paper, scissors game written in Ruby and Sinatra web framework|Weekend challenge to build an instagram clone in Rails|A really fun team hakerthon challenge using Express.js and Angular.js for ranking the funniest gif or image.|
 
 ## Education
 
@@ -57,11 +57,11 @@ Coding Examples
 - [Barings Asset Management](http://www.barings.com/global/index.htm), March 2014 - February 2015, System Test Analyst.
   - End to end testing of the financial systems.
 - Barclays Bank, July 2013 - December 2013, Analyst - Contractor
-  - Data analytics writing SQL queries to track sanctioned payments as part of the anti-terroism program.
+  - Data analytics writing SQL queries to track sanctioned payments as part of the anti-terrorism program.
 - [Trafigura Ltd](http://www.trafigura.com), March 2007 – March 2013, System Tester
   - Writing and execution of tests to ensure that the trading systems functioned as expected. Running of the UAT phase and working with stakeholders to ensure live implementation ran successfully.  
 
 ## Interests
 - Kitesurfing, snowboard, surfing and more kitesurfing.
 - All things techi, reading and watching clips about what is happening in this area.
-- Photography and traveling.
+- Photography and travelling.
