@@ -12,10 +12,10 @@ The perfect junior role would push for innovation, continuous learning and teamw
 
 Excellent clear and concise communication skills built up over my working career.
 
-|Listening skills|Pair programming|Gain buy in of an idea|
+|Listening skills|Pair programming|Communication through code|
 |-----------------------------------|
-|Listen to clearly understand the problem and ask for clarification before working on the most fitting solution|Constaly used at Makers to knowledge share, test out ideas and smash through problems.|Able to express an idea clearly  |
-|Removed a defect bottleneck in the testing process at Trafigura through the efficient of the testing work flow from redesigning the bug tracking templates after listening to the problems developers were having reproducing defects.|Using a quick 
+|Listen to clearly understand the problem and ask for clarification before working on the most fitting solution|Constaly used at Makers to knowledge share, test out ideas and smash through problems.|Well formatted code with clear and descriptive names and tests that are documentation.|
+|Removed a defect bottleneck in the testing process at Trafigura through the efficient of the testing work flow from redesigning the bug tracking templates after listening to the problems developers were having reproducing defects.|Using a quick
 
 
 
@@ -56,7 +56,7 @@ A fast learner who has been thrown into new technology weekly at Makers and thou
 - Independent learner and problem-solver
 - OOP, TDD, MVC
 - Software Engineering
-- Ruby, Rails, Javascript, HTML, CSS, Node.js, Express.js, Angular.js
+- Git, Ruby, Rails, Javascript, HTML, CSS, Node.js, Express.js, Angular.js
 - Rspec, Jasmine, Capybara, Protractor
 - Final project: [Proximibee](https://arcane-citadel-3693.herokuapp.com). Beacon network for customisable shopping from your phone.
 
