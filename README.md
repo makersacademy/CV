@@ -25,6 +25,7 @@ So that...  I can continue learning about end user experience and behaviour with
 - **Testing Frameworks:** RSpec, Cucumber, Capybara, Jasmine
 
 ## Projects
+- FizzBuzz - Test Driven code - https://github.com/RizAli/Fizzbuzz_p
 - Rails - STEMettes Webapp - https://github.com/RizAli/royalty_loyalty/blob/master/README.md
 - Rails - Treebook - https://github.com/RizAli/treebook
 - html-css - https://github.com/RizAli/html_css
