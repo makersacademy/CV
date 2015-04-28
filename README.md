@@ -27,7 +27,7 @@ Excellent clear and concise communication skills built up over my working career
 Breaking down problems into manageable chunks, attention to detail and planning skills to design out a solution and implement it.
 
 * Innovation:
-  - Final project at Makers [Proximibee](https://github.com/meads58/proximibee_Admin) required innovative thinking to take the Beacon technology and turn this into a working phone app solution.
+  - Final project at Makers [Proximibee](https://github.com/meads58/proximibee_Admin/blob/master/README.rdoc) required innovative thinking to take the Beacon technology and turn this into a working phone app solution.
 * Planning and design:
   - An example is with the [Battleship project](https://github.com/meads58/battleships/tree/master/lib)  project showing how the single responsibility principle was used to design the system. Resulting in clear understanding of building applications up from small manageable chunks to solve a specific problem making maintaining and adding features easier.
 
