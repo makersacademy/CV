@@ -88,6 +88,7 @@ I wrote about my experience of the three-month long bootcamp [here](http://tomco
 *Customer Services Executive for an industry-leader in the manufacturing of die tooling.*
 
 ## Contact Me
+- 07545 215 358
 - [tomcoakes@gmail.com](mailto:tomcoakes@gmail.com)
 - [Personal Portfolio Site](http://www.tomcoakes.co.uk)
 - [Twitter Feed](https://twitter.com/thekrunch)
