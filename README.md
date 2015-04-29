@@ -76,11 +76,11 @@ A fast learner who has been thrown into new technologies every week at Makers Ac
 
 ## Experience
 * __Barings Asset Management__, March 2014 - February 2015, System Test Analyst.
-  - End to end testing of the financial systems.
+  - End to end testing of their financial systems. Worked directly with Business Analysts and Developers providing a quick feedback loop for the test status of new features and bug fixes.
 * __Barclays Bank__, July 2013 - December 2013, Analyst - Contractor.
   - Data analytics writing SQL queries to track sanctioned payments as part of the anti-terrorism program.
 * __Trafigura Ltd__, March 2007 – March 2013, System Tester.
-  - Writing and execution of tests to ensure that their commodity trading systems functioned as expected. Running of the UAT phase and working with stakeholders to ensure live implementation ran successfully.  
+  - Hugely successful time working in agile teams on their commodity trading systems to plan, write and execute tests for each upcoming sprint. Responsible in the delivery of test reports, reporting bugs and managing the test process to prevent any bottlenecks of stories. Achieved success through attention to detail and open communication to catch bugs early and inform the team so a solution could be found. Running the UAT phase and working with stakeholders to ensure live implementation ran successfully to the schedule.  
 
 ## Interests
 - An extreme sport fanatic and family guy who is very excited and focused in becoming an outstanding software engineer.
