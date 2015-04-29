@@ -75,11 +75,11 @@ A fast learner who has been thrown into new technologies every week at Makers Ac
 - BCom Management
 
 ## Experience
-* <font size="3">Barings Asset Management, March 2014 - February 2015, System Test Analyst.</font>
+* __Barings Asset Management__, March 2014 - February 2015, System Test Analyst.
   - End to end testing of the financial systems.
-* <font size="3"> Barclays Bank, July 2013 - December 2013, Analyst - Contractor.</font>
+* __Barclays Bank__, July 2013 - December 2013, Analyst - Contractor.
   - Data analytics writing SQL queries to track sanctioned payments as part of the anti-terrorism program.
-* <font size="3">Trafigura Ltd, March 2007 – March 2013, System Tester.</font>
+* __Trafigura Ltd__, March 2007 – March 2013, System Tester.
   - Writing and execution of tests to ensure that their commodity trading systems functioned as expected. Running of the UAT phase and working with stakeholders to ensure live implementation ran successfully.  
 
 ## Interests
