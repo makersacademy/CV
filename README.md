@@ -1,25 +1,37 @@
 ## Rizwan ALi
 
-```
-As a...     Hardworking individual and passionate about enhancing user experience of using technology 
-I want to...Find an organisation where I can serve as a developer, work in a team and pair
-So that...  I can continue learning about end user experience and behaviour with the technology and keep implementing best practices.
-```
-An enthusiastic junior web developer, who is always looking for opportunities to learn and collaboratively develop IT projects. Recently the passion of my coding took me to a bootcamp to learn about various recent technologies currently used in the industry. Currently to improve my coding skills I am looking for a Junior developer role in an organisation where I can work on various exciting projects with individuals who love coding. 
-
-
+- An enthusiastic junior web developer, who is always looking for opportunities to learn and collaboratively        develop IT projects. Recently the passion of my coding took me to a bootcamp to learn about various recent        technologies currently used in the industry. Currently to improve my coding skills I am looking for a Junior      developer role in an organisation where I can work on various exciting projects with individuals who love         coding. 
 
 ## Skills
 
+Pair programming: 
+- At Makers Academy I was introduced the idea of pair programming since then I have heavily been involved in pair   programing on several projects.
+
+## Team work:
+
+- It was wonderful experience working in a team of four for my final project at Makers Academy. On the first day    of our project we spent a lot of time in planning on the board and kept ourselves away from coding. We were all   very excited from day one for this challenge as this project was for a real client. In the retro and during the   project it was obvious for us that we were all equally enjoying and were communicating well. There were times     when we had to do individual search on the topics which were new to all of us but then after disucssing the top   as a team we were able to implement various new concepts. 
+
+- As our project was for a real client which made it even more exciting for our team. Our apporach of planning,     scrums as and when needed and solving problems in fours when not been able to solve in pair for over three hours   have been the reasons of our success and enjoyment.
+
+## Teaching profession to Junior developer role:
 
 
 ## Projects
-- FizzBuzz - Test Driven code - https://github.com/RizAli/Fizzbuzz_p
-- Rails - STEMettes Webapp - https://github.com/RizAli/royalty_loyalty/blob/master/README.md
-- Rails - Treebook - https://github.com/RizAli/treebook
-- html-css - https://github.com/RizAli/html_css
-- JavaScript - Jasmine - https://github.com/RizAli/bowling-challenge
 
+- FizzBuzz - https://github.com/RizAli/Fizzbuzz_p
+          Very small project but it was ideal for learning about TDD.
+
+- Rails - STEMettes Webapp - https://github.com/RizAli/royalty_loyalty/blob/master/README.md
+          This project helped me to learn about Ruby on Rails, working in a team and project management.
+
+- Rails - Treebook - https://github.com/RizAli/treebook
+          Another example of ruby on rails project worked individually on it though.         
+
+- html-css - https://github.com/RizAli/html_css
+          I created this small webpage to get better understanding of responsive web app.
+
+- JavaScript - Jasmine - https://github.com/RizAli/bowling-challenge
+          
 ## Education
 
 ### Makers Academy
