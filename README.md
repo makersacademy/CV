@@ -50,10 +50,10 @@ A fast learner who has been thrown into new technologies every week at Makers Ac
   <col width=25%>
   <col width=25%>
   <tr>
-    <th>[Proximibee](https://github.com/meads58/proximibee_Admin)</th>
-    <th>[Rock Paper Scissors ](https://github.com/meads58/rps-challenge)</th>
-    <th>[Instagram Clone](https://github.com/meads58/instagram-challenge) </th>
-    <th>[Lizard King](https://github.com/meads58/lizardKing2)</th>
+    <th><a href="https://github.com/meads58/proximibee_Admin">Proximibee</a></th>
+    <th><a href="https://github.com/meads58/rps-challenge">Rock Paper Scissors</a></th>
+    <th><a href="https://github.com/meads58/instagram-challenge">Instagram Clone</a></th>
+    <th><a href="https://github.com/meads58/lizardKing2">Lizard King</a></th>
   </tr>
   <tr>
     <td valign="top">Final project setting up a Beacon network for personalised shopping.</td>
