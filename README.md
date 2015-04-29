@@ -39,18 +39,6 @@ I have always been interested in problem solving and learning about new technolo
      Feb 2015 - April 2015
      BootCamp Computer programming 
      
-#### Skills learnt in the course
-
-- Independent learning and problem-solving
-- Agile and lean principles of software development
-- Version Control using Git
-- Pair programming on projects every week
-- Team projects
-
-- **Technologies:** - Ruby, Ruby on Rails, Javascript, jQuery, Angularjs
-- **Testing Frameworks:** RSpec, Cucumber, Capybara, Jasmine
-
-
 ### Institute of Education (IOE)  - University College London (UCL)
       Sep 2012 – Jan 2015
       MA in Educational Leadership
