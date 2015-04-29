@@ -1,24 +1,22 @@
 ## Meads Chalcroft
 
-An extreme sport fanatic and family guy who is very excited and focused in becoming an outstanding software engineer.
-
 Software tester in a past life with extensive experience working on agile projects to deliver working, functional software to the business. Now a junior web developer with experience building a range of web applications.
 
 The perfect junior role would push for innovation, continuous learning and teamwork alongside fun and smart people that enjoy their job. All within a company that backs their employees to deliver outstanding solutions.
 
-## Skills
+## Skills for the job
 
 #### Communication
 
 Excellent clear and concise communication skills built up over my working career.
 
-* Listening skills:
+* Understand what needs solving:
   - Ensure the problem is understood and asks for clarification before working on the most fitting solution.
   - Removed a bottleneck in the testing process at Trafigura after redesigning the bug tracking templates after listening to the problems developers were having reproducing defects.
 * Pair programming:
   - Constantly used at Makers Academy to knowledge share, test out ideas and smash through problems.
   - [GitHub](https://github.com/meads58) showing the volume and range of work achieved in a short space of time with pair programming.
-* Communication through code:
+* Code that talks:
   - Well formatted code with clear and descriptive names and tests that act as documentation.
   - [rock-paper scissors](https://github.com/meads58/rps-challenge/blob/master/features/rock_paper_scissor.feature) is an example of tests acting as documentation.
 
@@ -33,17 +31,37 @@ Breaking down problems into manageable chunks, attention to detail and planning 
 
 #### Junior Web Developer
 
-A fast learner who has been thrown into new technologies every week at Makers Academy and thoroughly enjoys being challenged. Understanding that software development is an ongoing learning process but well grounded in solid principles of OOD, TDD and Software Design.
+A fast learner who has been thrown into new technologies every week at Makers Academy and thoroughly enjoys being challenged.
 
-|Questioning skills|Testing and TDD| Rapid Learning|
-|------------------|---------------|---------|
-|Asks for help in grounding further understanding. Builds a possible solution then uses this example as a starting point.|Exceptional attention to detail from 9 years of Software Testing in the construction of test scenarios. Combined now with TDD skills to build effectively tested code .|Ability to pick up a new technology and play with it to build up knowledge quickly. Demonstrated in the huge range of tested and functional web applications built during the course.|
+* Questioning skills:
+  - Searchers for further understanding after forming an example as a starting point.
+* Testing and TDD:
+  - Exceptional attention to detail from 9 years of Software Testing in the construction of test scenarios.
+  - Combined now with TDD skills to build solutions faster.
+* Rapid Learning:
+  - Ability to pick up a new technology and play with it to build up knowledge quickly.
+  - Demonstrated in the huge range of tested and functional web applications built during the course.
 
 #### Coding Examples
 
-|[Proximibee](https://github.com/meads58/proximibee_Admin)|[Rock Paper Scissors ](https://github.com/meads58/rps-challenge)|[Instagram Clone](https://github.com/meads58/instagram-challenge)|[Lizard King](https://github.com/meads58/lizardKing2)|
-|-----------|----------|-----------|----------------|
-|Final project setting up a Beacon network for personalised shopping.| Thoroughly tested rock, paper, scissors game written in Ruby and Sinatra web framework|Weekend challenge to build an instagram clone in Rails|A really fun team hakerthon challenge using Express.js and Angular.js that ranks the funniest gif or image.|
+<table>
+  <col width=25%>
+  <col width=25%>
+  <col width=25%>
+  <col width=25%>
+  <tr>
+    <th>[Proximibee](https://github.com/meads58/proximibee_Admin)</th>
+    <th>[Rock Paper Scissors ](https://github.com/meads58/rps-challenge)</th>
+    <th>[Instagram Clone](https://github.com/meads58/instagram-challenge) </th>
+    <th>[Lizard King](https://github.com/meads58/lizardKing2)</th>
+  </tr>
+  <tr>
+    <td valign="top">Final project setting up a Beacon network for personalised shopping.</td>
+    <td valign="top">Thoroughly tested rock, paper, scissors game written in Ruby and Sinatra web framework.</td>
+    <td valign="top">Weekend challenge to build an instagram clone in Rails.</td>
+    <td valign="top">A really fun team hakerthon challenge using Express.js and Angular.js that ranks the funniest gif or image.</td>
+  </tr>
+</table>
 
 ## Education
 
@@ -61,14 +79,15 @@ A fast learner who has been thrown into new technologies every week at Makers Ac
 - BCom Management
 
 ## Experience
-- [Barings Asset Management](http://www.barings.com/global/index.htm), March 2014 - February 2015, System Test Analyst.
+* <font size="3">Barings Asset Management, March 2014 - February 2015, System Test Analyst.</font>
   - End to end testing of the financial systems.
-- Barclays Bank, July 2013 - December 2013, Analyst - Contractor
+* <font size="3"> Barclays Bank, July 2013 - December 2013, Analyst - Contractor.</font>
   - Data analytics writing SQL queries to track sanctioned payments as part of the anti-terrorism program.
-- [Trafigura Ltd](http://www.trafigura.com), March 2007 – March 2013, System Tester
-  - Writing and execution of tests to ensure that the trading systems functioned as expected. Running of the UAT phase and working with stakeholders to ensure live implementation ran successfully.  
+* <font size="3">Trafigura Ltd, March 2007 – March 2013, System Tester.</font>
+  - Writing and execution of tests to ensure that their commodity trading systems functioned as expected. Running of the UAT phase and working with stakeholders to ensure live implementation ran successfully.  
 
 ## Interests
+- An extreme sport fanatic and family guy who is very excited and focused in becoming an outstanding software engineer.
 - Kitesurfing, snowboard, surfing and more kitesurfing.
 - All things techie, reading and watching clips about what is happening in this area.
-- Photography and travelling.
+- Photography and traveling.
