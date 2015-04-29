@@ -5,7 +5,7 @@ A [Makers Academy](http://makersacademy.com) graduate who loves clean code, obje
 Examples of My Code
 -------
 
-| [Chirpy](http://github.com/kevinlanzon/languageapp-chirpy) | [LizardKing](http://github.com/kevinlanzon/lizard-king) | [Rock, Paper, Scissors](http://github.com/kevinlanzon/rps-challenge) |
+| [Chirpy](https://github.com/languageapp/chirpy) | [LizardKing](http://github.com/kevinlanzon/lizard-king) | [Rock, Paper, Scissors](http://github.com/kevinlanzon/rps-challenge) |
 |:--------------|:--------------|:--------------|
 | A social networking site for language learning. My final Makers Academy project completed with four other team members. <br> Technologies: Ruby, Ruby on Rails, JavaScript, AngularJS, Websockets, RSpec, Protractor, HTML, CSS  | A funny gif comparison website completed with three other team members for our three day Makerthon at Makers Academy.  <br> Technologies: JavaScript, jQuery, AngularJS, NodeJS, Express with EJS templates, Karma, Protractor, HTML, CSS | In this project I created a web app version of the game Rock, Paper, Scissors. <br> Technologies: Ruby, Cucumber, Capybara, Sinatra, HTML, CSS |
 
