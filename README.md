@@ -27,7 +27,7 @@ Breaking down problems into manageable chunks, attention to detail and planning 
 * Innovation:
   - Final project at Makers [Proximibee](https://github.com/meads58/proximibee_Admin/blob/master/README.rdoc) required innovative thinking to take the Beacon technology and turn this into a working phone app solution.
 * Planning and design:
-  - An example is with the [Battleship project](https://github.com/meads58/battleships/tree/master/lib)  project showing how the single responsibility principle was used to design the system. Resulting in clear understanding of building applications up from small manageable chunks to solve a specific problem making maintaining and adding features easier.
+  - The [Battleship project](https://github.com/meads58/battleships/tree/master/lib)  project shows how the single responsibility principle was used to design the system. Achieved a clear understanding of building applications up from small manageable chunks to solve a specific problem making maintaining and adding features easier.
 
 #### Junior Web Developer
 
@@ -44,16 +44,12 @@ A fast learner who has been thrown into new technologies every week at Makers Ac
 
 #### Coding Examples
 
-<table>
-  <col width=25%>
-  <col width=25%>
-  <col width=25%>
-  <col width=25%>
+<table table-layout=fixed width=100%>
   <tr>
-    <th><a href="https://github.com/meads58/proximibee_Admin">Proximibee</a></th>
-    <th><a href="https://github.com/meads58/rps-challenge">Rock Paper Scissors</a></th>
-    <th><a href="https://github.com/meads58/instagram-challenge">Instagram Clone</a></th>
-    <th><a href="https://github.com/meads58/lizardKing2">Lizard King</a></th>
+    <th width=25%><a href="https://github.com/meads58/proximibee_Admin">Proximibee</a></th>
+    <th width=25%><a href="https://github.com/meads58/rps-challenge">Rock Paper Scissors</a></th>
+    <th width=25%><a href="https://github.com/meads58/instagram-challenge">Instagram Clone</a></th>
+    <th width=25%><a href="https://github.com/meads58/lizardKing2">Lizard King</a></th>
   </tr>
   <tr>
     <td valign="top">Final project setting up a Beacon network for personalised shopping.</td>
