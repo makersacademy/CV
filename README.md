@@ -31,7 +31,6 @@ I have always been interested in problem solving and learning about new technolo
 - html-css - https://github.com/RizAli/html_css
           I created this small webpage to get better understanding of responsive web app.
 
-- JavaScript - Jasmine - https://github.com/RizAli/bowling-challenge
           
 ## Education
 
