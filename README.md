@@ -5,24 +5,13 @@ As a...     Hardworking individual and passionate about enhancing user experienc
 I want to...Find an organisation where I can serve as a developer, work in a team and pair
 So that...  I can continue learning about end user experience and behaviour with the technology and keep implementing best practices.
 ```
+An enthusiastic junior web developer, who is always looking for opportunities to learn and collaboratively develop IT projects. Recently the passion of my coding took me to a bootcamp to learn about various recent technologies currently used in the industry. Currently to improve my coding skills I am looking for a Junior developer role in an organisation where I can work on various exciting projects with individuals who love coding. 
+
+
 
 ## Skills
 
-#### This Skill
 
-
-- Independent learning and problem-solving
-- Agile and lean principles of software development
-- Version Control using Git
-- Pair programming on projects every week
-- Team projects
-- PostgreSQL
-- Sinatra and DataMapper
-- Unit testing with RSpec and Jasmine
-- Integration testing with Capybara
-
-- **Technologies:** - Ruby, Ruby on Rails, Javascript, jQuery, Angularjs
-- **Testing Frameworks:** RSpec, Cucumber, Capybara, Jasmine
 
 ## Projects
 - FizzBuzz - Test Driven code - https://github.com/RizAli/Fizzbuzz_p
