@@ -15,7 +15,7 @@ Team work:
 
 ## Teaching profession to Junior developer role:
 
-My During my time at Makers Academy I have been bombarded continuously with various technology concepts and terms. It has been really challenging and worthy experience as I have learnt alot about myself, learning to learn, how to search for solutions, when to ask questions to get better understanding of the concepts. 
+I have always been interested in problem solving and learning about new technology. I have been teaching ICT/computing in secondary school for almost 8 years. The recent focus of coding in secondary schools lead me learn about coding. After doing some research I came across a course at Makers Academy. In the last 12 weeks I have been I have been bombarded continuously with various technology concepts and terms. It has been really challenging and worthy experience as I have learnt alot about myself, learning to learn, how to search for solutions, when to ask questions to get better understanding of the concepts. 
 
 ## Projects
 
