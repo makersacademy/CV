@@ -7,7 +7,7 @@
 Pair programming: 
 - At Makers Academy I was introduced the idea of pair programming since then I have heavily been involved in pair   programing on several projects.
 
-## Team work:
+Team work:
 
 - It was wonderful experience working in a team of four for my final project at Makers Academy. On the first day    of our project we spent a lot of time in planning on the board and kept ourselves away from coding. We were all   very excited from day one for this challenge as this project was for a real client. In the retro and during the   project it was obvious for us that we were all equally enjoying and were communicating well. There were times     when we had to do individual search on the topics which were new to all of us but then after disucssing the top   as a team we were able to implement various new concepts. 
 
@@ -15,6 +15,7 @@ Pair programming:
 
 ## Teaching profession to Junior developer role:
 
+My During my time at Makers Academy I have been bombarded continuously with various technology concepts and terms. It has been really challenging and worthy experience as I have learnt alot about myself, learning to learn, how to search for solutions, when to ask questions to get better understanding of the concepts. 
 
 ## Projects
 
