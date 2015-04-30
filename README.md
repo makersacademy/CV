@@ -1,19 +1,19 @@
 ## Rizwan ALi
 
-- An enthusiastic junior web developer, who is always looking for opportunities to learn and collaboratively        develop IT projects. Recently the passion of my coding took me to a bootcamp to learn about various recent        technologies currently used in the industry. Currently to improve my coding skills I am looking for a Junior      developer role in an organisation where I can work on various exciting projects with individuals who love         coding. 
+- An enthusiastic junior developer, who is always looking for opportunities to learn and collaboratively        develop IT projects. Recently the passion of my coding took me to a bootcamp to learn about various recent        technologies currently used in the industry. Currently to improve my coding skills I am looking for a Junior      developer role in an organisation where I can work on various exciting projects with individuals who love         coding. 
 
 ## Skills
 
 Pair programming: 
-- At Makers Academy I was introduced the idea of pair programming since then I have heavily been involved in pair   programing on several projects.
+- At Makers Academy I was introduced the idea of pair programming since then I have been heavily involved in pair   programing on several projects.
 
 Team work:
+- It was a wonderful experience working in a team of four for my final project for a real client at Makers Academy. Initially we started with a hand written plan. There were times when we had to do individual search on the topics which were new to all of us but then after disucssing the topic as a team we were able to implement various new concepts. In the retro and during the project it was obvious for us that we were all effectively collaborating and communicating well.
 
-- It was wonderful experience working in a team of four for my final project at Makers Academy. On the first day    of our project we spent a lot of time in planning on the board and kept ourselves away from coding. We were all   very excited from day one for this challenge as this project was for a real client. In the retro and during the   project it was obvious for us that we were all equally enjoying and were communicating well. There were times     when we had to do individual search on the topics which were new to all of us but then after disucssing the top   as a team we were able to implement various new concepts. 
+Learning to learn:
+- For my final team project at makers academy, our teams apporach of planning, scrums - as and when needed - and solving problems in fours when not been able to solve in pair for over three hours have been one of the reasons of our success and enjoyment. To solve problems we used various strategies such as stack overflow, articles and  tutorials etc.
 
-- As our project was for a real client which made it even more exciting for our team. Our apporach of planning,     scrums as and when needed and solving problems in fours when not been able to solve in pair for over three hours   have been the reasons of our success and enjoyment.
-
-## Teaching profession to Junior developer role:
+## Transition from an ICT Teacher to a Junior developer:
 
 I have always been interested in problem solving and learning about new technology. I have been teaching ICT/computing in secondary school for almost 8 years. The recent focus of coding in secondary schools lead me learn about coding. After doing some research I came across a course at Makers Academy. In the last 12 weeks I have been I have been bombarded continuously with various technology concepts and terms. It has been really challenging and worthy experience as I have learnt alot about myself, learning to learn, how to search for solutions, when to ask questions to get better understanding of the concepts. 
 
