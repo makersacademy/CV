@@ -2,17 +2,17 @@
 
 Software tester in a past life with extensive experience working on agile projects to deliver working, functional software to the business. Now a junior web developer with experience building a range of web applications.
 
-The perfect junior role would push for innovation, continuous learning and teamwork alongside fun and smart people that enjoy their job. All within a company that backs their employees to deliver outstanding solutions.
+The perfect junior role would push for innovation, continuous learning and teamwork alongside smart, fun people that enjoy their job. All within a company that backs their employees to deliver outstanding solutions.
 
 ## Skills for the job
 
 #### Communication
 
-Excellent clear and concise communication skills built up over my working career.
+Excellent, clear and concise communication skills have been built up over my working career.
 
 * Understand what needs solving:
   - Ensure the problem is understood and asks for clarification before working on the most fitting solution.
-  - Removed a bottleneck in the testing process at Trafigura after redesigning the bug tracking templates after listening to the problems developers were having reproducing defects.
+  - Removed a bottleneck in the testing process at Trafigura, having redesigned the bug tracking templates, after listening to the problems developers had when reproducing defects.
 * Pair programming:
   - Constantly used at Makers Academy to knowledge share, test out ideas and smash through problems.
   - [GitHub](https://github.com/meads58) showing the volume and range of work achieved in a short space of time with pair programming.
@@ -22,19 +22,19 @@ Excellent clear and concise communication skills built up over my working career
 
 #### Problem Solving
 
-Breaking down problems into manageable chunks, attention to detail and planning skills to design out a solution and implement it.
+Breaking down problems into manageable chunks, attention to detail and planning skills proved key to designing out a solution and the implementation of it.
 
 * Innovation:
-  - Final project at Makers [Proximibee](https://github.com/meads58/proximibee_Admin/blob/master/README.rdoc) required innovative thinking to take the Beacon technology and turn this into a working phone app solution.
-* Planning and design:
-  - The [Battleship project](https://github.com/meads58/battleships/tree/master/lib)  project shows how the single responsibility principle was used to design the system. Achieved a clear understanding of building applications up from small manageable chunks to solve a specific problem making maintaining and adding features easier.
+  - Final project at Makers [Proximibee](https://github.com/meads58/proximibee_Admin/blob/master/README.rdoc) required innovative thinking to take the Beacon technology and turn this into the final working phone app solution.
+* Planning and Design:
+  - The [Battleship project](https://github.com/meads58/battleships/tree/master/lib)  project shows how the single responsibility principle was used to design the system. Achieved a clear understanding of building applications up from small manageable chunks to solve a specific problem led to making, maintaining and adding features easier.
 
 #### Junior Web Developer
 
 A fast learner who has been thrown into new technologies every week at Makers Academy and thoroughly enjoys being challenged.
 
-* Questioning skills:
-  - Searchers for further understanding after forming an example as a starting point.
+* Questioning Skills:
+  - Seeks further understanding after forming a possible solution as a starting point.
 * Testing and TDD:
   - Exceptional attention to detail from 9 years of Software Testing in the construction of test scenarios.
   - Combined now with TDD skills to build solutions faster.
@@ -80,10 +80,10 @@ A fast learner who has been thrown into new technologies every week at Makers Ac
 * __Barclays Bank__, July 2013 - December 2013, Analyst - Contractor.
   - Data analytics writing SQL queries to track sanctioned payments as part of the anti-terrorism program.
 * __Trafigura Ltd__, March 2007 – March 2013, System Tester.
-  - Hugely successful time working in agile teams on their commodity trading systems to plan, write and execute tests for each upcoming sprint. Responsible in the delivery of test reports, reporting bugs and managing the test process to prevent any bottlenecks of stories. Achieved success through attention to detail and open communication to catch bugs early and inform the team so a solution could be found. Running the UAT phase and working with stakeholders to ensure live implementation ran successfully to the schedule.  
+  - Hugely successful time working in agile teams on their commodity trading systems to plan, write and execute tests for each upcoming sprint. Responsible for the delivery of test reports, reporting bugs and managing the test process to prevent any bottlenecks of stories. Achieved success through attention to detail and open communication to catch bugs early and inform the team so a solution could be found. Running the UAT phase and working with stakeholders to ensure live implementation ran successfully to schedule.  
 
 ## Interests
-- An extreme sport fanatic and family guy who is very excited and focused in becoming an outstanding software engineer.
-- Kitesurfing, snowboard, surfing and more kitesurfing.
+- An extreme sport fanatic and a family guy who is very excited and focused to become an outstanding software engineer.
+- Kitesurfing, snowboarding, surfing and more kitesurfing.
 - All things techie, reading and watching clips about what is happening in this area.
 - Photography and travelling.
