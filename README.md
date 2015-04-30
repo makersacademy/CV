@@ -15,7 +15,7 @@ Learning to learn:
 
 ## Transition from an ICT Teacher to a Junior developer:
 
-I have always been interested in problem solving and learning about new technology. I have been teaching ICT/computing in secondary school for almost 8 years. The recent focus of coding in secondary schools lead me learn about coding. After doing some research I came across a course at Makers Academy. In the last 12 weeks I have been I have been bombarded continuously with various technology concepts and terms. It has been really challenging and worthy experience as I have learnt alot about myself, learning to learn, how to search for solutions, when to ask questions to get better understanding of the concepts. 
+I have always been interested in problem solving and learning new technology. I have been teaching ICT/computing in secondary school for almost 8 years. The recent focus and change in the ICT currriculum in secondary schools led me to learn about coding. After an extensive research I came across a bootcamp at Makers Academy. In the last 12 weeks I have been bombarded continuously with various technology concepts and terms. It has been really challenging and worthy experience as I have learnt alot about myself, how to approach solutions, when and what to ask to get better understanding of underlying concepts. 
 
 ## Projects
 
@@ -26,7 +26,7 @@ I have always been interested in problem solving and learning about new technolo
           This project helped me to learn about Ruby on Rails, working in a team and project management.
 
 - Rails - Treebook - https://github.com/RizAli/treebook
-          Another example of ruby on rails project worked individually on it though.         
+          Another example of ruby on rails project but worked individually on it.         
 
 - html-css - https://github.com/RizAli/html_css
           I created this small webpage to get better understanding of responsive web app.
@@ -68,13 +68,13 @@ Skills learnt in the course
     Teacher of Computing / ICT
 
 - Commended for achieving student success rate of 90+%  in national ICT examinations.
-  Planned innovative schemes of work and liaised with senior management team to assure provision of    effective learning supports and resources.
+Planned innovative schemes of work and liaised with senior management team to assure provision of    effective learning supports and resources.
 
 - Taught the full range of ICT topics, incorporating cross-curricular skills related to
-  graphics/animation, website design, and database development.
+graphics/animation, website design, and database development.
 
 - Trained and mentored learning support assistants (LSAs).
-  Enhanced resource planning and operational efficiencies through collaborative work and innovative    use of IT.
+Enhanced resource planning and operational efficiencies through collaborative work and innovative    use of IT.
 
 - Participated in institution development planning and professional training.
 
@@ -84,7 +84,7 @@ Skills learnt in the course
     3D Animation Designer
 
 - Using advanced animation software, successfully developed attractive displays promoting product
-  profiles and marketing messages to the targeted customer segments.
+profiles and marketing messages to the targeted customer segments.
 
 - Evaluated client needs and cutomer profile to guide selection of art work and design. 
 
@@ -94,10 +94,10 @@ Skills learnt in the course
     
 
 - Produced graphics and animations for commercials, and for signature logos of major satellite
-  television networks.
+television networks.
 
 - Acquired expertise in the use of the following software: 3D Studio Max; Adobe After Effects; Adobe   Photoshop & Illustrator/Freehand; also, familiarity with Quark Xpress.
 
 
- rizcube@gmail.com, @rizcube, Rizwan  Ali Khowaja (linked in)
+email: rizcube@gmail.com
 
