@@ -75,6 +75,10 @@ I wrote about my experience of the three-month long bootcamp [here](http://tomco
 
 ## Experience
 
+**Makers Academy (April 2015 to present)**
+
+*Alumni Helper tasked with assisting current students with their coding issues and helping them to understand the course materials.*
+
 **Just IT Training and Recruitment (April 2013 to December 2014)**
 
 *Versatile Marketing Executive serving lead generation and brand awareness for three businesses in distinct sectors.*
