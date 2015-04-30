@@ -86,4 +86,4 @@ A fast learner who has been thrown into new technologies every week at Makers Ac
 - An extreme sport fanatic and family guy who is very excited and focused in becoming an outstanding software engineer.
 - Kitesurfing, snowboard, surfing and more kitesurfing.
 - All things techie, reading and watching clips about what is happening in this area.
-- Photography and traveling.
+- Photography and travelling.
