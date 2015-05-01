@@ -99,5 +99,4 @@ television networks.
 - Acquired expertise in the use of the following software: 3D Studio Max; Adobe After Effects; Adobe   Photoshop & Illustrator/Freehand; also, familiarity with Quark Xpress.
 
 
-email: rizcube@gmail.com
 
