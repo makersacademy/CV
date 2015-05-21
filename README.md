@@ -32,8 +32,9 @@ I have always been interested in problem solving and learning new technology. I 
           I created this small webpage to get better understanding of responsive web app.
 
 - Story Maker - JavaScript - https://github.com/RizAli/StoryMaker-JavaScripts
-          This project was created to get understanding of Javascripts.
-          
+- Random Generator - JavaScript - https://github.com/RizAli/Random-Number-JS
+
+
 ## Education
 
 ### Makers Academy
