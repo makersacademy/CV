@@ -19,14 +19,14 @@ I have always been interested in problem solving and learning new technology. I 
 
 ## Projects
 
-- FizzBuzz - https://github.com/RizAli/Fizzbuzz_p
-          Very small project but it was ideal for learning about TDD.
-
 - Rails - STEMettes Webapp - https://github.com/RizAli/royalty_loyalty/blob/master/README.md
           This project helped me to learn about Ruby on Rails, working in a team and project management.
 
 - Rails - Treebook - https://github.com/RizAli/treebook
           Another example of ruby on rails project but worked individually on it.         
+
+- FizzBuzz - https://github.com/RizAli/Fizzbuzz_p
+          Very small project but it was ideal for learning about TDD.
 
 - html-css - https://github.com/RizAli/html_css
           I created this small webpage to get better understanding of responsive web app.
