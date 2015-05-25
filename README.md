@@ -20,6 +20,7 @@ I have always been interested in problem solving and learning new technology. I 
 ## Projects
 
 - Rails - STEMettes Webapp - https://github.com/RizAli/royalty_loyalty/blob/master/README.md
+-         https://github.com/RizAli/royalty_loyalty
           This project helped me to learn about Ruby on Rails, working in a team and project management.
 
 - Rails - Treebook - https://github.com/RizAli/treebook
