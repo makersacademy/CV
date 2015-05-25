@@ -33,6 +33,7 @@ I have always been interested in problem solving and learning new technology. I 
 
 - Story Maker - JavaScript - https://github.com/RizAli/StoryMaker-JavaScripts
 - Random Generator - JavaScript - https://github.com/RizAli/Random-Number-JS
+- Students Search app - JS Loops, Arrays and Objects - https://github.com/RizAli/JavaScripts-Loops-Arrays-Objects
 
 
 ## Education
