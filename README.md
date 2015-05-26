@@ -29,7 +29,8 @@ https://github.com/RizAli/royalty_loyalty
 
 - FizzBuzz - https://github.com/RizAli/Fizzbuzz_p
           Very small project but it was ideal for learning about TDD.
-
+- JavaBuzz - https://github.com/RizAli/JavaScript-JavaBuzz
+          with Jasmine Testing framework.
 - html-css - https://github.com/RizAli/html_css
           I created this small webpage to get better understanding of responsive web app.
 
