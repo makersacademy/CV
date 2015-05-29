@@ -27,6 +27,8 @@ https://github.com/RizAli/royalty_loyalty
 - Rails - Treebook - https://github.com/RizAli/treebook
           Another example of ruby on rails project but worked individually on it.         
 
+- JavaScript - Thermostat - https://github.com/RizAli/JavaScript-Thermostat
+
 - FizzBuzz - https://github.com/RizAli/Fizzbuzz_p
           Very small project but it was ideal for learning about TDD.
 - JavaBuzz - https://github.com/RizAli/JavaScript-JavaBuzz
