@@ -6,7 +6,7 @@ A beardy, bear-like thing with a sometimes overly enthusiastic passion for recru
 
 ## Skills
 
-### Public Speaking
+#### Public Speaking
 
 Comfortable and confident in front of large groups of people, even when mightily unprepared, I'm an effective and entertaining speaker, using humour, metaphor and occasionally audience participation to make clear and memorable points.
 
@@ -14,7 +14,7 @@ Comfortable and confident in front of large groups of people, even when mightily
 - Main stage of [Digital Shoreditch 2015](http://digitalshoreditch.com/)
 - [Live TV interview](http://www.londonlive.co.uk/news/helping-kick-start-an-educational-revolution) on LondonLive, with a very silly moustache
 
-### Ruby
+#### Ruby
 
 I think this is pretty impressive:
 ``` ruby
@@ -25,7 +25,7 @@ I think this is pretty impressive:
 - Embarrassingly, it's actually [still on Heroku](http://fierce-bastion-1684.heroku.com/).
 - I can't do better than a 7kyu on Codewars right now.
 
-### Recruitment
+#### Recruitment
 
 - Arranged the hiring of hundreds of graduates into jobs in some of the Europe's best young tech companies, running the partnership between [Wayra Europe](http://wayra.co/) and [Enternships](http://www.enternships.com/).
 - Coached and mentored startups on their recruitment practices, especially finding and attracting technical talent, on behalf of [Wayra UK](http://wayra.co/uk/), [The Accelerator Academy](http://acceleratoracademy.com/) and [IDEALondon](http://www.idea-london.co.uk/).
@@ -33,10 +33,20 @@ I think this is pretty impressive:
 
 ## Education
 
-### Makers Academy - (not yet, but)
+#### Makers Academy - (not yet, but)
 
-### Heythrop College, University of London - 2007 to 2010
+#### Heythrop College, University of London - 2007 to 2010
 
 - Philosophy, especially the philosophy of maths and language.
 - First Class Honours
 - Founded the drama society: HeADS
+
+## Work
+
+**Makers Academy** - *Head of Careers* (Nov 2014 to present)  
+**ISOWORG** - *Director, Startup Recruitment* (Mar 2014 to present)  
+**Business Governance Solutions** - *Director of Marketing* (Mar 2014 to Oct 2014)  
+**Enternships** - *Key Account Manager* (2012 to 2014)  
+**Ragged Project** - *Co-founder* (2010 to 2011)  
+**Levantine Links** - *Co-founder* (2010 to 2012)  
+**Golden Nugget Casino** - *Dealer* (2005 to 2008)  
