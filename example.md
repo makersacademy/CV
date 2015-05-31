@@ -1,3 +1,5 @@
+*Please delete this from your own version, otherwise we're just spreading the beard joke out too far.*
+
 # Will Bentinck
 
 A beardy, bear-like thing with a sometimes overly enthusiastic passion for recruitment and education reform, especially in the tech world. I've founded and helped grow a number of social and commercial enterprises in both education and recruitment: some of which bombed, others soared. This year, I'd like to anchor my specialism and find an organisation that I can add exceptional value to, long-term.
