@@ -1,6 +1,6 @@
 ## Rizwan ALi
 
-- An enthusiastic junior developer, who is always looking for opportunities to learn and collaboratively        develop IT projects. Recently the passion of my coding took me to a bootcamp to learn about various recent        technologies currently used in the industry. Currently to improve my coding skills I am looking for a Junior      developer role in an organisation where I can work on various exciting projects with individuals who love         coding. 
+An enthusiastic junior developer, who is always looking for opportunities to learn and collaboratively        develop IT projects. Recently the passion of my coding took me to a bootcamp to learn about various recent        technologies currently used in the industry. Currently to improve my coding skills I am looking for a Junior      developer role in an organisation where I can work on various exciting projects with individuals who love         coding. 
 
 ## Skills
 
