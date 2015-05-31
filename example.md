@@ -41,10 +41,17 @@ I think this is pretty impressive:
 
 ## Work
 
-**Makers Academy** - *Head of Careers* (Nov 2014 to present)  
-**ISOWORG** - *Director, Startup Recruitment* (Mar 2014 to present)  
-**Business Governance Solutions** - *Director of Marketing* (Mar 2014 to Oct 2014)  
-**Enternships** - *Key Account Manager* (2012 to 2014)  
-**Ragged Project** - *Co-founder* (2010 to 2011)  
-**Levantine Links** - *Co-founder* (2010 to 2012)  
-**Golden Nugget Casino** - *Dealer* (2005 to 2008)  
+**Makers Academy** - (Nov 2014 to present)  
+*Head of Careers*  
+**ISOWORG** - (Mar 2014 to present)  
+*Director, Startup Recruitment*  
+**Business Governance Solutions** - (Mar 2014 to Oct 2014)  
+*Director of Marketing*  
+**Enternships** - (2012 to 2014) 
+*Key Account Manager*  
+**Ragged Project** - (2010 to 2011)  
+*Co-founder*  
+**Levantine Links** - (2010 to 2012)  
+*Co-founder*  
+**Golden Nugget Casino** - (2005 to 2008)  
+*Dealer*  
