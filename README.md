@@ -42,7 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name (start_date to end-date)**    
+**Company Name** (start_date to end-date)    
 *Your job title*  
-**Company Name (start_date to end-date)**   
+**Company Name** (start_date to end-date)   
 *Your job title*  
