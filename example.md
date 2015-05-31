@@ -27,9 +27,9 @@ I think this is pretty impressive:
 
 #### Recruitment
 
-- Arranged the hiring of 200+ graduates into jobs in more than 50 of Europe's best young tech companies, running the partnership between [Wayra Europe](http://wayra.co/) and [Enternships](http://www.enternships.com/) over its 18 month existence.
-- Coached and mentored startups on their recruitment practices, especially finding and attracting technical talent: mentor at [Wayra UK](http://wayra.co/uk/); course leader at [The Accelerator Academy](http://acceleratoracademy.com/); and regular recruitment advisor at [IDEALondon](http://www.idea-london.co.uk/).
-- Co-founded a social enterprise recruiting UK graduates to teach English in Syria, to local children and adults displaced from Iraq. Recruited 4 TEFL-experienced graduates and an ex-headmaster and planned an integration with local school curriculum, spending only £30. Civil war unfortunately got in the way.
+- Arranged the hiring of 200+ graduates into jobs in more than 50 of Europe's best young tech companies, running the partnership between **Wayra Europe** and **Enternships** over its 18 month existence.
+- Coached and mentored startups on their recruitment practices, especially finding and attracting technical talent: mentor at **Wayra UK**; course leader at **The Accelerator Academy**; and regular recruitment advisor at **IDEALondon**.
+- Co-founded **Levantine Links**, a social enterprise recruiting UK graduates to teach English in Syria, to local children and adults displaced from Iraq. Recruited 4 TEFL-experienced graduates and an ex-headmaster and planned an integration with local school curriculum, spending only £30. Civil war unfortunately got in the way.
 
 ## Education
 
