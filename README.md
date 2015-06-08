@@ -7,7 +7,7 @@ Looking for a great place to learn and a great team to learn with. I want to cre
 ## Skills
 
 #### Full Stack Web Development
-Have built frontend and backend components through weekly projects at MA. Our biggest project [Lena and Tend][2] was built using Rails. I contributed to the [frontend][5] creating structure and styling using Bootstrap, [Sass][1] and HAML and the [backend][6] creating features such as user profiles and image upload using paperclip and AWS.
+Have built frontend and backend components through weekly projects at MA. Our biggest project [Lena and Tend][2] was built using Rails. I contributed to the [frontend][5] creating structure and styling using Bootstrap, [Sass][1] and HAML and the [backend][6] creating features such as user profiles and image upload using paperclip and AWS. We also did several projects in pure Ruby before learning rails. This helped deepen our understanding of the language.
 
 #### Test Driven Development
 MA focused strongly on TDD and we approached all our projects with TDD creating [feature][7] and [unit][8] tests. I am a strong advocate for TDD but am also capable of working on untested code and writing tests for previously untested code.
