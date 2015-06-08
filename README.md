@@ -10,20 +10,18 @@ Looking for a great place to learn and a great team to learn with. I want to cre
 Have built frontend(link) and backend(link) components through weekly projects at MA. Our biggest project [Lena and Tend][2] is a community website that matches people with spare gardening space to people who want gardening space in London. Built using Rails I contributed to the [frontend][5] creating structure and styling using Bootstrap and [Sass][1], and the [backend][6] creating features such as user profiles and image upload using paperclip and AWS.
 
 #### Test Driven Development
-MA focused strongly on TDD and we approached all our projects with a TDD approach, creating [feature][7] and [unit][8] tests. Now that I've started using TDD I can't imagine going back. knowing straight away if you have a bug or if something is being changed is very assuring and can saves hours of future debugging time.
+MA focused strongly on TDD and we approached all our projects with a TDD approach creating [feature][7] and [unit][8] tests.
+I have experince using Rspec, Capybara and Jasmine.
+Now that I've started using TDD I can't imagine going back. knowing straight away if you have an error is very assuring and can saves hours of future debugging time.
 
 #### Object Oriented Programming
-Studied OOP using Java at university and then again at MA using Ruby(link) and Javascript(link). I have good understanding of the Key OOP principles.
-
-
-#### Behaviour Driven Development
-
+Studied OOP using Java at university and then again at MA using Ruby and Javascript. I have good understanding of the Key OOP principles.
 
 #### Pair Programming
-Mastered pair programming via google hangouts. I was part of the first cohort to complete MA remotely so I have learnt to successfully pair program while combating the challenges of working remotely
+Mastered pair programming via google hangouts. Having completed MA remotely I learnt to successfully pair program while combating the challenges of working remotely.
 
 #### Agile / Scrum
-Used to working in an agile environment. As we where the first cohort to do the course remotely there was lot of challenges to overcome and every week we where adjusting how we worked together and how we approached the work. We had daily morning and afternoon stand-ups throughout the course and I am comfortable in leading them.
+Used to working in an agile environment. Being the first Ronin group there was lot of challenges to overcome and every week we where adjusting how we worked together and how we approached the work. We had daily morning and afternoon stand-ups throughout the course and I am comfortable in leading them.
 
 ## Education
 
