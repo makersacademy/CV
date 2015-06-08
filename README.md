@@ -1,21 +1,16 @@
 # Jade King
 
-Passionate techy interested in all things digital and the many ways we can change the world with it.
-Created a community based website matching garden owners and growers in just two weeks. Recently graduated from [Makers Academy][3] developer bootcamp as part of the first [Ronin][4] group to complete the course remotely.
-Looking for a great place to learn and a great team to learn with. I want to create great user experiences where technology is a help not a hindrance.
+Passionate techy interested in all things digital especially if it's open source and cross platform.
+Recently graduated from [Makers Academy][3] developer bootcamp as part of the first [Ronin][4] group to complete the course remotely. Finished the course by creating a website for a community project that matches garden owners and growers in just two weeks. 
+Looking for a great place to learn and a great team to learn with. I want to create great user experiences where technology and design is a help not a hindrance.
 
 ## Skills
 
 #### Full Stack Web Development
-Have built frontend(link) and backend(link) components through weekly projects at MA. Our biggest project [Lena and Tend][2] is a community website that matches people with spare gardening space to people who want gardening space in London. Built using Rails I contributed to the [frontend][5] creating structure and styling using Bootstrap and [Sass][1], and the [backend][6] creating features such as user profiles and image upload using paperclip and AWS.
+Have built frontend and backend components through weekly projects at MA. Our biggest project [Lena and Tend][2] was built using Rails. I contributed to the [frontend][5] creating structure and styling using Bootstrap, [Sass][1] and HAML and the [backend][6] creating features such as user profiles and image upload using paperclip and AWS.
 
 #### Test Driven Development
-MA focused strongly on TDD and we approached all our projects with a TDD approach creating [feature][7] and [unit][8] tests.
-I have experince using Rspec, Capybara and Jasmine.
-Now that I've started using TDD I can't imagine going back. knowing straight away if you have an error is very assuring and can saves hours of future debugging time.
-
-#### Object Oriented Programming
-Studied OOP using Java at university and then again at MA using Ruby and Javascript. I have good understanding of the Key OOP principles.
+MA focused strongly on TDD and we approached all our projects with TDD creating [feature][7] and [unit][8] tests. I am a strong advocate for TDD but am also capable of working on untested code and writing tests for previously untested code.
 
 #### Pair Programming
 Mastered pair programming via google hangouts. Having completed MA remotely I learnt to successfully pair program while combating the challenges of working remotely.
@@ -23,14 +18,17 @@ Mastered pair programming via google hangouts. Having completed MA remotely I le
 #### Agile / Scrum
 Used to working in an agile environment. Being the first Ronin group there was lot of challenges to overcome and every week we where adjusting how we worked together and how we approached the work. We had daily morning and afternoon stand-ups throughout the course and I am comfortable in leading them.
 
+#### Linux
+Have been working on Fedora OS for the last 6 months and am comfortable doing most of my tasks such as testing, file navigation and Git commands from the terminal.
+
 ## Education
 
 #### Makers Academy (Feb 2015 to May 2015)
 
 - 16 week full time web developer bootcamp
-- Develop independent learning & problem solving skills
+- Developed independent learning & problem solving skills
 - Completed weekly group projects and personal weekend projects
-- Version control using Git through the terminal and Github
+- Version control using Git through the terminal and the Github website
 - TDD, BDD, OOP, MVC, SOLID, DRY
 - Ruby, Rails, Javascript, Jquery, Node.js, Angular.js, Bootstrap Sass, HTML, CSS
 - Rspec, Capybara, Jasmine
@@ -53,7 +51,6 @@ Used to working in an agile environment. Being the first Ronin group there was l
 - BTEC Media, Distinction
 - Web design, Graphic design, Print design
 - HTML, CSS, Adobe Dreamweaver, Adobe Photoshop, Adobe Illustrator, Adobe Indesign
-
 
 ## Experience
 
