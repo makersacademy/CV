@@ -56,18 +56,25 @@ Have been working on Fedora OS for the last 6 months and am comfortable doing mo
 
 **Freelance** - (Oct 2014 to present)
 *Web developer*  
+
 **Freelance** - (Oct 2013 to June 2014)
 *Bitcoin trader & advisor*  
+
 **Vengence inc** - (Aug 2010 to Oct 2010)
 *Club night organiser*
+
 **Count on Me** - (March 2008 to May 2008)
 *Event staff*
+
 **Carphone Warehouse** - (Sep 2007 to Dec 2007)
 *Sales consultant*
+
 **Odeon Cinemas** - (July 2006 to July 2007)
 *Movie usher*
+
 **Face to Face Fundraising** - (March 2006)
 *Charity fundraiser*
+
 **Furtherfield Net Art Group** - (2004 to 2005)
 *Office & web administration worker*
 
