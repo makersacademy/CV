@@ -1,7 +1,7 @@
 # Jade King
 
 Passionate techy interested in all things digital, especially if it's open source and cross platform.
-Recently graduated from [Makers Academy][3] developer bootcamp as part of the first [Ronin][4] group to complete the course remotely. Finished the course by creating a website for a community project that matches garden owners and growers in just two weeks. 
+Recently graduated from [Makers Academy][3] developer bootcamp as part of the first [Ronin][4] group to complete the course remotely. Finished the course by creating a website for a community project that matches garden owners and growers. 
 Looking for a great place to learn and a great team to learn with. I want to create great user experiences where technology and design is a help not a hindrance.
 
 ## Skills
@@ -19,7 +19,7 @@ Mastered pair programming via google hangouts. Having completed MA remotely I le
 Used to working in an agile environment. Being the first Ronin group there was lot of challenges to overcome and every week we where adjusting how we worked together and how we approached the work. We had daily morning and afternoon stand-ups throughout the course and I am comfortable in leading them.
 
 #### Linux
-Have been working on Fedora OS for the last 6 months and am comfortable doing most of my tasks such as testing, file navigation and Git commands from the terminal.
+Have been working on Fedora OS for the last 6 months and am comfortable doing most of my tasks such as testing, file navigation and Git commands from the terminal. I also have experience in using debian OS's such as Mint.
 
 ## Education
 
@@ -58,7 +58,8 @@ Have been working on Fedora OS for the last 6 months and am comfortable doing mo
 *Web developer*  
 
 **Freelance** - (Oct 2013 to June 2014)
-*Bitcoin trader & advisor*  
+*Bitcoin trader & advisor*
+Helped run weekly drop in sessions where people could learn about bitcoin
 
 **Vengence inc** - (Aug 2010 to Oct 2010)
 *Club night organiser*
