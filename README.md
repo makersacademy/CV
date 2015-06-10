@@ -59,7 +59,7 @@ Have been working on Fedora OS for the last 6 months and am comfortable doing mo
 
 **Freelance** - (Oct 2013 to June 2014)
 *Bitcoin trader & advisor*
-- Helped run weekly drop in sessions where people could learn about bitcoin*
+- Helped run weekly drop in sessions where people could learn about bitcoin
 
 **Vengence inc** - (Aug 2010 to Oct 2010)
 *Club night organiser*
