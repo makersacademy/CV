@@ -1,3 +1,9 @@
+Name | Github CV | Reason to look at it
+--- | --- | ---
+Alex Handy | https://github.com/AlexHandy1/CV | Particularly for the description of his dev skills
+Andy Gout | https://github.com/andygout/cv | Great detail and personality in the skills section
+Nicole Pellicena | https://github.com/nicolepell/cv | The only way to write a list of technologies
+
 *Please delete this from your own version, otherwise we're just spreading the beard joke out too far.*
 
 # Will Bentinck
