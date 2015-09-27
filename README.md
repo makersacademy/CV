@@ -1,46 +1,48 @@
 ## Meads Chalcroft
+##### GitHub version of CV: https://github.com/meads58/CV
+##### LinkedIn: [Meads Chalcroft](https://uk.linkedin.com/in/meadschalcroft)
+A Web Developer who was a software tester in a past life gaining extensive experience working on agile projects to deliver working, functional software to the business. Now with a solid set of web development skills to build a range of web applications.
 
-Software tester in a past life with extensive experience working on agile projects to deliver working, functional software to the business. Now a junior web developer with experience building a range of web applications.
-
-The perfect junior role would push for innovation, continuous learning and teamwork alongside smart, fun people that enjoy their job. All within a company that backs their employees to deliver outstanding solutions.
+The perfect role would push for innovation, continuous learning and teamwork alongside smart, fun people that enjoy their job. All within a company that backs their employees to deliver outstanding solutions.
 
 ## Skills for the job
 
+#### Web Developer
+
+A fast learner of new technologies and thoroughly enjoys being challenged.
+
+* Ruby on Rails:
+  - Fullstack developer at Zopa implementing a Rails web app in Ruby, Postgres, CSS/HTML, Docker, Git and Redis/Sidekiq.
+* Testing and TDD:
+  - Exceptional attention to detail from 9 years of Software Testing in the construction of test scenarios.
+  - Strong TDD culture at Zopa and we I used Rspec and BDD with Capybara for testing. Set up tests to run in Jenkins as regression tests for Continuous Integration of all pushed code.
+* Rapid Learning:
+  - Ability to pick up a new technology and play with it to build up knowledge quickly.
+* Javascript
+  - Written fully tested projects in javascript.
+
 #### Communication
 
-Excellent, clear and concise communication skills have been built up over my working career.
+Excellent, clear and concise communication skills that have been built up over my working career.
 
-* Understand what needs solving:
-  - Ensure the problem is understood and asks for clarification before working on the most fitting solution.
-  - Removed a bottleneck in the testing process at Trafigura, having redesigned the bug tracking templates, after listening to the problems developers had when reproducing defects.
+
 * Pair programming:
-  - Constantly used at Makers Academy to knowledge share, test out ideas and smash through problems.
-  - [GitHub](https://github.com/meads58) showing the volume and range of work achieved in a short space of time with pair programming.
+  - Used at Zopa to quickly build up knowledge of the system code base and for reviewing code as we go which successfully sped up the release process.
 * Code that talks:
   - Well formatted code with clear and descriptive names and tests that act as documentation.
-  - [rock-paper scissors](https://github.com/meads58/rps-challenge/blob/master/features/rock_paper_scissor.feature) is an example of tests acting as documentation.
+  - [best-rate loan matcher](https://github.com/meads58/best_rate) is an example of tests acting as documentation.
 
 #### Problem Solving
 
-Breaking down problems into manageable chunks, attention to detail and planning skills proved key to designing out a solution and the implementation of it.
+Skills to break down problems into manageable chunks, attention to detail and designing solutions that integrate well.
 
+* Define the problem:
+  - At Zopa created a process flow diagram after talking to the business owner and shared this with the team for feedback. This was then used as the wireframe for the actual system.
 * Innovation:
-  - Final project at Makers [Proximibee](https://github.com/meads58/proximibee_Admin/blob/master/README.rdoc) required innovative thinking to take the Beacon technology and turn this into the final working phone app solution.
+  -  At Zopa saw an opportunity to add needed flexibility with the system and wrote a feature to enable the Sidekiq queue length to be adjusted. This gave the users added flexibility with their worked cases and allowed them to simulate a full work flow in UAT.
 * Planning and Design:
   - The [Battleship project](https://github.com/meads58/battleships/tree/master/lib)  project shows how the single responsibility principle was used to design the system. Achieved a clear understanding of building applications up from small manageable chunks to solve a specific problem led to making, maintaining and adding features easier.
 
-#### Junior Web Developer
-
-A fast learner who has been thrown into new technologies every week at Makers Academy and thoroughly enjoys being challenged.
-
-* Questioning Skills:
-  - Seeks further understanding after forming a possible solution as a starting point.
-* Testing and TDD:
-  - Exceptional attention to detail from 9 years of Software Testing in the construction of test scenarios.
-  - Combined now with TDD skills to build solutions faster.
-* Rapid Learning:
-  - Ability to pick up a new technology and play with it to build up knowledge quickly.
-  - Demonstrated in the huge range of tested and functional web applications built during the course.
 
 #### Coding Examples
 
@@ -75,13 +77,15 @@ A fast learner who has been thrown into new technologies every week at Makers Ac
 - BCom Management
 
 ## Experience
+* __Zopa__, July 2015 - present, Web Developer.
+  - Ruby on Rails web developer working on both the front and back end to turn the current debt collection process into an online web application.
 * __Barings Asset Management__, March 2014 - February 2015, System Test Analyst.
   - End to end testing of their financial systems. Worked directly with Business Analysts and Developers providing a quick feedback loop for the test status of new features and bug fixes.
 * __Barclays Bank__, July 2013 - December 2013, Analyst - Contractor.
   - Data analytics writing SQL queries to track sanctioned payments as part of the anti-terrorism program.
 * __Trafigura Ltd__, March 2007 – March 2013, System Tester.
-  - Hugely successful time working in agile teams on their commodity trading systems to plan, write and execute tests for each upcoming sprint. Responsible for the delivery of test reports, reporting bugs and managing the test process to prevent any bottlenecks of stories. Achieved success through attention to detail and open communication to catch bugs early and inform the team so a solution could be found. Running the UAT phase and working with stakeholders to ensure live implementation ran successfully to schedule.  
-
+  - Hugely successful time working in agile teams on their commodity trading systems to plan, write and execute tests for each upcoming sprint.   
+* Further work history on request.
 ## Interests
 - An extreme sport fanatic and a family guy who is very excited and focused to become an outstanding software engineer.
 - Kitesurfing, snowboarding, surfing and more kitesurfing.
