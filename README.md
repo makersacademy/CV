@@ -39,7 +39,7 @@ Skills to break down problems into manageable chunks, attention to detail and de
 * Define the problem:
   - Define the problem, break it down and look for any potential issues downstream. At Zopa created a process flow diagram after talking to the business owner and shared this with the team for feedback. This was then used as the wireframe for the actual system.
 * Innovation:
-  -  Looking to improve/refactor code for a genuine benefit. Example at Zopa with an opportunity to add needed flexibility of the 'on hold' feature. Instead of a solution to pause the Sidekiq queue, the queue time was made adjustable. This gave the users added flexibility at an individual cases and also allowed them to simulate a full work flow in UAT.
+  -  Looking to improve/refactor code for a genuine benefit. Example at Zopa with an opportunity to add needed flexibility of the 'on hold' feature. Instead of a solution to pause the Sidekiq queue, the queue time was made adjustable. This gave the users added flexibility for individual cases and also allowed them to simulate a full work flow in UAT.
 * Planning and Design:
   - The [Battleship project](https://github.com/meads58/battleships/tree/master/lib)  project shows how the single responsibility principle was used to design the system. Achieved a clear understanding of building applications up from small manageable chunks to solve a specific problem led to making, maintaining and adding features easier.
 
