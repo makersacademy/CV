@@ -19,7 +19,7 @@ A fast learner of new technologies who thoroughly enjoys being challenged.
   - Strong TDD culture at Zopa and used Rspec and BDD with Capybara for testing. Set up tests to run in Jenkins as regression tests for Continuous Integration of all pushed code.
 * DevOps:
   - Implemented Docker containers for the deployment of our the Debt Collection application at Zopa.
-  - Assisting in implementing a deployment solution using Docker, Vagrant, Octopus, Jenkins and Artifactory tools. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
+  - Working on a deployment solution using Docker, Vagrant, Octopus, Jenkins and Artifactory tools. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
 
 #### Communication
 
