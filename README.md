@@ -16,7 +16,7 @@ A fast learner of new technologies who thoroughly enjoys being challenged.
 * Javascript, C#.net experience on smaller projects.
 * Testing and TDD:
   - Exceptional attention to detail from 9 years of Software Testing in the construction of test scenarios. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
-  - Strong TDD culture at Zopa and used Rspec and BDD with Capybara for testing. Set up tests to run in Jenkins as regression tests for Continuous Integration of all pushed code.
+  - Strong TDD culture at Zopa and used Rspec and BDD with Capybara for testing.
 * DevOps:
   - Implemented Docker containers for the deployment of the Debt Collection application at Zopa.
   - Working deployment solutions using Docker, Vagrant, Octopus, Jenkins and Artifactory tools. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
