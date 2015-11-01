@@ -1,7 +1,7 @@
 ## Meads Chalcroft
 ##### GitHub version of CV: https://github.com/meads58/CV
 ##### LinkedIn: [Meads Chalcroft](https://uk.linkedin.com/in/meadschalcroft)
-A Junior Web Developer who was a software tester in a past life with extensive experience delivering software solutions and reporting to business stakeholders on progress. Now with a solid set of web development skills to build a range of web applications.
+A Junior Web Developer who was a software tester in a past life. Now pursuing a successful career as a software engineer.
 
 The perfect role would push for innovation, continuous learning and teamwork alongside smart, fun people that enjoy their job. All within a company that backs their employees to deliver outstanding solutions.
 
@@ -18,8 +18,8 @@ A fast learner of new technologies who thoroughly enjoys being challenged.
   - Exceptional attention to detail from 9 years of Software Testing in the construction of test scenarios. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
   - Strong TDD culture at Zopa and used Rspec and BDD with Capybara for testing. Set up tests to run in Jenkins as regression tests for Continuous Integration of all pushed code.
 * DevOps:
-  - Implemented Docker containers for the deployment of our the Debt Collection application at Zopa.
-  - Working on a deployment solution using Docker, Vagrant, Octopus, Jenkins and Artifactory tools. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
+  - Implemented Docker containers for the deployment of the Debt Collection application at Zopa.
+  - Working deployment solutions using Docker, Vagrant, Octopus, Jenkins and Artifactory tools. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
 
 #### Communication
 
@@ -30,14 +30,14 @@ Excellent, clear and concise communication skills.
 * Business and Developer communication:
   - Excellent skills at bridging the communication gap between business and technical audiences form the years spent as a tester liaising between developers and business users.
 * Question asking:
-  - Not afraid to ask for clarification early on which helps set focus to solve the correct problems.
+  - Not afraid to ask for clarification early on, which ensures focus is set to solve the correct problems.
 
 #### Problem Solving
 
-Skills to break down problems into manageable chunks, attention to detail and designing solutions that integrate well.
+Breaking down problems into manageable chunks, attention to detail and designing solutions that integrate well.
 
 * Define the problem:
-  - Define the problem, break it down and look for any potential issues downstream. At Zopa created a process flow diagram after talking to the business owner and shared this with the team for feedback. This was then used as the wireframe for the actual system.
+  - Define the problem, break it down and look for any potential issues downstream. An exmaple at Zopa was the creation a process flow diagram for the new debt collection application. This served as the delivery road map clearly showing upstream and down stream dependencies for each step which was expanded out and coded for.
 * Innovation:
   -  Looking to improve/refactor code for a genuine benefit. Example at Zopa with an opportunity to add needed flexibility of the 'on hold' feature. Instead of a solution to pause the Sidekiq queue, the queue time was made adjustable. This gave the users added flexibility for individual cases and also allowed them to simulate a full work flow in UAT.
 * Planning and Design:
@@ -78,7 +78,7 @@ Skills to break down problems into manageable chunks, attention to detail and de
 
 ## Experience
 * __Zopa__, July 2015 - present, Web Developer.
-  - Web developer working on both the front and back end to turn the current debt collection process into an online web application. Also picking up DevOps projects to standardise deployments with Docker containers, Vargrant and Artifactory tools.
+  - Web developer working on both the front and back end to turn the current debt collection process into an online web application. Also picking up DevOps projects to standardise deployments with Docker containers, Vagrant and Artifactory tools.
 * __Barings Asset Management__, March 2014 - February 2015, System Test Analyst.
   - End to end testing of their financial systems. Worked directly with Business Analysts and Developers providing a quick feedback loop for the test status of new features and bug fixes.
 * __Barclays Bank__, July 2013 - December 2013, Analyst - Contractor.
