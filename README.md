@@ -86,6 +86,7 @@ Skills to break down problems into manageable chunks, attention to detail and de
 * __Trafigura Ltd__, March 2007 – March 2013, System Tester.
   - Hugely successful time working in agile teams on their commodity trading systems to plan, write and execute tests for each upcoming sprint.   
 * Further work history on request.
+
 ## Interests
 - An extreme sport fanatic and a family guy who is very excited and focused to become an outstanding software engineer.
 - Kitesurfing, snowboarding, surfing and more kitesurfing.
