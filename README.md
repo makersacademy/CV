@@ -1,7 +1,7 @@
 ## Meads Chalcroft
 ##### GitHub version of CV: https://github.com/meads58/CV
 ##### LinkedIn: [Meads Chalcroft](https://uk.linkedin.com/in/meadschalcroft)
-A Web Developer who was a software tester in a past life gaining extensive experience working on agile projects to deliver working, functional software to the business. Now with a solid set of web development skills to build a range of web applications.
+A Junior Web Developer who was a software tester in a past life with extensive experience delivering software solutions and reporting to business stakeholders on progress. Now with a solid set of web development skills to build a range of web applications.
 
 The perfect role would push for innovation, continuous learning and teamwork alongside smart, fun people that enjoy their job. All within a company that backs their employees to deliver outstanding solutions.
 
@@ -9,37 +9,37 @@ The perfect role would push for innovation, continuous learning and teamwork alo
 
 #### Web Developer
 
-A fast learner of new technologies and thoroughly enjoys being challenged.
+A fast learner of new technologies who thoroughly enjoys being challenged.
 
 * Ruby on Rails:
   - Fullstack developer at Zopa implementing a Rails web app in Ruby, Postgres, CSS/HTML, Docker, Git and Redis/Sidekiq.
+* Javascript, C#.net experience on smaller projects.
 * Testing and TDD:
-  - Exceptional attention to detail from 9 years of Software Testing in the construction of test scenarios.
-  - Strong TDD culture at Zopa and we I used Rspec and BDD with Capybara for testing. Set up tests to run in Jenkins as regression tests for Continuous Integration of all pushed code.
-* Rapid Learning:
-  - Ability to pick up a new technology and play with it to build up knowledge quickly.
-* Javascript
-  - Written fully tested projects in javascript.
+  - Exceptional attention to detail from 9 years of Software Testing in the construction of test scenarios. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
+  - Strong TDD culture at Zopa and used Rspec and BDD with Capybara for testing. Set up tests to run in Jenkins as regression tests for Continuous Integration of all pushed code.
+* DevOps:
+  - Implemented Docker containers for the deployment of our the Debt Collection application at Zopa.
+  - Assisting in implementing a deployment solution using Docker, Vagrant, Octopus, Jenkins and Artifactory tools. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
 
 #### Communication
 
-Excellent, clear and concise communication skills that have been built up over my working career.
-
+Excellent, clear and concise communication skills.
 
 * Pair programming:
-  - Used at Zopa to quickly build up knowledge of the system code base and for reviewing code as we go which successfully sped up the release process.
-* Code that talks:
-  - Well formatted code with clear and descriptive names and tests that act as documentation.
-  - [best-rate loan matcher](https://github.com/meads58/best_rate) is an example of tests acting as documentation.
+  - Used at Zopa to quickly build up knowledge of the system code base and for reviewing code which successfully speeded up the release process.
+* Business and Developer communication:
+  - Excellent skills at bridging the communication gap between business and technical audiences form the years spent as a tester liaising between developers and business users.
+* Question asking:
+  - Not afraid to ask for clarification early on which helps set focus to solve the correct problems.
 
 #### Problem Solving
 
 Skills to break down problems into manageable chunks, attention to detail and designing solutions that integrate well.
 
 * Define the problem:
-  - At Zopa created a process flow diagram after talking to the business owner and shared this with the team for feedback. This was then used as the wireframe for the actual system.
+  - Define the problem, break it down and look for any potential issues downstream. At Zopa created a process flow diagram after talking to the business owner and shared this with the team for feedback. This was then used as the wireframe for the actual system.
 * Innovation:
-  -  At Zopa saw an opportunity to add needed flexibility with the system and wrote a feature to enable the Sidekiq queue length to be adjusted. This gave the users added flexibility with their worked cases and allowed them to simulate a full work flow in UAT.
+  -  Looking to improve/refactor code for a genuine benefit. Example at Zopa with an opportunity to add needed flexibility of the 'on hold' feature. Instead of a solution to pause the Sidekiq queue, the queue time was made adjustable. This gave the users added flexibility at an individual cases and also allowed them to simulate a full work flow in UAT.
 * Planning and Design:
   - The [Battleship project](https://github.com/meads58/battleships/tree/master/lib)  project shows how the single responsibility principle was used to design the system. Achieved a clear understanding of building applications up from small manageable chunks to solve a specific problem led to making, maintaining and adding features easier.
 
@@ -78,7 +78,7 @@ Skills to break down problems into manageable chunks, attention to detail and de
 
 ## Experience
 * __Zopa__, July 2015 - present, Web Developer.
-  - Ruby on Rails web developer working on both the front and back end to turn the current debt collection process into an online web application.
+  - Web developer working on both the front and back end to turn the current debt collection process into an online web application. Also picking up DevOps projects to standardise deployments with Docker containers, Vargrant and Artifactory tools.
 * __Barings Asset Management__, March 2014 - February 2015, System Test Analyst.
   - End to end testing of their financial systems. Worked directly with Business Analysts and Developers providing a quick feedback loop for the test status of new features and bug fixes.
 * __Barclays Bank__, July 2013 - December 2013, Analyst - Contractor.
