@@ -2,9 +2,12 @@
 
 Passionate techy interested in all things digital, especially if it's open source and cross platform.
 Have contributed to several commercial projects as a Full stack developer as well as working on side projects.
+
 Graduated from [Makers Academy][3] developer bootcamp as part of the first [Ronin][4] group to complete the course remotely.
 Finished the course by creating a website for a community project that matches garden owners and growers.
-Looking for a great place to learn and a great team to learn with. I want to create great user experiences where technology and design is a help not a hindrance.
+Looking for a great place to learn and a great team to learn with. 
+
+I want to create great user experiences where technology and design is a help not a hindrance.
 
 ## Skills
 
