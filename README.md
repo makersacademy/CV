@@ -1,25 +1,29 @@
 # Jade King
 
 Passionate techy interested in all things digital, especially if it's open source and cross platform.
-Recently graduated from [Makers Academy][3] developer bootcamp as part of the first [Ronin][4] group to complete the course remotely. Finished the course by creating a website for a community project that matches garden owners and growers in just two weeks. 
+Have contributed to several commercial projects as a Full stack developer as well as working on side projects.[Bitcoin trading dashboard & calculator]
+Graduated from [Makers Academy][3] developer bootcamp as part of the first [Ronin][4] group to complete the course remotely.
 Looking for a great place to learn and a great team to learn with. I want to create great user experiences where technology and design is a help not a hindrance.
 
 ## Skills
 
-#### Full Stack Web Development
-Have built frontend and backend components through weekly projects at MA. Our biggest project [Lena and Tend][2] was built using Rails. I contributed to the [frontend][5] creating structure and styling using Bootstrap, [Sass][1] and HAML and the [backend][6] creating features such as user profiles and image upload using paperclip and AWS. We also did several projects in pure Ruby before learning rails. This helped deepen our understanding of the language.
+#### Full Stack Development
+
+Have built frontend and backend components commercially, through weekly projects at Makers Academy and university projects. This includes several Rails projects and python projects using Flask.
+At MA I contributed to the [frontend][5] creating structure and styling using Bootstrap, [Sass][1] and HAML and the [backend][6] creating features such as logins, user profiles and image upload using paperclip and AWS. Commercially I have worked on Rails applications, Python dashboards and several websites.
+
 
 #### Test Driven Development
-MA focused strongly on TDD and we approached all our projects with TDD, creating [feature][7] and [unit][8] tests. I am a strong advocate for TDD but am also capable of working on untested code and writing tests for previously untested code.
+MA focused strongly on TDD and we approached all our projects with TDD, creating [feature][7] and [unit][8] tests. I am a strong advocate for TDD and have continued to use this approach in my work. I also have experience working on untested code and writing tests for previously untested code.
 
 #### Pair Programming
 Mastered pair programming via google hangouts. Having completed MA remotely I learnt to successfully pair program while also combating the challenges of working remotely.
 
 #### Agile / Scrum
-Used to working in an agile environment. Being the first Ronin group there was lot of challenges to overcome and every week we where adjusting how we worked together and how we approached the work. We had daily morning and afternoon stand-ups throughout the course and I am comfortable in leading them.
+Have worked in an agile environment at a startup company and while training at MA. Being the first Ronin group there was lot of challenges to overcome and every week we where adjusting how we worked together and how we approached the work. We had daily morning and afternoon stand-ups throughout the course and I am comfortable in leading them.
 
 #### Linux
-Have been working on Fedora OS for the last 6 months and am comfortable doing most of my tasks such as testing, file navigation and Git commands from the terminal.
+Have been working on Fedora OS for the last 12 months and am comfortable doing my tasks such as testing, file navigation and Git commands from the terminal.
 
 ## Education
 
@@ -30,7 +34,7 @@ Have been working on Fedora OS for the last 6 months and am comfortable doing mo
 - Completed weekly group projects and personal weekend projects
 - Version control using Git through the terminal and the Github website
 - TDD, BDD, OOP, MVC, SOLID, DRY
-- Ruby, Rails, Javascript, Jquery, Node.js, Angular.js, Bootstrap Sass, HTML, CSS
+- Ruby, Rails, Javascript, Jquery, Node.js, Angular.js, Bootstrap Sass, HTML, CSS, HAML
 - Rspec, Capybara, Jasmine
 
 #### Middlesex University (Sep 2010 to June 2013)
@@ -53,6 +57,9 @@ Have been working on Fedora OS for the last 6 months and am comfortable doing mo
 - HTML, CSS, Adobe Dreamweaver, Adobe Photoshop, Adobe Illustrator, Adobe Indesign
 
 ## Experience
+
+**Zopa** - (July 2015 to Oct 2015)
+*Software developer - contracted*
 
 **Freelance** - (Oct 2014 to present)
 *Web developer*  
