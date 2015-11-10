@@ -1,8 +1,9 @@
 # Jade King
 
 Passionate techy interested in all things digital, especially if it's open source and cross platform.
-Have contributed to several commercial projects as a Full stack developer as well as working on side projects.[Bitcoin trading dashboard & calculator]
+Have contributed to several commercial projects as a Full stack developer as well as working on side projects.
 Graduated from [Makers Academy][3] developer bootcamp as part of the first [Ronin][4] group to complete the course remotely.
+Finished the course by creating a website for a community project that matches garden owners and growers.
 Looking for a great place to learn and a great team to learn with. I want to create great user experiences where technology and design is a help not a hindrance.
 
 ## Skills
@@ -17,13 +18,14 @@ At MA I contributed to the [frontend][5] creating structure and styling using Bo
 MA focused strongly on TDD and we approached all our projects with TDD, creating [feature][7] and [unit][8] tests. I am a strong advocate for TDD and have continued to use this approach in my work. I also have experience working on untested code and writing tests for previously untested code.
 
 #### Pair Programming
-Mastered pair programming via google hangouts. Having completed MA remotely I learnt to successfully pair program while also combating the challenges of working remotely.
+Mastered pair programming via Google Hangouts. Having completed MA remotely I learnt to successfully pair program while also combating the challenges of working remotely.
 
 #### Agile / Scrum
 Have worked in an agile environment at a startup company and while training at MA. Being the first Ronin group there was lot of challenges to overcome and every week we where adjusting how we worked together and how we approached the work. We had daily morning and afternoon stand-ups throughout the course and I am comfortable in leading them.
 
 #### Linux
 Have been working on Fedora OS for the last 12 months and am comfortable doing my tasks such as testing, file navigation and Git commands from the terminal.
+I also have experience in using Debian OS's such as Mint.
 
 ## Education
 
@@ -65,7 +67,8 @@ Have been working on Fedora OS for the last 12 months and am comfortable doing m
 *Web developer*  
 
 **Freelance** - (Oct 2013 to June 2014)
-*Bitcoin trader & advisor*  
+*Bitcoin trader & advisor*
+- Helped run weekly drop in sessions where people could learn about bitcoin
 
 **Vengence inc** - (Aug 2010 to Oct 2010)
 *Club night organiser*
