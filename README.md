@@ -1,30 +1,26 @@
 ## Meads Chalcroft
 ##### GitHub version of CV: https://github.com/meads58/CV
 ##### LinkedIn: [Meads Chalcroft](https://uk.linkedin.com/in/meadschalcroft)
-A Junior Web Developer who was a software tester in a past life. Now pursuing a successful career as a software engineer.
+A Junior Web Developer pursuing a successful career in software engineering after a past life as a software tester.
 
-The perfect role would push for innovation, continuous learning and teamwork alongside smart, fun people that enjoy their job. All within a company that backs their employees to deliver outstanding solutions.
+The perfect role would push for innovation, continuous learning and teamwork alongside smart, fun people who enjoy their job. Must be within a company that backs their employees to deliver outstanding solutions.
 
-## Skills for the job
-
+### Skills for the job
 #### Web Developer
-
 A fast learner of new technologies who thoroughly enjoys being challenged.
 
 * Ruby on Rails:
   - Fullstack developer at Zopa implementing a Rails web app in Ruby, Postgres, CSS/HTML, Docker, Git and Redis/Sidekiq.
-* Javascript, C#.net experience on smaller projects.
+* C#.net and Javascript experience on smaller projects.
 * Testing and TDD:
   - Exceptional attention to detail from 9 years of Software Testing in the construction of test scenarios. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
   - Strong TDD culture at Zopa and used Rspec and BDD with Capybara for testing.
 * DevOps:
   - Implemented Docker containers for the deployment of the Debt Collection application at Zopa.
-  - Working deployment solutions using Docker, Vagrant, Octopus, Jenkins and Artifactory tools. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
+  - Working deployment solutions using Docker, Vagrant, Puppet, Octopus, Jenkins and Artifactory tools. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
 
 #### Communication
-
 Excellent, clear and concise communication skills.
-
 * Pair programming:
   - Used at Zopa to quickly build up knowledge of the system code base and for reviewing code which successfully speeded up the release process.
 * Business and Developer communication:
@@ -33,7 +29,6 @@ Excellent, clear and concise communication skills.
   - Not afraid to ask for clarification early on, which ensures focus is set to solve the correct problems.
 
 #### Problem Solving
-
 Breaking down problems into manageable chunks, attention to detail and designing solutions that integrate well.
 
 * Define the problem:
@@ -45,7 +40,6 @@ Breaking down problems into manageable chunks, attention to detail and designing
 
 
 #### Coding Examples
-
 <table table-layout=fixed width=100%>
   <tr>
     <th width=25%><a href="https://github.com/meads58/proximibee_Admin">Proximibee</a></th>
@@ -64,7 +58,6 @@ Breaking down problems into manageable chunks, attention to detail and designing
 ## Education
 
 #### Makers Academy February cohort 2015
-
 - Independent learner and problem-solver.
 - OOP, TDD, MVC.
 - Software Engineering.
@@ -88,7 +81,7 @@ Breaking down problems into manageable chunks, attention to detail and designing
 * Further work history on request.
 
 ## Interests
-- An extreme sport fanatic and a family guy who is very excited and focused to become an outstanding software engineer.
+- An extreme sport fanatic and family guy who is very excited and focused to become an outstanding software engineer.
 - Kitesurfing, snowboarding, surfing and more kitesurfing.
 - All things techie, reading and watching clips about what is happening in this area.
 - Photography and travelling.
