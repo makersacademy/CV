@@ -6,6 +6,16 @@ Most recent achievements are instigating and driving demand side growth at two o
 
 Now looking to advance and sharpen my coding skills as a junior backend developer (although can dabble in front end too) at a company that promotes TDD in an Agile environment.
 
+## Technical Skills and Technologies
+| |Strong|Know|Touched on|
+|---------|----------------|-------------------|------------------------------|
+|Languages|Ruby, SQL|Javascript, CSS, HTML, jQuery|Python, Go|
+|Databases/ORMS|PostGresQL, ActiveRecord|DataMapper|                 |
+|Frameworks|Sinatra, Ruby on Rails, AngularJS|  |                       |
+|Testing|RSpec, Capybara|FactoryGirl |Jasmine, Poltergeist, Karma, Protractor|
+|Other|Version control through Github,  Agile methodologies|Heroku deployment| |
+
+
 ## Skills
 
 #### Online Marketing
