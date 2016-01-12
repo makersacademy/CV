@@ -1,8 +1,5 @@
 Chuka Ebi
 ================
-Formerly a hardware fanatic
-
-You can read more about my journey through Makers on my [blog](www.niccipell.wordpress.com).
 
 Code Examples
 -------------
@@ -17,7 +14,7 @@ Technical Skills and Technologies
 ---------------------------------
 | |Strong|Know|Touched on|
 |---------|----------------|-------------------|------------------------------|
-|Languages|Ruby, Javascript|Java, C, CSS3, HTML5, jQuery|C++, Coffeescript, Python, Objective-C| 
+|Languages|Ruby, Javascript|Java, C, CSS3, HTML5, jQuery|C++, Coffeescript, Python, Objective-C|
 |Databases/ORMS|PostGresQL, DataMapper, Firebase|ActiveRecord, MongoDB|  Parse               |
 |Frameworks|Sinatra, Ruby on Rails, AngularJS,Ionic|Node.js, Express.js|                       |
 |Testing|RSpec, Jasmine, Capybara|Karma, Protractor||
