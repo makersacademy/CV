@@ -1,48 +1,59 @@
-## Your Name
+Chuka Ebi
+================
+Formerly a hardware fanatic
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+You can read more about my journey through Makers on my [blog](www.niccipell.wordpress.com).
 
-## Skills
+Code Examples
+-------------
+|Project Name | Description |
+|-------------|-------------|
+|[daily-review-app](https://github.com/ChukaEbi/daily_review_app)|An application for Makers Academy that consists of a simple form for students to fill, which is then fed to a real-time dashboard for the coaches to analyze the information. Built using AngularJS and Firebase|
+|[GymBuddy](https://github.com/ChukaEbi/GymBuddy)| GymBuddy is a mobile phone application which looks for a potential gym partner dependent on factors specified by the user. Built using Ionic, AngularJS Firebase, and Google Maps API .
+|[daily-review-slackbot](https://github.com/ChukaEbi/daily-review-slackbot)|A bot designed to alert students when it's time to fill the form for the [daily-review-app](https://github.com/ChukaEbi/daily_review_app). BUilt using NodeJS.|
+|[StudentDB](https://github.com/ChukaEbi/quizJava)|A Java program which creates a quiz and administers it.
 
-#### This Skill
+Technical Skills and Technologies
+---------------------------------
+| |Strong|Know|Touched on|
+|---------|----------------|-------------------|------------------------------|
+|Languages|Ruby, Javascript|Java, C, CSS3, HTML5, jQuery|C++, Coffeescript, Python, Objective-C| 
+|Databases/ORMS|PostGresQL, DataMapper, Firebase|ActiveRecord, MongoDB|  Parse               |
+|Frameworks|Sinatra, Ruby on Rails, AngularJS,Ionic|Node.js, Express.js|                       |
+|Testing|RSpec, Jasmine, Capybara|Karma, Protractor||
+|Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Education
+---------
+#### Makers Academy, London (October 2015 - January 2016)
+Highly selective 12 week intensive coding bootcamp.
+- Focussed on pair programming, test driven development, agile practices
+- Object oriented programming, software design
+- Full stack web development
+- Final project: GymBuddy - a mobile app for more social method of connecting with a gym partner.
 
-- Experience
-- Achievements
-- Evidence
+#### Worcester Polytechnic Institute, Worcester, MA, USA (August 2011 - May 2015)
+BSc in Electrical and Computer Engineering, GPA: 3.7/4.0 <br />
+Minor in Entrepreneurship
 
-#### Another Skill
+Work Experience
+---------------
+**Technology Intern**, SAP Abuja: May 2013 - August 2013  
+Worked closely with the client (Nigerian National Petroleum Company). Built Server Portals for both NNPC and SAP staff for communication Troubleshot and maintained the existing servers as a method of redundancy
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+**Consultant Intern**, Inflakes Technologies: July 2014 - August 2014
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+RMaintenance of the integrated systems of land and rail clients. Organized Workshop and Conference. iOS Mobile Application development and identified solutions for the clients.
 
-## Education
 
-#### Makers Academy (start_date to end_date)
+Interests
+---------
+I love Table-Tennis(I have a vicious smash), A rookie yogi, Avid basketball player and book lover.
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+More about me
+-------------
+- Email: [chuka.ebi@outlook.com](chuka.ebi@outlook.com)
+- Phone: 07958247294
+- Github: [@ChukaEbi](https://github.com/ChukaEbi)
+- Twitter: [@rossxebi](https://twitter.com/rossxebi)
+- LinkedIn: https://www.linkedin.com/in/chuka-ebi-43675995
