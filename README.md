@@ -43,20 +43,26 @@ Now looking to advance and sharpen my coding skills as a junior backend develope
 
 ## Experience
 
-**Student.com** (December 2014 to August 2015)
-*Head of PPC - International Markets*
+**Student.com**
+- Head of PPC - International Markets
+- *December 2014 to August 2015*
 
-**Adzuna** (June 2012 to December 2014)
-*Online Marketing Manager*
+**Adzuna**
+- Online Marketing Manager
+- *June 2012 to December 2014*
 
-**SapnaSolutions** (August 2010 to April 2012)
-*Head of Operations*
+**SapnaSolutions**
+- Head of Operations
+- *August 2010 to April 2012*
 
-**t'azur** (April 2008 to July 2010)
-*Business Analyst*
 
-**Goldman Sachs** (June 2006 to August 2006)
-*IBD Summer Intern*
+**t'azur**
+- Business Analyst
+- *April 2008 to July 2010*
+
+**Goldman Sachs**
+- IBD Summer Intern
+- *June 2006 to August 2006*
 
 ## Other Interests
 
