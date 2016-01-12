@@ -17,14 +17,14 @@ In the future I will ideally be leading software development teams using Agile S
 
 ## Skills
 
-I am a Certified Scrum Master, project manager and software developer.
+I am a Certified Scrum Master, Agile Product Owner, Project Manager and software developer.
 
-#### Examples of my recent work
+#### Examples of my recent development work
 
 | Name                                   | Description                     |        Technology        |
 |--------------------------------------- | ------------------------------- | -------------------------|
-|[Bands Near U](https://github.com/youngmanr/original_sound_track) | Web app to discover local muscians and preview their music | javascript, JQuery, JSON, Bootstrap, heroku |
-|[tescoin](https://github.com/youngmanr/tescoin)| Search for Tesco on-line groceries and display results priced in bitcoins | jQuery, Bootstrap, angular, Node, heroku
+|[BandsNearU](https://github.com/youngmanr/original_sound_track) | Web app to discover local muscians and preview their music | javascript, JQuery, JSON, Bootstrap, heroku |
+|[tescoin](https://github.com/youngmanr/tescoin)| Search for Tesco on-line groceries and display results priced in bitcoins | jQuery, Bootstrap, AngularJS, Node, heroku
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -45,12 +45,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy October 2015 - January 2016
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+Learning web development skills
+- OOP, TDD, SOLID, MVC, Responsive Design
+- Ruby, Rails, Javascript, Node.js, AngularJS, Mongo
+- Rspec, Sinatra, Jasmine, Capybara
+- Bootstrap, HTML5, CSS
+- Git, GitHub
 
 #### Univerisity of Leeds 1979 - 1982
 
