@@ -23,7 +23,7 @@ I am a Certified Scrum Master, Agile Product Owner, Project Manager and software
 
 | Name                                   | Description                     |        Technology        |
 |--------------------------------------- | ------------------------------- | -------------------------|
-|[BandsNearU](https://github.com/youngmanr/original_sound_track) | Web app to discover local muscians and preview their music | javascript, JQuery, JSON, Bootstrap, heroku |
+|[BandsNearU](https://github.com/youngmanr/original_sound_track) | Responsive web app that discovers local muscians, thier biography, news and previews their music streamed from Spotify | javascript, JQuery, JSON, Bootstrap, heroku |
 |[tescoin](https://github.com/youngmanr/tescoin)| Search for Tesco on-line groceries and display results priced in bitcoins | jQuery, Bootstrap, AngularJS, Node, heroku
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
