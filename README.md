@@ -1,10 +1,29 @@
-## Your Name
+## Robert Youngman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Agile Scrum enthusiast with more the 7 years experience using agile to deliver
+complex software development projects. Experienced Certified Scrum Master, Agile Product
+Owner and Software Development Manager.
+
+After recenty being made redundant when my employer moved product development offshore
+and closed the Bristol development center, I decided I needed a technology refresh to
+learn the most used web development technologies. I have previously managed app development
+projects for iOS and android but I wanted  to learn full stack development as well as
+TTD techniques and tools.
+
+I have managed scrum development teams geographically distributed across the USA, Europe and
+India. My last project involved 13 scrum teams working on a single software release.
+
+In the future I will ideally be leading software development teams using Agile Scrum. I'm skilled at planning and getting the most from software development teams using Agile methodology.
 
 ## Skills
 
-#### This Skill
+I am a Certified Scrum Master, project manager and software developer.
+
+#### Examples of my recent work
+
+| Name                                   | Description                     |        Technology        |
+|--------------------------------------- | ------------------------------- | -------------------------|
+|[Bands Near U](https://whispering-bastion-4572.herokuapp.com/) | Web app to discover local bands | javascript, JQuery, JSON |
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,7 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy October 2015 - January 2016
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +51,36 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Univerisity of Leeds 1979 - 1982
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BSc Honours Degree
+- Computation Science
+- Grade 2.1
 
-#### Any other qualifications
+#### University West of England
+
+- Diploma in Management Studies
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**SAP (UK) Ltd 2012 - 2014**
+*Agile Development Manager*
+
+**Sybase (UK) Ltd 2005 - 2012**
+*Project Manager*
+
+**Extended Systems 2000 - 2012**
+*Software R&D Manager*
+*European Professional Services Manager*
+*Project Manager*
+
+**Cap Gemini 1998 - 2000**
+*Senior Consultant*
+
+**ST Microelectronics 1987 - 1998**
+*Software Applications Engineer*
+*Software Development Manager*
+
+**Inmos 1982 - 1987 **
+*Software Development Manager*
+*Software Engineer*
