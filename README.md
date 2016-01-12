@@ -16,7 +16,7 @@ Technical Skills and Technologies
 |---------|----------------|-------------------|------------------------------|
 |Languages|Ruby, Javascript|Java, C, CSS3, HTML5, jQuery|C++, Coffeescript, Python, Objective-C|
 |Databases/ORMS|PostGresQL, DataMapper, Firebase|ActiveRecord, MongoDB|  Parse               |
-|Frameworks|Sinatra, Ruby on Rails, AngularJS,Ionic|Node.js, Express.js|                       |
+|Frameworks|Sinatra, Node.js,Ruby on Rails, AngularJS,Ionic, Bootstrap|Express.js|                       |
 |Testing|RSpec, Jasmine, Capybara|Karma, Protractor||
 |Other|Version control through Github|Heroku deployment, Agile methodologies| |
 
@@ -27,7 +27,7 @@ Highly selective 12 week intensive coding bootcamp.
 - Focussed on pair programming, test driven development, agile practices
 - Object oriented programming, software design
 - Full stack web development
-- Final project: GymBuddy - a mobile app for more social method of connecting with a gym partner.
+- Final project: GymBuddy - a mobile app gym goers to better connect with each other..
 
 #### Worcester Polytechnic Institute, Worcester, MA, USA (August 2011 - May 2015)
 BSc in Electrical and Computer Engineering, GPA: 3.7/4.0 <br />
@@ -45,7 +45,7 @@ RMaintenance of the integrated systems of land and rail clients. Organized Works
 
 Interests
 ---------
-I love Table-Tennis(I have a vicious smash), A rookie yogi, Avid basketball player and book lover.
+I love Table-Tennis(I have a vicious smash), yoga, basketball and books of a fantastical nature.
 
 More about me
 -------------
