@@ -23,7 +23,8 @@ I am a Certified Scrum Master, project manager and software developer.
 
 | Name                                   | Description                     |        Technology        |
 |--------------------------------------- | ------------------------------- | -------------------------|
-|[Bands Near U](https://whispering-bastion-4572.herokuapp.com/) | Web app to discover local bands | javascript, JQuery, JSON |
+|[Bands Near U](https://github.com/youngmanr/original_sound_track) | Web app to discover local muscians and preview their music | javascript, JQuery, JSON, Bootstrap, heroku |
+|[tescoin](https://github.com/youngmanr/tescoin)| Search for Tesco on-line groceries and display results priced in bitcoins | jQuery, Bootstrap, angular, Node, heroku
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -54,7 +55,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Univerisity of Leeds 1979 - 1982
 
 - BSc Honours Degree
-- Computation Science
+- Computational Science
 - Grade 2.1
 
 #### University West of England
@@ -64,23 +65,33 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **SAP (UK) Ltd 2012 - 2014**
-*Agile Development Manager*
+
+*Agile Software Development Manager*
 
 **Sybase (UK) Ltd 2005 - 2012**
+
 *Project Manager*
 
 **Extended Systems 2000 - 2012**
+
 *Software R&D Manager*
+
 *European Professional Services Manager*
+
 *Project Manager*
 
 **Cap Gemini 1998 - 2000**
+
 *Senior Consultant*
 
 **ST Microelectronics 1987 - 1998**
+
 *Software Applications Engineer*
+
 *Software Development Manager*
 
 **Inmos 1982 - 1987 **
+
 *Software Development Manager*
+
 *Software Engineer*
