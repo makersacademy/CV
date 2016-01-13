@@ -2,7 +2,7 @@
 
 An online marketer with an electrical engineering degree and startup experience in the UK, India, and Bahrain.
 
-Most recent achievements are instigating and driving demand side growth at two online marketplaces on a global basis ([student.com](https://www.student.com/) and [adzuna.co.uk](https://www.adzuna.co.uk/)).
+Most recent achievements are instigating and driving demand side growth at two online marketplaces on a global basis ([student.com] and [adzuna.co.uk]).
 
 Now looking to advance and sharpen my coding skills as a junior backend developer (although I can work on the front end too) at a company that promotes TDD in an Agile environment.
 
@@ -11,12 +11,12 @@ Now looking to advance and sharpen my coding skills as a junior backend develope
 
 ### Online Marketing
 
-##### Student.com
+##### [Student.com](https://www.student.com/)
 ###### Head of International PPC - *December 2014 to August 2015*
 - first online marketing hire and brought search engine marketing in-house from an agency as part of the company's relaunch under the Student.com brand.
 - worked with Localisation team to set up search campaigns across 13 languages targeting users on a global basis, resulting in bookings from 50+ countries.
 
-##### Adzuna.co.uk
+##### [Adzuna.co.uk](https://www.adzuna.co.uk/)
 ###### Online Marketing Manager - *June 2012 to December 2014*
 - oversaw 10x growth in revenue and traffic over two years through ramping digital marketing spend to ~£200k per month across Search, Social, Retargeting and Syndication partnership channels.
 - built out Adwords accounts and conducted ROI optimisations to cater for growing traffic demands, and sourced and cultivated syndication partnerships across multiple territories. These two channels accounted for a significant proportion of Adzuna's overall traffic profile.
