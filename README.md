@@ -4,42 +4,34 @@ Agile Scrum enthusiast with more the 7 years experience using agile to deliver
 complex software development projects. Experienced Certified Scrum Master, Agile Product
 Owner and Software Development Manager.
 
-After recenty being made redundant when my employer moved product development offshore
-and closed the Bristol development center, I decided I needed a technology refresh to
-learn the most used web development technologies. I have previously managed app development
-projects for iOS and android but I wanted  to learn full stack development as well as
-TTD techniques and tools.
+After recenty being made redundant when my employer moved product development
+offshore and closed the Bristol development center, I decided I needed a
+technology refresh tolearn the most used web development technologies. I have
+previously managed app development projects for iOS and android but I wanted
+to learn full stack development, TDD techniques and tools.
 
-I have managed scrum development teams geographically distributed across the USA, Europe and
-India. My last project involved 13 scrum teams working on a single software release.
+I have managed scrum development teams geographically distributed across the
+USA, Europe and India. My last project involved 13 scrum teams working on a
+single software release.
 
-In the future I will ideally be leading software development teams using Agile Scrum. I'm skilled at planning and getting the most from software development teams using Agile methodology.
+In the future I will ideally be leading software development teams using Agile
+Scrum. I'm skilled at planning and getting the most from software development
+teams by using Agile methodology.
 
 ## Skills
 
-I am a Certified Scrum Master, Agile Product Owner, Project Manager and software developer.
+I am a Certified Scrum Master, Agile Product Owner, Project Manager and
+software developer.
 
-#### Examples of my recent development work
+#### Examples of my recent development work at Makers Academy
 
 | Name                                   | Description                     |        Technology        |
 |--------------------------------------- | ------------------------------- | -------------------------|
-|[BandsNearU](https://github.com/youngmanr/original_sound_track) | Responsive web app that discovers local muscians, thier biography, news and previews their music streamed from Spotify | javascript, JQuery, JSON, Bootstrap, heroku |
-|[tescoin](https://github.com/youngmanr/tescoin)| Search for Tesco on-line groceries and display results priced in bitcoins | jQuery, Bootstrap, AngularJS, Node, heroku
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+|[BandsNearU](https://github.com/youngmanr/original_sound_track) | Responsive web app that discovers local muscians based on the device location, displays the bands biography and news, displays local musical events, previews muscians music streamed from Spotify | javascript, JQuery, JSON, Bootstrap, heroku |
+|[tescoin](https://github.com/youngmanr/tescoin)| Search Tesco on-line grocery catalog for items and display results priced in bitcoins | jQuery, Bootstrap, AngularJS, Node.js, heroku|
+|[Instagram Clone](https://github.com/youngmanr/instagram-challenge)| An instagram clone| Ruby, Rails, RSpec, Amazon Web Services|
+|[toDo](https://github.com/youngmanr/todo_challenge)| To Do list | AngularJS, Protractor, solenium,  Node.js|
+|[Petal](https://github.com/youngmanr/petal)| Mood tracking | javascript, Node.js, Express, MongoDB|
 
 ## Education
 
@@ -58,7 +50,7 @@ Learning web development skills
 - Computational Science
 - Grade 2.1
 
-#### University West of England
+#### University West of England 1989 - 1990
 
 - Diploma in Management Studies
 
