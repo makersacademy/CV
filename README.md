@@ -1,6 +1,6 @@
 ## Ivan Sathianathan
 
-An electrical engineering grad and online marketer with startup experience in the UK, India, and Bahrain.
+An online marketer with an electrical engineering degree and startup experience in the UK, India, and Bahrain.
 
 Most recent achievements are instigating and driving demand side growth at two online marketplaces on a global basis ([student.com](https://www.student.com/) and [adzuna.co.uk](https://www.adzuna.co.uk/)).
 
