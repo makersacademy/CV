@@ -23,11 +23,11 @@ teams by using Agile methodology.
 I am a Certified Scrum Master, Agile Product Owner, Project Manager and
 software developer.
 
-#### Examples of my recent development work at Makers Academy
+## Examples of my recent development work at Makers Academy
 
 | Name                                   | Description                     |        Technology        |
 |--------------------------------------- | ------------------------------- | -------------------------|
-|[BandsNearU](https://github.com/youngmanr/original_sound_track) | Responsive web app that discovers local muscians based on the device location, displays the bands biography and news, displays local musical events, previews muscians music streamed from Spotify. Looks great on iOS and Android devices as well as desktop | javascript, JQuery, JSON, Bootstrap, heroku |
+|[BandsNearU](https://github.com/youngmanr/original_sound_track) | Responsive web app that discovers local muscians based on the device location, displays the bands biography and news, displays local musical events, previews muscians music streamed from Spotify. **Looks great on iOS and Android devices as well as desktop****| javascript, JQuery, JSON, Bootstrap, heroku |
 |[tescoin](https://github.com/youngmanr/tescoin)| Search Tesco on-line grocery catalog for items and display results priced in bitcoins | jQuery, Bootstrap, AngularJS, Node.js, heroku|
 |[Instagram Clone](https://github.com/youngmanr/instagram-challenge)| An instagram clone| Ruby, Rails, RSpec, Amazon Web Services|
 |[toDo](https://github.com/youngmanr/todo_challenge)| To Do list | AngularJS, Protractor, solenium,  Node.js|
