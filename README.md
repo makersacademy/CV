@@ -2,9 +2,9 @@
 
 An online marketer with an electrical engineering degree and startup experience in the UK, India, and Bahrain.
 
-Most recent achievements are instigating and driving demand side growth at two online marketplaces on a global basis ([student.com] and [adzuna.co.uk]).
+Most recent achievements are instigating and driving demand side growth at two online marketplaces on a global basis.
 
-Now looking to advance and sharpen my coding skills as a junior backend developer (although I can work on the front end too) at a company that promotes TDD in an Agile environment.
+Now looking to advance and sharpen my coding skills as a junior full stack developer with a focus on backend technologies at a company that promotes TDD in an Agile environment.
 
 
 ## Skills & Experience
@@ -39,7 +39,7 @@ Now looking to advance and sharpen my coding skills as a junior backend develope
 
 #### Makers Academy (September 2015 to January 2016)
 
-[Check out my final project.](https://github.com/ivan-sathianathan/FantasyOffside)
+Check out my [final project](https://github.com/ivan-sathianathan/FantasyOffside), a site for fantasy football enthusiasts. We created a Rails API hooked to an Angular front-end styled with Bootstrap. 
 
 #### Imperial College, London (October 2003 - July 2007)
 
