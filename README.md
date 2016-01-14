@@ -1,12 +1,12 @@
 ## Robert Youngman
 
-Agile Scrum enthusiast with more the 7 years experience using agile to deliver
+Agile Scrum enthusiast with more than 7 years experience using agile to deliver
 complex software development projects. Experienced Certified Scrum Master, Agile Product
 Owner and Software Development Manager.
 
 After recenty being made redundant when my employer moved product development
 offshore and closed the Bristol development center, I decided I needed a
-technology refresh tolearn the most used web development technologies. I have
+technology refresh to learn the most used web development technologies. I have
 previously managed app development projects for iOS and android but I wanted
 to learn full stack development, TDD techniques and tools.
 
@@ -25,13 +25,13 @@ software developer.
 
 ## Examples of my recent development work at Makers Academy
 
-| Name                                   | Description                     |        Technology        |
-|--------------------------------------- | ------------------------------- | -------------------------|
-|[BandsNearU](https://github.com/youngmanr/original_sound_track) | Responsive web app that discovers local muscians based on the device location, displays the bands biography and news, displays local musical events, previews muscians music streamed from Spotify. **Looks great on iOS and Android devices as well as desktop****| javascript, JQuery, JSON, Bootstrap, heroku |
-|[tescoin](https://github.com/youngmanr/tescoin)| Search Tesco on-line grocery catalog for items and display results priced in bitcoins | jQuery, Bootstrap, AngularJS, Node.js, heroku|
-|[Instagram Clone](https://github.com/youngmanr/instagram-challenge)| An instagram clone| Ruby, Rails, RSpec, Amazon Web Services|
-|[toDo](https://github.com/youngmanr/todo_challenge)| To Do list | AngularJS, Protractor, solenium,  Node.js|
-|[Petal](https://github.com/youngmanr/petal)| Mood tracking | javascript, Node.js, Express, MongoDB|
+Name | Description | Technology
+------------ | ------------------------ | ------------ |
+[BandsNearU](https://github.com/youngmanr/original_sound_track) | Responsive web app. Looks great on mobile and desktop devices | javascript, JQuery, JSON, Bootstrap, heroku 
+[tescoin](https://github.com/youngmanr/tescoin)| Search Tesco on-line grocery catalog for items and display results priced in bitcoins | jQuery, Bootstrap, AngularJS, Node.js, heroku
+[Instagram Clone](https://github.com/youngmanr/instagram-challenge)| An instagram clone| Ruby, Rails, RSpec, Amazon Web Services
+[toDo](https://github.com/youngmanr/todo_challenge)| To Do list | AngularJS, Protractor, solenium,  Node.js
+[Petal](https://github.com/youngmanr/petal)| Mood tracking | javascript, Node.js, Express, MongoDB
 
 ## Education
 
@@ -82,7 +82,7 @@ Learning web development skills
 
 *Software Development Manager*
 
-**Inmos 1982 - 1987 **
+**Inmos 1982 - 1987**
 
 *Software Development Manager*
 
