@@ -27,11 +27,11 @@ software developer.
 
 Name | Description | Technology
 ------------ | ------------------------ | ------------ |
-[BandsNearU](https://github.com/youngmanr/original_sound_track) | Responsive web app. Looks great on mobile and desktop devices | javascript, JQuery, JSON, Bootstrap, heroku 
-[tescoin](https://github.com/youngmanr/tescoin)| Search Tesco on-line grocery catalog for items and display results priced in bitcoins | jQuery, Bootstrap, AngularJS, Node.js, heroku
-[Instagram Clone](https://github.com/youngmanr/instagram-challenge)| An instagram clone| Ruby, Rails, RSpec, Amazon Web Services
-[toDo](https://github.com/youngmanr/todo_challenge)| To Do list | AngularJS, Protractor, solenium,  Node.js
-[Petal](https://github.com/youngmanr/petal)| Mood tracking | javascript, Node.js, Express, MongoDB
+[BandsNearU](https://github.com/youngmanr/original_sound_track) | Responsive web app. Looks great on mobile and desktop devices. Streams music from local musicians. | javascript, JQuery, JSON, Bootstrap, heroku 
+[tescoin](https://github.com/youngmanr/tescoin)| Search Tesco on-line grocery catalog for items and display results priced in bitcoins. | jQuery, Bootstrap, AngularJS, Node.js, heroku
+[Instagram Clone](https://github.com/youngmanr/instagram-challenge)| An instagram clone. | Ruby, Rails, RSpec, Amazon Web Services
+[toDo](https://github.com/youngmanr/todo_challenge)| To Do app. | AngularJS, Protractor, solenium,  Node.js
+[Petal](https://github.com/youngmanr/petal)| Mood tracking app. | javascript, Node.js, Express, MongoDB
 
 ## Education
 
