@@ -1,4 +1,4 @@
-## Robert Youngman
+## Robert Youngman (develop)
 
 Agile Scrum enthusiast with more than 7 years experience using agile to deliver
 complex software development projects. Experienced Certified Scrum Master, Agile Product
@@ -27,7 +27,7 @@ software developer.
 
 Name | Description | Technology
 ------------ | ------------------------ | ------------ |
-[BandsNearU](https://github.com/youngmanr/original_sound_track) | Responsive web app. Looks great on mobile and desktop devices. Streams music from local musicians. | javascript, JQuery, JSON, Bootstrap, heroku 
+[BandsNearU](https://github.com/youngmanr/original_sound_track) | Responsive web app. Looks great on mobile and desktop devices. Streams music from local musicians. | javascript, JQuery, JSON, Bootstrap, heroku
 [tescoin](https://github.com/youngmanr/tescoin)| Search Tesco on-line grocery catalog for items and display results priced in bitcoins. | jQuery, Bootstrap, AngularJS, Node.js, heroku
 [Instagram Clone](https://github.com/youngmanr/instagram-challenge)| An instagram clone. | Ruby, Rails, RSpec, Amazon Web Services
 [toDo](https://github.com/youngmanr/todo_challenge)| To Do app. | AngularJS, Protractor, solenium,  Node.js
