@@ -51,11 +51,11 @@ In the future I will ideally be leading software development teams using Agile.
 
 **Sybase (UK) Ltd 2005 - 2012**
 
-*Project Manager*
+*Software Development Manager*
 
-**Extended Systems 2000 - 2012**
+**Extended Systems 2000 - 2005**
 
-*Software R&D Manager*
+*Software Development Manager*
 
 *European Professional Services Manager*
 
@@ -67,9 +67,9 @@ In the future I will ideally be leading software development teams using Agile.
 
 **ST Microelectronics 1987 - 1998**
 
-*Software Applications Engineer*
-
 *Software Development Manager*
+
+*Software Applications Engineer*
 
 **Inmos 1982 - 1987**
 
