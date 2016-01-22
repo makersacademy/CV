@@ -1,28 +1,28 @@
 ## Meads Chalcroft
 ##### GitHub version of CV: https://github.com/meads58/CV
 ##### LinkedIn: [Meads Chalcroft](https://uk.linkedin.com/in/meadschalcroft)
-Software Development is my passion and the perfect role give me a platform to innovate, continuous learn alongside smart, fun people who enjoy their job and teamwork.  As a former software tester I also bring an additional skill set to further assist in the the delivery of functioning software. It is a must to be within a company that backs their employees to deliver outstanding solutions.
+Software Development is my passion and the perfect role will give me a platform to innovate, deliver solutions and continuously learn alongside smart, fun people who enjoy their job.  As a former software tester I also bring an additional skill set to further assist in the the delivery of functioning software. It is a must to be within a company that backs their employees to deliver outstanding solutions and.
 
 ### Skills for the job
-#### Web Developer
+#### Software Engineer
 A fast learner of new technologies who thoroughly enjoys being challenged.
 
 * Ruby on Rails:
-  - Fullstack Rails developer at Zopa. Day-to-day work covered morning standups, develop requirements, design, test and implement features, fix bugs, frontend design and implementation with HTML/CSS, refactoring and promotions to UAT.
-  - Implemented background jobs using sidekiq to automate pdf letter generation and a queueing system. Resulted in a a significant performance gain and decoupled pdf generation out into its own area, adding new letters is significantly easier.
-  - Moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Created a makefile so the team could spin up dev, testing and staging environments with a single command.
+  - Fullstack Rails developer at Zopa. In a team of 3 developers we designed and implement a replacement debt collection system for defaulted loans. A typical day involves morning standups, showcasing to users and requirements gathering, design, pair programming, bug fixing, frontend design and implementation with HTML/CSS, refactoring code and promotions to UAT with GIT and Jenkins CI.
+  - An innovation I implemented was to automate all pdf letter generation with sidekiq as the queueing system for these background jobs. This resulted in a a significant performance gain and decoupled pdf generation out into its own area, adding new letter templates is also significantly easier.
+  - I moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Also created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is we can test our code using the exact same set up as production.
 * C#.net and Javascript experience on smaller projects.
 * Testing and TDD:
-  - My 9 years of Software Testing has equipt with  curiosity, attention to detail, in the construction of test scenarios from a technical and end user view points. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
+  - My 9 years of Software Testing has equipt with curiosity, attention to detail and how to envisage business scenarios. This greatly aided me in the construction of test scenarios from a technical and end user view points for both unit and end-to-end tests. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
   - Strong TDD culture at Zopa and used Rspec and BDD with Capybara for testing.
 * DevOps mindset:
   - Proactive to find ways to help other teams so we can continuously deploy. Added in logging to our Rails app for splunk logging, hipchat notification from jenkins on build statuses and a Docker, Vagrant, Puppet and Artifactory for our project's configuration management solution.
-  - Working deployment solutions using Docker, Vagrant, Puppet, Octopus, Jenkins and Artifactory tools. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
+  - Worked in the platform team a on deployment solutions using Docker, Vagrant, Puppet, Octopus, Jenkins and Artifactory tools for the legacy systems at Zopa. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
 
 #### Communication
 Excellent, clear and concise communication skills.
 * Pair programming:
-  - Keen Zopa to quickly build up knowledge of the system code base and for reviewing code which successfully speeded up the release process.
+  - Zopa to quickly build up knowledge of the system code base and for reviewing code which successfully speeded up the release process.
 * Business and Developer communication:
   - Excellent skills at bridging the communication gap between business and technical audiences built form the years spent as a tester liaising between developers and business users.
 * Question asking:
@@ -65,7 +65,7 @@ Breaking down problems into manageable chunks, attention to detail and designing
 - Rspec, Jasmine, Capybara, Protractor, Cucumber.
 - Final project: [Proximibee](https://arcane-citadel-3693.herokuapp.com). Beacon network for customisable shopping from your phone.
 
-#### Otago University - 1998 to 2002
+#### Otago University
 - BSc Information Science
 - BCom Management
 
