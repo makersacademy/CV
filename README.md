@@ -1,40 +1,40 @@
 ## Meads Chalcroft
 ##### GitHub version of CV: https://github.com/meads58/CV
 ##### LinkedIn: [Meads Chalcroft](https://uk.linkedin.com/in/meadschalcroft)
-A Junior Web Developer pursuing a successful career in software engineering after a past life as a software tester.
-
-The perfect role would push for innovation, continuous learning and teamwork alongside smart, fun people who enjoy their job. Must be within a company that backs their employees to deliver outstanding solutions.
+Software Development is my passion and the perfect role will give me a platform to innovate, deliver solutions and continuously learn alongside smart, fun people who enjoy their job.  As a former software tester I also bring an additional skill set to further assist in the the delivery of functioning software. It is a must to be within a company that backs their employees to deliver outstanding solutions and.
 
 ### Skills for the job
-#### Web Developer
+#### Software Engineer
 A fast learner of new technologies who thoroughly enjoys being challenged.
 
 * Ruby on Rails:
-  - Fullstack developer at Zopa implementing a Rails web app in Ruby, Postgres, CSS/HTML, Docker, Git and Redis/Sidekiq.
+  - Full Stack Rails developer at Zopa. Working in team of 3 developers we designed and implement a replacement debt collection system for defaulted loans. A typical day involves morning stand-ups, showcasing to users and requirements gathering, design, pair programming, bug fixing, front-end design and implementation with HTML/CSS, refactoring code and promotions to UAT with GIT and Jenkins CI.
+  - An innovation I implemented was to automate all pdf letter generation with sidekiq as the queueing system for these background jobs. This resulted in a significant performance gain and decoupled pdf generation out into its own area, adding new letter templates is now significantly easier.
+  - I moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Also created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is we can test our code using the exact same set up as production.
 * C#.net and Javascript experience on smaller projects.
 * Testing and TDD:
-  - Exceptional attention to detail from 9 years of Software Testing in the construction of test scenarios. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
+  - My 9 years of Software Testing has equip with curiosity, attention to detail and how to envisage business scenarios. This greatly aided me in the construction of test scenarios from a technical and end user view points for both unit and end-to-end tests. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
   - Strong TDD culture at Zopa and used Rspec and BDD with Capybara for testing.
-* DevOps:
-  - Implemented Docker containers for the deployment of the Debt Collection application at Zopa.
-  - Working deployment solutions using Docker, Vagrant, Puppet, Octopus, Jenkins and Artifactory tools. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
+* DevOps mindset:
+  - Proactive to find ways to help other teams so we can continuously deploy. Added in logging to our Rails app for splunk logging, hipchat notification from jenkins on build statuses and Docker, Vagrant, Puppet and Artifactory for our project's configuration management solution.
+  - Worked in the platform team a on deployment solutions using Docker, Vagrant, Puppet, Octopus, Jenkins and Artifactory tools for the legacy systems at Zopa. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
 
 #### Communication
 Excellent, clear and concise communication skills.
 * Pair programming:
-  - Used at Zopa to quickly build up knowledge of the system code base and for reviewing code which successfully speeded up the release process.
+  - I enjoy pairing with other developers and at Zopa it helped me quickly build up system knowledge, hear new ideas and write better code. Also the constant reviewing of each others code sped up the release process.
 * Business and Developer communication:
-  - Excellent skills at bridging the communication gap between business and technical audiences form the years spent as a tester liaising between developers and business users.
+  - Excellent skills at bridging the communication gap between business and technical audiences built form the years spent as a tester liaising between developers and business users.
 * Question asking:
-  - Not afraid to ask for clarification early on, which ensures focus is set to solve the correct problems.
+  - Not afraid to ask for clarification early on and , which ensures focus is set to solve the correct problems.
 
 #### Problem Solving
 Breaking down problems into manageable chunks, attention to detail and designing solutions that integrate well.
 
 * Define the problem:
-  - Define the problem, break it down and look for any potential issues downstream. An exmaple at Zopa was the creation a process flow diagram for the new debt collection application. This served as the delivery road map clearly showing upstream and down stream dependencies for each step which was expanded out and coded for.
+  - Define the problem, break it down and look for any potential issues downstream. An example at Zopa was the creation a process flow diagram for the new debt collection application. This served as the delivery road map clearly showing upstream and down stream dependencies for each step which was expanded out and coded for.
 * Innovation:
-  -  Looking to improve/refactor code for a genuine benefit. Example at Zopa with an opportunity to add needed flexibility of the 'on hold' feature. Instead of a solution to pause the Sidekiq queue, the queue time was made adjustable. This gave the users added flexibility for individual cases and also allowed them to simulate a full work flow in UAT.
+  -  Looking to improve/re-factor code for a genuine benefit. Example at Zopa with an opportunity to add needed flexibility of the 'on hold' feature. Instead of a solution to pause the Sidekiq queue, the queue time was made adjustable. This gave the users added flexibility for individual cases and also allowed them to simulate a full work flow in UAT.
 * Planning and Design:
   - The [Battleship project](https://github.com/meads58/battleships/tree/master/lib)  project shows how the single responsibility principle was used to design the system. Achieved a clear understanding of building applications up from small manageable chunks to solve a specific problem led to making, maintaining and adding features easier.
 
@@ -65,13 +65,13 @@ Breaking down problems into manageable chunks, attention to detail and designing
 - Rspec, Jasmine, Capybara, Protractor, Cucumber.
 - Final project: [Proximibee](https://arcane-citadel-3693.herokuapp.com). Beacon network for customisable shopping from your phone.
 
-#### Otago University - 1998 to 2002
+#### Otago University
 - BSc Information Science
 - BCom Management
 
 ## Experience
-* __Zopa__, July 2015 - present, Web Developer.
-  - Web developer working on both the front and back end to turn the current debt collection process into an online web application. Also picking up DevOps projects to standardise deployments with Docker containers, Vagrant and Artifactory tools.
+* __Zopa__, July 2015 - present, Junior Software Engineer.
+  - Working on both the front and back end to turn the current debt collection process into an online web application. Also picking up DevOps projects to standardise deployments with Docker containers, Vagrant and Artifactory tools.
 * __Barings Asset Management__, March 2014 - February 2015, System Test Analyst.
   - End to end testing of their financial systems. Worked directly with Business Analysts and Developers providing a quick feedback loop for the test status of new features and bug fixes.
 * __Barclays Bank__, July 2013 - December 2013, Analyst - Contractor.
