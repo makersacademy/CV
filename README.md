@@ -8,8 +8,8 @@ Software Development is my passion and the perfect role will give me a platform 
 A fast learner of new technologies who thoroughly enjoys being challenged.
 
 * Ruby on Rails:
-  - Fullstack Rails developer at Zopa. Working in team of 3 developers we designed and implement a replacement debt collection system for defaulted loans. A typical day involves morning standups, showcasing to users and requirements gathering, design, pair programming, bug fixing, frontend design and implementation with HTML/CSS, refactoring code and promotions to UAT with GIT and Jenkins CI.
-  - An innovation I implemented was to automate all pdf letter generation with sidekiq as the queuing system for these background jobs. This resulted in a significant performance gain and decoupled pdf generation out into its own area, adding new letter templates is now significantly easier.
+  - Full Stack Rails developer at Zopa. Working in team of 3 developers we designed and implement a replacement debt collection system for defaulted loans. A typical day involves morning stand-ups, showcasing to users and requirements gathering, design, pair programming, bug fixing, front-end design and implementation with HTML/CSS, refactoring code and promotions to UAT with GIT and Jenkins CI.
+  - An innovation I implemented was to automate all pdf letter generation with sidekiq as the queueing system for these background jobs. This resulted in a significant performance gain and decoupled pdf generation out into its own area, adding new letter templates is now significantly easier.
   - I moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Also created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is we can test our code using the exact same set up as production.
 * C#.net and Javascript experience on smaller projects.
 * Testing and TDD:
