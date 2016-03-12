@@ -1,28 +1,28 @@
 ## Meads Chalcroft
 ##### GitHub version of CV: https://github.com/meads58/CV
 ##### LinkedIn: [Meads Chalcroft](https://uk.linkedin.com/in/meadschalcroft)
-Software Development is my passion and the perfect role will give me a platform to innovate, deliver solutions and continuously learn alongside smart, fun people who enjoy their job.  As a former software tester I also bring an additional skill set to further assist in the the delivery of functioning software. It is a must to be within a company that backs their employees to deliver outstanding solutions and.
+A former Software Tester that is now a passionate Software Engineer who brings a unique skill set in a wealth of IT project experience. Not only technical skills but also understanding a complete system and the business needs from working directly with stakeholders and users at the .and  is my passion and the perfect role platform to innovate, deliver solutions and continuously learn alongside smart, fun people who enjoy their job.  A former software tester I bring an additional skill set to further assist in the the delivery of functioning software. It is a must to be within a company that backs their employees to deliver outstanding solutions and.
 
 ### Skills for the job
 #### Software Engineer
 A fast learner of new technologies who thoroughly enjoys being challenged.
 
 * Ruby on Rails:
-  - Full Stack Rails developer at Zopa. Working in team of 3 developers we designed and implement a replacement debt collection system for defaulted loans. A typical day involves morning stand-ups, showcasing to users and requirements gathering, design, pair programming, bug fixing, front-end design and implementation with HTML/CSS, refactoring code and promotions to UAT with GIT and Jenkins CI.
-  - An innovation I implemented was to automate all pdf letter generation with sidekiq as the queueing system for these background jobs. This resulted in a significant performance gain and decoupled pdf generation out into its own area, adding new letter templates is now significantly easier.
-  - I moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Also created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is we can test our code using the exact same set up as production.
+  - Full Stack Rails developer at Zopa. Working in an agile team of developers we designed and implement a replacement debt collection system for defaulted loans. A typical day involved a stand-up, showcasing to users and requirements gathering, design, pair programming, bug fixing, front-end design and implementation with HTML/CSS, refactoring code and promotions to UAT with GIT and Jenkins CI.
+  - A key solution I delivered was the implementation was to automate all pdf letter generation with sidekiq as the queueing system for these background jobs. This resulted in a significant performance gain and decoupled pdf generation out into its own area, adding new letter templates is now significantly easier.
+  - Moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Also created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is we can test our code using the exact same setup as production.
 * C#.net and Javascript experience on smaller projects.
 * Testing and TDD:
-  - My 9 years of Software Testing has equip with curiosity, attention to detail and how to envisage business scenarios. This greatly aided me in the construction of test scenarios from a technical and end user view points for both unit and end-to-end tests. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
-  - Strong TDD culture at Zopa and used Rspec and BDD with Capybara for testing.
+  - 9 years of Software Testing has given me hands on agile team experience, prioritisation . This greatly aided me in the construction of test scenarios from a technical and end user view points for both unit and end-to-end tests. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
+  - Strong TDD culture at Zopa and used Rspec and BDD with Capybara as the testing tools.
 * DevOps mindset:
   - Proactive to find ways to help other teams so we can continuously deploy. Added in logging to our Rails app for splunk logging, hipchat notification from jenkins on build statuses and Docker, Vagrant, Puppet and Artifactory for our project's configuration management solution.
-  - Worked in the platform team a on deployment solutions using Docker, Vagrant, Puppet, Octopus, Jenkins and Artifactory tools for the legacy systems at Zopa. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
+  - Worked in the platform team on deployment solutions using Docker, Vagrant, Puppet, Octopus, Jenkins and Artifactory tools for the legacy systems at Zopa. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
 
 #### Communication
 Excellent, clear and concise communication skills.
 * Pair programming:
-  - I enjoy pairing with other developers and at Zopa it helped me quickly build up system knowledge, hear new ideas and write better code. Also the constant reviewing of each others code sped up the release process.
+  - Enjoys pairing with other developers and at Zopa it helped to quickly build up system knowledge, hear new ideas and ultimately clear and correct code. Also the constant reviewing of each others code sped up the release process.
 * Business and Developer communication:
   - Excellent skills at bridging the communication gap between business and technical audiences built form the years spent as a tester liaising between developers and business users.
 * Question asking:
@@ -77,7 +77,7 @@ Breaking down problems into manageable chunks, attention to detail and designing
 * __Barclays Bank__, July 2013 - December 2013, Analyst - Contractor.
   - Data analytics writing SQL queries to track sanctioned payments as part of the anti-terrorism program.
 * __Trafigura Ltd__, March 2007 – March 2013, System Tester.
-  - Hugely successful time working in agile teams on their commodity trading systems to plan, write and execute tests for each upcoming sprint.   
+  - Hugely successful time working in agile teams on their commodity trading systems to plan, write and execute tests for each upcoming sprint.
 * Further work history on request.
 
 ## Interests
