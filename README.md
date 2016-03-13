@@ -8,15 +8,14 @@ A passionate Software Engineer who brings a unique and valuable IT skill set. Th
 A fast learner of new technologies who thoroughly enjoys being challenged.
 
 * Ruby on Rails:
-  - Full Stack Rails developer at Zopa. Working in an agile team we designed and implement a replacement debt collection system for defaulted loans. Comfortable working on front-end or back-end solutions .
+  - Full Stack Rails developer at Zopa. Working in an agile team we designed and implemented a replacement debt collection system for defaulted loans. Comfortable working on front-end or back-end solutions.
   - Delivered a solution with Sidekiq to run pdf letter generation as a background job. This resulted in a significant performance gain and decoupled pdf generation out into its own area, adding new letter templates is now significantly easier.
-  - Moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is we can test our code using the exact same setup as production.
+  - Moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is that we can test our code using the exact same setup as production.
 * Javascript experience, an example was to use AJAX to refresh a list of letters as they were created.
 * Pair programming:
   - Enjoys pairing with other developers and at Zopa it helped to quickly build up system knowledge, hear new ideas and ultimately clear and correct code. Also the constant reviewing of each others code sped up the release process.
-* Testing and TDD:
-  - 9 years of Software Testing has allowed for hands on agile team experience and to be involved in requirements gathering and final deployment to users. As a Software Engineer these end user/business insights helps in the construction of well focused unit and end-to-end tests. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
-  - Strong TDD culture at Zopa and used Rspec and BDD with Capybara as the testing tools.
+* Test Driven Development:
+  - 9 years of Software Testing has allowed for hands on involvement in requirements gathering and final deployment to end users. As a Software Engineer these end user/business insights help in the construction of well focused Rspec unit tests and Capybara end-to-end tests to then code from. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
 * DevOps mindset:
   - Proactive to find ways to help other teams so we can continuously deploy. Added in logging to our Rails app for splunk logging, hipchat notification from jenkins on build statuses and Docker, Vagrant, Puppet and Artifactory for our project's configuration management solution.
   - Worked in the platform team on deployment solutions using Docker, Vagrant, Puppet, Octopus, Jenkins and Artifactory tools for the legacy systems at Zopa. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
