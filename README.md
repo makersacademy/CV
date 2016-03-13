@@ -8,7 +8,7 @@ A passionate Software Engineer who brings a unique and valuable IT skill set. Th
 A fast learner of new technologies who thoroughly enjoys being challenged.
 
 * Ruby on Rails:
-  - Full Stack Rails developer at Zopa. Working in an agile team we designed and implemented a replacement debt collection system for defaulted loans. Comfortable working on front-end or back-end solutions.
+  - Full Stack Rails developer at Zopa. Worked in an agile team that designed and implemented a replacement debt collection system for defaulted loans. Comfortable working on front-end or back-end solutions.
   - Delivered a solution with Sidekiq to run pdf letter generation as a background job. This resulted in a significant performance gain and decoupled pdf generation out into its own area, adding new letter templates is now significantly easier.
   - Moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is that we can test our code using the exact same setup as production.
 * Javascript experience, an example was to use AJAX to refresh a list of letters as they were created.
