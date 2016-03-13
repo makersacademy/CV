@@ -13,7 +13,7 @@ A fast learner of new technologies who thoroughly enjoys being challenged.
   - Moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is that we can test our code using the exact same setup as production.
 * Javascript experience, an example was to use AJAX to refresh a list of letters as they were created.
 * Pair programming:
-  - Enjoys pairing with other developers and at Zopa it helped to quickly build up system knowledge, hear new ideas and ultimately clear and correct code. Also the constant reviewing of each others code sped up the release process.
+  - Enjoys pairing with other developers and at Zopa this helped to quickly build up system knowledge, hear new ideas and ultimately produce clear and correct code. Also the constant reviewing of each others code sped up the release process.
 * Test Driven Development:
   - 9 years of Software Testing has allowed for hands on involvement in requirements gathering and final deployment to end users. As a Software Engineer these end user/business insights help in the construction of well focused Rspec unit tests and Capybara end-to-end tests to then code from. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
 * DevOps mindset:
