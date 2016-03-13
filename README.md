@@ -1,19 +1,21 @@
 ## Meads Chalcroft
 ##### GitHub version of CV: https://github.com/meads58/CV
-##### LinkedIn: [Meads Chalcroft](https://uk.linkedin.com/in/meadschalcroft)
-A former Software Tester that is now a passionate Software Engineer who brings a unique skill set in a wealth of IT project experience. Not only technical skills but also understanding a complete system and the business needs from working directly with stakeholders and users at the .and  is my passion and the perfect role platform to innovate, deliver solutions and continuously learn alongside smart, fun people who enjoy their job.  A former software tester I bring an additional skill set to further assist in the the delivery of functioning software. It is a must to be within a company that backs their employees to deliver outstanding solutions and.
+##### LinkedIn: [Meads Chalcroft](https://nz.linkedin.com/in/meadschalcroft)
+A passionate Software Engineer who brings a unique and valuable IT skill set. This is through a combination of proven technical skills delivering web solutions with Rails and a wealth of IT project experience and communication skills from being a Software Tester of 9 years.
 
 ### Skills for the job
 #### Software Engineer
 A fast learner of new technologies who thoroughly enjoys being challenged.
 
 * Ruby on Rails:
-  - Full Stack Rails developer at Zopa. Working in an agile team of developers we designed and implement a replacement debt collection system for defaulted loans. A typical day involved a stand-up, showcasing to users and requirements gathering, design, pair programming, bug fixing, front-end design and implementation with HTML/CSS, refactoring code and promotions to UAT with GIT and Jenkins CI.
-  - A key solution I delivered was the implementation was to automate all pdf letter generation with sidekiq as the queueing system for these background jobs. This resulted in a significant performance gain and decoupled pdf generation out into its own area, adding new letter templates is now significantly easier.
-  - Moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Also created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is we can test our code using the exact same setup as production.
-* C#.net and Javascript experience on smaller projects.
+  - Full Stack Rails developer at Zopa. Working in an agile team we designed and implement a replacement debt collection system for defaulted loans. Comfortable working on front-end or back-end solutions .
+  - Delivered a solution with Sidekiq to run pdf letter generation as a background job. This resulted in a significant performance gain and decoupled pdf generation out into its own area, adding new letter templates is now significantly easier.
+  - Moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is we can test our code using the exact same setup as production.
+* Javascript experience, an example was to use AJAX to refresh a list of letters as they were created.
+* Pair programming:
+  - Enjoys pairing with other developers and at Zopa it helped to quickly build up system knowledge, hear new ideas and ultimately clear and correct code. Also the constant reviewing of each others code sped up the release process.
 * Testing and TDD:
-  - 9 years of Software Testing has given me hands on agile team experience, prioritisation . This greatly aided me in the construction of test scenarios from a technical and end user view points for both unit and end-to-end tests. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
+  - 9 years of Software Testing has allowed for hands on agile team experience and to be involved in requirements gathering and final deployment to users. As a Software Engineer these end user/business insights helps in the construction of well focused unit and end-to-end tests. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
   - Strong TDD culture at Zopa and used Rspec and BDD with Capybara as the testing tools.
 * DevOps mindset:
   - Proactive to find ways to help other teams so we can continuously deploy. Added in logging to our Rails app for splunk logging, hipchat notification from jenkins on build statuses and Docker, Vagrant, Puppet and Artifactory for our project's configuration management solution.
@@ -21,23 +23,20 @@ A fast learner of new technologies who thoroughly enjoys being challenged.
 
 #### Communication
 Excellent, clear and concise communication skills.
-* Pair programming:
-  - Enjoys pairing with other developers and at Zopa it helped to quickly build up system knowledge, hear new ideas and ultimately clear and correct code. Also the constant reviewing of each others code sped up the release process.
 * Business and Developer communication:
   - Excellent skills at bridging the communication gap between business and technical audiences built form the years spent as a tester liaising between developers and business users.
 * Question asking:
-  - Not afraid to ask for clarification early on and , which ensures focus is set to solve the correct problems.
+  - Not afraid to ask for clarification early on which ensures focus is set to solve the correct problems.
 
 #### Problem Solving
 Breaking down problems into manageable chunks, attention to detail and designing solutions that integrate well.
 
 * Define the problem:
-  - Define the problem, break it down and look for any potential issues downstream. An example at Zopa was the creation a process flow diagram for the new debt collection application. This served as the delivery road map clearly showing upstream and down stream dependencies for each step which was expanded out and coded for.
+  - Define the problem, break it down and look for any potential issues downstream. An example at Zopa was the creation of our process flow diagram for the new debt collection application. This served as the delivery road map, clearly showing upstream and down stream dependencies for each step which was expanded out and coded for.
 * Innovation:
   -  Looking to improve/re-factor code for a genuine benefit. Example at Zopa with an opportunity to add needed flexibility of the 'on hold' feature. Instead of a solution to pause the Sidekiq queue, the queue time was made adjustable. This gave the users added flexibility for individual cases and also allowed them to simulate a full work flow in UAT.
 * Planning and Design:
   - The [Battleship project](https://github.com/meads58/battleships/tree/master/lib)  project shows how the single responsibility principle was used to design the system. Achieved a clear understanding of building applications up from small manageable chunks to solve a specific problem led to making, maintaining and adding features easier.
-
 
 #### Coding Examples
 <table table-layout=fixed width=100%>
@@ -57,7 +56,7 @@ Breaking down problems into manageable chunks, attention to detail and designing
 
 ## Education
 
-#### Makers Academy February cohort 2015
+#### Makers Academy February - May 2015
 - Independent learner and problem-solver.
 - OOP, TDD, MVC.
 - Software Engineering.
@@ -70,7 +69,7 @@ Breaking down problems into manageable chunks, attention to detail and designing
 - BCom Management
 
 ## Experience
-* __Zopa__, July 2015 - present, Junior Software Engineer.
+* __Zopa__, July 2015 - February 2016, Junior Software Engineer.
   - Working on both the front and back end to turn the current debt collection process into an online web application. Also picking up DevOps projects to standardise deployments with Docker containers, Vagrant and Artifactory tools.
 * __Barings Asset Management__, March 2014 - February 2015, System Test Analyst.
   - End to end testing of their financial systems. Worked directly with Business Analysts and Developers providing a quick feedback loop for the test status of new features and bug fixes.
