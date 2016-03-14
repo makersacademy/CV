@@ -1,14 +1,14 @@
 ## Meads Chalcroft
 ##### GitHub version of CV: https://github.com/meads58/CV
 ##### LinkedIn: [Meads Chalcroft](https://nz.linkedin.com/in/meadschalcroft)
-A passionate Software Engineer who brings a unique and valuable IT skill set. This is through a combination of proven technical skills delivering web solutions with Rails and a wealth of IT project experience and communication skills from being a Software Tester of 9 years. The perfect role offers technically challenging problems, have a strong team ethos and be in a fun company that fosters growth to being a better Software Engineer.
+A passionate Software Engineer who brings a unique and valuable IT skill set. Through a combination of proven technical skills delivering web solutions with Rails and a wealth of IT project experience and communication skills from being a Software Tester of 9 years. The perfect role offers technically challenging problems, has a strong team ethos and in a fun company that fosters growth to being a better Software Engineer.
 
 ### Skills for the job
 #### Software Engineer
 A fast learner of new technologies who thoroughly enjoys being challenged.
 
 * Ruby on Rails:
-  - Full Stack Rails developer at Zopa. Worked in an agile team that designed and implemented a replacement debt collection system for defaulted loans. Comfortable working on front-end or back-end solutions.
+  - Full Stack Rails developer at Zopa. Worked in an agile team that designed and implemented a replacement debt collection system for defaulted loans. Worked on both front-end and back-end solutions using Rails, Postgres, HTML, CSS and Javascript.
   - Delivered a solution with Sidekiq to run pdf letter generation as a background job. This resulted in a significant performance gain and decoupled pdf generation out into its own area, adding new letter templates is now significantly easier.
   - Moved the whole application (NginX, PSQL, Redis and the Rails app) into Docker containers which made deployments extremely easy. Created a makefile so the team could spin up dev, testing and staging environments with a single command. A major benefit is that we can test our code using the exact same setup as production.
 * Javascript experience, an example was to use AJAX to refresh a list of letters as they were created.
