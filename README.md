@@ -1,7 +1,7 @@
 ## Meads Chalcroft
 ##### GitHub version of CV: https://github.com/meads58/CV
 ##### LinkedIn: [Meads Chalcroft](https://nz.linkedin.com/in/meadschalcroft)
-A passionate Software Engineer who brings a unique and valuable IT skill set. This is through a combination of proven technical skills delivering web solutions with Rails and a wealth of IT project experience and communication skills from being a Software Tester of 9 years.
+A passionate Software Engineer who brings a unique and valuable IT skill set. This is through a combination of proven technical skills delivering web solutions with Rails and a wealth of IT project experience and communication skills from being a Software Tester of 9 years. The perfect role offers technically challenging problems, have a strong team ethos and be in a fun company that fosters growth to being a better Software Engineer.
 
 ### Skills for the job
 #### Software Engineer
@@ -17,7 +17,7 @@ A fast learner of new technologies who thoroughly enjoys being challenged.
 * Test Driven Development:
   - 9 years of Software Testing has allowed for hands on involvement in requirements gathering and final deployment to end users. As a Software Engineer these end user/business insights help in the construction of well focused Rspec unit tests and Capybara end-to-end tests to then code from. Coding example with Rspec tests  [best-rate loan matcher](https://github.com/meads58/best_rate)
 * DevOps mindset:
-  - Proactive to find ways to help other teams so we can continuously deploy. Added in logging to our Rails app for splunk logging, hipchat notification from jenkins on build statuses and Docker, Vagrant, Puppet and Artifactory for our project's configuration management solution.
+  - Proactive to find ways to help other teams so we can continuously deploy. Added in logging to our Rails app for Splunk logging, Hipchat notification from Jenkins on build statuses and Docker, Vagrant, Puppet and Artifactory for our project's configuration management solution.
   - Worked in the platform team on deployment solutions using Docker, Vagrant, Puppet, Octopus, Jenkins and Artifactory tools for the legacy systems at Zopa. This will allow for a quick spin up of identical environments on any machine and the removal of bottlenecks in the current deployment process.
 
 #### Communication
@@ -61,7 +61,6 @@ Breaking down problems into manageable chunks, attention to detail and designing
 - Software Engineering.
 - Git, Ruby, Rails, Javascript, HTML, CSS, Node.js, Express.js, Angular.js.
 - Rspec, Jasmine, Capybara, Protractor, Cucumber.
-- Final project: [Proximibee](https://arcane-citadel-3693.herokuapp.com). Beacon network for customisable shopping from your phone.
 
 #### Otago University
 - BSc Information Science
