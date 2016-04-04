@@ -1,6 +1,6 @@
 ## Godfrey Got-Wai Chiu
 
-'A white belt wearing junior software developer whose passion for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to the Software Craftsmanship manifesto, as well as all things related to Agile and Extreme programming. I was fortunate to be selected to vlog my Maker's journey which you can view at [Ronin by Makers Academy - Youtube](https://www.youtube.com/playlist?list=PLc4BYny7PXeQLLdl_meucEyKl8K9sI0SV).
+'A white belt wearing junior software developer whose love for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to the Software Craftsmanship manifesto, as well as all things related to Agile and Extreme programming. I was fortunate to be selected to vlog my Maker's journey which you can view at [Ronin by Makers Academy - Youtube](https://www.youtube.com/playlist?list=PLc4BYny7PXeQLLdl_meucEyKl8K9sI0SV).
 
 ## Skills
 
