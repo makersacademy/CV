@@ -7,24 +7,24 @@ A Junior Software Developer by passion, a media Tv multi-skilled technical opera
 |---|---|---|
 | A Ruby on Rails + AngularJs CRUD web app that allow users to add recipes, videos, ingredientes and much more, with a powerful search engine. It was a team-based final project at [@makersacademy](https://github.com/makersacademy).| A Ruby on Rails + AngularJs web app that include a mini AWS3 created by myself. | Replica AirBnB app using a Ruby on Rails backend and AngularJS frontend. |
 
+####Skills
+* __Languages & Databases__: Ruby 2, Ruby on Rails, JavaScript, NodeJS, AngularJS, jQuery, Ajax, HTML5 & ERB, Postgres SQL, Datamapper.
+* __Testing__: Rspec, Jasmine, Capybara, Factory Girl, Protractor, Karma.
+* __Web__: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Paperclip).
+
 ####[Makers Academy, London](http://www.makersacademy.com)
 **Student, December 2015 - April 2016**
 * A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby.
 * Emphasises test-driven, object-oriented, software design and development.
 * Uses agile methodology, pair programming, and team projects to teach industry best practices.
 
-####Skills
-* __Languages & Databases__: Ruby 2, Ruby on Rails, JavaScript, NodeJS, AngularJS, jQuery, Ajax, HTML5 & ERB, Postgres SQL, Datamapper.
-* __Testing__: Rspec, Jasmine, Capybara, Factory Girl, Protractor, Karma.
-* __Web__: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Paperclip).
-
-###Education
+###Other Education
 -------------
 
 |       Dates          |        Institution         		|            Subjects                     |
 | :-------------------:|:----------------------------------:| :--------------------------------------:|
 | Dec 15 - April 16    | Makers Academy                		| Junior Software Developer				  |
-| Sept 04 - Jun 07     | Guancha Media School               | Tv and Films                            |
+| Sept 04 - Jun 07     | Guancha Media                      | Degree in Films and Tv                  |
 | Jun 09               | international tv films school cuba | Short film screenwriter				  |
 
 
