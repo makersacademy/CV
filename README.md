@@ -1,48 +1,47 @@
-## Your Name
+## Godfrey Got-Wai Chiu
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+'A white belt wearing junior software developer whose passion for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to all things Agile and Extreme programming, self-improvement and Kaizen. 
 
 ## Skills
 
-#### This Skill
+#### Online Poker - Cash Games Specialist
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Preferring to fly under the radar, I made a lucrative career by playing upto 24 tables simultaneously at the mid-stakes cash games on PokerStars.com between 2009 and 2015. My success is due to an intense work ethic and continously improving my strategy through analysis of opponents, focusing on maximizing expected value in frequent scenarios.
 
-- Experience
-- Achievements
-- Evidence
+- Over 10 million real money hands played on PokerStars.com
+- Five consecutive years as a SuperNova Elite, the highest VIP tier on PokerStars.com
+- Inducted in PokerStars VIP Club Hall of Fame 
+- Lifetime winnings *undisclosed*
 
-#### Another Skill
+#### Technical Service Management
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Technical Service Manager for a Tier One Investment Bank, handling Equities, Fixed Income, Derivatives and lower order business. Responsible for the day to day running of operations and reporting of these businesses to local and global management.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Responsible for driving efficiency improvements through optimising and documenting workflow processes for datacenter access, vendor RMA, client project requests and change management practices.
+- Implemented OTRS helpdesk system to improve tracking of issues and incidents, and provisioning of statistics for monthly reporting in accordance with client SLAs.
+- Managed several high impacting incidents including providing on-call support, following through to resolution with Root Cause Analysis.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Jan 2016 to Apr 2016)
 
+- [Produced weekly video blog for Ronin](https://www.youtube.com/user/makersacademy)
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, JavaScript, Node.js, Angular.js
+- Rspec, Jasmine, Protractor
 
-#### Your University / College (start_date to end_date)
+#### Imperial College London (Oct 2000 to June 2004)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
+- MSci Physics
+- 2:1 with Honours
+- MSci Project: 'The Structure, Origin and Evolution of Solar Wind Interaction Regions During Solar Maximum', utilising MATLAB as the primary data analysis tool.
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Computer Sciences Corporation, CSC** (May 2006 to May 2008)    
+*Technical Service Manager*  
+**Computer Sciences Corporation, CSC** (Sept 2004 to May 2006)   
+*Infrastructure Server Engineer*  
