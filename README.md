@@ -18,6 +18,16 @@ A Junior Software Developer by passion, a media Tv multi-skilled technical opera
 * __Testing__: Rspec, Jasmine, Capybara, Factory Girl, Protractor, Karma.
 * __Web__: Websockets, Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Paperclip).
 
+###Education
+-------------
+
+|       Dates          |        Institution         		|            Subjects                     |
+| :-------------------:|:----------------------------------:| :--------------------------------------:|
+| Dec 15 - April 16    | Makers Academy                		| Junior Software Developer				  |
+| Sept 04 - Jun 07     | Guancha Media School               | Tv and Films                            |
+| Jun 09               | international tv films school cuba | Short film screenwriter				  |
+
+
 ###Experience
 -------------
 
