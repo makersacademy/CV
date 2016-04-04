@@ -1,6 +1,6 @@
 ## Godfrey Got-Wai Chiu
 
-'A white belt wearing junior software developer whose passion for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to all things Agile and Extreme programming, self-improvement and Kaizen. 
+'A white belt wearing junior software developer whose passion for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to the Software Craftsmanship manifesto, as well as all things related to Agile and Extreme programming. I was fortunate to be selected to vlog my Maker's journey which you can view at [Ronin by Makers Academy - Youtube](https://www.youtube.com/playlist?list=PLc4BYny7PXeQLLdl_meucEyKl8K9sI0SV).
 
 ## Skills
 
@@ -13,7 +13,7 @@ Preferring to fly under the radar, I made a lucrative career by playing upto 24 
 - Inducted in PokerStars VIP Club Hall of Fame 
 - Lifetime winnings *undisclosed*
 
-#### Technical Service Management
+#### Infrastructure Service Management
 
 Technical Service Manager for a Tier One Investment Bank, handling Equities, Fixed Income, Derivatives and lower order business. Responsible for the day to day running of operations and reporting of these businesses to local and global management.
 
@@ -23,13 +23,13 @@ Technical Service Manager for a Tier One Investment Bank, handling Equities, Fix
 
 ## Education
 
-#### Makers Academy (Jan 2016 to Apr 2016)
+#### Makers Academy - Ronin (Jan 2016 to Apr 2016)
 
 - [Produced weekly video blog for Ronin](https://www.youtube.com/user/makersacademy)
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC
-- Software Craftsmanship
+- Further developed my problem-solving skills
+- Object-Orientated Programming, Test Driven Development, SOLID Principles
+- Software Craftsmanship and Extreme Programming
+- Agile Methodologies
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Protractor
 
