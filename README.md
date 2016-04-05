@@ -27,9 +27,9 @@ Preferring to fly under the radar, I made a lucrative career by playing upto 24 
 
 Technical Service Manager for a Tier One Investment Bank, handling Equities, Fixed Income, Derivatives and lower order business. Responsible for the day to day running of operations and reporting of these businesses to local and global management.
 
-- Responsible for driving efficiency improvements through optimising and documenting workflow processes for datacenter access, vendor RMA, client project requests and change management practices.
-- Implemented OTRS helpdesk system to improve tracking of issues and incidents, and provisioning of statistics for monthly reporting in accordance with client SLAs.
-- Managed several high impacting incidents including providing on-call support, following through to resolution with Root Cause Analysis.
+- Responsible for driving efficiency improvements through optimising and documenting workflow processes for datacenter access, vendor RMA, client project requests and change management practices
+- Implemented OTRS helpdesk system to improve tracking of issues and incidents, and provisioning of statistics for monthly reporting in accordance with client SLAs
+- Managed several high impacting incidents including providing on-call support, following through to resolution with Root Cause Analysis
 
 ## Education
 
