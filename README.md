@@ -7,13 +7,13 @@
 
 #### Web Development
 
-Having just graduated from Europe's top coding bootcamp, I believe I'm ready for the next stage of my journey, to apply my newly gained skills in a healthy and productive work environment. Some of the projects I've been working on during my time as a Ronin student at Makers:
+Having just graduated from Europe's top coding bootcamp, I believe I'm ready for the next stage of my journey, to apply my newly gained skills in a healthy and productive work environment. Below are just a handful of the many awesome projects I've been working on during my time as a Ronin student at [Makers Academy](http://www.makersacademy.com/employers/):
 
 | Link: | Description: | Technology Stack: |
 |---|---|---|
 |[Roadtripper](https://github.com/ggwc82/road_tripper) | Makers Academy final project. A responsive web app for users to share their road trip experiences | Rails, JavaScript, jQuery, GoogleMaps API, AWS, Heroku, RSpec, Capybara |
 |[Github_clone](https://github.com/ggwc82/github_clone) | A user profile search tool built in AngularJS with json calls to Github API | AngularJs, Github API, Heroku, Protractor, Karma, Sinatra |
-|[Instagram_clone](https://github.com/ggwc82/instagram-challenge) | Weekend challenge to rebuild Instagram in Rails | Rails, jQuery, AWS, Heroku, Rspec, Capybara |
+|[Rock-Paper-Scissors](https://github.com/ggwc82/rps-challenge) | Traditional or extended rules (Spock, Lizard), with multiplayer...take your pick! | Ruby, Sinatra, Rspec, Capybara |
 
 #### Online Poker - Cash Games Specialist
 
