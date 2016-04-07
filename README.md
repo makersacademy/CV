@@ -16,7 +16,7 @@ Although my career in web development has just begun, I have a solid foundation 
 
 #### Consultancy
 
-During my five year career at a high-end business consultancy, I worked on a team that advised clients on high-risk business engagements all over the world, as well as on cyber security best practice (where I discovered my love of programming). I prided myself on my ability work with absolutely anyone and on my drive to constantly improve and come out of my comfort zone. I also developed an analytical/problem-solving approach to the way I work.
+During my five year career at a high-end business consultancy, I worked on a team that advised clients on high-risk business engagements all over the world, as well as on cyber security best practice (where I discovered my love of programming). I prided myself on my ability to work with absolutely anyone, and on my drive to constantly improve and come out of my comfort zone. I also developed an analytical/problem-solving approach to the way I work.
 
 - During my time in the cyber security practice, the division grew from a side-project into the highest revenue-earning department at the company.
 - High experience in corporate/client engagements and project delivery.
@@ -28,17 +28,17 @@ During my five year career at a high-end business consultancy, I worked on a tea
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - Software Craftsmanship
-• Agile methodologies, BDD
-• Version control with Git and Github
-• Pair programming
-• Object­ oriented programming
-• Test Driven Development: Rspec, Capybara, Jasmine, Mocha, Selenium
-• Ruby, Ruby on Rails, Sinatra
-• JavaScript, jQuery, AJAX, Angular 1x,
-• Rapid deployment with Heroku and Amazon AWS
-• Relational Databases: PostgreSQL, ActiveRecord and Datamapper
-• HTML5, CSS3, HAML, SCSS, Bootstrap
-• APIs such as Twilio, GoogleMaps, Facebook...
+- Agile methodologies, BDD
+- Version control with Git and Github
+- Pair programming
+- Object­ oriented programming
+- Test Driven Development: Rspec, Capybara, Jasmine, Mocha, Selenium
+- Ruby, Ruby on Rails, Sinatra
+- JavaScript, jQuery, AJAX, Angular 1x,
+- Rapid deployment with Heroku and Amazon AWS
+- Relational Databases: PostgreSQL, ActiveRecord and Datamapper
+- HTML5, CSS3, HAML, SCSS, Bootstrap
+- APIs such as Twilio, GoogleMaps, Facebook...
 
 #### School of Oriental and African Studies, University of London (2009 - 2010)
 
