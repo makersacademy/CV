@@ -1,7 +1,5 @@
 ## Marcus Bullock
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
 I am an aspiring web developer with a passion for all things tech-related, and I have a background in music and foreign languages! After a five year career in the corporate consultancy sector, I decided to leave a secure and well paid job to pursue my passion and be able to love what I do. Initially, I am looking for roles as a junior developer at a tech company that prides itself on software development best-practice and can help me build on what I have already achieved.
 
 ## Skills
