@@ -25,9 +25,11 @@ A dreamer and impractical visionary who wants to go ahead and make it real anywa
 * Ruby, Rails, Javascript, Node.js, Angular.js
 * Rspec, Jasmine, Mocha
 
-#### University of Essex
+#### University of Essex (Oct 2001 - July 2004)
 
-* 
+* BA Hons. Psychology.
+* 2.2
+* Treasurer of the Role-playing Society for two years.
 
 ## Work
 
