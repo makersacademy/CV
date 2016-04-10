@@ -6,11 +6,27 @@ A dreamer and impractical visionary who wants to go ahead and make it real anywa
 
 #### Problem Solving
 
-#### 
+I have always enjoyed solving puzzles and problems and have become very adroit at doing so, particularly during my time	at Makers Academy.
 
-####
+* Regularly solved problems of information provision and dissemination amoung colleagues and service users in previous roles: created crib sheets and instructional documents to summarise key information, improving workflow efficiency.
 
-####
+* Practised solving myriad software development problems over the duration of the course at Makers Academy.  Worked with fellow cohort members to refactor and pass failing tests, configure test and development environments, and generate and develop project ideas, generating a broad variety of github repos.
+
+* 
+
+#### Imagination
+
+#### Gaming
+
+#### Analysis
+
+#### Planning
+
+#### Research
+
+#### Java
+
+#### Javascript
 
 #### Ruby
 
@@ -23,7 +39,7 @@ A dreamer and impractical visionary who wants to go ahead and make it real anywa
 * OOP, TDD, SOLID, MVC, DDD
 * Software Craftsmanship
 * Ruby, Rails, Javascript, Node.js, Angular.js
-* Rspec, Jasmine, Mocha
+* Rspec, Jasmine, Mocha-Chai
 
 #### University of Essex (Oct 2001 - July 2004)
 
