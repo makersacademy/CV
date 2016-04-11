@@ -13,7 +13,7 @@ Having just graduated from Europe's top coding bootcamp, I believe I'm ready for
 |---|---|---|
 |[Roadtripper](https://github.com/ggwc82/road_tripper) | Makers Academy final project - A responsive web application for users to share their road trip experiences | Rails, JavaScript, jQuery, GoogleMaps API, AWS, Heroku, RSpec, Capybara |
 |[Github_clone](https://github.com/ggwc82/github_clone) | A user profile search tool built in AngularJS with JSON calls to GitHub API | AngularJS, GitHub API, Heroku, Protractor, Karma, Sinatra |
-|[Rock-Paper-Scissors](https://github.com/ggwc82/rps-challenge) | Traditional or extended rules (Spock, Lizard), with multiplayer...take your pick! | Ruby, Sinatra, Rspec, Capybara |
+|[Rock-Paper-Scissors](https://github.com/ggwc82/rps-challenge) | Traditional or extended rules (Spock, Lizard), with multiplayer...take your pick! | Ruby, Sinatra, RSpec, Capybara |
 
 #### Infrastructure Service Management (2006-2008)
 
