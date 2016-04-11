@@ -9,11 +9,11 @@
 
 Having just graduated from Europe's top coding bootcamp, I believe I'm ready for the next stage of my journey, to apply my newly gained skills in a healthy and productive work environment. Below are just a handful of the many awesome projects I've been working on during my time as a Ronin student at [Makers Academy](http://bit.ly/1Mq87S1):
 
-|Link: | GitHub Repo: | Description: | Technology Stack: | Major Contributions: |
+|Live Demo: | GitHub Repo: | Description: | Technology Stack: | Major Contributions: |
 |---|---|---|---|---|
-|[Roadtripper on Heroku](http://bit.ly/1S1vPB3)|[Roadtripper Source Code](http://bit.ly/1StXBW5) | Makers Academy final project - A responsive web application for users to share their road trip experiences | Rails, JavaScript, jQuery, CSS BootStrap, GoogleMaps API, AWS, Heroku, RSpec, Capybara | Rails MVC configuration, implementation and writing RSpec feature tests  
-|[GitHub Viewer on Heroku](http://bit.ly/1TNano4)|[GitHub Viewer Source Code](http://bit.ly/1Q3oTkK) | A user profile search tool built in AngularJS with JSON calls to GitHub API | AngularJS, GitHub API, Heroku, Protractor, Karma, Sinatra, CSS | Contributions across the complete stack
-|[RPS on Heroku](http://bit.ly/23pzDqk)|[Rock-Paper-Scissors](http://bit.ly/1Wo1AcN) | Traditional or extended rules (Spock, Lizard), with multiplayer...take your pick! | Ruby, Sinatra, RSpec, Capybara | Personal project
+|[Roadtripper](http://bit.ly/1S1vPB3)|[Repo](http://bit.ly/1StXBW5) | Final project - A responsive web application for users to share their road trip experiences | Rails, JavaScript, jQuery, BootStrap, GoogleMaps API, AWS, Heroku, RSpec, Capybara | Rails MVC configuration, implementation and writing RSpec feature tests  
+|[GitHub Viewer](http://bit.ly/1TNano4)|[Repo](http://bit.ly/1Q3oTkK) | A user profile search tool built in AngularJS utilising GitHub API | AngularJS, GitHub API, Heroku, Protractor, Karma, Sinatra, CSS | Contributions across the complete stack
+|[Rock, Paper, Scissors](http://bit.ly/23pzDqk)|[Repo](http://bit.ly/1Wo1AcN) | Traditional or extended rules (Spock, Lizard) with multiplayer options | Ruby, Sinatra, RSpec, Capybara | Personal project
 
 #### Infrastructure Service Management (May 2006 - May 2008)
 
