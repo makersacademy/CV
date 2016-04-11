@@ -47,11 +47,13 @@ Preferring to fly under the radar, I forged a lucrative career by playing upto 2
 - Final Year Project: 'The Structure, Origin and Evolution of Solar Wind Interaction Regions During Solar Maximum', utilising MATLAB as the primary data analysis tool
 - Relevant courses: C++ Programming Laboratory, Microprocessors Laboratory
 - Undergraduate award for academic performance (2000)
+- Webmaster for 'AstroSoc' Astronomy Society (2001-2002)
 
 #### Bolton School Boys' Division (Sept 1998 - June 2000)
 
 - A-Levels: Mathematics (grade A), Physics (grade A), Chemistry (grade A), General Studies (grade A)
 - Bursary-assisted place for sixth-form studies (1998-2000)
+- IT Mentor to Beech House Infant School (1998-1999)
 
 ## Experience
 
