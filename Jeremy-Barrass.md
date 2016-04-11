@@ -6,7 +6,7 @@ A dreamer and impractical visionary who wants to go ahead and make it real anywa
 
 #### Problem Solving
 
-I have always enjoyed solving puzzles and problems and have become very adroit at doing so, particularly during my time	at Makers Academy.
+Enjoy solving puzzles and problems and have become very adroit at doing so, particularly during my time	at Makers Academy.
 
 * Regularly solved problems of information provision and dissemination amoung colleagues and service users in previous roles: created crib sheets and instructional documents to summarise key information, improving workflow efficiency.
 
@@ -14,9 +14,21 @@ I have always enjoyed solving puzzles and problems and have become very adroit a
 
 #### Imagination
 
-I have had a vibrant and colourful inner world
+For as long as I can remember, I have had a vibrant and colourful inner world, to both conquer and thought experiment in.
+
+* Wrote a short story in secondary school, which was highly commended in the W.H. Smith's Young Writer's Competition of 1996.
+
+* 
 
 #### Gaming
+
+Regularly engage in board games, computer games and pen-and-paper rpgs, promoting strategic thinking, conflict resolution and teamwork.
+
+* Play in a Pathfinder game with a gaming group I meet with every Tuesday.
+
+* Have run several one-off games in different systems for said gaming group.
+
+* Began playing Magic: the Gathering during my time at Maker's Academy.  Currently have two pre-built decks and one from a Sealed Deck event, all of which await further test games.
 
 #### Analysis
 
