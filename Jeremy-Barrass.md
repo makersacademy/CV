@@ -12,9 +12,9 @@ I have always enjoyed solving puzzles and problems and have become very adroit a
 
 * Practised solving myriad software development problems over the duration of the course at Makers Academy.  Worked with fellow cohort members to refactor and pass failing tests, configure test and development environments, and generate and develop project ideas, generating a broad variety of github repos.
 
-* 
-
 #### Imagination
+
+I have had a vibrant and colourful inner world
 
 #### Gaming
 
@@ -49,3 +49,23 @@ I have always enjoyed solving puzzles and problems and have become very adroit a
 
 ## Work
 
+**King's College Hospital** (Nov 2013 - Jan 2016)
+_Procurement Systems and Services Administrator_
+
+**Prospect Us** (Dec 2012 - Nov 2013)
+_Temporary Office Worker_
+
+**Queen Mary's University of London** (Oct - Nov 2012)
+_Unit Administrator_
+
+**Prospect Us** (Feb 2008 - Sept 2012)
+_Temporary Office Worker_
+
+**Overseas Courier Services (OCS) Worldwide** (Nov 2006 - Jan 2008)
+_Media Desk Operator_
+
+**Yunnan Tourism School** (Aug 2005 - June 2006)
+_Foreign Language Assistant_
+
+**Prospect Us** (Sept 2004 - July 2005)
+_Temporary Office Worker_
