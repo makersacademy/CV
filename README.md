@@ -1,19 +1,19 @@
 ## Godfrey Got-Wai Chiu
 [GitHub](https://github.com/ggwc82) | [E-mail](gotwai@gmail.com)
 
-'A white belt wearing junior software developer whose love for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to the Software Craftsmanship manifesto, as well as all things related to Agile and Extreme programming. I was fortunate to be selected to video blog my coding journey which you can view at [Ronin by Makers Academy - Youtube](https://www.youtube.com/playlist?list=PLc4BYny7PXeQLLdl_meucEyKl8K9sI0SV).
+'A white belt wearing junior software developer whose love for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to the Software Craftsmanship manifesto, as well as all things related to Agile and Extreme programming. I was fortunate to be selected to video blog my coding journey which you can view at [Ronin by Makers Academy - Youtube](http://bit.ly/1qKGkCf).
 
 ## Skills
 
 #### Web Development (2015 - present)
 
-Having just graduated from Europe's top coding bootcamp, I believe I'm ready for the next stage of my journey, to apply my newly gained skills in a healthy and productive work environment. Below are just a handful of the many awesome projects I've been working on during my time as a Ronin student at [Makers Academy](http://www.makersacademy.com/employers/):
+Having just graduated from Europe's top coding bootcamp, I believe I'm ready for the next stage of my journey, to apply my newly gained skills in a healthy and productive work environment. Below are just a handful of the many awesome projects I've been working on during my time as a Ronin student at [Makers Academy](http://bit.ly/1Mq87S1):
 
 |Link: | GitHub Repo: | Description: | Technology Stack: | Major Contributions: |
 |---|---|---|---|---|
-|[Roadtripper on Heroku](http://roadtripper-makers.herokuapp.com/)|[Roadtripper Source Code](https://github.com/ggwc82/road_tripper) | Makers Academy final project - A responsive web application for users to share their road trip experiences | Rails, JavaScript, jQuery, CSS BootStrap, GoogleMaps API, AWS, Heroku, RSpec, Capybara | Rails MVC configuration, implementation and writing RSpec feature tests  
-|[GitHub Viewer on Heroku](https://ronin-github-viewer.herokuapp.com/)|[GitHub Viewer Source Code](https://github.com/ggwc82/github_clone) | A user profile search tool built in AngularJS with JSON calls to GitHub API | AngularJS, GitHub API, Heroku, Protractor, Karma, Sinatra, CSS | Contributions across the complete stack
-|[RPS on Heroku](https://glacial-anchorage-29429.herokuapp.com/)|[Rock-Paper-Scissors](https://github.com/ggwc82/rps-challenge) | Traditional or extended rules (Spock, Lizard), with multiplayer...take your pick! | Ruby, Sinatra, RSpec, Capybara | Personal project
+|[Roadtripper on Heroku](http://bit.ly/1S1vPB3)|[Roadtripper Source Code](http://bit.ly/1StXBW5) | Makers Academy final project - A responsive web application for users to share their road trip experiences | Rails, JavaScript, jQuery, CSS BootStrap, GoogleMaps API, AWS, Heroku, RSpec, Capybara | Rails MVC configuration, implementation and writing RSpec feature tests  
+|[GitHub Viewer on Heroku](http://bit.ly/1TNano4)|[GitHub Viewer Source Code](http://bit.ly/1Q3oTkK) | A user profile search tool built in AngularJS with JSON calls to GitHub API | AngularJS, GitHub API, Heroku, Protractor, Karma, Sinatra, CSS | Contributions across the complete stack
+|[RPS on Heroku](http://bit.ly/23pzDqk)|[Rock-Paper-Scissors](http://bit.ly/1Wo1AcN) | Traditional or extended rules (Spock, Lizard), with multiplayer...take your pick! | Ruby, Sinatra, RSpec, Capybara | Personal project
 
 #### Infrastructure Service Management (May 2006 - May 2008)
 
