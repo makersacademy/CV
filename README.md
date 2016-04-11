@@ -10,7 +10,7 @@ During my five year career at a high-end business consultancy, I worked on a tea
 
 - After distinguishing myself as a junior analyst, I was promoted to a senior analyst position within a year.
 - I worked on 2 - 3 client engagements per week for FTSE 100 companies and high net worth individuals over a period of five years, indicating my drive and ability to work well within a team.
-- I worked across multiple practices at the company in a wide range of sectors and geographies, indicating my versatility and eagerness to come out of my comfort zone.
+- I worked across multiple practices at the company in a wide range of sectors and geographies, indicating my versatility and eagerness to venture into new territory.
 - During my time in the cyber security practice, the division grew from a side-project into the highest revenue-earning department at the company.
 - High experience in corporate/client engagements and project delivery.
 
