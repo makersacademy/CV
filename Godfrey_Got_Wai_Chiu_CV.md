@@ -17,7 +17,7 @@ Having just graduated from Europe's top coding bootcamp, I believe I'm ready for
 
 #### Online Poker - Cash Games Specialist (2009 - 2015)
 
-Preferring to fly under the radar, I forged a lucrative career by playing upto 24 tables simultaneously at the mid-stakes cash games on PokerStars.com. My success is due to an intense work ethic and continously reviewing and improving my strategy through analysis of opponents, focusing on maximizing expectation in the most frequent scenarios.
+Preferring to fly under the radar, I forged a lucrative career by playing up to 24 tables simultaneously at the mid-stakes cash games on PokerStars.com. My success is due to an intense work ethic and continously reviewing and improving my strategy through analysis of opponents, focusing on maximizing expectation in the most frequent scenarios.
 
 - Over 10 million real money hands played on PokerStars.com
 - Five consecutive years as a SuperNova Elite, the highest VIP tier on PokerStars.com
