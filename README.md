@@ -1,4 +1,4 @@
- ## Godfrey Got-Wai Chiu
+## Godfrey Got-Wai Chiu
 [GitHub](https://github.com/ggwc82) | [LinkedIn](https://uk.linkedin.com/in/godfreychiu) | [Blog](http://ggwc82.github.io/) |
 [gotwai@gmail.com](gotwai@gmail.com)
 
