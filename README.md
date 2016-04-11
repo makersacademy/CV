@@ -1,5 +1,5 @@
 ## Godfrey Got-Wai Chiu
-[GitHub](https://github.com/ggwc82) | [E-mail](gotwai@gmail.com)
+[GitHub](https://github.com/ggwc82) | [E-mail](gotwai@gmail.com) | [Mobile](07939976723)
 
 'A white belt wearing junior software developer whose love for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to the Software Craftsmanship manifesto, as well as all things related to Agile and Extreme programming. I was fortunate to be selected to video blog my coding journey which you can view at [Ronin by Makers Academy - Youtube](http://bit.ly/1qKGkCf).
 
@@ -11,9 +11,9 @@ Having just graduated from Europe's top coding bootcamp, I believe I'm ready for
 
 |Live Demo: | GitHub Repo: | Description: | Technology Stack: | Major Contributions: |
 |---|---|---|---|---|
-|[Roadtripper](http://bit.ly/1S1vPB3)|[Repo](http://bit.ly/1StXBW5) | Final project - A responsive web application for users to share their road trip experiences | Rails, JavaScript, jQuery, BootStrap, GoogleMaps API, AWS, Heroku, RSpec, Capybara | Rails MVC configuration, implementation and writing RSpec feature tests  
-|[GitHub Viewer](http://bit.ly/1TNano4)|[Repo](http://bit.ly/1Q3oTkK) | A user profile search tool built in AngularJS utilising GitHub API | AngularJS, GitHub API, Heroku, Protractor, Karma, Sinatra, CSS | Contributions across the complete stack
-|[Rock, Paper, Scissors](http://bit.ly/23pzDqk)|[Repo](http://bit.ly/1Wo1AcN) | Traditional or extended rules (Spock, Lizard) with multiplayer options | Ruby, Sinatra, RSpec, Capybara | Personal project
+|[Roadtripper](http://bit.ly/1S1vPB3)|[Roadtripper on GitHub](http://bit.ly/1StXBW5) | Final project - A responsive web application for users to share their road trip experiences | Rails, JavaScript, jQuery, BootStrap, GoogleMaps API, AWS, RSpec, Capybara | Rails MVC configuration, implementation and writing RSpec feature tests  
+|[GitHub Viewer](http://bit.ly/1TNano4)|[GitHub Viewer on GitHub](http://bit.ly/1Q3oTkK) | User profile search tool built with AngularJS utilising GitHub API | AngularJS, GitHub API, Protractor, Karma, Sinatra, CSS | Contributions across the complete stack
+|[Rock, Paper, Scissors](http://bit.ly/23pzDqk)|[RPS on GitHub](http://bit.ly/1Wo1AcN) | Traditional or extended rules (Spock, Lizard) with multiplayer options | Ruby, Sinatra, RSpec, Capybara | Personal project
 
 #### Infrastructure Service Management (May 2006 - May 2008)
 
