@@ -1,6 +1,6 @@
 ## Godfrey Got-Wai Chiu
 [GitHub](https://github.com/ggwc82) | [LinkedIn](https://uk.linkedin.com/in/godfreychiu) | [Blog](http://ggwc82.github.io/) |
-[gotwai@gmail.com](gotwai@gmail.com)
+[E-mail](gotwai@gmail.com)
 
 'A white belt wearing junior software developer whose love for technology was rekindled as a Ronin student at Makers Academy'. I subscribe to the Software Craftsmanship manifesto, as well as all things related to Agile and Extreme programming. I was fortunate to be selected to video blog my coding journey which you can view at [Ronin by Makers Academy - Youtube](https://www.youtube.com/playlist?list=PLc4BYny7PXeQLLdl_meucEyKl8K9sI0SV).
 
@@ -36,7 +36,6 @@ Preferring to fly under the radar, I forged a lucrative career by playing upto 2
 
 #### Makers Academy - Ronin (Dec 2015 - Apr 2016)
 
-- Produced weekly video blog for Ronin
 - Object-Orientated Programming, Model-View-Controller, Test Driven Development, SOLID Principles
 - Software Craftsmanship and Extreme Programming
 - Agile Methodologies
