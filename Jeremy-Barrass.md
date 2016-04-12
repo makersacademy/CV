@@ -28,9 +28,12 @@ Regularly engage in board games, computer games and pen-and-paper rpgs, promotin
 
 * Have run several one-off games in different systems for said gaming group.
 
-* Began playing Magic: the Gathering during my time at Maker's Academy.  Currently have two pre-built decks and one from a Sealed Deck event, all of which await further test games.
+* Began playing "Magic: the Gathering" during my time at Maker's Academy.  Currently have two pre-built decks and one from a Sealed Deck event, which I am in the process of testing.
 
 #### Analysis
+
+Can quickly and easily break processess and systems into components to better understand how the whole fits together.  
+
 
 #### Planning
 
