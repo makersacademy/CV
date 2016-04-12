@@ -34,18 +34,22 @@ Throughout my vocational career and recent coding boot camp, I have supported pe
 
 * Provision of information and instruction to end users formed one of the core functions of my role at **King's College Hospital**, enabling colleagues on my team to improve productivity in other areas of their work.
 
-#### Java
 
 ## Education
 
+#### Java
+
+Continuing self-directed learning via _Head First Java_ (Sierra & Bates, 2003).
+
 #### Makers Academy (January to April 2016)
 
-* Curiosity and hungry passion for code
-* Independent learner and problem-solver
-* OOP, TDD, SOLID, MVC, DDD
-* Software Craftsmanship
-* Ruby, Rails, Javascript, Node.js, Angular.js
-* Rspec, Jasmine, Mocha-Chai
+* The principles of OO design, SOLID and DDD
+* The tools to continue learning
+* True passion for TDD
+* How to break down problems and iterate solutions
+* Testing frameworks: Rspec, Jasmine, Mocha-Chai
+* Ruby, Javascript, Rails and MEAN stack
+* MVC and the journey of HTTP request-response cycles
 
 #### University of Essex (Oct 2001 - July 2004)
 
