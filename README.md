@@ -3,7 +3,7 @@
 jeremy.barrass@gmail.com
 [Github](https://github.com/Jeremy-Barrass) | [LinkedIn](https://uk.linkedin.com/in/jeremy-barrass-02237345)
 
-A dreamer and idealistic visionary who wants to go ahead and make it real anyway, to truly test the limits of the possible.  I have always had a vibrant and colourful inner world, to both conquer and thought experiment in.  I've recently learned a lot about how to interact with computers at a level where I can build virtually anything my imagination might conceive.  I now feel there's the real possiblity that I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can take part in our expansion outward into the cosmos.
+A dreamer and idealistic visionary who wants to go ahead and make it real, to truly test the limits of the possible.  I have always had a vibrant and colourful inner world, to conquer and thought experiment in.  I've recently learned a lot about how to interact with computers at a level where I can build virtually anything my imagination might conceive.  I now know there's the real possiblity that I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can take part in our expansion outward into the cosmos.
 
 ## Skills
 
@@ -19,7 +19,7 @@ Enjoy solving puzzles and problems and have become very adroit at doing so, part
 
 #### Designing: Analysis, Planning & Research
 
-Adept with managing the design process: breaking down processess and systems into components, to better understand how the whole fits together; building out step-by-step to achieve a goal, in a way which others may easily follow; and gathering the relevant information to inform these two elements effectively.
+Adept with managing the design process: breaking down processess and systems into components, to better understand how the whole fits together; building out step-by-step to achieve a goal, in a way others may easily follow; and gathering the relevant information to inform these two elements effectively.
 
 * At **King's College Hospital** (KCH), automated an inbox filing system to manage a high volume of emails, reducing time spent on this task significantly and allowing productivity improvements for other tasks.
 
