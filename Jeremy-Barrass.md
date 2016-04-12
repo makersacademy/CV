@@ -18,6 +18,18 @@ Enjoy solving puzzles and problems and have become very adroit at doing so, part
 
 Adept with managing the design process: breaking down processess and systems into components, to better understand how the whole fits together; building out step-by-step to achieve a goal, in a way which others may easily follow; and gathering the relevant information to inform these two elements effectively.
 
+* At **King's College Hospital** (KCH), automated an inbox filing system to manage a high volume of emails, reducing time spent on this task significantly and allowing productivity improvements for other tasks.
+
+* Also at KCH, Built a SQL script to work around an occasional bug in the user-management system, which meant new users were not alway imported into the user database properly.
+
+* Helped design and build several projects at Makers Academy, including Alibot and Markpad.
+
+#### Support
+
+* 
+
+#### Information dissemination
+
 * 
 
 #### Java
@@ -39,8 +51,8 @@ Adept with managing the design process: breaking down processess and systems int
 
 #### University of Essex (Oct 2001 - July 2004)
 
-* BA Hons. Psychology.
-* 2.2
+* BA Hons. Psychology, 2.2
+* Studied many aspects of experimental, social, neurological, and biological  psychology, and statistical analysis
 * Treasurer of the Role-playing Society for two years.
 
 ## Work
