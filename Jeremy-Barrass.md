@@ -1,6 +1,6 @@
 # Jeremy Barrass
 
-A dreamer and impractical visionary who wants to go ahead and make it real anyway, to prove all the naysayers wrong.  I've recently learned a lot about how to interact with a medium where the potential to build the fruits of creativity seem endless and there's the real possiblity that I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, where I can take part in our expansion outward into the cosmos.
+A dreamer and idealistic visionary who wants to go ahead and make it real anyway, to truly test the limits of the possible.  I have always had a vibrant and colourful inner world, to both conquer and thought experiment in.  I've recently learned a lot about how to interact with computers at a level where I can build virtually anything my imagination might conceive.  I now feel there's the real possiblity that I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can take part in our expansion outward into the cosmos.
 
 ## Skills
 
@@ -12,32 +12,13 @@ Enjoy solving puzzles and problems and have become very adroit at doing so, part
 
 * Practised solving myriad software development problems over the duration of the course at Makers Academy.  Worked with fellow cohort members to refactor and pass failing tests, configure test and development environments, and generate and develop project ideas, generating a broad variety of github repos.
 
-#### Imagination
+* Engage in board games, computer games and pen-and-paper rpgs, promoting strategic thinking, conflict resolution and teamwork.  This includes a weekly Pathfinder gaming group through Dragons on the Hill, and recently joining the Magic: the Gathering group at Makers Academy.
 
-For as long as I can remember, I have had a vibrant and colourful inner world, to both conquer and thought experiment in.
+#### Designing: Analysis, Planning & Research
 
-* Wrote a short story in secondary school, which was highly commended in the W.H. Smith's Young Writer's Competition of 1996.
+Adept with managing the design process: breaking down processess and systems into components, to better understand how the whole fits together; building out step-by-step to achieve a goal, in a way which others may easily follow; and gathering the relevant information to inform these two elements effectively.
 
 * 
-
-#### Gaming
-
-Regularly engage in board games, computer games and pen-and-paper rpgs, promoting strategic thinking, conflict resolution and teamwork.
-
-* Play in a Pathfinder game with a gaming group I meet with every Tuesday.
-
-* Have run several one-off games in different systems for said gaming group.
-
-* Began playing "Magic: the Gathering" during my time at Maker's Academy.  Currently have two pre-built decks and one from a Sealed Deck event, which I am in the process of testing.
-
-#### Analysis
-
-Can quickly and easily break processess and systems into components to better understand how the whole fits together.  
-
-
-#### Planning
-
-#### Research
 
 #### Java
 
