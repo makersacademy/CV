@@ -3,7 +3,7 @@
 jeremy.barrass@gmail.com
 [Github](https://github.com/Jeremy-Barrass) | [LinkedIn](https://uk.linkedin.com/in/jeremy-barrass-02237345)
 
-In terms of the software I produce: a dreamer and idealistic visionary who wants to go ahead and make it real, to truly test the limits of the possible.  I have always had a vibrant and colourful inner world, to conquer and thought experiment in.  I've recently learned a lot about how to interact with computers at a level where I can build virtually anything my imagination might conceive.  I now know there's the real possiblity that I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can take part in our expansion outward into the cosmos.
+As a programmer, I'm a dreamer and idealistic visionary who wants to go ahead and make it real, to truly test the limits of the possible.  I have always had a vibrant and colourful inner world, to conquer and thought experiment in, reflected in the software I produce.  I've recently learned a lot about how to interact with computers at a level where I can build virtually anything my imagination might conceive.  I now know there's the real possiblity that I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can take part in our expansion outward into the cosmos.
 
 ## Skills
 
