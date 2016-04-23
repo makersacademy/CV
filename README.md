@@ -17,12 +17,6 @@ A Junior Software Developer by passion, a media TV multi-skilled technical opera
 * __Web__: Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Paperclip).
 * __Practices__: Pair Programming, SOLID Principles, Test Driven Development, Software Craftsmanship, MVC/MVW.
 
-####[Makers Academy, London](http://www.makersacademy.com/employers/)
-**Student, December 2015 - April 2016**
-* A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby.
-* Emphasises on test-driven, object-oriented, software design and development.
-* Agile methodology, pair programming, and team projects to teach industry best practices.
-
 ###Education
 -------------
 |       Dates          |        Institution         		|            Subjects                     |
@@ -31,6 +25,11 @@ A Junior Software Developer by passion, a media TV multi-skilled technical opera
 | Sep 04 - Jun 07      | Guancha IES Media                  | Films and Tv   			              |
 | Jun 09               | International TV films school cuba | Short film screenwriter				  |
 
+####[Makers Academy, London](http://www.makersacademy.com/employers/)
+**Student, December 2015 - April 2016**
+* A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby.
+* Emphasises on test-driven, object-oriented, software design and development.
+* Agile methodology, pair programming, and team projects to teach industry best practices.
 
 ###Experience
 -------------
