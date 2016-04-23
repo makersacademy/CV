@@ -1,5 +1,4 @@
-##Eduardo Sanchez    
-__GitHub__: https://github.com/hedudelgado __Address__: Surrey Water Road, London, SE16 5BW __E-mail__:	hedu.delgado@gmail.com __PhoneNumber__: +44 7426 906 910      
+##Eduardo Sanchez
 
 A Junior Software Developer by passion, a media TV multi-skilled technical operator by training. I have over seven years of team work experience in fast-paced environments, developing key skills such as problem-solving, creativity and the ability to learn quickly. I am extremely proud of my background, and I believe it will be important in my future position. I am seeking a role, in which I can contribute to the development of a company, using the skills I have gathered so far and learning new ones - where I can grow as a Developer through hard work and commitment to learning.
 
@@ -14,16 +13,15 @@ A Junior Software Developer by passion, a media TV multi-skilled technical opera
 * __Web__: Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Paperclip).
 * __Practices__: Pair Programming, SOLID Principles, Test Driven Development, Software Craftsmanship, MVC/MVW.
 
+
 ###Education
 -------------
+
 |       Dates          |        Institution         		|            Subjects                     |
 | :-------------------:|:----------------------------------:| :--------------------------------------:|
 | Dec  15 - April 16   | Makers Academy                		| Junior Software Developer				  |
 | Sep 04 - Jun 07      | Guancha IES Media                  | Films and Tv   			              |
 | Jun 09               | International TV films school cuba | Short film screenwriter				  |
-
-
-
 
 ####[Makers Academy, London](http://www.makersacademy.com/employers/)
 **Student, December 2015 - April 2016**
@@ -31,8 +29,10 @@ A Junior Software Developer by passion, a media TV multi-skilled technical opera
 * Emphasises on test-driven, object-oriented, software design and development.
 * Agile methodology, pair programming, and team projects to teach industry best practices.
 
+
 ###Experience
 -------------
+
 |       Dates          |        Institution         |            Subjects                     |
 | :-------------------:|:-------------------------: | :--------------------------------------:|
 | Mar 15 - Nov 15      | Restaurant 21              | Photography and video events            |
