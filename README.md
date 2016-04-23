@@ -20,7 +20,6 @@ A Junior Software Developer by passion, a media TV multi-skilled technical opera
 
 ###Education
 -------------
-
 |       Dates          |        Institution         		|            Subjects                     |
 | :-------------------:|:----------------------------------:| :--------------------------------------:|
 | Dec  15 - April 16   | Makers Academy                		| Junior Software Developer				  |
@@ -36,7 +35,6 @@ A Junior Software Developer by passion, a media TV multi-skilled technical opera
 
 ###Experience
 -------------
-
 |       Dates          |        Institution         |            Subjects                     |
 | :-------------------:|:-------------------------: | :--------------------------------------:|
 | Mar 15 - Nov 15      | Restaurant 21              | Photography and video events            |
