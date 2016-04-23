@@ -13,9 +13,9 @@ A Junior Software Developer by passion, a media TV multi-skilled technical opera
 | A Rails + AngularJs web app that allows users to add recipes, videos, ingredients and much more, in order to not waste food or left over ingredients. | A Rails + AngularJs web app that includes a mini AWS3 created by myself. | Replica AirBnB app using Rails on the backend and AngularJS on frontend. |
 
 ####Skills
-* __Languages, Frameworks & Databases__: Ruby, Ruby on Rails, JavaScript, AngularJS, jQuery, Ajax, HTML5 & ERB, Postgres SQL, Sinatra,Datamapper.
+* __Languages, Frameworks & Databases__: Ruby, Ruby on Rails, JavaScript, NodeJS, AngularJS, jQuery, Ajax, HTML5, ERB, Postgres SQL, Sinatra,Datamapper.
 * __Testing__: Rspec, Jasmine, Capybara, Factory Girl, Protractor, Karma.
-* __Web__: Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Paperclip).
+* __Web__: Git, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Paperclip).
 * __Practices__: Pair Programming, SOLID Principles, Test Driven Development, Software Craftsmanship, MVC/MVW.
 
 ###Education
