@@ -22,6 +22,9 @@ A Junior Software Developer by passion, a media TV multi-skilled technical opera
 | Sep 04 - Jun 07      | Guancha IES Media                  | Films and Tv   			              |
 | Jun 09               | International TV films school cuba | Short film screenwriter				  |
 
+
+
+
 ####[Makers Academy, London](http://www.makersacademy.com/employers/)
 **Student, December 2015 - April 2016**
 * A highly selective, 12 week intensive course that focuses on full stack web development grounded in Ruby.
