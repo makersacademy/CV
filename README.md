@@ -18,7 +18,6 @@ A Junior Software Developer by passion, a media TV multi-skilled technical opera
 * __Web__: Version control with GitHub, User authentication (Devise, Omniauth), Heroku, Bootstrap, API integration (Paperclip).
 * __Practices__: Pair Programming, SOLID Principles, Test Driven Development, Software Craftsmanship, MVC/MVW.
 
-
 ###Education
 -------------
 
