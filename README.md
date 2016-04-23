@@ -10,7 +10,7 @@ A Junior Software Developer by passion, a media TV multi-skilled technical opera
 ###Portfolio
 |[Recipedia](https://github.com/hedudelgado/Recipes-project)  |  [My Own AWS3](https://github.com/hedudelgado/Rails-AngularJs-MyOwnLittleAWS3) | [Bed And Breakfast Platform](https://github.com/hedudelgado/Angular-Rails_Bed-Breakfast) |
 |---|---|---|
-| A Rails + AngularJs web app that allows users to add recipes, videos, ingredients and much more, in order to not waste food or left over ingredients. Team-based final project at [@makersacademy](https://github.com/makersacademy).| A Rails + AngularJs web app that includes a mini AWS3 created by myself. | Replica AirBnB app using Rails on the backend and AngularJS on frontend. |
+| A Rails + AngularJs web app that allows users to add recipes, videos, ingredients and much more, in order to not waste food or left over ingredients. | A Rails + AngularJs web app that includes a mini AWS3 created by myself. | Replica AirBnB app using Rails on the backend and AngularJS on frontend. |
 
 ####Skills
 * __Languages, Frameworks & Databases__: Ruby, Ruby on Rails, JavaScript, NodeJS, AngularJS, jQuery, Ajax, HTML5 & ERB, Postgres SQL, Sinatra,Datamapper.
