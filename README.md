@@ -24,6 +24,11 @@ A Junior Software Developer by passion, a media TV multi-skilled technical opera
 * Emphasises on test-driven, object-oriented, software design and development.
 * Agile methodology, pair programming, and team projects to teach industry best practices.
 
+
+
+
+
+
 ###Education
 -------------
 |       Dates          |        Institution         		|            Subjects                     |
