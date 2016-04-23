@@ -1,9 +1,9 @@
-##Eduardo Sanchez
-*__GitHub__: 	https://github.com/hedudelgado
-*__LinkedIn__:	https://uk.linkedin.com/in/edusanchez1
-*__Address__: 	Surrey Water Road, London, SE16 5BW
-*__E-mail__:	hedu.delgado@gmail.com
-*__PhoneNumber: +44 7426 906 910  
+##Eduardo Sanchez  
+*__GitHub__: 	https://github.com/hedudelgado  
+*__LinkedIn__:	https://uk.linkedin.com/in/edusanchez1  
+*__Address__: 	Surrey Water Road, London, SE16 5BW  
+*__E-mail__:	hedu.delgado@gmail.com  
+*__PhoneNumber: +44 7426 906 910    
 
 A Junior Software Developer by passion, a media TV multi-skilled technical operator by training. I have over seven years of team work experience in fast-paced environments, developing key skills such as problem-solving, creativity and the ability to learn quickly. I am extremely proud of my background, and I believe it will be important in my future position. I am seeking a role, in which I can contribute to the development of a company, using the skills I have gathered so far and learning new ones - where I can grow as a Developer through hard work and commitment to learning.
 
