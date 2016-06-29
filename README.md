@@ -72,12 +72,16 @@ Education
 **Sainsbury's Local** (August 2012- December 2014)
 *Team Leader*
 
+## Interests
+
+Apart from code, I also love making things out of wood, playing guitar, going for long walks, and practicing yoga.
+
 ## Product Reviews
 
-> I've never met anybody like Michael. He is so unique. At first you just see like a pinprick, but when you ge to know him he opens up and has so much more depth
+`I've never met anybody like Michael. He is so unique. At first you just see like a pinprick, but when you ge to know him he opens up and has so much more depth.`
 
-> Michael is very, very, very intelligent and is a problem solver. He is always willing to take the time to explain things and is a good teacher.
+`Michael is very, very, very intelligent and is a problem solver. He is always willing to take the time to explain things and is a good teacher.`
 
-> He has crazy concentration. When working on a problem, he is so focussed and driven until he achieves his goal.
+`He has crazy concentration. When working on a problem, he is so focussed and driven until he achieves his goal.`
 
-> There is a romantic intensity to everything he does, from coding, to playing guitar, to talking about his girlfriend or wooden spoons.
+`There is a romantic intensity to everything he does, from coding, to playing guitar, to talking about his girlfriend or wooden spoons.`
