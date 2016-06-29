@@ -1,6 +1,8 @@
 # Michael Harrison
 Junior Web Developer & Makers Academy Graduate with a background in QA, Mathematics & Philosophy.
 
+[![Build Status](https://travis-ci.org/harrim91/CV.svg?branch=master)](https://travis-ci.org/harrim91/CV)
+
 I *LOVE* solving problems, and I love making things. I have a demonstrable desire to learn, to push myself towards best practices, and to write the best, cleanest, most throughly tested code I possibly can.
 
 I'm now looking for my first role as a developer in a company which has similar commitments to me. I care about craftsmanship, and I want to work with craftsmen who will challenge me and facilitate my learning.
@@ -78,7 +80,7 @@ Apart from code, I also love making things out of wood, playing guitar, going fo
 
 ## Product Reviews
 
-`I've never met anybody like Michael. He is so unique. At first you just see like a pinprick, but when you ge to know him he opens up and has so much more depth.`
+`I've never met anybody like Michael. He is so unique. At first you just see like a pinprick, but when you get to know him he opens up and has so much more depth.`
 
 `Michael is very, very, very intelligent and is a problem solver. He is always willing to take the time to explain things and is a good teacher.`
 
