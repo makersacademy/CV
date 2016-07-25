@@ -2,7 +2,7 @@
 
 I recently moved to Toronto and am looking for opportunities here as a junior full stack developer. I am available to interview immediately but await a work permit which should arrive in October 2016.
 
-In January 2016, I graduated from [Makers Academy]|(https://www.makersacademy.com), Europe's premier Web Development boot camp. The intense 12-week Makers curriculum is split 75% Ruby and 25% JavaScript, with an insistence on Test-Driven Development, Pair Programming, and best practice Object-Oriented Programming design principles. See [here]|(http://www.makersacademy.com/curriculum/) for the full curriculum and below for examples of what I practiced there. Makers Academy has graduated over 600 students into junior developer roles at ThoughtWorks, Pivotal Labs, Accenture, Deloitte Digital, the BBC, the Financial Times, the British Government, and many more.
+In January 2016, I graduated from [Makers Academy](https://www.makersacademy.com), Europe's premier Web Development boot camp. The intense 12-week Makers curriculum is split 75% Ruby and 25% JavaScript, with an insistence on Test-Driven Development, Pair Programming, and best practice Object-Oriented Programming design principles. See [here](http://www.makersacademy.com/curriculum/) for the full curriculum and below for examples of what I practiced there. Makers Academy has graduated over 600 students into junior developer roles at ThoughtWorks, Pivotal Labs, Accenture, Deloitte Digital, the BBC, the Financial Times, the British Government, and many more.
 
 ## Professional Experience
 
