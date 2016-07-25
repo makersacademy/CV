@@ -1,15 +1,16 @@
 ## Ivan Sathianathan
 
-An online marketer with an electrical engineering degree and startup experience in the UK, India, and Bahrain.
+I recently moved to Toronto and am looking for opportunities here as a junior full stack developer. I am available to interview immediately but await a work permit which should arrive in October 2016.
 
-Most recent achievements are instigating and driving demand side growth at two online marketplaces on a global basis.
+In January 2016, I graduated from [Makers Academy]|(https://www.makersacademy.com), Europe's premier Web Development boot camp. The intense 12-week Makers curriculum is split 75% Ruby and 25% JavaScript, with an insistence on Test-Driven Development, Pair Programming, and best practice Object-Oriented Programming design principles. See [here]|(http://www.makersacademy.com/curriculum/) for the full curriculum and below for examples of what I practiced there. Makers Academy has graduated over 600 students into junior developer roles at ThoughtWorks, Pivotal Labs, Accenture, Deloitte Digital, the BBC, the Financial Times, the British Government, and many more.
 
-Now looking to advance and sharpen my coding skills as a junior full stack developer with a focus on backend technologies at a company that promotes TDD in an Agile environment.
+## Professional Experience
 
+##### [Secret Escapes](https://www.secretescapes.com/)
+###### Paid Search Consultant - *March 2016 to Present*
+ - Secret Escapes is a luxury travel site backed by Google Ventures.
+ - Write custom Adwords Scipts (based on JavaScript) to automate reporting,
 
-## Skills & Experience
-
-### Online Marketing
 
 ##### [Student.com](https://www.student.com/)
 ###### Head of International PPC - *December 2014 to August 2015*
@@ -39,7 +40,7 @@ Now looking to advance and sharpen my coding skills as a junior full stack devel
 
 #### Makers Academy (September 2015 to January 2016)
 
-Check out my [final project](https://github.com/ivan-sathianathan/FantasyOffside), a site for fantasy football enthusiasts. We created a Rails API hooked to an Angular front-end styled with Bootstrap. 
+Check out my [final project](https://github.com/ivan-sathianathan/FantasyOffside), a site for fantasy football enthusiasts. We created a Rails API hooked to an Angular front-end styled with Bootstrap.
 
 #### Imperial College, London (October 2003 - July 2007)
 
