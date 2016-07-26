@@ -6,11 +6,11 @@ I recently completed a web development course at Europe's premier coding boot ca
 
 I have managed user growth at some of Europe's fastest growing and most heavily funded start-ups.
 
-### Education
+## Education
 
 #### Makers Academy (September 2015 to January 2016)
 
-The intense 12-week Makers Academy course is split between Ruby and JavaScript with an focus on Test-Driven Development and best practice Object-Oriented Programming design principles. See [below](###Skills And Experience) for examples of what I practiced there. Makers Academy has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture, the Financial Times and many more.
+The intense 12-week Makers Academy course is split between Ruby and JavaScript with an focus on Test-Driven Development and best practice Object-Oriented Programming design principles. See [below](###Skills-And-Experience) for examples of what I practiced there. Makers Academy has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture, the Financial Times and many more.
 
 #### Imperial College, University of London (October 2003 - July 2007)
 
@@ -18,9 +18,7 @@ I completed a Master's degree in Electrical & Electronic Engineering with Manage
 
 
 
-### Professional Experience
-
-
+## Professional Experience
 
 #### Secret Escapes - *March 2016 to present*
 As a Paid Search Consultant at this luxury travel site, I write custom Adwords Scripts (based on JavaScript) to automate reporting, performance optimizations, and campaign management.
@@ -41,7 +39,7 @@ As a Business Analyst at this start-up Islamic insurance company, I led requirem
 As a Investment Banking Division Summer Intern, I worked on a range of deals including an MBO of a London-based media group and a major public offering in the Natural Resources sector.
 
 
-### Skills And Experience
+## Skills And Experience
 
 | Technology | Projects |
 | --- | --- |
@@ -52,10 +50,3 @@ As a Investment Banking Division Summer Intern, I worked on a range of deals inc
 | Ruby On Rails | Built clones of [Yelp](https://github.com/ivan-sathianathan/yelp-clone) and Instagram in Rails with a PostgreSQL database using ActiveRecord, user authentication via Devise and fully test driven via Rspec and Capybara |
 | Angular, Node.js | Github selector project, and todo list. Need to add something else here? Perhaps Guess Who game. Doesn't need to be now but should add it at some point |
 | Python, Ruby On Rails, AngularJS, Bootstrap | Fantasy Offside, my final project at Makers Academy, built with a team of three other students. We created a single page web application using AngularJS and Bootstrap to automate the process of picking a user's optimal Fantasy Football team before the deadline each week (including suggested formation, transfers, captain pick, and starting 11). The recommendations were provided by a Rails API, based on projected player points using Ruby. The input data for these calculations (historical player performance information and past/upcoming fixtures) was pulled using weekly automated Python scripts. We also factored in the user's current squad and team finances when making recommendations, scraped directly from the Fantasy Premier League's website using Watir. |
-
-
-
-
-## Other Interests
-
-Classically trained pianist and flautist; member of Peckham Chamber Orchestra. Keen interest in all sports.
