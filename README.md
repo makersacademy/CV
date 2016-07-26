@@ -6,42 +6,42 @@ I recently completed a web development course at Europe's premier coding boot ca
 
 I have managed user growth at some of Europe's fastest growing and most heavily funded start-ups.
 
-## Education
+### Education
 
-### Makers Academy (September 2015 to January 2016)
+#### Makers Academy (September 2015 to January 2016)
 
-The intense 12-week Makers Academy course is split between Ruby and JavaScript with an focus on Test-Driven Development and best practice Object-Oriented Programming design principles. See below for examples of what I practiced there. Makers Academy has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture, the Financial Times and many more.
+The intense 12-week Makers Academy course is split between Ruby and JavaScript with an focus on Test-Driven Development and best practice Object-Oriented Programming design principles. See [below](###Skills And Experience) for examples of what I practiced there. Makers Academy has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture, the Financial Times and many more.
 
-### Imperial College, University of London (October 2003 - July 2007)
+#### Imperial College, University of London (October 2003 - July 2007)
 
 I completed a Master's degree in Electrical & Electronic Engineering with Management from Imperial College. Imperial College is consistently ranked among the top universities in the world by a number of [international rankings](https://www.imperial.ac.uk/about/introducing-imperial/league-tables/).
 
 
 
-## Professional Experience
+### Professional Experience
 
 
 
-### Secret Escapes - *March 2016 to present*
+#### Secret Escapes - *March 2016 to present*
 As a Paid Search Consultant at this luxury travel site, I write custom Adwords Scripts (based on JavaScript) to automate reporting, performance optimizations, and campaign management.
 
-### Student.com - *December 2014 to August 2015* -
+#### Student.com - *December 2014 to August 2015* -
 As Head of International PPC for this marketplace for student housing, I brought search engine marketing (SEM) in-house from an agency as part of brand re-launch.
 
-### Adzuna.co.uk - *June 2012 to December 2014*
+#### Adzuna.co.uk - *June 2012 to December 2014*
 As Online Marketing Manager for this job search engine, I managed all PPC channels and oversaw 10x growth in revenue and traffic over two years.
 
-### SapnaSolutions - *August 2010 to April 2012*
+#### SapnaSolutions - *August 2010 to April 2012*
 As Head of Operations of this offshore web and mobile consultancy, I managed a team of iOS developers and designed processes and training modules for how the company managed client projects.
 
-### t'azur - *April 2008 to July 2010*
+#### t'azur - *April 2008 to July 2010*
 As a Business Analyst at this start-up Islamic insurance company, I led requirements analysis, testing and deployment of bespoke IT systems capable of processing Islamic insurance products.
 
-### Goldman Sachs - *Summer 2008*
+#### Goldman Sachs - *Summer 2008*
 As a Investment Banking Division Summer Intern, I worked on a range of deals including an MBO of a London-based media group and a major public offering in the Natural Resources sector.
 
 
-## Skills And Experience
+### Skills And Experience
 
 | Technology | Projects |
 | --- | --- |
