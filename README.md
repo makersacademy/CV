@@ -10,7 +10,7 @@ I have managed user growth at some of Europe's fastest growing and most heavily 
 
 #### Makers Academy (September 2015 to January 2016)
 
-The intense 12-week Makers Academy course is split between Ruby and JavaScript with an focus on Test-Driven Development and best practice Object-Oriented Programming design principles. See [below](###Skills-And-Experience) for examples of what I practiced there. Makers Academy has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture, the Financial Times and many more.
+The intense 12-week Makers Academy course is split between Ruby and JavaScript with an focus on Test-Driven Development and best practice Object-Oriented Programming design principles. See [below](###skills-and-experience) for examples of what I practiced there. Makers Academy has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture, the Financial Times and many more.
 
 #### Imperial College, University of London (October 2003 - July 2007)
 
