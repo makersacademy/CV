@@ -1,14 +1,16 @@
 ## Ivan Sathianathan
 
-I am a full stack developer actively looking for junior roles in Toronto. I am a British citizen and expect my Canadian work permit to arrive in November.
+I am a full stack developer actively looking for junior roles in Toronto.
+
+I recently completed a web development course at Europe's premier coding boot camp and hold an engineering degree from one of the world's top universities.
+
+I have managed user growth at some of Europe's fastest growing and most heavily funded start-ups.
 
 ## Education
 
 ### Makers Academy (September 2015 to January 2016)
 
-In January 2016, I graduated from [Makers Academy](https://www.makersacademy.com), Europe's premier Web Development boot camp.
-
-The intense 12-week course is split between Ruby and JavaScript with an focus on Test-Driven Development and best practice Object-Oriented Programming design principles. See below for examples of what I practiced there. Makers Academy has graduated over 600 students into junior developer roles at ThoughtWorks, Pivotal Labs, Accenture, the Financial Times and many more.
+The intense 12-week Makers Academy course is split between Ruby and JavaScript with an focus on Test-Driven Development and best practice Object-Oriented Programming design principles. See below for examples of what I practiced there. Makers Academy has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture, the Financial Times and many more.
 
 ### Imperial College, University of London (October 2003 - July 2007)
 
@@ -18,7 +20,6 @@ I completed a Master's degree in Electrical & Electronic Engineering with Manage
 
 ## Professional Experience
 
-I have led user growth at three of Europe's most funded and fastest growing companies. Prior to this, I worked in operational roles at start-ups in India and Bahrain. During university, I dipped my toe into the world of finance with a summer internship at an investment bank.
 
 
 ### Secret Escapes - *March 2016 to present*
@@ -44,11 +45,11 @@ As a Investment Banking Division Summer Intern, I worked on a range of deals inc
 
 | Technology | Projects |
 | --- | --- |
-| Ruby, Rspec | Completed a number of pure Ruby-based challenges test driven with Rspec including Take Away (link) and Airport (link)
-| Sinatra, Capybara, PostgreSQL | Created two Ruby / Sinatra based web applications: Rock-Paper-Scissors (link) and Chitter (link). Both were test driven with Rspec and Capybara, with the latter implementing a PostgreSQL database via DataMapper |
-| JavaScript, jQuery, Jasmine | Created a mock Thermostat (link) with external location based weather temperature provided by OpenWeatherMap's API, test driven with Jasmine |
+| Ruby, Rspec | Completed a number of pure Ruby-based challenges test driven with Rspec including [Take Away](https://github.com/ivan-sathianathan/takeaway-challenge) and [Airport](https://github.com/ivan-sathianathan/airport_challenge)
+| Sinatra, Capybara, PostgreSQL | Created two Ruby / Sinatra based web applications: [Rock-Paper-Scissors](https://github.com/ivan-sathianathan/rps-challenge) and [Chitter](https://github.com/ivan-sathianathan/chitter-challenge). Both were test driven with Rspec and Capybara, with the latter implementing a PostgreSQL database via DataMapper |
+| JavaScript, jQuery, Jasmine | Created a mock [Thermostat](https://github.com/ivan-sathianathan/Thermostat) with external location based weather temperature provided by OpenWeatherMap's API, test driven with Jasmine |
 | Golang | Experimented with with Golang during a Lab week, test driving a fizz-buzz kata (link) and basic ten-pin bowling challenge (link) |
-| Ruby On Rails | Built clones of Yelp and Instagram in Rails with a PostgreSQL database using ActiveRecord, user authentication via Devise and fully test driven via Rspec and Capybara |
+| Ruby On Rails | Built clones of [Yelp](https://github.com/ivan-sathianathan/yelp-clone) and Instagram in Rails with a PostgreSQL database using ActiveRecord, user authentication via Devise and fully test driven via Rspec and Capybara |
 | Angular, Node.js | Github selector project, and todo list. Need to add something else here? Perhaps Guess Who game. Doesn't need to be now but should add it at some point |
 | Python, Ruby On Rails, AngularJS, Bootstrap | Fantasy Offside, my final project at Makers Academy, built with a team of three other students. We created a single page web application using AngularJS and Bootstrap to automate the process of picking a user's optimal Fantasy Football team before the deadline each week (including suggested formation, transfers, captain pick, and starting 11). The recommendations were provided by a Rails API, based on projected player points using Ruby. The input data for these calculations (historical player performance information and past/upcoming fixtures) was pulled using weekly automated Python scripts. We also factored in the user's current squad and team finances when making recommendations, scraped directly from the Fantasy Premier League's website using Watir. |
 
