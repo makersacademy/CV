@@ -1,43 +1,42 @@
 ## Ivan Sathianathan
 
-I am a full stack developer actively looking for junior roles in Toronto.
+I am actively looking for roles as a full-stack developer in Toronto. I recently graduated from Europe's premier web development boot camp and hold a Master's degree from a top engineering faculty.
 
-I recently completed a web development course at Europe's premier coding boot camp and hold an engineering degree from one of the world's top universities.
+My experience is with Ruby-on-Rails and AngularJS; however, I am agnostic with regards preferred language and tech stack. More important for me is joining an engineering team that promotes Test-Driven Development and Agile best practices.
 
-I have managed user growth at some of Europe's fastest growing and most heavily funded start-ups.
+In my previous professional life, I was a performance marketing expert and some of Europe's fastest growing start-ups.
 
 ## Education
 
-#### Makers Academy (September 2015 to January 2016)
+#### Makers Academy | September 2015 to January 2016
 
-The intense 12-week Makers Academy course is split between Ruby and JavaScript with an focus on Test-Driven Development and best practice Object-Oriented Programming design principles. See [below](#skills-and-experience) for examples of what I practiced there. Makers Academy has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture, the Financial Times and many more.
+Makers Academy is an intense 12-week web development boot camp that has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture, the Financial Times and many more.
 
-#### Imperial College, University of London (October 2003 - July 2007)
+The course material is taught through Ruby and JavaScript with a strong emphasis on TDD. See [here](http://www.makersacademy.com/curriculum/#definition-0) for the full curriculum and [below](#skills-and-experience) for examples of what I practiced there.
 
-I completed a Master's degree in Electrical & Electronic Engineering with Management from Imperial College. Imperial College is consistently ranked among the top universities in the world by a number of [international rankings](https://www.imperial.ac.uk/about/introducing-imperial/league-tables/).
+#### Imperial College | 2003 - 2007
 
-
+Imperial College, part of the University of London,   is consistently ranked highly by a number of [international league tables](https://www.imperial.ac.uk/about/introducing-imperial/league-tables/). I completed a Master's degree in Electrical & Electronic Engineering with Management.
 
 ## Professional Experience
 
-#### Secret Escapes - *March 2016 to present*
-As a Paid Search Consultant at this luxury travel site, I write custom Adwords Scripts (based on JavaScript) to automate reporting, performance optimizations, and campaign management.
+#### Secret Escapes | Paid Search Consultant |  March 2016 to present
+Secret Escapes is a members-only luxury travel site. I consult on paid search, optimising performance and automating campaign management through custom Adwords Scripts.
 
-#### Student.com - *December 2014 to August 2015* -
-As Head of International PPC for this marketplace for student housing, I brought search engine marketing (SEM) in-house from an agency as part of brand re-launch.
+#### Student.com | Head of International PPC | December 2014 to August 2015
+Student.com is a marketplace for student housing. I brought SEM campaigns in-house from an agency as part of relaunch under Student.com brand.
 
-#### Adzuna.co.uk - *June 2012 to December 2014*
-As Online Marketing Manager for this job search engine, I managed all PPC channels and oversaw 10x growth in revenue and traffic over two years.
+#### Adzuna.co.uk | Online Marketing Manager | June 2012 to December 2014
+Adzuna is a search engine for job ads. I grew Adzuna's traffic profile in the UK and internationally through SEM and syndication partnerships.
 
-#### SapnaSolutions - *August 2010 to April 2012*
-As Head of Operations of this offshore web and mobile consultancy, I managed a team of iOS developers and designed processes and training modules for how the company managed client projects.
+#### SapnaSolutions | Head of Operations | August 2010 to April 2012
+SapnaSolutions is an iOS and web development studio. I led its project management and business analysis functions.
 
-#### t'azur - *April 2008 to July 2010*
-As a Business Analyst at this start-up Islamic insurance company, I led requirements analysis, testing and deployment of bespoke IT systems capable of processing Islamic insurance products.
+#### t'azur | Business Analyst | April 2008 to July 2010
+t'azur is an Islamic insurance company. I worked across multiple functions both pre- and post-launch, primarily in IT and Operations.
 
-#### Goldman Sachs - *Summer 2008*
-As a Investment Banking Division Summer Intern, I worked on a range of deals including an MBO of a London-based media group and a major public offering in the Natural Resources sector.
-
+#### Goldman Sachs - IBD Summer Intern | Summer 2006
+Goldman Sachs is an investment bank. I worked on a bunch of M&A deals during a summer internship.
 
 ## Skills And Experience
 
