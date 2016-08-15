@@ -38,9 +38,7 @@ t'azur is an Islamic insurance company. I worked across multiple functions both 
 #### Goldman Sachs - IBD Summer Intern | Summer 2006
 Goldman Sachs is an investment bank. I worked on a bunch of M&A deals during a summer internship.
 
-#### Skills And Experience
-
-Fantasy Offside
+## Skills And Experience
 
 | Technology | Projects |
 | --- | --- |
