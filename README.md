@@ -1,8 +1,8 @@
 ## Ivan Sathianathan
 
-I am actively looking junior roles as a full-stack developer in Toronto. I recently graduated from Europe's premier web development boot camp and hold a Master's degree from a top engineering faculty.
+I am actively looking roles as a junior full-stack developer in Toronto. I recently graduated from Europe's premier web development boot camp and hold a Master's degree from a top engineering faculty.
 
-My experience is with Ruby-on-Rails and AngularJS; however, I am agnostic with regards preferred language and tech stack. More important for me is joining an engineering team that promotes Test-Driven Development and Agile best practices.
+My experience is with Ruby-on-Rails and AngularJS. However, I am agnostic with regards preferred language and tech stack; more important to me is joining an engineering team that promotes Test-Driven Development and Agile best practices.
 
 In my previous professional life, I was a performance marketing expert at some of Europe's fastest growing start-ups.
 
@@ -10,13 +10,13 @@ In my previous professional life, I was a performance marketing expert at some o
 
 #### Makers Academy | September 2015 to January 2016
 
-Makers Academy is an intense 12-week web development boot camp that has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture, the Financial Times and many more.
+Makers Academy is an intense 12-week web development boot camp that has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture and many more.
 
 The course material is taught through Ruby and JavaScript with a strong emphasis on TDD. See [here](http://www.makersacademy.com/curriculum/#definition-0) for the full curriculum and [below](#skills-and-experience) for examples of what I practiced there.
 
-#### Imperial College | 2003 - 2007
+#### Imperial College, University of London | 2003 - 2007
 
-Imperial College, part of the University of London,   is consistently ranked highly by a number of [international league tables](https://www.imperial.ac.uk/about/introducing-imperial/league-tables/). I completed a Master's degree in Electrical & Electronic Engineering with Management.
+Imperial College is consistently ranked highly by a number of [international league tables](https://www.imperial.ac.uk/about/introducing-imperial/league-tables/). I completed a Master's degree in Electrical & Electronic Engineering with Management.
 
 ## Professional Experience
 
@@ -38,12 +38,14 @@ t'azur is an Islamic insurance company. I worked across multiple functions both 
 #### Goldman Sachs - IBD Summer Intern | Summer 2006
 Goldman Sachs is an investment bank. I worked on a bunch of M&A deals during a summer internship.
 
-## Skills And Experience
+#### Skills And Experience
+
+Fantasy Offside
 
 | Technology | Projects |
 | --- | --- |
 | Ruby, Rspec | Completed a number of pure Ruby-based challenges test driven with Rspec including [Take Away](https://github.com/ivan-sathianathan/takeaway-challenge) and [Airport](https://github.com/ivan-sathianathan/airport_challenge)
-| Sinatra, Capybara, PostgreSQL | Created two Ruby / Sinatra based web applications: [Rock-Paper-Scissors](https://github.com/ivan-sathianathan/rps-challenge) and [Chitter](https://github.com/ivan-sathianathan/chitter-challenge). Both were test driven with Rspec and Capybara, with the latter implementing a PostgreSQL database via DataMapper |
+| Sinatra, Capybara, PostgreSQL | Created two Ruby / Sinatra based web applications: [Rock-Paper-Scissors](https://github.com/ivan-sathianathan/rps-challenge) and [Chitter](https://github.com/ivan-sathianathan/chitter-challenge). Both were test driven with Rspec and Capybara, with the latter hosted on Heroku and implementing a PostgreSQL database via DataMapper |
 | JavaScript, jQuery, Jasmine | Created a mock [Thermostat](https://github.com/ivan-sathianathan/Thermostat) with external location based weather temperature provided by OpenWeatherMap's API, test driven with Jasmine |
 | Golang | Experimented with with Golang during a Lab week, test driving a fizz-buzz kata (link) and basic ten-pin bowling challenge (link) |
 | Ruby On Rails | Built clones of [Yelp](https://github.com/ivan-sathianathan/yelp-clone) and Instagram in Rails with a PostgreSQL database using ActiveRecord, user authentication via Devise and fully test driven via Rspec and Capybara |
