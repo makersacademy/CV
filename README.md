@@ -1,6 +1,6 @@
 ## Ivan Sathianathan
 
-I am actively looking roles as a junior full-stack developer in Toronto. I recently graduated from Europe's premier web development boot camp and hold a Master's degree from a top engineering faculty.
+I am actively looking for roles as a junior full-stack developer in Toronto. I recently graduated from Europe's premier web development boot camp and hold a Master's degree from a top engineering faculty.
 
 My experience is with Ruby-on-Rails and AngularJS but I am agnostic with regards preferred language and tech stack. More important to me is joining an engineering team that promotes Test-Driven Development and Agile best practices.
 
