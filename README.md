@@ -2,7 +2,7 @@
 
 I am actively looking roles as a junior full-stack developer in Toronto. I recently graduated from Europe's premier web development boot camp and hold a Master's degree from a top engineering faculty.
 
-My experience is with Ruby-on-Rails and AngularJS. However, I am agnostic with regards preferred language and tech stack; more important to me is joining an engineering team that promotes Test-Driven Development and Agile best practices.
+My experience is with Ruby-on-Rails and AngularJS but I am agnostic with regards preferred language and tech stack. More important to me is joining an engineering team that promotes Test-Driven Development and Agile best practices.
 
 In my previous professional life, I was a performance marketing expert at some of Europe's fastest growing start-ups.
 
@@ -40,12 +40,14 @@ Goldman Sachs is an investment bank. I worked on a bunch of M&A deals during a s
 
 ## Skills And Experience
 
+For my final project at Makers Academy, I built with a team of three other students [Fantasy Offside](https://github.com/ivan-sathianathan/fantasyoffside), a single page web application which gives players of the UK's largest fantasy football league an edge against their opponents by automating the process of picking a user's optimal fantasy football team.
+
+The recommendations (suggested starting team, formation, transfers, and captain) are provided by a Rails API based on projected points calculated using Ruby. The input data for these calculations (historical player performance data and past / upcoming fixtures) is pulled from the fantasy football league's API via Python scripts, and we factor in the user's current squad and finances from data scraped directly from the fantasy football league's website using Watir. Recommendations are slickly and stylishly presented on the front-end through AngularJS and Bootstrap.
+
+Below is a selection of other projects from my time at Makers Academy which showcase my comfort with Ruby, Rails and Rspec.
+
 | Technology | Projects |
 | --- | --- |
 | Ruby, Rspec | Completed a number of pure Ruby-based challenges test driven with Rspec including [Take Away](https://github.com/ivan-sathianathan/takeaway-challenge) and [Airport](https://github.com/ivan-sathianathan/airport_challenge)
-| Sinatra, Capybara, PostgreSQL | Created two Ruby / Sinatra based web applications: [Rock-Paper-Scissors](https://github.com/ivan-sathianathan/rps-challenge) and [Chitter](https://github.com/ivan-sathianathan/chitter-challenge). Both were test driven with Rspec and Capybara, with the latter hosted on Heroku and implementing a PostgreSQL database via DataMapper |
-| JavaScript, jQuery, Jasmine | Created a mock [Thermostat](https://github.com/ivan-sathianathan/Thermostat) with external location based weather temperature provided by OpenWeatherMap's API, test driven with Jasmine |
-| Golang | Experimented with with Golang during a Lab week, test driving a fizz-buzz kata (link) and basic ten-pin bowling challenge (link) |
-| Ruby On Rails | Built clones of [Yelp](https://github.com/ivan-sathianathan/yelp-clone) and Instagram in Rails with a PostgreSQL database using ActiveRecord, user authentication via Devise and fully test driven via Rspec and Capybara |
-| Angular, Node.js | Github selector project, and todo list. Need to add something else here? Perhaps Guess Who game. Doesn't need to be now but should add it at some point |
-| Python, Ruby On Rails, AngularJS, Bootstrap | Fantasy Offside, my final project at Makers Academy, built with a team of three other students. We created a single page web application using AngularJS and Bootstrap to automate the process of picking a user's optimal Fantasy Football team before the deadline each week (including suggested formation, transfers, captain pick, and starting 11). The recommendations were provided by a Rails API, based on projected player points using Ruby. The input data for these calculations (historical player performance information and past/upcoming fixtures) was pulled using weekly automated Python scripts. We also factored in the user's current squad and team finances when making recommendations, scraped directly from the Fantasy Premier League's website using Watir. |
+| Sinatra, Capybara, PostgreSQL, Heroku | Created two Ruby / Sinatra based web applications: [Rock-Paper-Scissors](https://github.com/ivan-sathianathan/rps-challenge) and [Chitter](https://github.com/ivan-sathianathan/chitter-challenge). Both were test driven with Rspec and Capybara, with the latter hosted on Heroku and implementing a PostgreSQL database via DataMapper |
+| Ruby On Rails | Built a clone of [Yelp](https://github.com/ivan-sathianathan/yelp-clone) in Rails with a PostgreSQL database using ActiveRecord, user authentication via Devise and fully test driven via Rspec and Capybara |
