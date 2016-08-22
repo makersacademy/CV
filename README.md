@@ -40,7 +40,7 @@ Goldman Sachs is an investment bank. I worked on a bunch of M&A deals during a s
 
 ## Skills And Experience
 
-For my final project at Makers Academy, I built with a team of three other students [Fantasy Offside](https://github.com/ivan-sathianathan/fantasyoffside). This single page web application gives players of the UK's largest fantasy football league an edge against their opponents by automating the process of picking a their optimal fantasy football team.
+For my final project at Makers Academy, I built with a team of three other students [Fantasy Offside](https://github.com/ivan-sathianathan/fantasyoffside). This single page web application gives players of the UK's largest fantasy football league an edge against their opponents by automating the process of picking their optimal fantasy football team.
 
 The recommendations (suggested starting team, formation, transfers, and captain) are provided by a Rails API based on projected points calculated using Ruby. The input data for these calculations is pulled from the fantasy football league's API via Python scripts, and we factor in the user's current squad and finances from data scraped directly from the fantasy football league's website using Watir. Recommendations are slickly and stylishly presented on the front-end through AngularJS and Bootstrap.
 
