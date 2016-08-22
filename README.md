@@ -4,7 +4,7 @@ I am actively looking roles as a junior full-stack developer in Toronto. I recen
 
 My experience is with Ruby-on-Rails and AngularJS but I am agnostic with regards preferred language and tech stack. More important to me is joining an engineering team that promotes Test-Driven Development and Agile best practices.
 
-In my previous professional life, I was a performance marketing expert at some of Europe's fastest growing start-ups.
+I am also a performance marketing expert and have worked at some of Europe's fastest growing start-ups.
 
 ## Education
 
