@@ -40,9 +40,9 @@ Goldman Sachs is an investment bank. I worked on a bunch of M&A deals during a s
 
 ## Skills And Experience
 
-For my final project at Makers Academy, I built with a team of three other students [Fantasy Offside](https://github.com/ivan-sathianathan/fantasyoffside), a single page web application which gives players of the UK's largest fantasy football league an edge against their opponents by automating the process of picking a user's optimal fantasy football team.
+For my final project at Makers Academy, I built with a team of three other students [Fantasy Offside](https://github.com/ivan-sathianathan/fantasyoffside). This single page web application gives players of the UK's largest fantasy football league an edge against their opponents by automating the process of picking a their optimal fantasy football team.
 
-The recommendations (suggested starting team, formation, transfers, and captain) are provided by a Rails API based on projected points calculated using Ruby. The input data for these calculations (historical player performance data and past / upcoming fixtures) is pulled from the fantasy football league's API via Python scripts, and we factor in the user's current squad and finances from data scraped directly from the fantasy football league's website using Watir. Recommendations are slickly and stylishly presented on the front-end through AngularJS and Bootstrap.
+The recommendations (suggested starting team, formation, transfers, and captain) are provided by a Rails API based on projected points calculated using Ruby. The input data for these calculations is pulled from the fantasy football league's API via Python scripts, and we factor in the user's current squad and finances from data scraped directly from the fantasy football league's website using Watir. Recommendations are slickly and stylishly presented on the front-end through AngularJS and Bootstrap.
 
 Below is a selection of other projects from my time at Makers Academy which showcase my comfort with Ruby, Rails and Rspec.
 
@@ -50,4 +50,4 @@ Below is a selection of other projects from my time at Makers Academy which show
 | --- | --- |
 | Ruby, Rspec | Completed a number of pure Ruby-based challenges test driven with Rspec including [Take Away](https://github.com/ivan-sathianathan/takeaway-challenge) and [Airport](https://github.com/ivan-sathianathan/airport_challenge)
 | Sinatra, Capybara, PostgreSQL, Heroku | Created two Ruby / Sinatra based web applications: [Rock-Paper-Scissors](https://github.com/ivan-sathianathan/rps-challenge) and [Chitter](https://github.com/ivan-sathianathan/chitter-challenge). Both were test driven with Rspec and Capybara, with the latter hosted on Heroku and implementing a PostgreSQL database via DataMapper |
-| Ruby On Rails | Built a clone of [Yelp](https://github.com/ivan-sathianathan/yelp-clone) in Rails with a PostgreSQL database using ActiveRecord, user authentication via Devise and fully test driven via Rspec and Capybara |
+| Ruby On Rails | Built a clone of [Yelp](https://github.com/ivan-sathianathan/yelp-challenge) in Rails with a PostgreSQL database using ActiveRecord, user authentication via Devise and fully test driven via Rspec and Capybara |
