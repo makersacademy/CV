@@ -2,7 +2,7 @@
 
 I am actively looking for roles as a junior full-stack developer in Toronto. I recently graduated from Europe's premier web development boot camp and hold a Master's degree from a top engineering faculty.
 
-My experience is with Ruby-on-Rails and AngularJS but I am happy to work with most languages and tech stacks. More important to me is joining a company that promotes Test Driven Development and Agile best practices.
+My experience is with Ruby-on-Rails and AngularJS but I am happy to work with most languages and tech stacks. More importantly, I would like to join a company that promotes Test Driven Development and Agile best practices.
 
 I am also a performance marketing expert and have worked at some of Europe's fastest growing start-ups.
 
