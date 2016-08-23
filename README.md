@@ -13,7 +13,7 @@ I am also a performance marketing expert and have worked at some of Europe's fas
 
 Makers Academy is an intense 12-week web development boot camp that has graduated over 600 students into developer roles at ThoughtWorks, Pivotal Labs, Accenture and many more.
 
-The course material is taught through Ruby and JavaScript with a strong emphasis on TDD. See [here](http://www.makersacademy.com/curriculum/#definition-0) for the full curriculum and [below](#skills-and-experience) for examples of what I practiced there.
+The course material is taught through Ruby and JavaScript with a strong emphasis on TDD. See [here](http://www.makersacademy.com/curriculum/#definition-0) for the full curriculum and below for examples of what I practiced there.
 
 #### Imperial College, University of London | 2003 - 2007
 
