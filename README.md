@@ -19,7 +19,7 @@ The course material is taught through Ruby and JavaScript with a strong emphasis
 
 Imperial College is consistently ranked highly by a number of [international league tables](https://www.imperial.ac.uk/about/introducing-imperial/league-tables/). I completed a Master's degree in Electrical & Electronic Engineering with Management.
 
-## Skills And Experience
+## Coding Projects
 
 For my final project at Makers Academy, I built with a team of three other students [Fantasy Offside](https://github.com/ivan-sathianathan/fantasyoffside). This single page web application gives players of the UK's largest fantasy football league an edge against opponents by automating the process of picking their optimal fantasy football team.
 
