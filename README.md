@@ -1,8 +1,11 @@
 ## Sam Broughton
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I'm an amateur philosopher, tv fanatic, Cambridge dropout and newly-minted coder. My awkward stumble through life so far has enabled me to cultivate many interests, and now that Makers Academy have given me access to a new world of virtually unlimited digital creation, I'm eager to channel these interests into 
 
 ## Skills
+
+#### Fast learner
+- For our Makers Academy final project, my team and I challenged ourselves to learn
 
 #### Problem Solving
 
