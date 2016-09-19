@@ -1,32 +1,22 @@
 ## Sam Broughton
 
-I'm an amateur philosopher, tv fanatic, Cambridge dropout and newly-minted coder. My awkward stumble through life so far has enabled me to cultivate many interests, and now that Makers Academy have given me access to a new world of virtually unlimited digital creation, I'm eager to channel these interests into 
+I'm an amateur philosopher, tv fanatic, Cambridge dropout and newly-minted coder whose awkward stumble through life has yielded many interests from experimental psychology to classical ballet. Now that Makers Academy has given me access to a limitless new world of digital creation, I'm eager to channel these interests into as many projects as I have time for with as many people as possible.
 
 ## Skills
 
+#### Systematic thinker
+- My education in philosophy and formal logic has helped immensely in my approach to coding -
+
 #### Fast learner
-- For our Makers Academy final project, my team and I challenged ourselves to learn
+- For our Makers Academy final project: 'Make It Stop! Alarm Clock', my team and I challenged ourselves to learn Nativescript with Angular 2.
 
-#### Problem Solving
+#### Problem Solver
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Creativity
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+- Debugging
 
 ## Education
 
-#### Makers Academy (July 2016 to September 2016)
+#### Makers Academy Remote (July 2016 to September 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -48,13 +38,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Philosophy
 - BA Hons. (Not completed)
 
+### King Edward VI Grammar School
+- A-Levels: Maths (A), Philosophy (A), English Literature (A)
+
+### Interests  
+- Feminism
+- Film
+- Science Fiction
+- Gaming (tabletop & video)
+- Playing piano, ukulele, fife
+
 ## Experience
 
 **Bank of New York Mellon** (July 2015 to June 2016)    
 *Liquidities, Senior Administrator*   
 **Burrows Marketing** (December 2014 to June 2015)   
 *Image Library Administrator*  
-**NatCen Social Research** (October 2014 to February 2015)  
-*Telephone Interviewer*  
 **Brentwood Local Council** (August 2014 to October 2014)   
 *Scrutiny and Peer Review Officer*
