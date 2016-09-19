@@ -1,6 +1,6 @@
 ## Sam Broughton
 
-I'm an amateur philosopher, tv fanatic, Cambridge dropout and enthusiastic coder whose awkward stumble through life has yielded many interests from experimental psychology to classical ballet. Now that Makers Academy's 12-week Remote bootcamp has given me access to a limitless world of digital creation, I'm eager to channel these interests into as many projects as I have time for with as many people as possible.
+I'm an amateur philosopher, tv fanatic, Cambridge dropout and enthusiastic coder whose awkward stumble through life has accumulated many interests from experimental psychology to classical ballet. Now that Makers Academy's 12-week Remote bootcamp has given me access to a limitless world of digital creation, I'm eager to channel these interests into as many projects as I have time for with as many people as possible.
 
 ## Skills
 
