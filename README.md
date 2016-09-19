@@ -42,7 +42,7 @@ I'm an amateur philosopher, tv fanatic, Cambridge dropout and enthusiastic coder
 - A-Levels: Maths (A), Philosophy (A), English Literature (A)
 
 ### Interests  
-- Feminism
+- Feminism in popular culture (and in general!)
 - Film
 - Science Fiction
 - Gaming (tabletop & video)
