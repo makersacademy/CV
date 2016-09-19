@@ -1,10 +1,10 @@
-## Your Name
+## Sam Broughton
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
-#### This Skill
+#### Problem Solving
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +12,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Creativity
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2016 to September 2016)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,26 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+|Project|Summary|Technologies|
+|-------|-------|------------|
+|[Make It Stop! Alarm Clock](https://github.com/MakeItStop/task-based-alarm) | A mobile app task-based alarm clock coded in Nativescript with Angular 2 for deployment on both Android and iOS. Makers Academy Final Project. | Nativescript, Angular 2|
+|[Dress 2 Impress](https://github.com/jonnymoore12/dress_2_impress)  | A full-stack Rails web-app that allows users to submit and vote on fashion dilemmas. Makers Academy Hackathon project. | Ruby on Rails  |
+|[Inglourious BnBsterds](https://github.com/samjbro/inglourious-BnBsterds)  | An Airbnb clone built in Ruby on Rails as a first team project.  | Ruby on Rails  |
 
-#### Any other qualifications
+
+#### University of Cambridge (2008 to 2013)
+
+- Philosophy
+- BA Hons. (Not completed)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Bank of New York Mellon** (July 2015 to June 2016)    
+*Liquidities, Senior Administrator*   
+**Burrows Marketing** (December 2014 to June 2015)   
+*Image Library Administrator*  
+**NatCen Social Research** (October 2014 to February 2015)  
+*Telephone Interviewer*  
+**Brentwood Local Council** (August 2014 to October 2014)   
+*Scrutiny and Peer Review Officer*
