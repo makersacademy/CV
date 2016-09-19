@@ -1,11 +1,11 @@
 ## Sam Broughton
 
-I'm an amateur philosopher, tv fanatic, Cambridge dropout and enthusiastic coder whose awkward stumble through life has accumulated many interests from experimental psychology to classical ballet. Now that Makers Academy's 12-week Remote bootcamp has given me access to a limitless world of digital creation, I'm eager to channel these interests into as many projects as I have time for with as many people as possible.
+I'm an amateur philosopher, TV fanatic and enthusiastic coder whose awkward stumble through life has accumulated many interests from experimental psychology to classical ballet. Now that Makers Academy's 12-week Remote bootcamp has given me access to a limitless world of digital creation, I'm eager to channel these interests into as many projects as I have time for with as many people as possible.
 
 ## Skills
 
 #### Systematic thinker, problem solver
-- My training in philosophy and formal logic has helped immensely in my approach to coding, and allowed me to hone my ability to break down a problem systematically into distinct components.
+- My training in philosophy and formal logic at the University of Cambridge has helped immensely in my approach to coding, and allowed me to hone my ability to break down a problem systematically into distinct components.
 
 #### Fast learner
 - For our Makers Academy final project: [Make It Stop! Alarm Clock](https://github.com/MakeItStop/task-based-alarm), my team and I wanted to challenge ourselves to learn a brand-new javascript framework, so we chose a combination of two we had never heard of - Nativescript with Angular 2. By the end of the 12-day project we had produced a fully operational app, soon to be deployed on the app store!
@@ -36,13 +36,13 @@ I'm an amateur philosopher, tv fanatic, Cambridge dropout and enthusiastic coder
 #### University of Cambridge (2008 to 2013)
 
 - Philosophy
-- BA Hons. (Not completed)
+- BA Hons. (Incomplete)
 
 ### King Edward VI Grammar School
 - A-Levels: Maths (A), Philosophy (A), English Literature (A)
 
 ### Interests  
-- Feminism in popular culture (and in general!)
+- Feminism
 - Film
 - Science Fiction
 - Gaming (tabletop & video)
