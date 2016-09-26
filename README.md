@@ -8,7 +8,7 @@ I'm an amateur philosopher, TV fanatic and enthusiastic coder whose awkward stum
 - My training in philosophy and formal logic at the University of Cambridge has helped immensely in my approach to coding, and allowed me to hone my ability to break down a problem systematically into distinct components.
 
 #### Fast learner
-- For our Makers Academy final project: [Make It Stop! Alarm Clock](https://github.com/MakeItStop/task-based-alarm), my team and I wanted to challenge ourselves to learn a brand-new javascript framework, so we chose a combination of two we had never heard of - Nativescript with Angular 2. By the end of the 12-day project we had produced a fully operational app, soon to be deployed on the app store!
+- For our Makers Academy final project: [Make It Stop! Alarm Clock](https://github.com/MakeItStop/task-based-alarm), my team and I wanted to challenge ourselves to learn a brand-new javascript framework not taught as part of the course. After some research into various options, we decided on Nativescript with Angular 2. By the end of the 12-day project we had produced a fully operational app, soon to be deployed on the app store!
 
 #### Attentive to detail
 - My previous job in an investment bank involved facilitating payments often worth upwards of a billion pounds' value in various currencies. Since one incorrect digit could result in huge financial losses and some very unhappy clients, I was inspired to develop an obsessive attention to detail.
@@ -21,7 +21,7 @@ I'm an amateur philosopher, TV fanatic and enthusiastic coder whose awkward stum
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript
 - Rspec, Jasmine, Mocha
 
 
