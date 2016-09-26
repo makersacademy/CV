@@ -17,8 +17,8 @@ I'm an amateur philosopher, TV fanatic and enthusiastic coder whose awkward stum
 
 #### Makers Academy Remote (July 2016 to September 2016)
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
+- Cultivating curiosity and hungry passion for code
+- Independent learning and problem-solving
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, Javascript
