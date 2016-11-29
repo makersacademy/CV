@@ -10,7 +10,7 @@ It took me a while to figure out what I wanted to do. I love learning; I love ma
 
 I began my coding journey almost accidentally. I did some maths courses online and this led me to some coding courses. It was only after messing around with code for a few months, talking to people and attending meet-ups that I realised that this was something I wanted to do full-time.
 
-I am currently enrolled in the Makers Academy Remote course, 75% at level complete of re-skilling myself completely.
+I am currently enrolled in the Makers Academy Remote course, 90% at level complete of re-skilling myself completely.
 
 I am also involved with [Django Girls Belfast](https://djangogirls.org/belfast/), who provide one-day workshops to women who want to learn to build their own web apps using Python and Django. There is an incredible demand for this workshop - every time we run it we increase our numbers of applicants. It's amazing!
 
@@ -25,12 +25,13 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And
 ## What I have gotten out of Makers Academy
 
 
-
 #### Skills
 
 Got lots of new mad skills. By the end of week 6, our group of 4 people had built an airBnb clone called [makersBnB](https://github.com/hanrattyjen/makersbnb) using Ruby and Sinatra, all fully-tested and working and looking good.
 
-This increased my confidence massively and now that I know what can be done in only a few days, I'm very excited to see what I can achieve in the next 6 weeks, 6 months and 6 years.
+In week 9, our group of 6 decided to build a test-driven blogging platform using Django and Python even though our combined experience was minimal. In 5 days we managed to build something to be proud of with a lot of potential. This increased our confidence massively and we can now see that we do have that ability to move between different languages.
+
+Now that I know what can be done in only a few days, I'm very excited to see what I can achieve in the next 6 weeks, 6 months and 6 years.
 
 #### Focus
 
@@ -53,7 +54,7 @@ The use of XP practices meant that we were assigned a new pair partner every sin
 |  Yelp  | Yelp clone|  5 days | Rails, ActiveRecord, Unit testing and test automation with Rspec, Cucumber & Capybara  |  2 |  [Github](https://github.com/hanrattyjen/yelp) |
 |  Makers Bnb |Airbnb Clone | 5 days  | Sinatra, Ruby, Datamapper and Postgres, Unit testing and test automation with Rspec & Capybara  | 4  | [Github](https://github.com/hanrattyjen/makersbnb)  |
 |  Makstagram | Instagram clone |  2 days | Rails, ActiveRecord and Postgres, Unit testing and test automation with Rspec & Capybara   | Solo  | [Github](https://github.com/hanrattyjen/instagram-challenge)  |
-|Chitter |Twitter Clone |2 days |Sinatra, Ruby, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara |Solo |[Heroku](https://chitter-chitter-bang-bang.herokuapp.com/)
+|Chitter |Twitter Clone |2 days |Sinatra, Ruby, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara. [Heroku](https://chitter-chitter-bang-bang.herokuapp.com/) |Solo |
 [Github](https://github.com/hanrattyjen/chitter-challenge)|
 
 
