@@ -27,11 +27,11 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And
 
 #### Skills
 
-Got lots of awesome new skills. My coding skills have jumped massively in the past 3 months and also the way I approach new problems and how I can communicate those to other people.
+Got lots of awesome new skills. My coding skills have jumped massively in the past 3 months, as well as my ability to learn. How I approach new problems and how I can communicate those to other people has improved so much and I'm a lot more comfortable expressing my ideas.
 
 By the end of week 6, our group of 4 people had built an airBnb clone called [makersBnB](https://github.com/hanrattyjen/makersbnb) using Ruby and Sinatra, all fully-tested and working and looking good.
 
-In week 9, our group of 6 decided to build a test-driven blogging platform using Django and Python even though our combined experience was minimal. In 5 days we managed to build something to be proud of with a lot of potential. This increased our confidence immensely and we can now see that we do have that ability to move between different languages.
+In week 9, our group of 6 decided to build a test-driven blogging platform using Django and Python even though our combined experience was minimal. In 5 days we managed to build something to be proud of with a lot of potential. This increased our confidence immensely and we can now see that we do have that ability to move between different languages, which is amazing!
 
 Now that I know what can be done in only a few days, I'm very excited to see what I can achieve in the next 6 weeks, 6 months and 6 years.
 
