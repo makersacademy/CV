@@ -29,9 +29,7 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And
 
 Got lots of awesome new skills. My coding skills have jumped massively in the past 3 months, as well as my ability to learn. How I approach new problems and how I can communicate those to other people has improved so much and I'm a lot more comfortable expressing my ideas.
 
-By the end of week 6, our group of 4 people had built an airBnb clone called [makersBnB](https://github.com/hanrattyjen/makersbnb) using Ruby and Sinatra, all fully-tested and working and looking good.
-
-In week 9, our group of 6 decided to build a test-driven blogging platform using Django and Python even though our combined experience was minimal. In 5 days we managed to build something to be proud of with a lot of potential. This increased our confidence immensely and we can now see that we do have that ability to move between different languages, which is amazing!
+In week 9, our group of 6 decided to build a test-driven [blogging platform](#unchained) using Django and Python even though our combined experience was minimal. In 5 days we managed to build something to be proud of with a lot of potential. This increased our confidence immensely and we can now see that we do have that ability to move between different languages, which is amazing!
 
 Now that I know what can be done in only a few days, I'm very excited to see what I can achieve in the next 6 weeks, 6 months and 6 years.
 
@@ -52,7 +50,7 @@ The use of XP practices meant that we were assigned a new pair partner every sin
 #### Projects
 |Projects   |What is it?	| Timescale | Tech used  |  Team | Link  |
 |---|---|---|---|---|---|
-| Unchained  | Blogging Platform| 5 days  |  Python, Django, Unittest, JavaScript, JQuery, Postgres | 6  | [Github](https://github.com/hanrattyjen/unchained_blog)   |
+| <a name="unchained"></a>Unchained  | Blogging Platform| 5 days  |  Python, Django, Unittest, JavaScript, JQuery, Postgres | 6  | [Github](https://github.com/hanrattyjen/unchained_blog)   |
 |  Yelp  | Yelp clone|  5 days | Rails, ActiveRecord, Unit testing and test automation with Rspec, Cucumber & Capybara  |  2 |  [Github](https://github.com/hanrattyjen/yelp) |
 |  Makers Bnb |Airbnb Clone | 5 days  | Sinatra, Ruby, Datamapper and Postgres, Unit testing and test automation with Rspec & Capybara  | 4  | [Github](https://github.com/hanrattyjen/makersbnb)  |
 |  Makstagram | Instagram clone |  2 days | Rails, ActiveRecord and Postgres, Unit testing and test automation with Rspec & Capybara   | Solo  | [Github](https://github.com/hanrattyjen/instagram-challenge)  |
