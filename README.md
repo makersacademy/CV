@@ -27,9 +27,9 @@ I have a [blog](https://medium.com/@hanratty.jen) that is updated regularly. And
 
 #### Skills
 
-Got lots of awesome new skills. My coding skills have jumped massively in the past 3 months, as well as my ability to learn. How I approach new problems and how I can communicate those to other people has improved so much and I'm a lot more comfortable expressing my ideas.
+Got lots of awesome new skills. My coding skills have jumped massively in the past 3 months, as well as my ability to learn. How I approach new problems and how I can communicate those to other people has improved so much and I'm much more comfortable expressing my ideas.
 
-In week 9, our group of 6 decided to build a test-driven [blogging platform](#unchained) using Django and Python even though our combined experience was minimal. In 5 days we managed to build something to be proud of with a lot of potential. This increased our confidence immensely and we can now see that we do have that ability to move between different languages, which is amazing!
+In week 9, our group of 6 decided to build a test-driven [blogging platform](#projects) using Django and Python even though our combined experience was minimal. In 5 days we managed to build something to be proud of with a lot of potential. This increased our confidence immensely and we can now see that we do have that ability to move between different languages, which is amazing!
 
 Now that I know what can be done in only a few days, I'm very excited to see what I can achieve in the next 6 weeks, 6 months and 6 years.
 
@@ -47,15 +47,15 @@ I've met so many new people from Makers Academy. Pre-course, I assumed that beca
 
 The use of XP practices meant that we were assigned a new pair partner every single day. This was quite a daunting thought at the start of the course but it is something that I really got a lot out of and I think it helped progress our learning a lot more than if we were on our own.
 
-#### Projects
+#### <a name="projects"></a> Projects
 |Projects   |What is it?	| Timescale | Tech used  |  Team | Link  |
 |---|---|---|---|---|---|
-| <a name="unchained"></a>Unchained  | Blogging Platform| 5 days  |  Python, Django, Unittest, JavaScript, JQuery, Postgres | 6  | [Github](https://github.com/hanrattyjen/unchained_blog)   |
+| Unchained  | Blogging Platform| 5 days  |  Python, Django, Unittest, JavaScript, JQuery, Postgres | 6  | [Github](https://github.com/hanrattyjen/unchained_blog)   |
 |  Yelp  | Yelp clone|  5 days | Rails, ActiveRecord, Unit testing and test automation with Rspec, Cucumber & Capybara  |  2 |  [Github](https://github.com/hanrattyjen/yelp) |
 |  Makers Bnb |Airbnb Clone | 5 days  | Sinatra, Ruby, Datamapper and Postgres, Unit testing and test automation with Rspec & Capybara  | 4  | [Github](https://github.com/hanrattyjen/makersbnb)  |
 |  Makstagram | Instagram clone |  2 days | Rails, ActiveRecord and Postgres, Unit testing and test automation with Rspec & Capybara   | Solo  | [Github](https://github.com/hanrattyjen/instagram-challenge)  |
-|Chitter |Twitter Clone |2 days |Sinatra, Ruby, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara. [Heroku](https://chitter-chitter-bang-bang.herokuapp.com/) |Solo |
-[Github](https://github.com/hanrattyjen/chitter-challenge)|
+|Chitter |Twitter Clone |2 days |Sinatra, Ruby, Datamapper & Postgres, Unit testing & test automation with Rspec & Capybara. [Deployed to Heroku](https://chitter-chitter-bang-bang.herokuapp.com/) |Solo |[Github](https://github.com/hanrattyjen/chitter-challenge)|
+
 
 
 All projects involved a front-end using HTML5, CSS and CSS templates such as Bootstrap or Pure.
