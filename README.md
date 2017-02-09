@@ -45,8 +45,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ## Experience
 
 **Panmure Gordon & Co** (November 2012 to January 2017)    
-*Investment Funds Analyst*  
+*Investment Funds Analyst*
+
 **Matrix Corporate Capital LLP** (November 2008 to November 2012)   
 *Investment Funds Analyst*
+
 **Teather & Greenwood Ltd /Landsbanki Securities (UK) Ltd** (September 2006 to November 2008)   
 *Investment Funds Analyst*
