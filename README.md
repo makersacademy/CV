@@ -34,7 +34,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Reading (2003 to 2006)
 
-- Subject, any specialisms
+- BA Hons Economics 2:1
 - Grade
 - Other cool stuff
 
@@ -42,13 +42,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Certificate in Securities: Unit 1 Financial Regulation, Unit 2 Securities
 - Passed Level I of the CFA Program.
 
-## Experience
+## Experience 
 
 **Panmure Gordon & Co** (November 2012 to January 2017)    
 *Investment Funds Analyst*
+Moving to Panmure Gordon as part of the same team.
 
 **Matrix Corporate Capital LLP** (November 2008 to November 2012)   
 *Investment Funds Analyst*
+Moving to Matrix as part of a ten strong Investment Funds team.
 
 **Teather & Greenwood Ltd /Landsbanki Securities (UK) Ltd** (September 2006 to November 2008)   
 *Investment Funds Analyst*
+Completed a twelve month graduate training programme which included time working abroad in Iceland. Laterlly joined the Investment Funds team in London on a permanent basis in September 2007.
+
