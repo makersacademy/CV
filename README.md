@@ -36,8 +36,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Economics, BA (Hons), 2:1
 
-  “The curious mind embraces science; the gifted and sensitive, the arts; the practical, business; the leftover becomes an economist” 
- Nassim Nicholas Taleb
+“The curious mind embraces science; the gifted and sensitive, the arts; the practical, business; the leftover becomes an economist” 
+*Nassim Nicholas Taleb*
+ 
 #### Other qualifications
 - Certificate in Securities: Unit 1 Financial Regulation, Unit 2 Securities
 - Passed Level I of the CFA Program.
