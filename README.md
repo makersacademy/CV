@@ -1,6 +1,6 @@
 ## Joe Maidman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. I like things I don't understand. I am always learning. A software developer supported by a decade long career as an investment bank research analyst. 
+A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. I like things I don't understand. I am always learning. I don't know != failure. A software developer supported by a decade long career as an investment bank research analyst. 
 
 ## Skills
 
