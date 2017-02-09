@@ -1,6 +1,6 @@
-## Your Name
+## Joe Maidman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. I like things I don't understand. I am always learning. A software developer supported by a decade long career as an investment bank research analyst. 
 
 ## Skills
 
@@ -36,11 +36,13 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Economics, BA (Hons), 2:1
 
-#### Any other qualifications
+  “The curious mind embraces science; the gifted and sensitive, the arts; the practical, business; the leftover becomes an economist” 
+ Nassim Nicholas Taleb
+#### Other qualifications
 - Certificate in Securities: Unit 1 Financial Regulation, Unit 2 Securities
 - Passed Level I of the CFA Program.
 
-## Experience 
+## Work Experience 
 
 **Panmure Gordon & Co** (November 2012 to January 2017)    
 *Investment Funds Analyst*
