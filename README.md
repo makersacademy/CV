@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (February to May 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +32,21 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### University of Reading (2003 to 2006)
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
 #### Any other qualifications
+- Certificate in Securities: Unit 1 Financial Regulation, Unit 2 Securities
+- Passed Level I of the CFA Program.
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Panmure Gordon & Co** (November 2012 to January 2017)    
+*Investment Funds Analyst*  
+**Matrix Corporate Capital LLP** (November 2008 to November 2012)   
+*Investment Funds Analyst*
+**Teather & Greenwood Ltd /Landsbanki Securities (UK) Ltd** (September 2006 to November 2008)   
+*Investment Funds Analyst*
