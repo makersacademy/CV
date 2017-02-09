@@ -34,9 +34,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### University of Reading (2003 to 2006)
 
-- BA Hons Economics 2:1
-- Grade
-- Other cool stuff
+- Economics, BA (Hons), 2:1
 
 #### Any other qualifications
 - Certificate in Securities: Unit 1 Financial Regulation, Unit 2 Securities
@@ -54,5 +52,6 @@ Moving to Matrix as part of a ten strong Investment Funds team.
 
 **Teather & Greenwood Ltd /Landsbanki Securities (UK) Ltd** (September 2006 to November 2008)   
 *Investment Funds Analyst*
+
 Completed a twelve month graduate training programme which included time working abroad in Iceland. Laterlly joined the Investment Funds team in London on a permanent basis in September 2007.
 
