@@ -1,10 +1,10 @@
 ## Joe Maidman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. I like things I don't understand. I am always learning. I don't know != failure. A software developer supported by a decade long career as an investment bank research analyst. 
+A current student at Makers Academy supported by a decade long career as a client facing investment bank research analyst. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.. 
 
 ## Skills
 
-#### This Skill
+#### Communicative
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -12,7 +12,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Analytical
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -20,6 +20,51 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Adaptive
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Pragmatic
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Determined
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.
+
+#### Curious
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.
+
+#### Commercial
+
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+
+- I achieved A during my work at B (job, or otherwise)
+- I contributed to the growth of X while doing Y (job, or otherwise)
+- I built this, made this, broke this, fixed this, etc.
+- A link to some on-line evidence (blogs, videos, articles, etc.
 
 ## Education
 
@@ -44,18 +89,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Passed Level I of the CFA Program.
 
 ## Work Experience 
+Having completed a twelve month graduate training programme...
 
 **Panmure Gordon & Co** (November 2012 to January 2017)    
 *Investment Funds Analyst*
 
-Moving to Panmure Gordon as part of the same team.
-
 **Matrix Corporate Capital LLP** (November 2008 to November 2012)   
 *Investment Funds Analyst*
-
-Moving to Matrix as part of a ten strong Investment Funds team.
 
 **Teather & Greenwood Ltd /Landsbanki Securities (UK) Ltd** (September 2006 to November 2008)   
 *Investment Funds Analyst*
 
-Completed a twelve month graduate training programme which included time working abroad in Iceland. Laterlly joined the Investment Funds team in London on a permanent basis in September 2007.
