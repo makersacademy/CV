@@ -1,10 +1,10 @@
 # Jade King
 
 Passionate techy interested in all things digital, especially if it's open source and cross platform.
-Have contributed to several commercial projects as a Full stack developer as well as working on side projects. 
+Have contributed to several commercial projects as a Full stack developer as well as working on side projects.
 
 
-Educated in programming and software development principles at university, then completed a full-time developer boot-camp where I learnt how to develop software collaboratively, in an agile work environment. 
+Educated in programming and software development principles at university, then completed a full-time developer boot-camp where I learnt how to develop software collaboratively, in an agile work environment.
 
 I want to create great user experiences where technology and design is a help not a hindrance.
 
@@ -28,6 +28,21 @@ Have worked in an agile environment at a startup company and while training at M
 #### Linux
 Have been working on Fedora OS for the last two years and am comfortable doing my tasks such as testing, file navigation and Git commands from the terminal.
 I also have experience in using Debian OS's such as Mint.
+
+## Experience
+
+
+**Freelance** - (Oct 2014 to present)
+*Software developer*  
+- Currently working on the Oxford Dictionary websites
+- Other projects include sites for London Fashion Week and a Bitcoin dashboard
+
+**Zopa** - (July 2015 to Oct 2015)
+*Software developer - contracted*
+
+**Freelance** - (Oct 2013 to June 2014)
+*Bitcoin trader & advisor*
+- Helped run weekly drop in sessions where people could learn about bitcoin
 
 ## Education
 
@@ -63,19 +78,9 @@ Finished the course by creating a website for a community project that matches g
 - Web design, Graphic design, Print design
 - HTML, CSS, Adobe Dreamweaver, Adobe Photoshop, Adobe Illustrator, Adobe Indesign
 
-## Experience
 
-**Freelance** - (Oct 2014 to present)
-*Web developer*  
 
-**Zopa** - (July 2015 to Oct 2015)
-*Software developer - contracted*
-
-**Freelance** - (Oct 2013 to June 2014)
-*Bitcoin trader & advisor*
-- Helped run weekly drop in sessions where people could learn about bitcoin
-
-**Vengence inc** - (Aug 2010 to Oct 2010)
+<!-- **Vengence inc** - (Aug 2010 to Oct 2010)
 *Club night organiser*
 
 **Count on Me** - (March 2008 to May 2008)
@@ -91,7 +96,7 @@ Finished the course by creating a website for a community project that matches g
 *Charity fundraiser*
 
 **Furtherfield Net Art Group** - (2004 to 2005)
-*Office & web administration worker*
+*Office & web administration worker* -->
 
 
 
