@@ -1,48 +1,78 @@
-## Your Name
+## Robert Youngman
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Agile is my passion and my trade.  Being an experienced Software Development
+Manager, Certified Scrum Master and Product Owner I decided to learn
+more about coding for the web with Makers Academy to make myself even more
+valuable to software development teams.
 
-## Skills
+I have experience of app development projects for iOS and android,
+now I have full stack development skills.
 
-#### This Skill
+I achieve fantastic results in small or large projects,  my last project involved
+13 scrum teams geographically distributed across USA, Europe and India.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+In the future I will ideally be leading software development teams using Agile.
 
-- Experience
-- Achievements
-- Evidence
+## Examples of my recent development work at Makers Academy
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+| Name | Description | Technology |
+| ------------ | ------------------------ | ------------ |
+| [BandsNearU](https://github.com/youngmanr/original_sound_track) | Local music discovery. Responsive web app. Looks great on mobile and desktop devices. | javascript, JQuery, JSON, Bootstrap, heroku |
+| [tescoin](https://github.com/youngmanr/tescoin)| Search Tesco on-line grocery catalog for items and display results priced in bitcoins. | jQuery, Bootstrap, AngularJS, Node.js, heroku |
+| [Instagram Clone](https://github.com/youngmanr/instagram-challenge)| An instagram clone. | Ruby, Rails, RSpec, Amazon Web Services |
+| [toDo](https://github.com/youngmanr/todo_challenge) | To Do app. | AngularJS, Protractor, solenium,  Node.js |
+| [Petal](https://github.com/youngmanr/petal) | Mood tracking app. | javascript, Node.js, Express, MongoDB |
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+### Makers Academy October 2015 - January 2016
+- pair programming
+- OOP, TDD, SOLID, MVC, Responsive Design
+- Ruby, Rails, Javascript, Node.js, AngularJS, Mongo
+- Rspec, Sinatra, Jasmine, Capybara
+- Bootstrap, HTML5, CSS
+- Git, GitHub
 
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+### Univerisity of Leeds 1979 - 1982
 
-#### Your University / College (start_date to end_date)
+- BSc Honours Degree
+- Computational Science
+- Grade 2.1
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+### University West of England 1989 - 1990
 
-#### Any other qualifications
+- Diploma in Management Studies
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**SAP (UK) Ltd 2012 - 2014**
+
+*Agile Software Development Manager*
+
+**Sybase (UK) Ltd 2005 - 2012**
+
+*Software Development Manager*
+
+**Extended Systems 2000 - 2005**
+
+*Software Development Manager*
+
+*European Professional Services Manager*
+
+*Project Manager*
+
+**Cap Gemini 1998 - 2000**
+
+*Senior Consultant*
+
+**ST Microelectronics 1987 - 1998**
+
+*Software Development Manager*
+
+*Software Applications Engineer*
+
+**Inmos 1982 - 1987**
+
+*Software Development Manager*
+
+*Software Engineer*
