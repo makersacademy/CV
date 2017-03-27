@@ -15,6 +15,12 @@ I'm an amateur philosopher, TV fanatic and enthusiastic coder whose awkward stum
 
 ## Education
 
+### Independent Learning
+  Some projects I have been working on recently: 
+  - https://github.com/samjbro/node-chat-app
+  - https://github.com/samjbro/node-todo
+  - https://github.com/samjbro/node-battleships
+
 #### Makers Academy Remote (July 2016 to September 2016)
 
 - Cultivating curiosity and hungry passion for code
