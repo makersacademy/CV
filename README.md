@@ -1,6 +1,6 @@
 ## Jaiye Senbanjo
 
-I have a professional background in the food industry. I have a BSc from Imperial College and an MSc from the University of Warwick. I have acquired qualifications and developed skills in many programming languages and I am applying them in Web Development. I have a strong willingness and desire to learn new tools and techniques and improve my skills and language knowledge in Web and Software Development.
+I have a professional background in the food industry. I have a BSc from Imperial College and an MSc from the University of Warwick. I have acquired qualifications and developed skills in programming and I am applying them in Web Development. I have a strong willingness and desire to learn new tools and techniques and improve my skills and language knowledge in Web and Software Development.
 
 ## Skills
 
@@ -19,7 +19,6 @@ I have experience in using logical framework to monitor, develop and deploy impr
 #### Research
 
 I can effectively extract and process information from academic sources, company annual reports, news articles, NGO and parastatal organisation publications for the production of market information and scrutinisation of viable opportunities. At LandAfrique Agriculture I researched industry quality standards and developed methods to meet or exceed best practice.
-
 
 #### Commercial Mindset
 
@@ -44,7 +43,8 @@ I use my knowledge and experience and the findings and suggestions of my team to
 #### Warwick University 2010-2011
 - MSc Agronomy, Merit (BBSRC scholar)
 
-
+ #### Experience
+ 
 **LandAfrique Agriculture, Nigeria / London (March 2009 to September 2010,
 September 2011 to December 2015)**
 *Associate Business Development, Agriculture*
@@ -59,7 +59,6 @@ September 2011 to December 2015)**
 - Used order specifications and seasonal demand trends to decide rubber harvest rate and targets
 - Responsible for implementing and executing rubber purchasing strategy and reconciling purchasing positions.
 - Interacted constantly with other production and processing sites for the distribution of raw materials and machinery transport between them. I organised the primary stages of logistical arrangement for export to Europe.
-
 
 #### HOBBIES AND INTERESTS
 Fishing, Running, Reading.
