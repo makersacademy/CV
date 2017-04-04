@@ -14,15 +14,16 @@ My experience has honed my interpersonal skills. I have worked with a variety of
 
 #### Project Management
 
-I have experience in using logical framework to monitor, develop and deploy improved strategy as necessary. I can suggest and justify improvements and streamlining possibilities for increasing logistical, agricultural and business efficiency, and solve problems by comparing and contrasting possible solutions.
+I have experience in using logical framework to monitor, develop and deploy improved strategy as necessary. I can suggest and justify improvements and streamlining possibilities for increasing logistical, agricultural and business efficiency, and solve problems by comparing and contrasting possible solutions. At SIAT Group I contributed to improvements in rubber production efficiency by 10% through a first-in-first-out storage policy which I designed and implemented.
 
 #### Research
 
-I can effectively extract and process information from academic sources, company annual reports, news articles, NGO and parastatal organisation publications for the production of market information and scrutinisation of viable opportunities.
+I can effectively extract and process information from academic sources, company annual reports, news articles, NGO and parastatal organisation publications for the production of market information and scrutinisation of viable opportunities. At LandAfrique Agriculture I researched industry quality standards and developed methods to meet or exceed best practice.
+
 
 #### Commercial Mindset
 
-I use my knowledge and experience and the findings and suggestions of my team to offer competitive business solutions and USPs in my feasibility assessments. I have a keen interest and a strong awareness of the international agri-business global commodities markets and a knowledge of current affairs, international relations and politics. At SIAT Group I contributed to improvements in rubber production efficiency by 10% through a first-in-first-out storage policy which I designed and implemented.
+I use my knowledge and experience and the findings and suggestions of my team to offer competitive business solutions and USPs in my feasibility assessments. I have a keen interest and a strong awareness of the international agri-business global commodities markets and a knowledge of current affairs and international relations.
 
 ## Education
 
