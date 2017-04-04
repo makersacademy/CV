@@ -1,30 +1,32 @@
-## Your Name
+## Jaiye Senbanjo
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I have a professional background in the food industry. I have a BSc from Imperial College and an MSc from the University of Warwick. I have acquired qualifications and developed skills in many programming languages and I am applying them in Web Development. I have a strong willingness and desire to learn new tools and techniques and improve my skills and language knowledge in Web and Software Development.
 
 ## Skills
 
-#### This Skill
+#### Analysis & Reporting
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I can produce accurate and informative documentation using MS Office Programs especially to compare and contrast strategies, devise future business models and to plan mitigation. I am proficient in MS Excel. My projects and responsibilities at LandAfrique Agriculture and SIAT Group culminated in accurate written reports detailing financial, market, and competition information with an advanced level of attention to detail.
 
-- Experience
-- Achievements
-- Evidence
+#### Communication & Management
 
-#### Another Skill
+My experience has honed my interpersonal skills. I have worked with a variety of business backgrounds and I am adaptive and personable. I can compromise, negotiate and adapt either in teams or independently. I can work effectively independently and I have a proactive and preemptive work ethic geared towards problem solving and risk mitigation. At SIAT Group I learned how to communicate in effective and efficient ways in French and English and to implement feedback observations. I have become proficient at team management and organisation.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Project Management
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I have experience in using logical framework to monitor, develop and deploy improved strategy as necessary. I can suggest and justify improvements and streamlining possibilities for increasing logistical, agricultural and business efficiency, and solve problems by comparing and contrasting possible solutions.
+
+#### Research
+
+I can effectively extract and process information from academic sources, company annual reports, news articles, NGO and parastatal organisation publications for the production of market information and scrutinisation of viable opportunities.
+
+#### Commercial Mindset
+
+I use my knowledge and experience and the findings and suggestions of my team to offer competitive business solutions and USPs in my feasibility assessments. I have a keen interest and a strong awareness of the international agri-business global commodities markets and a knowledge of current affairs, international relations and politics. At SIAT Group I contributed to improvements in rubber production efficiency by 10% through a first-in-first-out storage policy which I designed and implemented.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
+#### Makers Academy (April - June 2017)
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
@@ -32,17 +34,31 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### East London Advanced Technology Training (February - July 2016)
+- Higher Level 2 Diploma Web Development
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Imperial College London (2003-2006)
+- BSc (Hons) Zoology
 
-#### Any other qualifications
+#### Warwick University 2010-2011
+- MSc Agronomy, Merit (BBSRC scholar)
 
-## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**LandAfrique Agriculture, Nigeria / London (March 2009 to September 2010,
+September 2011 to December 2015)**
+*Associate Business Development, Agriculture*
+- Developed detailed feasibility reports and financial models for a cassava production and starch/glucose syrup processing enterprises. Reported to MD.
+- Calculation of financial and accounting variables such as NPV, IRR, ADSCR, cashflow, and lending modelling calculating interest rate repayment, asset depreciation and amortisation.
+- Involved in the company listing and equity placement through AIM segment of the London Stock exchange and discussions with TATA GROUP Agriculture Africa Fund through Investec Bank.
+- Presentation and reporting on new business development opportunities and ongoing project progress using MS PowerPoint.
+
+**SIAT Group (January 2007 to January 2009)**
+*Assistant to the Head of Agricultural Services on a Rubber Plantation, Gabon*
+- Rubber price trend analysis in accordance with crude oil and freight prices.
+- Used order specifications and seasonal demand trends to decide rubber harvest rate and targets
+- Responsible for implementing and executing rubber purchasing strategy and reconciling purchasing positions.
+- Interacted constantly with other production and processing sites for the distribution of raw materials and machinery transport between them. I organised the primary stages of logistical arrangement for export to Europe.
+
+
+#### HOBBIES AND INTERESTS
+Fishing, Running, Reading.
