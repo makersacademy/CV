@@ -28,31 +28,34 @@
 
 ## Education
 
-#### Makers Academy (February to May 2017)
-- OOP, TDD, SOLID, MVC, DDD
+### Makers Academy, London (Jan to May 2017)
+- Test driven development
 - Software Craftsmanship
-- Ruby, Rails, Javascript
-- Rspec, Jasmine
+- Object orientated design
 
 #### University of Reading (2003 to 2006)
-
 - Economics, BA (Hons), 2:1
-*Nassim Nicholas Taleb*
 
 #### Other qualifications
 - Certificate in Securities: Unit 1 Financial Regulation, Unit 2 Securities.
 - Passed Level I of the CFA Program.
 
 ## Experience
-Having completed a twelve month graduate training programme.
 
-**Panmure Gordon & Co** (November 2012 to January 2017)    
-*Investment Funds Analyst*
+### Panmure Gordon & Co, London   
+**Investment Funds Analyst** *Nov 2012 to Jan 2017*
+-
+-
 
-**Matrix Corporate Capital LLP** (November 2008 to November 2012)   
-*Investment Funds Analyst*
+### Matrix Corporate Capital LLP, London
+**Investment Funds Analyst** *Nov 2008 to Nov 2012*
+-
+-
 
-**Teather & Greenwood Ltd /Landsbanki Securities (UK) Ltd** (September 2006 to November 2008)   
-*Investment Funds Analyst*
+### Teather & Greenwood Ltd / Landsbanki Securities (UK) Ltd, London & Iceland
+**Investment Funds Analyst** *Sep 2006 to Nov 2008*
+-
+-
 
 ## Hobbies
+??
