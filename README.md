@@ -43,19 +43,13 @@
 ## Experience
 
 ### Panmure Gordon & Co, London   
-**Investment Funds Analyst** *Nov 2012 to Jan 2017*
--
--
+### Investment Funds Analyst ~ #### Nov 2012 to Jan 2017
 
 ### Matrix Corporate Capital LLP, London
-**Investment Funds Analyst** *Nov 2008 to Nov 2012*
--
--
+**Investment Funds Analyst** ~ *Nov 2008 to Nov 2012*
 
 ### Teather & Greenwood Ltd / Landsbanki Securities (UK) Ltd, London & Iceland
 **Investment Funds Analyst** *Sep 2006 to Nov 2008*
--
--
 
 ## Hobbies
 ??
