@@ -1,6 +1,6 @@
 ## Simon Ashbery
 
-It would be true to say that before starting Makers Academy I worked in the games industry as an artist, but that suggests that there is a clear divide between my life before learning to code and after. Having begun my quest to become a programmer I've found the two professions have more in common than not. That I'm still using the same hard won skills, experience and knowledge to build, explore and learn.
+It would be true to say that before starting Makers Academy I worked in the games industry as an artist, but that suggests that there is a clear divide between my life before learning to code and after. Having begun my quest to become a programmer I've found the two professions have more in common than not, that I'm still using the same hard won skills, experience and knowledge to build, explore and learn.
 
 I'm someone with a powerful need to create, who gets their fix from problem solving, collaborative exploration and wielding new ideas with wild and reckless abandon.
 
