@@ -22,7 +22,7 @@ Working as a Financial Analyst was all about understanding businesses and the po
 Communication of ideas has been an essential part of my career to date. I relish the opportunity to meet new people and enjoy situations where communication is critical.
 
 ### Curious
-I enjoy challenging accepted wisdom, questioning what I see around me, understanding how things work and people tick. I relish the unknown. My interests in technology vary and in my self-driven, sometimes slightly strange projects, I’ve delved into a whole range of subjects from automated trading on betting exchanges to reverse engineering RF frequencies, virtual reality and [cellular automata](http://gameoflife.netlify.com/).
+I enjoy challenging accepted wisdom, questioning what I see around me, understanding how things work and people tick. I relish the unknown. My interests in technology vary and in my self-driven, sometimes slightly strange projects, I’ve delved into a whole range of subjects from automated trading on betting exchanges to [reverse engineering RF frequencies](https://github.com/joemaidman/blades-in-motion), virtual reality and [cellular automata](http://gameoflife.netlify.com/).
 
 ## Projects
 
@@ -31,7 +31,7 @@ I enjoy challenging accepted wisdom, questioning what I see around me, understan
 | [Chitter](https://github.com/joemaidman/chitter-challenge) | A Twitter clone | [Demo](https://chitter-week4.herokuapp.com/)  | Sinatra, Ruby, ERB, HTML, CSS | Complete |
 | [Bloc](https://github.com/joemaidman/bloc)  | Isometric multi-player building game  | [Demo](https://bloc-game.herokuapp.com/) | javascript, Node, Express, socket.io, MongoDB, Mocha, Chai, Sinon |  Refactoring |
 | [Bowling Scorecard](https://github.com/joemaidman/bowling-challenge)  | Scoring ten pin bowling | [Demo](http://bowling-challenge.netlify.com/)  | javascript, Jasmine, HTML, CSS |  Complete |
-| [Blades in motion](https://github.com/joemaidman/blades-in-motion)  | RF sniffing and replay  | [Blog/video](http://www.joemaidman.com) |  SDR, Arduino, C/C++  |  WIP |
+| [Blades in motion](https://github.com/joemaidman/blades-in-motion)  | RF sniffing and replay  | [Blog/video](http://www.joemaidman.com) |  SDR, Arduino, C/C++  |  Work in progress |
 
 ## Education
 
