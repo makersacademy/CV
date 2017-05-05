@@ -1,11 +1,8 @@
 ## Sam Broughton
 
-I'm an amateur philosopher, TV fanatic and enthusiastic coder whose awkward stumble through life has accumulated many interests from experimental psychology to classical ballet. Now that Makers Academy's 12-week Remote bootcamp has given me access to a limitless world of digital creation, I'm eager to channel these interests into as many projects as I have time for with as many people as possible.
+I'm a full-stack developer with a current emphasis on Node.JS with React/Redux. I'm an amateur philosopher, TV fanatic and enthusiastic coder whose awkward stumble through life has accumulated many interests from experimental psychology to classical ballet. Now that Makers Academy's 12-week Remote bootcamp has given me access to a limitless world of digital creation, I'm eager to channel these interests into as many projects as I have time for with as many people as possible.
 
 ## Skills
-
-#### Systematic thinker, problem solver
-- My training in philosophy and formal logic at the University of Cambridge has helped immensely in my approach to coding, and allowed me to hone my ability to break down a problem systematically into distinct components.
 
 #### Fast learner
 - For our Makers Academy final project: [Make It Stop! Alarm Clock](https://github.com/MakeItStop/task-based-alarm), my team and I wanted to challenge ourselves to learn a brand-new javascript framework not taught as part of the course. After some research into various options, we decided on Nativescript with Angular 2. By the end of the 12-day project we had produced a fully operational app, soon to be deployed on the app store!
@@ -13,10 +10,14 @@ I'm an amateur philosopher, TV fanatic and enthusiastic coder whose awkward stum
 #### Attentive to detail
 - My previous job in an investment bank involved facilitating payments often worth upwards of a billion pounds' value in various currencies. Since one incorrect digit could result in huge financial losses and some very unhappy clients, I was inspired to develop an obsessive attention to detail.
 
+#### Systematic thinker, problem solver
+- My training in philosophy and formal logic at the University of Cambridge has helped immensely in my approach to coding, and allowed me to hone my ability to break down a problem systematically into distinct components.
+
 ## Education
 
 ### Independent Learning
   Some projects I have been working on recently: 
+  - https://github.com/samjbro/react-redux-bowling-scorer
   - https://github.com/samjbro/node-chat-app
   - https://github.com/samjbro/node-todo
   - https://github.com/samjbro/node-battleships
