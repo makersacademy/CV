@@ -3,9 +3,7 @@
 ## Joe Maidman
 An aspiring software developer and passionate technologist.
 
-After a demanding decade long career in finance of which I am extremely proud, I am now looking for a new challenge. As a graduate of Makers Academy, I have had the freedom to explore and confirm my long-held passion for software development. I am now looking for an opportunity that will promote learning and progression, as I start a new journey as a software craftsman.
-
-I am excited and eager to start the next chapter of my life.
+After a demanding decade-long career in finance of which I am extremely proud, I am now looking for a new challenge. As a graduate of Makers Academy, I have had the freedom to explore and confirm my long-held passion for software development. I am now looking for an opportunity that will promote learning and progression. I am excited and eager to start the next chapter of my life.
 
 ## Skills
 
@@ -16,7 +14,7 @@ My experience as an investment analyst meant dealing with large and disparate da
 I am used to working in an environment of constant change where remaining agile is a critical skill. I would have to respond quickly to constantly evolving stories as I was writing a piece of research, often under time pressure. The great volatility during the financial crisis challenged my perspective on risk and has been at least partly responsible for my decision to make such a bold career change.
 
 ### Commercial
-Working as a Financial Analyst was all about understanding businesses and the potential impact of their decisions. I worked in a B2B environment dealing with clients on a daily basis. As well as face to face meetings and relationship building, I also wrote research to encourage engagement and conceived and built a research portal and blog for the team to market our product. I’m proud to say this led to above average readership in the industry and demonstrates my understanding of how to engage on a commercial and strategic level.
+Working as a Financial Analyst was all about understanding businesses and the potential impact of their decisions. I worked in a B2B environment dealing with clients on a daily basis. As well as face to face meetings and relationship building, I also wrote research to encourage engagement and conceived and built a research portal and blog for the team to market our product. I’m proud to say this led to above-average readership in the industry and demonstrates my understanding of how to engage on a commercial and strategic level.
 
 ### Communicative
 Communication of ideas has been an essential part of my career to date. I relish the opportunity to meet new people and enjoy situations where communication is critical.
