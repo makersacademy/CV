@@ -26,7 +26,7 @@ I enjoy challenging accepted wisdom, questioning what I see around me, understan
 
 | Project  | Description  | Demo  | Technologies | Stage |
 |---|---|---|---|---|
-| [Blades in motion](https://github.com/joemaidman/blades-in-motion)  | RF sniffing and replay  | [Blog/video](http://www.joemaidman.com) |  SDR, Arduino, C/C++  |  Complete |
+| [Blades in motion](https://github.com/joemaidman/blades-in-motion)  | RF sniffing and replay  | [Blog/video](http://www.joemaidman.com/?p=317) |  SDR, Arduino, C/C++  |  Complete |
 | [Bowling Scorecard](https://github.com/joemaidman/bowling-challenge)  | Scoring ten pin bowling | [Demo](http://bowling-challenge.netlify.com/)  | javascript, Jasmine, HTML, CSS |  Complete |
 | [Bloc](https://github.com/joemaidman/bloc)  | Isometric multi-player building game  | [Demo](https://bloc-game.herokuapp.com/) | javascript, Node, Express, socket.io, MongoDB, Mocha, Chai, Sinon |  Refactoring |
 | [Chitter](https://github.com/joemaidman/chitter-challenge) | A Twitter clone | [Demo](https://chitter-week4.herokuapp.com/)  | Sinatra, Ruby, ERB, HTML, CSS | Complete |
