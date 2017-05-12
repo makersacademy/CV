@@ -1,6 +1,6 @@
 ## Sam Broughton
 
-I'm a full-stack developer with a current emphasis on Node.JS with React/Redux. I'm an amateur philosopher, TV fanatic and enthusiastic coder whose awkward stumble through life has accumulated many interests from experimental psychology to classical ballet. Now that Makers Academy's 12-week Remote bootcamp has given me access to a limitless world of digital creation, I'm eager to channel these interests into as many projects as I have time for with as many people as possible.
+I'm a full-stack developer, Makers Academy alumnus and passionate coder currently exploring the wonders of Node.JS with an emphasis on React/Redux. I'm also an amateur philosopher, TV fanatic and keen reader whose awkward stumble through life has accumulated many interests from experimental psychology to classical ballet. Now that Makers Academy's 12-week Remote bootcamp has given me access to a limitless world of digital creation, I'm eager to channel these interests into as many projects as I have time for with as many people as possible.
 
 ## Skills
 
