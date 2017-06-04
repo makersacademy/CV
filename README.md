@@ -1,6 +1,6 @@
 ## Hasan Sonmez
 
-[Skills](#skills) | [Group Projects](#Group Projects) | [Education](#Education) | [Experience](#Experience) | [Academic Publications](#Academic Publications) | [Extracurricular Activities](#Extracurricular Activities) |  
+[Skills](#skills) | [Group Projects](#projects) | [Education](#education) | [Experience](#experience) | [Academic Publications](#publications) | [Extracurricular Activities](#activities) |  
 
 A Full Stack Junior Developer and recent Makers Academy graduate from a 12 week intensive bootcamp. Have object-oriented programming experience in Java, Ruby and Javascript, with good test-driven development and pair programming practises. A passionate and eager to learn coder, focused on problem solving.
 
@@ -17,7 +17,7 @@ Having finished a PhD in Theoretical Physics and gained post-doctoral experience
 - Experience in statistically sampling 10^12 String theory models.
 - Have built many realistic String theory models.
 
-## Group Projects
+## <a name="projects">Group Projects</a>
 Project title  | Description | Technologies | Testing
 ------------- | ------------------------------	| :-------------: | :-------------: |
 [Makers Society](https://github.com/UltimateCoder00/Makers-Society) | A Decentralized Voting System & Native CryptoCurrency (MakerPoints) run on the Ethereum Blockchain. | Ethereum, Solidity, Truffle, Metamask & React | Mocha
@@ -26,7 +26,7 @@ Project title  | Description | Technologies | Testing
 [Napkin Notes](https://github.com/whatsrupp/napkin-notes) | A single page javascript notes app for creating and storing short notes | Javascript | Mocha
 ***
 
-## Education
+## <a name="education">Education</a>
 
 ### Makers Academy [Feb 2017 - Jun 2017]
 #### 12 week intensive coding bootcamp.
@@ -63,7 +63,7 @@ Project title  | Description | Technologies | Testing
 ### King’s College, London [Sep 2005 - Jun 2008]
 - BSc. Mathematics & Computer Science
 
-## Experience
+## <a name="experience">Experience</a>
 
 ### Postdoctoral Honorary Research Assistant (University of Liverpool) [Oct 2015 - Dec 2016]
   * Achieved two postdoctoral academic publications.
@@ -99,7 +99,7 @@ Project title  | Description | Technologies | Testing
   * Guided first year undergraduate students for preparing for university studies and joining social societies.
   * Arranged funds for organising social events for 40+ students.
 
-## Academic Publications
+## <a name="publications">Academic Publications</a>
 1. H. Sonmez, “The Flipped SU(5) String Vacua Classification: A Variation of the SO(10) Breaking Basis Vector”, [Phys.Rev. D93 125002](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.125002) [[arXiv:1603.03504]](https://arxiv.org/abs/1603.03504) June 2016.
 2. J. M. Ashfaque, P. Athanasopoulos, A. E. Faraggi and H. Sonmez, “Non-Tachyonic Semi-Realistic Non-Supersymmetric
 Heterotic String Vacua”, [Eur. Phys. J. C76, no:4, 208](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-016-4056-2) [[arXiv:1506.03114]](https://arxiv.org/abs/1506.03114) April 2016.
@@ -109,7 +109,7 @@ Heterotic String Vacua”, [Eur. Phys. J. C76, no:4, 208](https://link.springer.
 6. A. E. Faraggi, J. Rizos and H. Sonmez “Classification of Flipped SU(5) Heterotic-String Vacua”, [Nucl.Phys. B886 202-242](http://www.sciencedirect.com/science/article/pii/S0550321314002089) [[arXiv:1403.4107]](https://arxiv.org/abs/1403.4107), Sep 2014.
 7. L. Bernard, A. E. Faraggi, I. Glasser, J. Rizos and H. Sonmez “String Derived Exophobic SU(6)xSU(2) GUTs”, [Nucl.Phys. B868 1-15](http://www.sciencedirect.com/science/article/pii/S0550321312005974) [[arXiv:1208.2145]](https://arxiv.org/abs/1208.2145), Mar 2013.
 
-## Extracurricular Activities
+## <a name="activities">Extracurricular Activities</a>
 - Level 7 qualified football referee, refereed:
   *	University campus 11-a-side football matches.
   *	Power league 5-a-side tournaments.
