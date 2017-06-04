@@ -1,12 +1,12 @@
 ## Hasan Sonmez
 
-[Skills](#Skills and Key Competencies) | [Group Projects](#Group Projects) | [Education](#Education) | [Experience](#Experience) | [Academic Publications](#Academic Publications) | [Extracurricular Activities](#Extracurricular Activities) |  
+[Skills](#skills) | [Group Projects](#Group Projects) | [Education](#Education) | [Experience](#Experience) | [Academic Publications](#Academic Publications) | [Extracurricular Activities](#Extracurricular Activities) |  
 
 A Full Stack Junior Developer and recent Makers Academy graduate from a 12 week intensive bootcamp. Have object-oriented programming experience in Java, Ruby and Javascript, with good test-driven development and pair programming practises. A passionate and eager to learn coder, focused on problem solving.
 
 Having finished a PhD in Theoretical Physics and gained post-doctoral experience recently, have exceptional mathematical and analytical skills and six academic publications in the field. Currently looking to build a long-term career in software development.
 
-## Skills and Key Competencies
+## <a name="skills">Skills and Key Competencies</a>
 
 - Programming experience in Java, Ruby and Javascript.
 - Proficient mathematician and ability to solving advanced problems.
