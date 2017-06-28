@@ -1,11 +1,11 @@
 ## Sam Broughton
 
-I'm a full-stack developer, Makers Academy alumnus and passionate coder currently exploring the wonders of Node.JS with an emphasis on React/Redux. I'm also an amateur philosopher, TV fanatic and keen reader whose awkward stumble through life has accumulated many interests from experimental psychology to classical ballet. Now that Makers Academy's 12-week Remote bootcamp has given me access to a limitless world of digital creation, I'm eager to channel these interests into as many projects as I have time for with as many people as possible.
+I'm a full-stack developer, Makers Academy alumnus and passionate coder with experience in JavaScript, Ruby and C#. I'm also an amateur philosopher, TV fanatic and keen reader whose headlong stumble through life has accumulated many interests from experimental psychology to classical ballet. I'm currently looking for my first Graduate/Junior Developer role at an exciting company where I can continue to develop my coding skills alongside a great team! Please contact me at sjbroughton1@gmail.com if you think I'd be a good fit for your company!
 
 ## Skills
 
 #### Fast learner
-- For our Makers Academy final project: [Make It Stop! Alarm Clock](https://github.com/MakeItStop/task-based-alarm), my team and I wanted to challenge ourselves to learn a brand-new javascript framework not taught as part of the course. After some research into various options, we decided on Nativescript with Angular 2. By the end of the 12-day project we had produced a fully operational app, soon to be deployed on the app store!
+- For our Makers Academy final project: [Make It Stop! Alarm Clock](https://github.com/MakeItStop/task-based-alarm), my team and I wanted to challenge ourselves to learn a brand-new JavaScript framework not taught as part of the course. After some research into various options, we decided on NativeScript with Angular 2 and TypeScript. By the end of the 12-day project we had produced a fully operational app, which I've used as my personal alarm ever since!
 
 #### Attentive to detail
 - My previous job in an investment bank involved facilitating payments often worth upwards of a billion pounds' value in various currencies. Since one incorrect digit could result in huge financial losses and some very unhappy clients, I was inspired to develop an obsessive attention to detail.
@@ -27,8 +27,8 @@ I'm a full-stack developer, Makers Academy alumnus and passionate coder currentl
 - Cultivating curiosity and hungry passion for code
 - Independent learning and problem-solving
 - OOP, TDD, SOLID, MVC, DDD
-- Software Craftsmanship
-- Ruby, Rails, Javascript
+- Ruby & Rails
+- JavaScript & NodeJS
 - Rspec, Jasmine, Mocha
 
 
