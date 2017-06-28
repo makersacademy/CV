@@ -30,6 +30,7 @@ I'm a full-stack developer, Makers Academy alumnus and passionate coder with exp
 - Ruby & Rails
 - JavaScript & NodeJS
 - Rspec, Jasmine, Mocha
+- C# and Unity
 
 
 |Project|Summary|Technologies|
