@@ -1,6 +1,6 @@
 ## Jaiye Senbanjo
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies]) |
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies) |
 
 I am passionate about coding! I enjoy being creative and technical at the same time and building products that solve real world problems.
 
@@ -10,40 +10,32 @@ I have a BSc from Imperial College and an MSc from Warwick University. I have a 
 ## Skills
 
 #### Analysis & Reporting
-
 I can produce accurate and informative documentation using MS Office Programs especially to compare and contrast strategies, devise future business models and to plan mitigation. I am proficient in MS Excel. My projects and responsibilities at LandAfrique Agriculture and SIAT Group culminated in accurate written reports detailing financial, market, and competition information with an advanced level of attention to detail.
 
 #### Communication & Management
-
 My experience has honed my interpersonal skills. I have worked with a variety of business backgrounds and I am adaptive and personable. I can compromise, negotiate and adapt either in teams or independently. I can work effectively independently and I have a proactive and preemptive work ethic geared towards problem solving and risk mitigation. At SIAT Group I learned how to communicate in effective and efficient ways in French and English and to implement feedback observations while managing rubber tapping training. I have become proficient at team management and organisation.
 
 #### Project Management
-
 I have experience in analysing and logically developing and deploying improved strategies as necessary. I can suggest and justify improvements and streamlining possibilities for increasing logistical, and business efficiency, and solve problems by comparing and contrasting possible solutions. At SIAT Group I contributed to improvements in rubber production efficiency by 10% through a first-in-first-out storage policy which I designed and implemented.
 
 #### Research
-
 I can effectively extract and process information from academic sources, company annual reports, news articles, NGO and parastatal organisation publications for the production of market information and scrutinisation of viable opportunities. At LandAfrique Agriculture I researched industry quality standards regarding food production, processing and storing and I developed methods to meet or exceed best practice.
 
 #### Commercial Mindset
-
 I use my knowledge and experience and the findings and suggestions of my team to offer competitive business solutions and USPs in my feasibility assessments. I have a keen interest and a strong awareness of the international agri-business global commodities markets and a knowledge of current affairs and international relations.
 
 <a name="projects"></a>
-
 ## Projects
 
-|Project | Link | Description |
-|--------|--------|--------|
-| Bank-tech-test | [View on Github](https://github.com/JayWebDevCom/bank-tech-test)|   |
-| GildedRose-Refactoring-Kata | [View on Github](https://github.com/JayWebDevCom/GildedRose-Refactoring-Kata) |   |
-| Bowling Game | [View on Github](https://github.com/JayWebDevCom/bowling-challenge) |   |
-| Loc8r - Mean Stack | [View on Github](https://github.com/JayWebDevCom/mean-stack) |   |
-| News Summary App | [View on Github](https://github.com/JayWebDevCom/news-summary-app) |  |
-| Note App | [View on Github](https://github.com/JayWebDevCom/note-app) |  |
-| Chitter  | [View on Github](https://github.com/JayWebDevCom/chitter-challenge) |   |
-
-
+|Project | Link | Description | Technologies |
+|--------|--------|--------|--------|
+| Bank-tech-test | [View on Github](https://github.com/JayWebDevCom/bank-tech-test)| This application showcases a TDD and OOP approach to design a small banking account application that can process deposit and withdrawal objects and have a statement printed detailing the transactions processed and the balance changes incurred. | Node.js, Javascript |
+| GildedRose-Refactoring-Kata | [View on Github](https://github.com/JayWebDevCom/GildedRose-Refactoring-Kata) | This Kata tested my ability to refactor legacy code. It is fully test driven. I extracted methods applied through a switch statement, then I extracted behaviour into clsses. | Ruby, RSpec |
+| Bowling Game | [View on Github](https://github.com/JayWebDevCom/bowling-challenge) | A fun interface allowing users to play 10 Pin Bowling - A deceptively complex game | HTML, javascript, HTMLFixtures  |
+| Loc8r - Mean Stack | [View on Github](https://github.com/JayWebDevCom/mean-stack) | A fullstack javascript application to list cafes and their reviews. | Express, Node.js, MVC, API requests, Jade View Engine |
+| News Summary App | [View on Github](https://github.com/JayWebDevCom/news-summary-app) | An app for quick retrieval and display of news headlines and links to their full articles. | TDD using my own testing framework, Javascript, HTML |
+| Note App | [View on Github](https://github.com/JayWebDevCom/note-app) |     |    |
+| Chitter  | [View on Github](https://github.com/JayWebDevCom/chitter-challenge) |       |        |      |
 
 
 <a name="education"></a>
@@ -66,7 +58,6 @@ Makers Academy is a 3 month intensive coding bootcamp which develops skills and 
 
 #### Imperial College London (2003-2006)
 - BSc (Hons) Zoology
-
 
 
 <a name="experience"></a>
