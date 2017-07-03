@@ -27,15 +27,15 @@ I use my knowledge and experience and the findings and suggestions of my team to
 <a name="projects"></a>
 ## Projects
 
-|Project | Link | Description | Technologies |
+|Project | Link | Description | Technologies Used |
 |--------|--------|--------|--------|
-| Bank-tech-test | [View on Github](https://github.com/JayWebDevCom/bank-tech-test)| This application showcases a TDD and OOP approach to design a small banking account application that can process deposit and withdrawal objects and have a statement printed detailing the transactions processed and the balance changes incurred. | Node.js, Javascript |
-| GildedRose-Refactoring-Kata | [View on Github](https://github.com/JayWebDevCom/GildedRose-Refactoring-Kata) | This Kata tested my ability to refactor legacy code. It is fully test driven. I extracted methods applied through a switch statement, then I extracted behaviour into clsses. | Ruby, RSpec |
-| Bowling Game | [View on Github](https://github.com/JayWebDevCom/bowling-challenge) | A fun interface allowing users to play 10 Pin Bowling - A deceptively complex game | HTML, javascript, HTMLFixtures  |
-| Loc8r - Mean Stack | [View on Github](https://github.com/JayWebDevCom/mean-stack) | A fullstack javascript application to list cafes and their reviews. | Express, Node.js, MVC, API requests, Jade View Engine |
-| News Summary App | [View on Github](https://github.com/JayWebDevCom/news-summary-app) | An app for quick retrieval and display of news headlines and links to their full articles. | TDD using my own testing framework, Javascript, HTML |
-| Note App | [View on Github](https://github.com/JayWebDevCom/note-app) |     |    |
-| Chitter  | [View on Github](https://github.com/JayWebDevCom/chitter-challenge) |       |        |      |
+| Bank-tech-test | [View on Github](https://github.com/JayWebDevCom/bank-tech-test)| This application showcases a TDD and OOP approach to design a small banking account application that can process deposit and withdrawal objects and have a statement printed detailing the transactions processed and the balance changes incurred | Node.js, Javascript, Jasmine |
+| GildedRose-Refactoring-Kata | [View on Github](https://github.com/JayWebDevCom/GildedRose-Refactoring-Kata) | This Kata tested my ability to refactor legacy code. It is fully test driven. I extracted methods applied through a switch statement, then I extracted behaviour into classes | Ruby, RSpec |
+| Bowling Game | [View on Github](https://github.com/JayWebDevCom/bowling-challenge) | A fun interface allowing users to play 10 Pin Bowling - A deceptively complex game | Javascript, HTML, HTMLFixtures  |
+| Chitter  | [View on Github](https://github.com/JayWebDevCom/chitter-challenge) |  A test driven messaging system ruby application run on the Sinatra platform. |  Ruby, Sinatra, RSpec, Capybara, Bcrypt, Data_mapper, Database_cleaner, Dm-postgres-adapter. Twitter Bootstrap. |      |
+| Loc8r - Mean Stack | [View on Github](https://github.com/JayWebDevCom/mean-stack) | A fullstack javascript application to list cafes and their reviews. | JavaScript, Express, Node.js, MVC, API requests, Jade View Engine, jQuery |
+| News Summary App | [View on Github](https://github.com/JayWebDevCom/news-summary-app) | An app for quick retrieval and display of news headlines and links to their full articles | TDD using my own testing framework, Javascript, HTML, XMLHTTPRequest Web API |
+| Note App | [View on Github](https://github.com/JayWebDevCom/note-app) | A single page app for recording notes showcasing good programatic design | Javascript, TDD, HTML, MVC, Solid Principles, OOP design, Separation of concerns. Comprehensive TDD using my own testing framework |
 
 
 <a name="education"></a>
@@ -58,7 +58,6 @@ Makers Academy is a 3 month intensive coding bootcamp which develops skills and 
 
 #### Imperial College London (2003-2006)
 - BSc (Hons) Zoology
-
 
 <a name="experience"></a>
 ## Experience
