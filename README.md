@@ -1,7 +1,12 @@
 ## Jaiye Senbanjo
 
-I have a professional background in the food industry. I have a BSc from Imperial College and an MSc from the University of Warwick. I have acquired qualifications and developed skills in programming and I am applying them in Web Development. I have a strong willingness and desire to learn new tools and techniques and improve my skills and language knowledge in Web and Software Development.
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies]) |
 
+I am passionate about coding! I enjoy being creative and technical at the same time and building products that solve real world problems.
+
+I have a BSc from Imperial College and an MSc from Warwick University. I have a professional background in the food production industry. I have acquired qualifications and developed skills in programming and I am applying them in Software Development. I have a strong willingness and desire to learn new tools, techniques and technologies in order to broaden my skillset and make me a better developer.
+
+<a name="skills"></a>
 ## Skills
 
 #### Analysis & Reporting
@@ -24,6 +29,13 @@ I can effectively extract and process information from academic sources, company
 
 I use my knowledge and experience and the findings and suggestions of my team to offer competitive business solutions and USPs in my feasibility assessments. I have a keen interest and a strong awareness of the international agri-business global commodities markets and a knowledge of current affairs and international relations.
 
+<a name="projects"></a>
+
+
+
+
+
+<a name="education"></a>
 ## Education
 
 #### Makers Academy (April - June 2017)
@@ -35,7 +47,7 @@ Makers Academy is a 3 month intensive coding bootcamp which develops skills and 
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha, Zombie
 
-#### East London Advanced Technology Training (February - July 2016)
+#### East London Advanced Technology Training (2016)
 - Higher Level 2 Diploma Web Development
 
 #### Warwick University 2010-2011
@@ -44,7 +56,10 @@ Makers Academy is a 3 month intensive coding bootcamp which develops skills and 
 #### Imperial College London (2003-2006)
 - BSc (Hons) Zoology
 
- ## Experience
+
+
+<a name="experience"></a>
+## Experience
 
 **LandAfrique Agriculture, Nigeria / London (March 2009 to September 2010,
 September 2011 to December 2015)**
@@ -61,5 +76,6 @@ September 2011 to December 2015)**
 - Responsible for implementing and executing rubber purchasing strategy and reconciling purchasing positions.
 - Interacted constantly with other production and processing sites for the distribution of raw materials and machinery transport between them. I organised the primary stages of logistical arrangement for export to Europe.
 
+<a name="hobbies"></a>
 #### HOBBIES AND INTERESTS
 Fishing, running and reading.
