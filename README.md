@@ -31,6 +31,17 @@ I use my knowledge and experience and the findings and suggestions of my team to
 
 <a name="projects"></a>
 
+## Projects
+
+|Project | Link | Description |
+|--------|--------|--------|
+| Bank-tech-test | [View on Github](https://github.com/JayWebDevCom/bank-tech-test)|   |
+| GildedRose-Refactoring-Kata | [View on Github](https://github.com/JayWebDevCom/GildedRose-Refactoring-Kata) |   |
+| Bowling Game | [View on Github](https://github.com/JayWebDevCom/bowling-challenge) |   |
+| Loc8r - Mean Stack | [View on Github](https://github.com/JayWebDevCom/mean-stack) |   |
+| News Summary App | [View on Github](https://github.com/JayWebDevCom/news-summary-app) |  |
+| Note App | [View on Github](https://github.com/JayWebDevCom/note-app) |  |
+| Chitter  | [View on Github](https://github.com/JayWebDevCom/chitter-challenge) |   |
 
 
 
