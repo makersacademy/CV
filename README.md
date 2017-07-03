@@ -47,8 +47,8 @@ Makers Academy is a 3 month intensive coding bootcamp which develops skills and 
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha, Zombie
+- Ruby, Rails, Javascript, Node.js, jQuery
+- Rspec, Jasmine, Mocha, Zombie, Chai
 
 #### East London Advanced Technology Training (2016)
 - Higher Level 2 Diploma Web Development
