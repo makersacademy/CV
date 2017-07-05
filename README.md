@@ -1,14 +1,18 @@
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn]() | [Blogsite](http://artunitfive.tumblr.com)
+
 ## Simon Ashbery
 
 Before starting Makers Academy I was an artist, and looking at the course and it's syllabus I imagined a clear divide between my life before learning to code and after. Having begun my quest to become a programmer however, I've found the two professions have more in common than not, that I'm still using the same hard won skills, experience and knowledge to build, explore and learn.
 
 I have a palpable need to create and to think my way around problems. I'm at my best when I explore, collaborate and wield new ideas with wild and reckless abandon and I've done so for the last 7 years. I've worked as an artist in the games industry, as an entrepreneur aspiring to launch my own indie game and now as a software engineer, diving head first into a vast, exciting field which represents more opportunities to learn than I ever thought possible.
 
+## Projects
+
 ## Skills
 
 #### Creative Thinking.
 
-Something is missing in my life unless I'm mulling over a problem or constructing a new idea. It's something I was built to do and it's why I'm so well suited to any field that requires lateral thought and creative exploration.
+Something is missing unless I'm mulling over a problem or constructing a new idea. It's something I was built to do and it's why I'm so well suited to any field that requires lateral thought and creative exploration.
 
 When I lead the team behind Rosvita out to the Swedish countryside for the Stugan accelerator we hit a rough patch with the game. By the half way mark of the 3 month programme, no matter how we tried to tweak and tease it, our quirky puzzle game just wasn't working.
 
