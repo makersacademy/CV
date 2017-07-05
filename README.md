@@ -1,14 +1,8 @@
 ## Simon Ashbery
 
-It would be true to say that before starting Makers Academy I worked in the games industry as an artist, but that suggests that there is a clear divide between my life before learning to code and after. Having begun my quest to become a programmer I've found the two professions have more in common than not, that I'm still using the same hard won skills, experience and knowledge to build, explore and learn.
+Before starting Makers Academy I was an artist, and looking at the course and it's syllabus I imagined a clear divide between my life before learning to code and after. Having begun my quest to become a programmer however, I've found the two professions have more in common than not, that I'm still using the same hard won skills, experience and knowledge to build, explore and learn.
 
-I'm someone with a powerful need to create, who gets their fix from problem solving, collaborative exploration and wielding new ideas with wild and reckless abandon.
-
-And that's just what I did for the 7 years leading up to this point. I've won a BAFTA alongside my colleagues at Bossa Studios, survived the rough seas of freelance, forged new contacts and sought new opportunities. I even found time to lead a team to the coveted Stugan accelerator programme in Sweden with our first game, Rosvita.
-
-Working alongside and leading developers has given me a great respect for the power and possibilities of code and those who wield it. This opened my eyes to just how exciting and liberating it is to work so closely with the technologies that underpin more and more of the modern world.
-
-So here I am, an experienced and skilled creative with wide eyes looking forward to a new field, new challenges and all the lessons to be learned along the way.
+I have a palpable need to create and to think my way around problems. I'm at my best when I explore, collaborate and wield new ideas with wild and reckless abandon and I've done so for the last 7 years. I've worked as an artist in the games industry, as an entrepreneur aspiring to launch my own indie game and now as a software engineer, diving head first into a vast, exciting field which represents more opportunities to learn than I ever thought possible.
 
 ## Skills
 
