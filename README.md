@@ -35,9 +35,9 @@ After the lecture was given I was asked by several students to give them one on 
 
 I'm not a great believer in talent, I'd rather put my trust in hard won skills and knowledge. Throughout my life and career I've taken any opportunity I can to learn something new or improve an older skill.
 
-A 13 I found out I could make my own levels for my favourite games. Fascinated by this I spent every spare moment of the next few years teaching myself all I could about 3d modelling and computer graphics. 
+AT 13 I found out I could make my own levels for my favourite games. Fascinated by this I spent every spare moment of the next few years teaching myself all I could about 3d modelling and computer graphics. 
 
-Previously I had thought artistic ability was something you either had to didn't but at 18, I taught myself to draw. It was hard going but eventually I won a coveted place on a traditionally focused and drawing heavy animation course at the Arts University Bournemouth. 
+Previously I had thought artistic ability was something you either had to didn't but at 18, I taught myself to draw. It was hard going but eventually I won a much saught after place on a traditionally focused and drawing heavy animation course at the Arts University Bournemouth. 
 
 Since graduating the learning has not stopped. I studied acting, gaining a foundation diploma in the process. I constantly teach myself new skills and technologies in my professional field (examples of which can be viewed on my portfolio: http://artunitfive.squarespace.com/). I read up on game design and writing, attending various talks, lectures and conferences to bolster my knowledge in order to make my first attempt at leading a team becoming an independent developer. And now, at Makers Academy, I am once again throwing myself in at the deep end and learning a new suite of skills and concepts.
 
