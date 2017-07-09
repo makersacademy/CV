@@ -36,7 +36,7 @@ I use my knowledge and experience and the findings and suggestions of my team to
 | Loc8r - Mean Stack | [View on Github](https://github.com/JayWebDevCom/mean-stack) | A fullstack javascript application to list cafes and their reviews. | JavaScript, Express, Node.js, MVC, API requests, Jade View Engine, jQuery |
 | News Summary App | [View on Github](https://github.com/JayWebDevCom/news-summary-app) | An app for quick retrieval and display of news headlines and links to their full articles | TDD using my own testing framework, Javascript, HTML, XMLHTTPRequest Web API |
 | Note App | [View on Github](https://github.com/JayWebDevCom/note-app) | A single page app for recording notes showcasing good programatic design | Javascript, TDD, HTML, MVC, Solid Principles, OOP design, Separation of concerns. Comprehensive TDD using my own testing framework |
-
+| Thermostat | [View on Github](https://github.com/JayWebDevCom/thermostat_challenge) | A test driven object oriented app written to manipulate a thermostat to control temperature | Javascript, TDD, HTML, jQuery Jasmine, HTML Fixtures |
 
 <a name="education"></a>
 ## Education
