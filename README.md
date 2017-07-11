@@ -2,20 +2,20 @@
 
 [Skills](#skills) | [Group Projects](#projects) | [Education](#education) | [Experience](#experience) | [Academic Publications](#publications) | [Extracurricular Activities](#activities) |  
 
-A Full Stack Junior Developer and recent Makers Academy graduate from a 12 week intensive bootcamp. Have object-oriented programming experience in Java, Ruby and Javascript, with good test-driven development and pair programming practises. A passionate and eager to learn coder, focused on problem solving.
+A Full Stack Junior Developer and recent Makers Academy graduate from a 12 week intensive bootcamp. Have object-oriented programming experience in Java, Ruby and Javascript, with good test-driven development and pair programming practises. A self motivated, passionate and eager to learn, programmer, focused on problem solving and learning from teamwork.
 
-Having finished a PhD in Theoretical Physics and gained post-doctoral experience recently, have exceptional mathematical and analytical skills and six academic publications in the field. Currently looking to build a long-term career in software development.
+Having finished a PhD in Theoretical Physics and gained post-doctoral research experience recently, have exceptional logical thinking and analytical skills and six academic publications in the field. Have ability to think creatively and generate ideas, who enjoys working with a team to accomplish goals. Currently looking to build a long-term career in software development.
 
 ## <a name="skills">Skills and Key Competencies</a>
 
 - Programming experience in Java, Ruby and Javascript.
-- Proficient mathematician and ability to solving advanced problems.
-- Excellent communication and presentation skills.
-- Worked in many collaborations, prolific team worker.
 - Ability to complete big tasks in a timely and efficient manner.
-- Ability to propose innovative ideas.
-- Experience in statistically sampling 10^12 String theory models.
-- Have built many realistic String theory models.
+- Exceptionally problem solver.
+- A prolific team player and creating innovative ideas.
+- Excellent communication and presentation skills.
+- Have phenomenal logical thinking and analytical skills.
+- Passionate about technology and learning to learn.
+- Adaptive, quick learner and self motivated.
 
 ## <a name="projects">Group Projects</a>
 Project title  | Description | Technologies | Testing
@@ -118,3 +118,4 @@ Heterotic String Vacua”, [Eur. Phys. J. C76, no:4, 208](https://link.springer.
 - Jujitsu.
 - Judo.
 - Swimming.
+- running.
