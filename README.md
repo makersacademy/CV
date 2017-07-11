@@ -1,6 +1,6 @@
 ## Hasan Sonmez
 
-[Skills](#skills) | [Group Projects](#projects) | [Education](#education) | [Experience](#experience) | [Academic Publications](#publications) | [Extracurricular Activities](#activities) |  
+[Skills](#skills) | [Group Projects](#projects) | [Company Projects](#projects2) | [Education](#education) | [Experience](#experience) | [Academic Publications](#publications) | [Extracurricular Activities](#activities) |  
 
 A Full Stack Junior Developer and recent Makers Academy graduate from a 12 week intensive bootcamp. Have object-oriented programming experience in Java, Ruby and Javascript, with good test-driven development and pair programming practises. A self motivated, passionate and eager to learn, programmer, focused on problem solving and learning from teamwork.
 
@@ -26,7 +26,7 @@ Project title  | Description | Technologies | Testing
 [Napkin Notes](https://github.com/whatsrupp/napkin-notes) | A single page javascript notes app for creating and storing short notes | Javascript | Mocha
 ***
 
-## <a name="projects">Company Projects</a>
+## <a name="projects2">Company Projects</a>
 Project title  | Description | Technologies | Testing
 ------------- | ------------------------------	| :-------------: | :-------------: |
 [One Maths Limited](https://github.com/chn-challenger/project_maths) | Contributed to creating question and solution generators for A level [binomial](https://www.onemathsquestions.com/) expansion questions section | Ruby | RSpec
