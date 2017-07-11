@@ -26,6 +26,12 @@ Project title  | Description | Technologies | Testing
 [Napkin Notes](https://github.com/whatsrupp/napkin-notes) | A single page javascript notes app for creating and storing short notes | Javascript | Mocha
 ***
 
+## <a name="projects">Company Projects</a>
+Project title  | Description | Technologies | Testing
+------------- | ------------------------------	| :-------------: | :-------------: |
+[One Maths Limited](https://github.com/chn-challenger/project_maths) | Contributed to creating question and solution generators for A level [binomial](https://www.onemathsquestions.com/) expansion questions section | Ruby | RSpec
+***
+
 ## <a name="education">Education</a>
 
 ### Makers Academy [Feb 2017 - Jun 2017]
