@@ -1,4 +1,4 @@
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn]() | [Blogsite](http://artunitfive.tumblr.com)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [LinkedIn](www.linkedin.com/in/simon-ashbery) | [Blogsite](http://artunitfive.tumblr.com)
 
 ## Simon Ashbery
 
@@ -16,7 +16,7 @@ Something is missing unless I'm mulling over a problem or constructing a new ide
 
 When I lead the team behind Rosvita out to the Swedish countryside for the Stugan accelerator we hit a rough patch with the game. By the half way mark of the 3 month programme, no matter how we tried to tweak and tease it, our quirky puzzle game just wasn't working.
 
-I mulled over this problem for a long time and was faced with two choices. Either we kept what we had so far and use the remaining time to produce a well polished but ultimately flawed demo, or we do something drastic.
+I considered this problem for a long time and was faced with two choices. Either we kept what we had so far and use the remaining time to produce a well polished but ultimately flawed demo, or we do something drastic.
 
 I chose drastic, and completely redesigned the game from the ground up, keeping the core concept of the game but totally changing it's design and implementation. The result was a mad month and a half of late nights and frantic development, but In the end we had a demo that was fun, striking and beautiful.
 
