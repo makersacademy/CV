@@ -10,7 +10,7 @@ I have a palpable need to create and to think my way around problems. I'm at my 
 | Project      | Description                                         | Link                                                  |
 | -------------|:---------------------------------------------------:| -----------------------------------------------------:|
 | Newsworthy   | An exploration of machine learning classification algorithms, built using Python and SciKit | [Newsworthy](https://github.com/SiAshbery/newsworthy-app) |
-| Simstagram   | A replication of Instagram built with Ruby on Rails | [Simstagram](https://github.com/SiAshbery/simstagram) |
+| Simstagram   | A replication of Instagram built with [Chris Harrop](https://github.com/bannastre), [Roland Grenke](https://github.com/rogrenke) and [Collin Scally](https://github.com/cdscally) Ruby on Rails | [Simstagram](https://github.com/SiAshbery/simstagram) |
 | Bowling Score Card   | An automated Bowling Score Card built with Javascript | [Bowling Score Card](https://github.com/SiAshbery/bowling-challenge) |
 
 ## Skills
