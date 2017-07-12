@@ -7,6 +7,11 @@ Before starting Makers Academy I was an artist, and looking at the course and it
 I have a palpable need to create and to think my way around problems. I'm at my best when I explore, collaborate and wield new ideas with wild and reckless abandon and I've done so for the last 7 years. I've worked as an artist in the games industry, as an entrepreneur aspiring to launch my own indie game and now as a software engineer, diving head first into a vast, exciting field which represents more opportunities to learn than I ever thought possible.
 
 ## Projects
+| Project      | Description                                         | Link                                                  |
+| -------------|:---------------------------------------------------:| -----------------------------------------------------:|
+| Newsworthy   | An exploration of machine learning classification algorithms, built using Python and SciKit | [Newsworthy](https://github.com/SiAshbery/newsworthy-app) |
+| Simstagram   | A replication of Instagram built with Ruby on Rails | [Simstagram](https://github.com/SiAshbery/simstagram) |
+| Bowling Score Card   | An automated Bowling Score Card built with Javascript | [Bowling Score Card](https://github.com/SiAshbery/bowling-challenge) |
 
 ## Skills
 
