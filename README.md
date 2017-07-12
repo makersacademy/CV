@@ -67,6 +67,9 @@ In house 3D artist producing content for various projects and pitches.
 - Test Driven Development
 - Object Oriented Design
 - Agile
+- Javascript
+- Ruby
+- Rails
 
 #### Arts University Bournemouth 
 - BA(hons) Animation Production,  
