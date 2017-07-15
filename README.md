@@ -1,6 +1,7 @@
 ## Jaiye Senbanjo
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies & Interests](#hobbies) |
+[LinkedIn](https://www.linkedin.com/in/jaiye-senbanjo-b1893862)
 
 I am passionate about coding! I enjoy being creative and technical at the same time and building products that solve real world problems.
 
