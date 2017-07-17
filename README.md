@@ -2,9 +2,9 @@
 
 [Skills](#skills) | [Group Projects](#projects) | [Company Projects](#projects2) | [Education](#education) | [Experience](#experience) | [Academic Publications](#publications) | [Extracurricular Activities](#activities) |  
 
-A Full Stack Junior Developer and recent Makers Academy graduate from a 12 week intensive bootcamp. Have object-oriented programming experience in Java, Ruby and Javascript, with good test-driven development and pair programming practises. A self motivated, passionate and eager to learn, programmer, focused on problem solving and learning from teamwork.
+A Full Stack Junior Developer and recent [Makers Academy](http://www.makersacademy.com/) graduate from a 12 week intensive bootcamp. Have object-oriented programming experience in Java, Ruby and Javascript, with good test-driven development and pair programming practises. A self motivated, passionate and eager to learn programmer, focused on problem solving and learning from teamwork.
 
-Having finished a PhD in Theoretical Physics and gained post-doctoral research experience recently, have exceptional logical thinking and analytical skills and six academic publications in the field. Have ability to think creatively and generate ideas, who enjoys working with a team to accomplish goals. Currently looking to build a long-term career in software development.
+Having finished a PhD in Theoretical Physics and gained post-doctoral research experience, have developed exceptional logical thinking and analytical skills. Have the ability to think creatively and generate ideas, who enjoys working with a team to accomplish goals under deadlines. Currently looking to build a long-term career in software development with the next opportunity.
 
 ## <a name="skills">Skills and Key Competencies</a>
 
