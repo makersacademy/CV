@@ -1,6 +1,6 @@
 ## Hasan Sonmez
 
-[Skills](#skills) | [Group Projects](#projects) | [Company Projects](#projects2) | [Education](#education) | [Experience](#experience) | [Academic Publications](#publications) | [Extracurricular Activities](#activities) |  
+[Skills](#skills) | [Group Projects](#projects) | [Company Projects](#projects2) | [Education](#education) | [Experience](#experience) | [Extracurricular Activities](#activities) |  
 
 A Full Stack Junior Developer and recent [Makers Academy](http://www.makersacademy.com/) graduate from a 12 week intensive bootcamp. Have object-oriented programming experience in Java, Ruby and Javascript, with good test-driven development and pair programming practises. A self motivated, passionate and eager to learn programmer, focused on problem solving and learning from teamwork.
 
@@ -104,16 +104,6 @@ Project title  | Description | Technologies | Testing
 ### Residential Advisor/Hall Tutor (Residential Halls, University of Liverpool) [Sept 2012 - Aug 2015]
   * Guided first year undergraduate students for preparing for university studies and joining social societies.
   * Arranged funds for organising social events for 40+ students.
-
-## <a name="publications">Academic Publications</a>
-1. H. Sonmez, “The Flipped SU(5) String Vacua Classification: A Variation of the SO(10) Breaking Basis Vector”, [Phys.Rev. D93 125002](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.93.125002) [[arXiv:1603.03504]](https://arxiv.org/abs/1603.03504) June 2016.
-2. J. M. Ashfaque, P. Athanasopoulos, A. E. Faraggi and H. Sonmez, “Non-Tachyonic Semi-Realistic Non-Supersymmetric
-Heterotic String Vacua”, [Eur. Phys. J. C76, no:4, 208](https://link.springer.com/article/10.1140%2Fepjc%2Fs10052-016-4056-2) [[arXiv:1506.03114]](https://arxiv.org/abs/1506.03114) April 2016.
-3. H. Sonmez, “Classifications of the Free Fermionic Heterotic String Vacua”, PhD Thesis [[Inspires-1415381]](https://inspirehep.net/record/1415381), Sep 2015.
-4. H. Sonmez, “Exotica and Discreteness in the Classification of String Spectra”, [J.Phys.Conf.Ser. 631 no.1, 012081](http://iopscience.iop.org/article/10.1088/1742-6596/631/1/012081/meta;jsessionid=A8F0F895863F6F1E2124EAA8054A9984.c4.iopscience.cld.iop.org) [[arXiv:1503.01193]](https://arxiv.org/abs/1503.01193), Jan 2015.
-5. A. E. Faraggi and H. Sonmez “Classification of SU(4)xSU(2)xU(1) Heterotic-String Models”, [Phys.Rev. D91 066006](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.91.066006) [[arXiv:1412.2839]](https://arxiv.org/abs/1412.2839), Mar 2015.
-6. A. E. Faraggi, J. Rizos and H. Sonmez “Classification of Flipped SU(5) Heterotic-String Vacua”, [Nucl.Phys. B886 202-242](http://www.sciencedirect.com/science/article/pii/S0550321314002089) [[arXiv:1403.4107]](https://arxiv.org/abs/1403.4107), Sep 2014.
-7. L. Bernard, A. E. Faraggi, I. Glasser, J. Rizos and H. Sonmez “String Derived Exophobic SU(6)xSU(2) GUTs”, [Nucl.Phys. B868 1-15](http://www.sciencedirect.com/science/article/pii/S0550321312005974) [[arXiv:1208.2145]](https://arxiv.org/abs/1208.2145), Mar 2013.
 
 ## <a name="activities">Extracurricular Activities</a>
 - Playing and refereeing football.
