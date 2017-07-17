@@ -116,12 +116,7 @@ Heterotic String Vacua”, [Eur. Phys. J. C76, no:4, 208](https://link.springer.
 7. L. Bernard, A. E. Faraggi, I. Glasser, J. Rizos and H. Sonmez “String Derived Exophobic SU(6)xSU(2) GUTs”, [Nucl.Phys. B868 1-15](http://www.sciencedirect.com/science/article/pii/S0550321312005974) [[arXiv:1208.2145]](https://arxiv.org/abs/1208.2145), Mar 2013.
 
 ## <a name="activities">Extracurricular Activities</a>
-- Level 7 qualified football referee, refereed:
-  *	University campus 11-a-side football matches.
-  *	Power league 5-a-side tournaments.
-  *	Liverpool county 11-a-side games.
-- Football (5-a-side, 7-a-side, 11-a-side).
-- Jujitsu.
-- Judo.
+- Playing and refereeing football.
+- Jujitsu & Judo.
 - Swimming.
-- running.
+- Running.
