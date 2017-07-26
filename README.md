@@ -73,20 +73,20 @@ Project title  | Description | Technologies | Testing
 
 ### Postdoctoral Honorary Research Assistant (University of Liverpool) [Oct 2015 - Dec 2016]
   * Achieved two postdoctoral academic publications.
-  * Extending work carried out from doctorate studies to analyse large data sets.
-  * Modifying JAVA code to scan different grand unified gauge groups in String theory model building.
-  * Working closely with PhD students to implement sophisticated computing techniques.
-  * Extracting and deriving algebraic equations in formalism to implement into programming codes.
-  * Mathematically modelling variations in the landscape of String theory vacua.
-  * Finding semi-realistic universes with adequate low energy physics.
-  * Predicting future avenues in theoretical physics.
+  * Extended work carried out from doctorate studies to analyse large data sets.
+  * Modified JAVA code to scan different grand unified gauge groups in String theory model building.
+  * Worked closely with PhD students to implement sophisticated computing techniques.
+  * Extracted and derived algebraic equations in formalism to implement into programming codes.
+  * Mathematically modelled variations in the landscape of String theory vacua.
+  * Found semi-realistic universes with adequate low energy physics.
+  * Predicted future avenues in theoretical physics.
 
 
 ### Divisional Seminar Organiser (University of Liverpool) [July 2014 - Dec 2016]
-  * Inviting international and national speakers for seminar talks.
-  * Hosting seminar speaker including transport and accommodation needs.
-  * Chairing sessions and maintaining smooth running of seminars.
-  * Managing, configuring and updating of seminar website.
+  * Invited international and national speakers for seminar talks.
+  * Hosted seminar speaker including transport and accommodation needs.
+  * Chaired sessions and maintained smooth running of seminars.
+  * Managed, configured and updated seminar website.
 
 ### Examination Chief Invigilator (University of Liverpool) [Dec 2011 - Dec 2016]
   * Responsible for collecting and returning exam scripts.
