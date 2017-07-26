@@ -47,7 +47,7 @@ Project title  | Description | Technologies | Testing
   * Rspec, Jasmine, Mocha.
 
 ### University of Liverpool [Oct 2011 - Dec 2015]
-- PhD in Theoretical Physics
+- PhD Theoretical Physics
 
   *	Performed intensive research into string phenomenology/string theory using the free-fermionic construction.
   *	Successfully guided and developed projects leading to six academic publications.
