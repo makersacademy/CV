@@ -94,10 +94,7 @@ Project title  | Description | Technologies | Testing
   * Supervising and instructing exam invigilators.
 
 ### Teaching Assistant (Oct 2011 - Dec 2015)
-  * Provided group tutorials for undergraduate students in Mathematics courses at University of Liverpool; also mathematics for engineers, physicists and finance students, including courses such as:
-    * Vector Calculus with applications in Fluid Mechanics
-    * Field Theory and Partial Differential Equations
-    * Financial Mathematics
+  * Provided group tutorials for undergraduate students in Mathematics courses at University of Liverpool; also mathematics for engineers, physicists and finance students.
   * Ability to convey complex information in an easy-to-understand format on any mathematical or physical topic.
 
 ### Residential Advisor (Sept 2012 - Aug 2015)
