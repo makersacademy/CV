@@ -70,7 +70,7 @@ Project title  | Description | Technologies | Testing
 
 ## <a name="experience">Experience</a>
 
-### Research Assistant [Oct 2015 - Dec 2016]
+### Research Assistant (Oct 2015 - Dec 2016)
   * Achieved two postdoctoral academic publications.
   * Extended work carried out from doctorate studies to analyse large data sets.
   * Modified JAVA code to scan different grand unified gauge groups in String theory model building.
