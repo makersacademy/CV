@@ -35,20 +35,19 @@ Project title  | Description | Technologies | Testing
 ## <a name="education">Education</a>
 
 ### Makers Academy [Feb 2017 - Jun 2017]
-#### 12 week intensive coding bootcamp.
+- 12 week intensive coding bootcamp.
 
-- Curiosity and hungry passion for code.
-- Independent learner and problem-solver.
-- Agile methodology.
-- Pair programming.
-- OOP, TDD, SOLID, MVC.
-- Full stack web development.
-- Ruby, Rails, Javascript, jQuery, React.
-- Rspec, Jasmine, Mocha.
-
+  * Curiosity and hungry passion for code.
+  * Independent learner and problem-solver.
+  * Agile methodology.
+  * Pair programming.
+  * OOP, TDD, SOLID, MVC.
+  * Full stack web development.
+  * Ruby, Rails, Javascript, jQuery, React.
+  * Rspec, Jasmine, Mocha.
 
 ### University of Liverpool [Oct 2011 - Dec 2015]
-#### Doctorate in Theoretical Physics (PhD)
+- Doctorate in Theoretical Physics (PhD)
 
   *	Performed intensive research into string phenomenology/string theory using the free-fermionic construction.
   *	Successfully guided and developed projects leading to six academic publications.
