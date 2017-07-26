@@ -59,13 +59,13 @@ Project title  | Description | Technologies | Testing
   *	Trained two PhD students to develop my code and extend to other String theory models.
   *	Presented talks in seven international conferences.
 
-### King’s College, London [Sep 2009 - Jun 2010]		
+### King’s College London [Sep 2009 - Jun 2010]		
 - MSc Theoretical Physics
 
-### King’s College, London [Sep 2008 - Jun 2009]
+### King’s College London [Sep 2008 - Jun 2009]
 - Graduate Diploma in Mathematics
 
-### King’s College, London [Sep 2005 - Jun 2008]
+### King’s College London [Sep 2005 - Jun 2008]
 - BSc Mathematics & Computer Science
 
 ## <a name="experience">Experience</a>
