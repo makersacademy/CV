@@ -66,7 +66,7 @@ Project title  | Description | Technologies | Testing
 - Graduate Diploma in Mathematics
 
 ### King’s College, London [Sep 2005 - Jun 2008]
-- BSc. Mathematics & Computer Science
+- BSc Mathematics & Computer Science
 
 ## <a name="experience">Experience</a>
 
