@@ -70,7 +70,7 @@ Project title  | Description | Technologies | Testing
 
 ## <a name="experience">Experience</a>
 
-### Research Assistant (University of Liverpool) [Oct 2015 - Dec 2016]
+### Research Assistant [Oct 2015 - Dec 2016]
   * Achieved two postdoctoral academic publications.
   * Extended work carried out from doctorate studies to analyse large data sets.
   * Modified JAVA code to scan different grand unified gauge groups in String theory model building.
@@ -81,26 +81,26 @@ Project title  | Description | Technologies | Testing
   * Predicted future avenues in theoretical physics.
 
 
-### Divisional Seminar Organiser (University of Liverpool) (July 2014 - Dec 2016)
+### Divisional Seminar Organiser (July 2014 - Dec 2016)
   * Invited international and national speakers for seminar talks.
   * Hosted seminar speaker including transport and accommodation needs.
   * Chaired sessions and maintained smooth running of seminars.
   * Managed, configured and updated seminar website.
 
-### Examination Chief Invigilator (University of Liverpool) (Dec 2011 - Dec 2016)
+### Examination Chief Invigilator (Dec 2011 - Dec 2016)
   * Responsible for collecting and returning exam scripts.
   * Guiding students in following exam regulations.
   * Overseeing the punctuality of exams.
   * Supervising and instructing exam invigilators.
 
-### Mathematics Tutor/Teaching Assistant (University of Liverpool) (Oct 2011 - Dec 2015)
+### Teaching Assistant (Oct 2011 - Dec 2015)
   * Provided group tutorials for undergraduate students in Mathematics courses at University of Liverpool; also mathematics for engineers, physicists and finance students, including courses such as:
     * Vector Calculus with applications in Fluid Mechanics
     * Field Theory and Partial Differential Equations
     * Financial Mathematics
   * Ability to convey complex information in an easy-to-understand format on any mathematical or physical topic.
 
-### Residential Advisor/Hall Tutor (Residential Halls, University of Liverpool) (Sept 2012 - Aug 2015)
+### Residential Advisor (Sept 2012 - Aug 2015)
   * Guided first year undergraduate students for preparing for university studies and joining social societies.
   * Arranged funds for organising social events for 40+ students.
 
