@@ -60,7 +60,7 @@ Project title  | Description | Technologies | Testing
   *	Presented talks in seven international conferences.
 
 ### King’s College, London [Sep 2009 - Jun 2010]		
-- MSc. Theoretical Physics
+- MSc Theoretical Physics
 
 ### King’s College, London [Sep 2008 - Jun 2009]
 - Graduate Diploma in Mathematics
