@@ -1,4 +1,4 @@
-## Hasan Sonmez
+# Hasan Sonmez
 
 [Skills](#skills) | [Group Projects](#projects) | [Company Projects](#projects2) | [Education](#education) | [Experience](#experience) | [Extracurricular Activities](#activities) |  
 
