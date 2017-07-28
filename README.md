@@ -30,7 +30,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - OOP, TDD, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, JavaScript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Rspec, Jasmine
 
 #### Your University / College (start_date to end_date)
 
