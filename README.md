@@ -27,7 +27,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Curiosity and passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, MVC, DDD
 - Software Craftsmanship
 - Ruby, Rails, JavaScript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
