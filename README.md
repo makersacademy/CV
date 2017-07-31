@@ -29,7 +29,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Independent learner and problem-solver
 - OOP, TDD, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, JavaScript, Node.js, Angular.js
+- Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
 #### Your University / College (start_date to end_date)
