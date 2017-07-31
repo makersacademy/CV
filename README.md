@@ -25,11 +25,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (start_date to end_date)
 
-[BELOW ARE EXAMPLES OF SKILLS AND TECHNOLOGIES YOU LEARNT.  Find ways to weave them into stories about the learning and projects at Makers.]
+- Curious and passionate about code. [PROVIDE EVIDENCE]
+- Fast, independent learner [PROVIDE EVIDENCE]
+- Great collaborator [PROVIDE EVIDENCE]
 
-- Curious and passionate about code
-- Fast, independent learner
-- Great collaborator
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
