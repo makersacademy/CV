@@ -1,11 +1,26 @@
 ## Miho Tse
 
-I am a creative and curious person looking to utilise and develop my programming knowledge in a role as a Full Stack Junior Developer.
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
+
+I am a creative and curious person looking to utilise and develop my programming knowledge in a role as a **Full Stack Junior Developer specialising in front end**.
 
 Having worked in retail since 16 and being a starving artist on the side, I was curious to seek out more challenges in life. During my time at Apple, I developed my passion for technology, apps and problem solving; I had fun creating an innovative design that brought more accurate communication between departments, which was incorporated into Apple's 'EasyPay' system and used in their retail stores nationwide. Over time, I developed a thirst for challenges and was subsequently offered a role from The JET Programme to work in Japan as an English teaching assistant. Whilst in Japan, I also had the opportunity to volunteer alongside my teaching role. I was passionate about helping to clean up the affected areas in exclusion zones, following the aftermath of the 2011 Tōhoku Earthquake which devastated the Fukushima prefecture. I also volunteered at events; promoting foreign cultural and conversation exchange, managing and organising kid's activities, and being a Sports Leader for the United Sports Foundation(USF) promoting health and well-being.
 
-After 2 years in Japan, I returned home and took some time off before returning to Apple as a new starter, quickly being recognised for my hard-work, positive attitude and fast pace. I was often asked to support the BackStage team as I had quick turn-around-times and excelled when client-facing. After a few months, I was promoted to work as a Technical Specialist where I realised I had a knack for problem solving and wanted to do more with the software development side of things. This led me to studying at Makers Academy, a 16-week intensive software development bootcamp where I am learning to code. I have a passion to learn and develop my programming skills to enable me to look for a role where I can extend my knowledge of programming.
+After 2 years in Japan, I returned home and took some time off before returning to Apple as a new starter, quickly being recognised for my hard-work, positive attitude and fast pace. I was often asked to support the BackStage team as I had quick turn-around-times and excelled when client-facing. After a few months, I was promoted to work as a Technical Specialist where I realised I had a knack for problem solving and wanted to do more with the software development side of things.
 
+This led me to studying at Makers Academy, a 16-week intensive software development bootcamp where I am learning to code. I think that one of the reasons I love programming is that I love understanding how things work. I have always been interested in solving puzzles, whether it involved objects or mental I.Q.-type brainteasers; I love putting pieces together and using logic to solve them bit by bit.
+
+I have a passion to learn and develop my programming skills to enable me to look for a role where I can extend my knowledge of programming.  
+
+## Projects
+
+For a complete list, see my [GitHub](https://github.com/mihobo?tab=repositories).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Sarca-therapist](https://github.com/mihobo/sarca-therapist) | An automated sarcastic therapist chat bot that doesn't care about your feelings. | Javascript, jQuery, Jasmine |
+| [MakersBnB](https://github.com/mihobo/makersbnb) | An AirBnB clone. | Ruby, Sinatra, RSpec/Capybara |
+|[Tamamon](https://www.github.com/mihobo/tamamon)| A tamagotchi web-app. | Javascript, jQuery, Jasmine|
 
 ## Skills
 
@@ -22,9 +37,10 @@ I found it exciting to go to Japan having little to no Japanese language skills 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
+- Agile/XP
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
-- Rspec, Jasmine, Mocha
+- Ruby, Rails, Javascript, Node.js
+- Rspec, Jasmine
 
 #### Escape Studios (2010)
 - ZBrush Modelling for Professionals(Pass)
