@@ -16,7 +16,7 @@ For a complete list, see my [GitHub](https://github.com/mihobo?tab=repositories)
 |---        |---         |---           |
 | [Sarcatherapist](https://github.com/mihobo/sarca-therapist) | An automated sarcastic therapist chat bot that doesn't care about your feelings. | Javascript, jQuery, Jasmine |
 | [MakersBnB](https://github.com/mihobo/makersbnb) | An AirBnB clone. | Ruby, Sinatra, RSpec/Capybara |
-|[Tamamon](https://www.github.com/mihobo/tamamon)| A tamagotchi web-app. | Javascript, jQuery, Jasmine|
+|[Tamamon](https://www.github.com/mihobo/tamamon)| A tamagotchi web-app. Feed it, play with it..endless bouncy energy!| Javascript, jQuery, Jasmine|
 
 ## Skills
 
@@ -35,12 +35,15 @@ I have worked with various walks of life in all my past jobs as well as at Maker
 ## Education
 
 #### Makers Academy (May 2017 - August 2017)
-<!-- list fewer here and a one sentence story about each one -->
-- Curiosity and hungry passion for code
-- Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC
+- Curiosity and passion for code
+  - Worked on different, exciting challenges every week making me hungry to learn more about programming.
+- Independent learner and problem-solver  
+  - Worked on weekend challenges alone: created a Twitter clone, a Rock, Paper, Scissors game and a Tamagotchi web-app, to name a few.
 - Agile/XP
-- Ruby, Rails, Javascript, Node.js
+  - Worked in teams throughout the course, prioritising structure, collaboration, feedback, communication and simple design.
+- OOP, TDD, SOLID, MVC
+  - Learned to incorporate these into my designs; thinking in terms of the interactions between objects, testing to lead the way to the code and making more understandable and flexible code.
+- Ruby, Rails, Javascript, Node
 - Rspec, Jasmine
 
 #### Escape Studios (2010)
