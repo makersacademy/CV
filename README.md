@@ -4,15 +4,9 @@
 
 I am a creative and curious person looking to utilise and develop my programming knowledge in a role as a **Full Stack Junior Developer specialising in front end**.
 
-At Apple, I developed my passion for technology, apps and problem solving; I created an innovative design that brought more accurate communication between departments, which was incorporated into Apple's 'EasyPay' system in their stores nationwide.
-
-I also further challenged myself by taking up a role as an English teaching assistant for The JET Programme in Japan. I went from zero Japanese language skills to being able to understand a conversation today. Whilst in Japan, I also had the opportunity to volunteer alongside my teaching role.
-
-After my time in Japan, I returned to Apple, where I was recognised for my hard-work, positive attitude and fast pace. I was often asked to support the BackStage team because of my quick turn-around-times and excelled when client-facing. I was subsequently promoted to work as a Technical Specialist where I realised I had a knack for problem solving and wanted to do more with the software development side of things.
+At Apple, I developed my passion for technology, apps and problem solving; I created an innovative design that brought more accurate communication between departments, which was incorporated into Apple's 'EasyPay' system in their stores nationwide. I was also recognised for my hard-work, positive attitude and fast pace; I had quick turn-around-times and excelled when client-facing. I realised I had a knack for problem solving and wanted to do more with the software development side of things.
 
 This led me to studying at Makers Academy, a 16-week intensive software development bootcamp where I am learning to code. I think that one of the reasons I love programming is that I love understanding how things work. I have always been interested in solving puzzles, whether it involved objects or mental I.Q.-type brainteasers; I love putting pieces together and using logic to solve them bit by bit.
-
-I have a passion to learn and develop my programming skills to enable me to look for a role where I can extend my knowledge of programming.  
 
 ## Projects
 
@@ -30,7 +24,7 @@ For a complete list, see my [GitHub](https://github.com/mihobo?tab=repositories)
 At Apple I used my initiative and creativity to improve and increase efficiency within the store. One thing I am particularly proud of is a design that brought more accurate communication between the sales and operations departments, which was incorporated into Apple's 'EasyPay' system in their stores nationwide; there was an issue with incorrect inventory being requested from the sales team, so I created a graphic template that could be scanned, which generated the correct products from inventory via sales devices which was incorporated into an app after a week trial.
 
 #### Initiative
-I found it exciting to go to Japan having no Japanese language skills or contacts there. I looked at it as an opportunity to learn new skills, be adaptable to a new environment and network with locals. I self-studied Japanese to a conversational level through hard work and perseverance and made life-long friends with the locals. I also took Japanese language exams alongside my students; promoting solidarity, building relationships and having a positive attitude to work.
+I found it exciting to go to Japan having no Japanese language skills or contacts there. I looked at it as an opportunity to learn new skills, be adaptable to a new environment and network with locals. I self-studied Japanese to a conversational level through hard work and perseverance and made life-long friends with the locals. I also took Japanese language exams alongside the students I taught English to; promoting solidarity, building relationships and having a positive attitude to work.
 
 #### Fast learner
 During my time at Makers Academy, I have had the opportunity to gain new skills in a short amount of time. I have been able to go from knowing nothing about programming to learning 2 new languages and several technologies to make working apps every week. I find resources and constantly ask for feedback to make me a better programmer and collaborator.
@@ -41,16 +35,16 @@ I have worked with various walks of life in all my past jobs as well as at Maker
 ## Education
 
 #### Makers Academy (May 2017 - August 2017)
+<!-- list fewer here and a one sentence story about each one -->
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
-- OOP, TDD, SOLID, MVC, DDD
+- OOP, TDD, SOLID, MVC
 - Agile/XP
-- Software Craftsmanship
 - Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine
 
 #### Escape Studios (2010)
-- ZBrush Modelling for Professionals(Pass)
+- ZBrush Modelling for Professionals (Pass)
 
 #### University of Hertfordshire (September 2005 - October 2009)
 **MA 3D Animation**  
@@ -84,7 +78,7 @@ I have worked with various walks of life in all my past jobs as well as at Maker
 **Apple** (August 2016 - May 2017)
 
 *Technical Specialist*  
-I worked in a fast paced environment where I always brought energy and enthusiasm to the role to solve problems and repair customer relationships with the brand. I managed appointments and resolved issues using my knowledge of Apple's products and systems to find the best solutions unique to each customer on a daily basis.  
+I worked in a fast paced environment where I always brought energy and enthusiasm to the role to solve problems and repair customer relationships with the brand. I managed appointments and resolved issues using my knowledge of Apple's products and systems to find the best solutions unique to each customer on a daily basis. That could include a device with a cracked screen to software problems to locked accounts.
 
 *Product Zone Specialist & BackStage Support*  
 I advised, set-up and helped to create new owners of Apple products. I found the right solutions for customers and listened to their needs which in turn, created and  maintained relationships with the brand. I managed incoming foot-traffic and directed customers to the required areas/products. I also supported the BackStage team due to my previous experience and knowledge in a flagship store.  
@@ -102,6 +96,6 @@ I had a hands-on role in the Back of House department as part of the Operations 
 
 ## Interests
 - Running - I try to run 3-5miles a few times a week
-- Hiking - a trail with waterfalls is a plus; the more difficult the trail, the better - despite having difficulty breathing in high altitudes(no pain no gain!)
+- Hiking - a trail with waterfalls is a plus; the more difficult the trail, the better - despite having difficulty breathing in high altitudes (no pain no gain!)
 - Photography & Editing - I'm arty!
 - Cooking - give me ingredients and I'll make it work! A disaster at baking though - fair warning!  
