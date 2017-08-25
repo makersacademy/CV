@@ -14,6 +14,7 @@ For a complete list, see my [GitHub](https://github.com/mihobo?tab=repositories)
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
+| [Zombie Paint](https://github.com/mihobo/zombie-paint) | A Microsoft Paint clone - revived from the dead. | Javascript, jQuery, Mocha, Chai, HTML5 Canvas, Canteen, Node, Express |
 | [Sarcatherapist](https://github.com/mihobo/sarca-therapist) | An automated sarcastic therapist chat bot that doesn't care about your feelings. | Javascript, jQuery, Jasmine |
 | [MakersBnB](https://github.com/mihobo/makersbnb) | An AirBnB clone. | Ruby, Sinatra, RSpec/Capybara |
 |[Tamamon](https://www.github.com/mihobo/tamamon)| A tamagotchi web-app. Feed it, play with it..endless bouncy energy!| Javascript, jQuery, Jasmine|
@@ -50,23 +51,15 @@ I have worked with various walks of life in all my past jobs as well as at Maker
 - ZBrush Modelling for Professionals (Pass)
 
 #### University of Hertfordshire (September 2005 - October 2009)
-**MA 3D Animation**  
-- Merit
+**MA 3D Animation** Merit
 - Explored complex ideas in animation
 - Specialised in 3D modelling
-- I explored the idea of the "7 Deadly Sins" using my interpretation of the characters from "Alice in Wonderland" to provoke reactions, ideas and thoughts from my audience. I created 7 3D art pieces in a professional film-poster format along with postcards which were used at my end-of-year show.
 
-**BA Digital Animation**  
-- 2:1
-- 3D Modelling & Design
-- Texturing, Matte Painting, Typography & Colour Theory
-- Lighting & Shading
-- Tracking & Rotoscoping
-- VFX, Compositing, Image Retouching & Video Editing
-- Animation, Rigging & Rendering
-- Member of the Comic Book Club
-- Knowledge of various software packages including but not limited to 3DS Max Photoshop, After Effects & Zbrush
-- Passionate about my dissertation subject - The effects of video game violence on children and if it's a contributing factor to real-world violence (Case studies of Jamie Bulger and the Columbine High School Massacre)
+**BA Digital Animation** 2:1
+- 3D modelling, design, animation, rigging & rendering
+- Texturing, matte painting, typography & colour theory
+- Lighting & shading, tracking & rotoscoping
+- VFX, compositing, image retouching & video editing
 
 #### Esher College (September 2003 - June 2005)
 - A Levels: Maths, Further Maths & Psychology
