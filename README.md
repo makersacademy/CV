@@ -6,7 +6,7 @@ I am a creative and curious person looking to utilise and develop my programming
 
 At Apple, I developed my passion for technology, apps and problem solving; I created an innovative design that brought more accurate communication between departments, which was incorporated into Apple's 'EasyPay' system in their stores nationwide. I was also recognised for my hard-work, positive attitude and fast pace; I had quick turn-around-times and excelled when client-facing. I realised I had a knack for problem solving and wanted to do more with the software development side of things.
 
-This led me to studying at Makers Academy, a 16-week intensive software development bootcamp where I am learning to code. I think that one of the reasons I love programming is that I love understanding how things work. I have always been interested in solving puzzles, whether it involved objects or mental I.Q.-type brainteasers; I love putting pieces together and using logic to solve them bit by bit.
+This led me to studying at Makers Academy, a 12-week intensive software development bootcamp where I am learning to code. I think that one of the reasons I love programming is that I love understanding how things work. I have always been interested in solving puzzles, whether it involved objects or mental I.Q.-type brainteasers; I love putting pieces together and using logic to solve them bit by bit.
 
 ## Projects
 
@@ -79,11 +79,13 @@ I worked in a fast paced environment where I always brought energy and enthusias
 *Product Zone Specialist & BackStage Support*  
 I advised, set-up and helped to create new owners of Apple products. I found the right solutions for customers and listened to their needs which in turn, created and  maintained relationships with the brand. I managed incoming foot-traffic and directed customers to the required areas/products. I also supported the BackStage team due to my previous experience and knowledge in a flagship store.  
 
+
 **The Japanese Exchange and Teaching (JET) Programme** (July 2013 - August 2015)   
 
 *English Teaching Assistant*  
 I worked directly for Nihonmatsu City’s Board of Education and assisted with international awareness, education and foreign language instruction at two Junior High Schools in partnership with the British and Japanese Embassies and Governments. My responsibilities included preparing teaching materials for classes, training and preparing students for English Speech Contests, delivering in-service training for foreign language teachers and preparing special, extra-curricular and local international  exchange activities.  
 
+  
 **Apple** (September 2011 - July 2013)  
 
 *Back of House Specialist*  
