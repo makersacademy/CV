@@ -36,7 +36,7 @@
 ## Professional Experience
 
 
-**Product Designer, The Marketing Store** (09 2012 to 09 2017) 
+** Product Designer, The Marketing Store** (09 2012 to 09 2017) 
 
 Taking the design lead on several programs at any given time from brief to production for clients such as McDonalds's, Carlsberg, Nestle.
 Liaise with engineers, Q&A teams and client services to incorporating feedback into the products
