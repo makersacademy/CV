@@ -50,26 +50,29 @@ Software: Photoshop, Illustrator, 3Ds Max, Maya, Solidworks
 ## Education
 
 
+
 #### Software Developer Bootcamp : Makers Academy (09 2017 - 01 2018) 
 
 - Curious and passionate about code (please see blog)
 - Fast, independent learner on the intensive development boot camp
 - Great collaborator in both Pair-programming and group projects
 
-OOP, TDD, MVC, DDD
-Agile/XP
-Ruby, Rails, JavaScript
-RSpec, Jasmine
-
-Adobe Illustrator
-Adobe Photoshop
-Autodesk Maya
+OOP, TDD, MVC, DDD,
+Agile/XP,
+Ruby, Rails, 
+JavaScript,
+RSpec, 
+Jasmine
 
 
 #### Computer Generated Arts and Animation : UCA ( 09 2009 - 06 2012)
 
 - 1st Class BA (Hons) Degree 
 - Part Time student ambassador
+
+Adobe Illustrator,
+Adobe Photoshop,
+Autodesk Maya,
 
 
 #### “Aukuras” Gymnasium 
