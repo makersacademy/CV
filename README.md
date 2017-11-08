@@ -47,6 +47,7 @@ Working as a Financial Analyst was all about understanding businesses and the po
 
 ### Lab49, London   
 **Graduate Software Engineer** ~ *Jun 2017 to Present*
+Working to resolve defects with an established code base making exstensive use of dependency injection, generated souces, a functional style, across multiple repositories.
 
 Frontend ~ Javascript | Typescript | Node | React | Redux | SCSS </br>
 Backend ~ Java | Kotlin | Spring | Lombok </br>
