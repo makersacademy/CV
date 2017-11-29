@@ -37,6 +37,7 @@ I have been fortunate to work as part of a team practising <b>agile methodologie
 <br>
 <br>
 <br>
+
 ## Education
 
 ### Makers Academy, London (Jan to May 2017)
