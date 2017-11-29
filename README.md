@@ -25,7 +25,6 @@ I have been fortunate to work as part of a team practising <b>agile methodologie
 
 <b>Communication</b> of ideas has been an essential part of my career to date. I relish the opportunity to meet new people and enjoy situations where communication is critical. My previous experience working as a Financial Analyst was all about <b>understanding businesses</b> and the potential impact of their decisions. I worked in a B2B environment dealing with clients on a daily basis.
 <br>
-<br>
 
 ## Personal Projects
 
