@@ -34,7 +34,9 @@ I have been fortunate to work as part of a team practising <b>agile methodologie
 | [Blades in motion](https://github.com/joemaidman/blades-in-motion)  | RF sniffing and replay  | [Blog/video](http://www.joemaidman.com/?p=317) |  SDR, Arduino, C/C++ |
 | [Bloc](https://github.com/joemaidman/bloc)  | Isometric multi-player building game | [Demo](https://bloc-game.herokuapp.com/)/[Blog](http://www.joemaidman.com/?p=540) | javascript, Node, Express, socket.io, MongoDB, Mocha, Chai, Sinon |
 | [Jobot](https://github.com/joemaidman/jobot)  | Chat bot | [Demo](http://www.joemaidman.com/?page_id=530) | javascript, Node, Microsoft Bot Framework, Mocha, Chai |
-
+<br>
+<br>
+<br>
 ## Education
 
 ### Makers Academy, London (Jan to May 2017)
