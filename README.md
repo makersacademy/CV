@@ -3,13 +3,13 @@
 ## Joe Maidman
 Software developer, former financial analyst, keen technologist.
 
-I have followed a passion to become a software developer, completing an intensive developer bootcamp earlier this year after a decade-long career in finance. I am now a software engineer at [Lab49](http://www.lab49.com/), a technology consultancy.
+I have followed a passion to become a software developer, completing an intensive developer bootcamp after a decade-long career in finance. I am now a software engineer at [Lab49](http://www.lab49.com/), a technology consultancy.
 
 ## Technologies
 
 This is a selection of the languages, frameworks and tools I have experience with. My goal is to use the best tool for the job and become a better developer.
 
-<b>Frontend</b> ~ Typescript | javascript | jQuery | Node | React | Redux | SCSS & CSS | CSS </br>
+<b>Frontend</b> ~ Typescript | javascript | jQuery | Node | React | Redux | SCSS & CSS</br>
 <b>Backend</b>  ~ Java & Lombok | Kotlin | Spring | Hazelcast | Ruby | C# | WPF (XAML) | VBA | MySQL </br>
 <b>Workflow</b> ~ Git | Stash | Webpack | Jenkins | Docker</br>
 <b>Testing</b>  ~ JUnit | Mockito | Hamcrest | Mocha | Chai | Sinon | React Storybook
@@ -63,7 +63,7 @@ Delivering user stories and resolving defects for a client project. The code bas
 ### Panmure Gordon & Co (Stockbrokers), London   
 **Investment Funds Analyst** ~ *Nov 2012 to Jan 2017*
 
-Analysing and publishing research on [listed investment companies](https://en.wikipedia.org/wiki/Closed-end_fund), modelling and structuring deals including new share offerings. My experience as an investment analyst meant dealing with large and disparate data sets and combining qualitative and quantitative inputs to reach useful conclusions on a variety of sectors from [technology](http://www.joemaidman.com/wp-content/uploads/2017/05/PCT.pdf) to [healthcare](http://www.joemaidman.com/wp-content/uploads/2017/05/PCT.pdf). Commercial and strategic decisions were made based on my analysis.
+Analysing and publishing research on [listed investment companies](https://en.wikipedia.org/wiki/Closed-end_fund), modelling and structuring deals including new share offerings. My experience as an investment analyst meant dealing with large and disparate data sets and combining qualitative and quantitative inputs to reach useful conclusions on a variety of sectors from [technology](http://www.joemaidman.com/wp-content/uploads/2017/05/PCT.pdf) to [mining](http://www.joemaidman.com/wp-content/uploads/2017/05/BRWM.pdf). Commercial and strategic decisions were made based on my analysis.
 
  As well as face to face meetings and relationship building, I wrote research to encourage engagement and conceived and built a research portal and blog (WordPress) for the team to market our product.
 
