@@ -3,7 +3,7 @@
 ## Joe Maidman
 Software developer, former financial analyst, keen technologist.
 
-I have followed a passion to become a software developer, completing an intensive developer bootcamp after a decade-long career in finance. I am now a software engineer at [Lab49](http://www.lab49.com/), a technology consultancy.
+I have followed a passion to become a software developer, completing an intensive developer bootcamp after a decade-long career in finance. I am now a developer at [Reposit](http://getreposit.uk/), the tenancy deposit alternative.
 
 ## Technologies
 
@@ -12,7 +12,7 @@ This is a selection of the languages, frameworks and tools I have experience wit
 <b>Frontend</b> ~ Typescript | javascript | jQuery | Node | React | Redux | SCSS & CSS</br>
 <b>Backend</b>  ~ Java & Lombok | Kotlin | Spring | Hazelcast | Ruby | C# | WPF (XAML) | VBA | MySQL </br>
 <b>Workflow</b> ~ Git | Stash | Webpack | Jenkins | Docker</br>
-<b>Testing</b>  ~ JUnit | Mockito | Hamcrest | Mocha | Chai | Sinon | React Storybook
+<b>Testing</b>  ~ JUnit | Mockito | Hamcrest | Mocha | Chai | Jest | Enzyme | Sinon | React Storybook
 
 ## Skills
 
@@ -31,6 +31,7 @@ I have been fortunate to work as part of a team practising <b>agile methodologie
 | Project  | Description  | Demo  | Technologies |
 |---|---|---|---|
 | [Bedrock](https://github.com/joemaidman/bedrock)  | javascript testing framework  | [npm](https://www.npmjs.com/package/bed-rock) |  Typescript, javascript, Ramda, Esprima |
+| [Cryptomonitor](https://github.com/joemaidman/cryptomonitor)  | Cyrptocurrency pricing dashboard | [Demo](https://cryptomonitor.netlify.com/) | javascript, React, Redux |
 | [Blades in motion](https://github.com/joemaidman/blades-in-motion)  | RF sniffing and replay  | [Blog/video](http://www.joemaidman.com/?p=317) |  SDR, Arduino, C/C++ |
 | [Bloc](https://github.com/joemaidman/bloc)  | Isometric multi-player building game | [Demo](https://bloc-game.herokuapp.com/)/[Blog](http://www.joemaidman.com/?p=540) | javascript, Node, Express, socket.io, MongoDB, Mocha, Chai, Sinon |
 | [Jobot](https://github.com/joemaidman/jobot)  | Chat bot | [Demo](http://www.joemaidman.com/?page_id=530) | javascript, Node, Microsoft Bot Framework, Mocha, Chai |
@@ -50,8 +51,17 @@ I have been fortunate to work as part of a team practising <b>agile methodologie
 
 ## Experience
 
+### Reposit (Proptech), London   
+**Front End Developer** ~ *Jan 2018 to Present*
+
+Migrating the platform from Angular to React. Building new features and components. 
+
+<b>Frontend</b> ~ Typescript | javascript | Node | React | Redux | Angular | SCSS </br>
+<b>Workflow</b>  ~ Git | Webpack | Jenkins | AWS</br>
+<b>Testing</b>  ~| Mocha | Chai | Sinon | Jest | Enzyme | React Storybook
+
 ### Lab49 (Technology Consultancy), London   
-**Graduate Software Engineer** ~ *Jun 2017 to Present*
+**Graduate Software Engineer** ~ *Jun 2017 to Jan 2018*
 
 Delivering user stories and resolving defects for a client project. The code base makes extensive use of dependency injection, code generation, a functional style, separation of concerns and microservices.
 
