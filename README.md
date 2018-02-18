@@ -1,6 +1,7 @@
-## Your Name
+## Raefe Newton-Jones
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an affable and diligent individual seeking a career in Full Stack Ruby Development
+
 
 ## Skills
 
@@ -23,7 +24,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (19/02/18 to 11/05/18)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +35,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Framlingham College (2011-2015)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- 10 GCSEs all awarded A* to B
+	FSMQ- Additional Maths, awarded A
+	A level Maths, awarded B
+  GCSE English awarded double B
 
-#### Any other qualifications
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+- Was elected as Managing Director in the Lower Sixth Young Enterprise Program
+- Mentoring younger children at school in a variety of academic subjects.
