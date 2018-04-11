@@ -19,6 +19,9 @@ Through my time volunteering for Hospices of Hope and working as a sales assista
 
 I had the opportunity to work with many fellow students on collaborative projects during my degree. Furthermore, I was able to work with a team of both paid staff and a host of volunteers of all ages and abilities whist working at the British Heart Foundation. Through these experiences I learned how to work with others respectfully, but also how to spur and encourage them to increase productivity.
 
+#### Independent learning
+
+During my second and third years at university I taught myself HTML, CSS, and basic Ruby and JavaScript as a hobby.
 
 ## Education
 
@@ -53,6 +56,7 @@ I had the opportunity to work with many fellow students on collaborative project
 *Store volunteer*
 
 **National Trust** (June 2016 to September 2016)
+
 *Premises Department volunteer*
 
 
