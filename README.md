@@ -1,29 +1,28 @@
-## Your Name
+## Samuel Worrall
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+An up and coming software developer with an insatiable need to learn and master new skills. I have recently finished my time at Bristol University where my studies in archaeology and history left my mind craving more technical challenges.
+
+I am searching for a role that constantly poses new challenges which can be solved using my creative and analytical skillset. The overall aim is to work on and contribute to big, important, innovative projects that take me to all manner of places.
+
 
 ## Skills
 
-#### This Skill
+#### Analysis and research
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I cultivated my analytical and research skills whilst at university. Essays that required hard source-based evidence along with a critical mindset made up a large part of the curriculum. The very nature of the degree gave me the opportunity to analyse and scrutinise not only the work of a range of scholars, but also my own.
 
-- Experience
-- Achievements
-- Evidence
+#### Customer service
 
-#### Another Skill
+Through my time volunteering for Hospices of Hope and working as a sales assistant for the British Heart Foundation, I was able to gain a professional understanding of customer interaction. I would attend to questions and requests on a day-to-day basis, and would strive to give all customers the most positive and friendly experience possible.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### Team working
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I had the opportunity to work with many fellow students on collaborative projects during my degree. Furthermore, I was able to work with a team of both paid staff and a host of volunteers of all ages and abilities whist working at the British Heart Foundation. Through these experiences I learned how to work with others respectfully, but also how to spur and encourage them to increase productivity. 
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March 2018 to July 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +33,29 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Bristol University (September 2014 to July 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Ba(Hons) Archaeology
+- (2:1)
+- 1st class dissertation on 18th Century Pirate Counter-culture
 
-#### Any other qualifications
+#### Weald of Kent Grammar School (September 2012 to July 2014)
+
+- A-Levels: Physics(A), Mathematics(B), History(B)
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**British Heart Foundation** (October 2017 to February 2018)    
+*Sales Assistant*  
+**Hospices of Hope** (July 2017 to October 2017)   
+*Store volunteer*
+**National Trust** (June 2016 to September 2016)
+*Premises Department volunteer*
+
+
+## Hobbies/Interests
+
+- Exploring the great outdoors
+- Film and cinema
+- Amateur guitarist (still learning!)
