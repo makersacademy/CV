@@ -34,11 +34,14 @@ I have also taken an interest in [videography](https://www.youtube.com/watch?v=L
 - Ruby, JavaScript
 - RSpec
 
-#### University of Birmingham (September 2011 - June 2015)
+#### University of Birmingham (September 2011 to June 2015)
 
 - International Business with Communications, BSc (Hons), 2.1
 - Did one year in industry, working for companies in Florence, Italy
 - Organised and hosted students events for local DJs
+
+### Manchester Grammar School (September 2004 to June 2011)  
+A-Levels: Economics(A), Biology(A), Geography(A)
 
 
 ## Experience
