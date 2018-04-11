@@ -56,11 +56,11 @@ During my time at the shop sales of own brand goods went from 0% to 75% of total
 *Intern*   
 Managed social media channels and created content for this startup drinks company.
 
-**StudentsVille Italia**   
+**StudentsVille Italia** (January 2013 to May 2013)  
 *Intern*   
 Created videos, wrote articles and updated websites for this online student hub in Florence.
 
-**ETA Florence Renewable Energies**   
+**ETA Florence Renewable Energies** (September 2012 to January 2013)  
 *Intern*   
 Wrote articles and helped organise events for this European conference company.
 
