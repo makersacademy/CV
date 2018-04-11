@@ -41,7 +41,7 @@ I have also taken an interest in [videography](https://www.youtube.com/watch?v=L
 - Organised and hosted students events for local DJs
 
 #### Manchester Grammar School (September 2004 to June 2011)  
-A-Levels: Economics(A), Biology(A), Geography(A)
+- A-Levels: Economics(A), Biology(A), Geography(A)
 
 
 ## Experience
