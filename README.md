@@ -15,9 +15,9 @@ I cultivated my analytical and research skills whilst at university. Essays that
 
 Through my time volunteering for Hospices of Hope and working as a sales assistant for the British Heart Foundation, I was able to gain a professional understanding of customer interaction. I would attend to questions and requests on a day-to-day basis, and would strive to give all customers the most positive and friendly experience possible.
 
-### Team working
+#### Team working
 
-I had the opportunity to work with many fellow students on collaborative projects during my degree. Furthermore, I was able to work with a team of both paid staff and a host of volunteers of all ages and abilities whist working at the British Heart Foundation. Through these experiences I learned how to work with others respectfully, but also how to spur and encourage them to increase productivity. 
+I had the opportunity to work with many fellow students on collaborative projects during my degree. Furthermore, I was able to work with a team of both paid staff and a host of volunteers of all ages and abilities whist working at the British Heart Foundation. Through these experiences I learned how to work with others respectfully, but also how to spur and encourage them to increase productivity.
 
 
 ## Education
@@ -48,8 +48,10 @@ I had the opportunity to work with many fellow students on collaborative project
 
 **British Heart Foundation** (October 2017 to February 2018)    
 *Sales Assistant*  
+
 **Hospices of Hope** (July 2017 to October 2017)   
 *Store volunteer*
+
 **National Trust** (June 2016 to September 2016)
 *Premises Department volunteer*
 
