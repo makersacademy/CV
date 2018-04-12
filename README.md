@@ -48,7 +48,7 @@ I have also taken an interest in [videography](https://www.youtube.com/watch?v=L
 
 **Helping Humans** (January 2017 to December 2017)    
 *Regional Business Development Manager*   
-Grew this Australian drinks supplier in a brand new city. The number of accounts grew from 0 to 90 in six months. Initially working on my own before hiring staff to train.
+Brought this Melbourne based startup drinks supplier to the Sydney market. I secured 90 new stockists in the first six months of operation. Initially working on my own before hiring and training staff.
 
 **Pets Corner** (September 2015 to May 2016)   
 *Branch Manager*  
