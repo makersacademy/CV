@@ -48,11 +48,11 @@ I have also taken an interest in [videography](https://www.youtube.com/watch?v=L
 
 **Helping Humans** (January 2017 to December 2017)    
 *Regional Business Development Manager*   
-Brought this Melbourne based startup drinks supplier to the Sydney market. I secured 90 new stockists in the first six months of operation. Initially working on my own before hiring and training staff.
+I was given the opportunity to bring this Melbourne based startup drinks supplier to the Sydney market. I secured 90 new stockists in the first six months of operation. Initially I was working on my own before hiring and training staff.
 
 **Pets Corner** (September 2015 to May 2016)   
 *Branch Manager*  
-Initially I took this role as a stepping stone before going travelling. However after 2 weeks on the job they promoted me to manager and gave me a brand new shop.
+I originally took this role as a stepping stone before going travelling. However after 2 weeks on the job they promoted me to manager and gave me a brand new shop.
 During my time at the shop sales of target goods went from 0% to 75% of total sales.
 
 **Mello Drinks** (June 2015 to September 2015)  
@@ -75,4 +75,4 @@ I have travelled to around 30 different countries so far and I am always looking
 I attend film club meet-ups when I can and enjoy going to fun events such as secret showings and outdoor cinemas.
 
 **Hiking**  
-Ever seen a developer in hiking boots and short shorts? Find me up a fell on Sunday mornings and you can find out why 95% of passersby experience nausea.
+Have you ever seen a developer in hiking boots and short shorts? Find me up a fell on Sunday mornings and you can find out why 95% of passersby experience nausea.
