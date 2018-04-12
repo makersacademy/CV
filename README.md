@@ -2,7 +2,7 @@
 
 Formerly a Jack of all trades, soon to be a master of *some*. After completing a degree in International Business and Communications, I obtained experience in a diverse range of roles in a variety of countries. My experiences span journalism in Italy to managing a startup in Australia.
 
-Now that I have refined my communication and managerial qualities, I would like to put by investigative mind to good use with a more specialised skill set. Enter, Makers Academy. This 14 week intensive course will serve to cultivate the coding skills that I have been teaching myself for the past three months, and get me ready to be the developer I was born to be. Problem solving, creativity and logic are just some the traits that draw me to this profession, and give me an eagerness to get stuck in.
+Now that I have refined my communication and managerial qualities, I would like to put by investigative mind to good use with a more specialised skill set. Enter, Makers Academy. This 14 week intensive course will serve to cultivate the coding skills that I have been teaching myself for the past three months, and get me ready to be the developer I was born to be. Problem solving, creativity and logic are just some of the traits that draw me to this profession, and give me an eagerness to get stuck in.
 
 
 ## Skills
