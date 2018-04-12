@@ -75,4 +75,4 @@ I have travelled to around 30 different countries so far and I am always looking
 I attend film club meet-ups when I can and enjoy going to fun events such as secret showings and outdoor cinemas.
 
 **Hiking**  
-Ever seen a developer in hiking boots and short shorts? Find me up a fell on Sunday mornings and you can find out why 95% of passersby bleach their eyes out.
+Ever seen a developer in hiking boots and short shorts? Find me up a fell on Sunday mornings and you can find out why 95% of passersby experience nausea.
