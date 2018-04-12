@@ -1,8 +1,8 @@
 ## Muzzi Amir Aldean
 
-Formerly a Jack of all trades, I have decided to become a master of *some*. After completing a degree in International Business and Communications, I obtained experience in a variety of roles in a variety of countries. My experiences span journalism in Italy to managing a startup in Australia.
+Formerly a Jack of all trades, soon to be a master of *some*. After completing a degree in International Business and Communications, I obtained experience in a diverse range of roles in a variety of countries. My experiences span journalism in Italy to managing a startup in Australia.
 
-Now that I have refined my communication and managerial qualities, I would like to put by investigative mind to good use in a more specialised skill. Enter, Makers Academy. This 14 week intensive course will serve to cultivate the coding skills that I have been teaching myself for the past three months, and get me ready to be the developer I was born to be. Problem solving, creativity and logic are just some the traits that draw me to this profession and give me an eagerness to get stuck in.
+Now that I have refined my communication and managerial qualities, I would like to put by investigative mind to good use with a more specialised skill set. Enter, Makers Academy. This 14 week intensive course will serve to cultivate the coding skills that I have been teaching myself for the past three months, and get me ready to be the developer I was born to be. Problem solving, creativity and logic are just some the traits that draw me to this profession, and give me an eagerness to get stuck in.
 
 
 ## Skills
@@ -28,7 +28,7 @@ I have also taken an interest in [videography](https://www.youtube.com/watch?v=L
 - Logically minded
 - Keen to learn
 - Fast, independent learner
-  - Taught myself Python syntax and full-stack JavaScript with online courses in only 3 months
+  - Taught myself full-stack JavaScript with online courses in only 3 months
 
 - OOP, TDD
 - Ruby, JavaScript
@@ -38,7 +38,7 @@ I have also taken an interest in [videography](https://www.youtube.com/watch?v=L
 
 - International Business with Communications, BSc (Hons), 2.1
 - Did one year in industry, working for companies in Florence, Italy
-- Organised and hosted students events for local DJs
+- Organised and hosted student events for local DJs
 
 #### Manchester Grammar School (September 2004 to June 2011)  
 - A-Levels: Economics(A), Biology(A), Geography(A)
@@ -53,7 +53,7 @@ Grew this Australian drinks supplier in a brand new city. The number of accounts
 **Pets Corner** (September 2015 to May 2016)   
 *Branch Manager*  
 Initially I took this role as a stepping stone before going travelling. However after 2 weeks on the job they promoted me to manager and gave me a brand new shop.
-During my time at the shop sales of own brand goods went from 0% to 75% of total sales.
+During my time at the shop sales of target goods went from 0% to 75% of total sales.
 
 **Mello Drinks** (June 2015 to September 2015)  
 *Intern*   
@@ -73,3 +73,6 @@ I have travelled to around 30 different countries so far and I am always looking
 
 **Film**   
 I attend film club meet-ups when I can and enjoy going to fun events such as secret showings and outdoor cinemas.
+
+**Hiking**  
+Ever seen a developer in hiking boots and short shorts? Find me up a fell on Sunday mornings and you can find out why 95% of passersby bleach their eyes out.
