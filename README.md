@@ -1,5 +1,5 @@
 ## Raefe Newton-Jones
-[Projects](#Projects) | [Skills](#Skills) | [Education](##Education)
+[Projects](#projects) | [Skills](#skills) | [Education](##education)
 
 I'm a Developer looking for a role in a start-up environment, with a particular interest in machine learning.
 
