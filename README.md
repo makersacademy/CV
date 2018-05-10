@@ -6,17 +6,32 @@ I am a music composer and producer that got seduced for the logical and abstract
 of coding, facing a carrier change at Makers Academy. I've worked creating music for
 feature film, tv series and advertisements, now ready to use my creativity in designing
 sophisticated, elegant and efficient software. After a few weeks I'll be looking for my first
-job as a junior developer in London. 
+job as a junior developer in London.
 
 ## Skills
 
 #### This Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
+#Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+<!-- - Experience
 - Achievements
-- Evidence
+- Evidence -->
+
+Creativity
+
+ I have 10 years of experience writing and producing music for film. Use to work under precise
+ requirements with the purpose of making a narrative works.
+ In my work I have to take in consideration many different factors in order to make my contribution
+ useful, such as dialogs, sound design, instrumentation, pitches, and others. The whole purpose of this
+ operation is to make a film more expressive and coherent, been able to carry ideas. My clients and my
+ work prove my ability to create functional and solid materials.
+
+ Delivery
+
+Working in the film industry I achieve two main characteristics that ended up in one: been quick.
+In order to submit within the deadlines I have been push to have a deep knowledge in music technique
+and in software management as well.
+
 
 #### Another Skill
 
@@ -52,5 +67,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
+**Villano**(03_09_17 to 11_05_18)
+TV Series Music Composer and Producer
 **Company Name** (start_date to end_date)   
 *Your job title*  
+
+Hobbies
+
+Meditation, yoga, films and music
