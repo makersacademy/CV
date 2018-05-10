@@ -1,9 +1,12 @@
 ## Your Name
+<!--
+A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
-
-I started studying coding a few months ago and I am now changing carrier
-to get a job as a junior developer.
+I am a music composer and producer that got seduced for the logical and abstract aspects
+of coding, facing a carrier change at Makers Academy. I've worked creating music for
+feature film, tv series and advertisements, now ready to use my creativity in designing
+sophisticated, elegant and efficient software. After a few weeks I'll be looking for my first
+job as a junior developer in London. 
 
 ## Skills
 
