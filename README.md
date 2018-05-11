@@ -1,4 +1,4 @@
-##Diego Fontecilla
+## Diego Fontecilla
 <!--
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 I am a music composer and producer that got seduced for the logical and abstract aspects
@@ -95,15 +95,15 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - *Actor in plays "Gemelos" and "Sin Sangre", with more than 400 performances
 in Europe, Asia and America*
 - **Estudio Libelula** (June 2003 to March 2005)
-*Composer and Producer for Advertisements*
+- *Composer and Producer for Advertisements*
 
 LINKS
-https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html  
-https://www.theguardian.com/world/ng-interactive/2017/feb/10/quipu-the-phone-line-calling-for-justice-in-peru-video
-https://www.imdb.com/name/nm2020909/?ref_=fn_al_nm_1
-http://diegofontecilla.com/advertising/
+# https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html  
+# https://www.theguardian.com/world/ng-interactive/2017/feb/10/quipu-the-phone-line-calling-for-justice-in-peru-video
+# https://www.imdb.com/name/nm2020909/?ref_=fn_al_nm_1
+# http://diegofontecilla.com/advertising/
 
-##Interests
+## Interests
 - Meditation
 - Yoga
 - Reading
