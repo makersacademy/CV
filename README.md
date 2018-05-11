@@ -1,4 +1,4 @@
-## Your Name
+Diego Fontecilla
 <!--
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 
@@ -55,22 +55,33 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
+<!-- #### Your University / College (start_date to end_date)
 - Subject, any specialisms
 - Grade
-- Other cool stuff
+- Other cool stuff -->
+Image Theatre School (March 2000 to January 2003)
+
+* Degree in Drama & Theatre Arts
+
+Catholic University of Chile (March 1994 to December 1999)
+
+* Degree in Music Composition
+* Degree in Music Interpretation with a specialisation in Violin
+
+
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Villano**(03_09_17 to 11_05_18)
+**Villano** (September 2017 to May 2018)
 TV Series Music Composer and Producer
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**The Guardian** (January 2016 to March 2016)    
+*Music Composer and Producer for "Quipu" Documentary*
+https://www.theguardian.com/world/ng-interactive/2017/feb/10/quipu-the-phone-line-calling-for-justice-in-peru-video
+**Teatro Cinema** (June 2005 to June 2011)   
+*Actor*
+https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html  
 
 Hobbies
 
