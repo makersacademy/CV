@@ -76,9 +76,11 @@ Catholic University of Chile (March 1994 to December 1999)
 
 **Villano** (September 2017 to May 2018)
 *TV Series Music Composer and Producer*
+
 **The Guardian** (January 2016 to March 2016)    
 *Music Composer and Producer for "Quipu" Documentary*
 *https://www.theguardian.com/world/ng-interactive/2017/feb/10/quipu-the-phone-line-calling-for-justice-in-peru-video*
+
 **Teatro Cinema** (June 2005 to June 2011)   
 *Actor*
 https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html  
