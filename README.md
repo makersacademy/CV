@@ -1,7 +1,7 @@
 ## Raefe Newton-Jones
 [Projects](#projects) | [Skills](#skills) | [Education](#education)
 
-I'm a Developer looking for a role in a start-up environment, with a particular interest in machine learning.
+I'm a Developer looking for a role in a start-up environment, with a particular interest in machine learning and fintech.
 
  I studied Maths at university for one year, and decided it wasn't really what I wanted, although I still enjoy doing maths when I get time. Coding is able to fill the problem-solving void in my life, plus, I get to create awesome programs with the code I write. The most enjoyable part of coding to me is writing a beautiful piece of code that is as efficient as possible, using all the principles I have studied.
 
