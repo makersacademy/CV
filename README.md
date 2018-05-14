@@ -1,19 +1,18 @@
 ## Raefe Newton-Jones
 [Projects](#projects) | [Skills](#skills) | [Education](#education)
 
-I'm a Developer looking for a role in a start-up environment, with a particular interest in machine learning and fintech.
+I'm a Developer looking for a backend role in a start-up with a passionate mission-focused team, with a particular interest in Machine Learning and Fintech. The most enjoyable part of coding to me is writing a beautiful piece of code that is as efficient and succinct as possible.
 
- I studied Maths at university for one year, and decided it wasn't really what I wanted, although I still enjoy doing maths when I get time. Coding is able to fill the problem-solving void in my life, plus, I get to create awesome programs with the code I write. The most enjoyable part of coding to me is writing a beautiful piece of code that is as efficient as possible, using all the principles I have studied.
 
 ## Projects
 | Project  | Summary | Technologies |
 | ------------- | ------------- | ------------- |
-|1. [Oystercard Challenge](https://github.com/Raefey/oystercard)  | The content of my second week of the Makers Academy course, a simulation of the Oystercard system  | Ruby, RSpec  |
-|2. [Thermostat](https://github.com/Raefey/thermostat-challenge)  | A simulation of a Thermostat, with a interactive web page, built in my first week of Javascript  | Javascript, Jasmine, JQuery  |
-|3. [Bowling Challenge](https://github.com/Raefey/bowling-challenge)  | A bowling-score calculator, I was proud of this project as I used a really interesting recurring method  | Javascript, Jasmine |
-|4. [Bank Tech Test](https://github.com/Raefey/bank-tech-test)  | A practice tech test, simulating a Bank, focusing on the bank statement  | Ruby, RSpec |
-|5. [Acebook](https://github.com/Raefey/acebook-dart)  | A two week group project to create a clone of Facebook  | Ruby on Rails, RSpec, JQuery, Postgres, Heroku  |
-|5. [Machine Learning Project](https://github.com/Raefey/FinalProjectML)  | Our final project at makers academy, which explored Machine Learning, we created bots to detect cancerous tumours and diabetes  | Python, Unittest, Tensorflow |
+|1. [Machine Learning Project](https://github.com/Raefey/FinalProjectML)  | Our final project at Makers Academy, which explored Machine Learning, we created bots to detect cancerous tumours and diabetes. We went into the week with no experience in machine learning and were able to test drive all the bots with 100% coverage,  | Python, Unittest, Tensorflow |
+|2. [Acebook](https://github.com/Raefey/acebook-dart)  | A two week group project to create a clone of Facebook  | Ruby on Rails, RSpec, JQuery, Postgres, Heroku  |
+|3. [Bank Tech Test](https://github.com/Raefey/bank-tech-test)  | A practice tech test, simulating a Bank, focusing on the bank statement  | Ruby, RSpec |
+|4. [Bowling Challenge](https://github.com/Raefey/bowling-challenge)  | A bowling-score calculator, I was proud of this project as I used a really interesting recurring method  | Javascript, Jasmine |
+|5. [Thermostat](https://github.com/Raefey/thermostat-challenge)  | A simulation of a Thermostat, with a interactive web page, built in my first week of Javascript  | Javascript, Jasmine, JQuery  |
+|6. [Oystercard Challenge](https://github.com/Raefey/oystercard)  | The content of my second week of the Makers Academy course, a simulation of the Oystercard system  | Ruby, RSpec  |
 
 ## Skills
 
@@ -23,15 +22,16 @@ You won't often find people raving about the fact they dropped out of university
 
 #### Problem Solving
 
-My Favourite aspect of coding
 
+I've always prided myself on my ability to be pragmatic. I have a rich background in Maths, and have enjoyed solving really difficult problems since a young age. In the final project at Makers Academy, I faced many high-level problems, with no prior knowledge of Machine Learning we were able to test-drive three bots. One particular problem I overcame, was increasing the accuracy of the bot, I realised that the learning rate, and the hidden layers that we had set worked for a small dataset like the first we used, but were not adept to deal with much larger datasets.
 
 
 ## Education
 
 #### Makers Academy (February - May 2018)
 
-- Enjoy independent learning; would often take spare time to work on extra steps that weren't in the syllabus
+- Europe's leading web development bootcamp, 10% acceptance rate
+- Independent learning; would often take spare time to work on tangents that I found interesting and were off the syllabus
 - Strong working in teams, pairing daily, group projects at every possibility
 - OOP, TDD, SOLID principles
 - Agile/XP
