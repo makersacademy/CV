@@ -1,6 +1,6 @@
 ## Raefe Newton-Jones
 
-I am a Developer with a particular interests in Machine Learning, Cloud Services and FinTech looking for a backend role in a start-up with a passionate mission-focused team The most enjoyable part of coding to me is writing a beautiful piece of code that is as efficient and succinct as possible.
+I am a Developer with a particular interests in Machine Learning, Cloud Services and FinTech looking for a backend role in a start-up with a passionate mission-focused team. The most enjoyable part of coding to me is writing a beautiful piece of code that is as efficient and succinct as possible.
 
 
 ## Projects
