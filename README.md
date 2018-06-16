@@ -36,13 +36,16 @@ During my second and third years at university I taught myself HTML, CSS, and ba
 #### Makers Academy (March 2018 to July 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+
+- Fast, independent learner - Learned the basics of Node.js and Express.js in under a week for a group project, I had to teach myself brand new tech in a very short amount of time. Created a Facebook clone from scratch using Ruby-on-Rails and various gems that all had to be learned in the space of 2 weeks.
+
+- Great collaborator - Worked in a team of 5 during weeks 8 and 9 of Makers. We combined morning standups, afternoon retrospectives, and the use of organisational helpers such as Trello to meet all the requirements for an engineering project (See Acebook in Prjects).
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Sinatra, Rails, JavaScript, Node, Express
+- RSpec, Capybara, Jasmine
+- HTML, CSS, Pug
 
 #### Bristol University (September 2014 to July 2017)
 
@@ -70,6 +73,7 @@ During my second and third years at university I taught myself HTML, CSS, and ba
 
 ## <a name="Hobbies/Interests">Hobbies/Interests</a>
 
-- Exploring the great outdoors
+- Exploring the rural landscapes of the world
+- Hiking
 - Film and cinema
 - Amateur guitarist (still learning!)
