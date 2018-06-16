@@ -4,14 +4,16 @@ An up and coming software developer with an insatiable need to learn and master 
 
 I am searching for a role that constantly poses new challenges which can be solved using my creative and analytical skillset. The overall aim is to work on and contribute to big, important, innovative projects that take me to all manner of places.
 
-## Projects
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies/Interests](#Hobbies/Interests)
+
+## <a name="Projects">Projects</a>
 
 | Project | Description | Timeframe | Technologies | Testing Framework | Deployed App |
 |---|---|---|---|---|---|
 | [Acebook](https://github.com/revilo1882/acebook-rails-LAHWF) | Myself and a team of 4 created an aquatic themed Facebook clone, dubbed Fishbook, The goal was to create a full stack web application whilst honing our abilities to work as an efficient and effective team. | 2 Weeks |  Ruby-on-Rails, Ruby, PostgreSQL, HTML, CSS, Devise, Paperclip, Acts_As_Votable, jQuery, Travis-ci, Simplecov, Rubocop | RSpec-Rails, Capybara, FactoryBot | <a href="https://morning-everglades-97311.herokuapp.com/"><img src="logos/Heroku.png" width="60" align="center"></a> |
 
 
-## Skills
+## <a name="Skills">Skills</a>
 
 #### Analysis and research
 
@@ -29,7 +31,7 @@ I had the opportunity to work with many fellow students on collaborative project
 
 During my second and third years at university I taught myself HTML, CSS, and basic Ruby and JavaScript as a hobby.
 
-## Education
+## <a name="Education">Education</a>
 
 #### Makers Academy (March 2018 to July 2018)
 
@@ -53,7 +55,7 @@ During my second and third years at university I taught myself HTML, CSS, and ba
 - A-Levels: Physics(A), Mathematics(B), History(B)
 
 
-## Experience
+## <a name="Experience">Experience</a>
 
 **British Heart Foundation** (October 2017 to February 2018)    
 *Sales Assistant*  
@@ -66,7 +68,7 @@ During my second and third years at university I taught myself HTML, CSS, and ba
 *Premises Department volunteer*
 
 
-## Hobbies/Interests
+## <a name="Hobbies/Interests">Hobbies/Interests</a>
 
 - Exploring the great outdoors
 - Film and cinema
