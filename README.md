@@ -8,7 +8,7 @@ I am searching for a role that constantly poses new challenges which can be solv
 
 | Project | Description | Timeframe | Technologies | Testing Framework | Deployed App |
 |---|---|---|---|---|---|
-| [Acebook](https://github.com/revilo1882/acebook-rails-LAHWF) | Myself and a team of 4 created an aquatic themed Facebook clone, dubbed Fishbook, The goal was to create a full stack web application whilst honing our abilities to work as an efficient and effective team. | 2 Weeks |  Ruby-on-Rails, Ruby, PostgreSQL, HTML, CSS, Devise, Paperclip, Acts_As_Votable, jQuery, Travis-ci, Simplecov, Rubocop | RSpec-Rails, Capybara, FactoryBot | <a href="https://morning-everglades-97311.herokuapp.com/"><img src="logos/Heroku.png" width="60", align="center"></a> |
+| [Acebook](https://github.com/revilo1882/acebook-rails-LAHWF) | Myself and a team of 4 created an aquatic themed Facebook clone, dubbed Fishbook, The goal was to create a full stack web application whilst honing our abilities to work as an efficient and effective team. | 2 Weeks |  Ruby-on-Rails, Ruby, PostgreSQL, HTML, CSS, Devise, Paperclip, Acts_As_Votable, jQuery, Travis-ci, Simplecov, Rubocop | RSpec-Rails, Capybara, FactoryBot | <a href="https://morning-everglades-97311.herokuapp.com/"><img src="logos/Heroku.png" width="60" align="center"></a> |
 
 
 ## Skills
