@@ -8,7 +8,7 @@ I am searching for a role that constantly poses new challenges which can be solv
 
 | Project | Description | Timeframe | Technologies | Testing Framework |
 |---|---|---|---|---|
-| Acebook | Myself and a team of 4 created an aquatic themed Facebook clone, dubbed Fishbook, The goal was to create a full stack web application whilst honing our abilities to work as an efficient and effective team. | 2 Weeks |  Ruby-on-Rails/Ruby/PostgreSQL/HTML/CSS/Devise/Paperclip/jQuery | RSpec-Rails/Capybara/FactoryBot |
+| Acebook | Myself and a team of 4 created an aquatic themed Facebook clone, dubbed Fishbook, The goal was to create a full stack web application whilst honing our abilities to work as an efficient and effective team. | 2 Weeks |  Ruby-on-Rails, Ruby, PostgreSQL, HTML, CSS, Devise, Paperclip, jQuery | RSpec-Rails, Capybara, FactoryBot |
 
 
 ## Skills
