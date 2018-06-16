@@ -4,6 +4,12 @@ An up and coming software developer with an insatiable need to learn and master 
 
 I am searching for a role that constantly poses new challenges which can be solved using my creative and analytical skillset. The overall aim is to work on and contribute to big, important, innovative projects that take me to all manner of places.
 
+## Projects
+
+|Project|Description||Timeframe|Technologies|Testing Framework|
+|-------|-----------|----------|------------|-----------------|
+|Acebook|Myself and a team of 4 created an aquatic themed Facebook clone, dubbed Fishbook, The goal was to create a full stack web application whilst honing our abilities to work as an efficient and effective team.|2 Weeks| Ruby-on-Rails/Ruby/PostgreSQL/HTML/CSS/Devise/Paperclip/jQuery|RSpec-Rails/Capybara/FactoryBot|
+
 
 ## Skills
 
