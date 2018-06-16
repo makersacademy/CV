@@ -39,7 +39,7 @@ During my second and third years at university I taught myself HTML, CSS, and ba
 
 - Fast, independent learner - Learned the basics of Node.js and Express.js in under a week for a group project, I had to teach myself brand new tech in a very short amount of time. Created a Facebook clone from scratch using Ruby-on-Rails and various gems that all had to be learned in the space of 2 weeks.
 
-- Great collaborator - Worked in a team of 5 during weeks 8 and 9 of Makers. We combined morning standups, afternoon retrospectives, and the use of organisational helpers such as Trello to meet all the requirements for an engineering project (See Acebook in Prjects).
+- Great collaborator - Worked in a team of 5 during weeks 8 and 9 of Makers. We combined morning standups, afternoon retrospectives, and the use of organisational helpers such as Trello to meet all the requirements for an engineering project (See Acebook in Projects).
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
