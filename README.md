@@ -1,8 +1,8 @@
 ## Muzzi Amir Aldean
 
-Formerly a Jack of all trades, soon to be a master of *some*. After completing a degree in International Business and Communications, I obtained experience in a diverse range of roles in a variety of countries. My experiences span journalism in Italy to managing a startup in Australia.
+Full-stack web developer and recent graduate of Makers Academy. I pride myself on writing code that is both clean and readable. During my intensive journey into web development, I had found a deep appreciation for Test Driven Development, Object Orientated Programming and XP values.
 
-Now that I have refined my communication and managerial qualities, I would like to put my investigative mind to good use with a more specialised skill set. Enter, Makers Academy. This 14 week intensive course will serve to cultivate the coding skills that I have been teaching myself for the past three months, and get me ready to be the developer I was born to be. Problem solving, creativity and logic are just some of the traits that draw me to this profession, and give me an eagerness to get stuck in.
+Prior to Makers Academy I obtained experience in a diverse range of roles in a variety of countries. My experiences span journalism in Italy to managing a startup in Australia.
 
 ## Projects
 
@@ -14,19 +14,13 @@ Now that I have refined my communication and managerial qualities, I would like 
 
 ## Skills
 
-#### Communication
+#### TDD
 
-Written, verbal, non-verbal. You name it, I've got it.
-Communications was a huge part of my bachelors degree and easily my favourite topic. Whether it was sculpting press releases to get key messages across or communicating with teams to organise group projects, I loved being a bridge for information.
+I am a strong advocate of outside-in, Test Driven Development. Creating tests based on user stories is a fantastic way of ensuring specifications are always satisfied. On top of that, writing robust and mutable code means that I can contribute to solid code bases with high longevity. I have test driven all my applications at Makers, and have even created a [testing framework](https://github.com/ZoeKavanagh/mr_jazz_framework) for JavaScript.
 
-Communication has also been an important skill in my previous jobs. In management roles I utilised verbal communication to keep employees engaged. Whereas during my internships, I needed to hone [my written skills](https://blog.studentsville.it/author/amir-aldean/) to engage an audience.
+#### Fast, Independent Learner
 
-#### Creativity
-
-Having been cursed with an artists' brain and builders' hands, I have had to turn to more clinical mediums of expressing myself. Such channels include [photograph](https://www.instagram.com/mellomelonjuice/?hl=en), [written prose](https://blog.studentsville.it/in_florence/best-cocktails-bitter-bar-florence-italy-review/) and [campaign creation](http://mellodrinks.co.uk/escape-the-ordinary-win-a-gopro-camera/).
-
-I have also taken an interest in [videography](https://www.youtube.com/watch?v=LWgON8d9CaM) during my internships. Despite my amateur status it seems my enjoyment of pointing and shooting along with playing around with editors, is worth at at least a few thousand views.
-
+Having only stepped foot into programming in February 2018, I like to think that I have come a long way. After teaching myself some basic Python syntax, I moved on to an online, full-stack JavaScript course. On completion, I jumped straight into Makers where I have improved my JavaScript as well as picked up Ruby, Java and their associated stacks.
 
 ## Education
 
@@ -34,18 +28,13 @@ I have also taken an interest in [videography](https://www.youtube.com/watch?v=L
 
 - Logically minded
 - Keen to learn
-- Fast, independent learner
-  - Taught myself full-stack JavaScript with online courses in only 3 months
-
 - OOP, TDD
-- Ruby, JavaScript
-- RSpec
+- JavaScript, Ruby, Java
 
 #### University of Birmingham (September 2011 to June 2015)
 
 - International Business with Communications, BSc (Hons), 2.1
 - Did one year in industry, working for companies in Florence, Italy
-- Organised and hosted student events for local DJs
 
 #### Manchester Grammar School (September 2004 to June 2011)  
 - A-Levels: Economics(A), Biology(A), Geography(A)
