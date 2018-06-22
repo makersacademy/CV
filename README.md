@@ -12,8 +12,7 @@ I am searching for a role that constantly poses new challenges which can be solv
 |---|---|---|---|---|---|
 | [Acebook](https://github.com/revilo1882/acebook-rails-LAHWF) | Myself and a team of 4 created an aquatic themed Facebook clone, dubbed Fishbook, The goal was to create a full stack web application whilst honing our abilities to work as an efficient and effective team. | 2 Weeks |  Ruby-on-Rails, Ruby, PostgreSQL, HTML, CSS, Devise, Paperclip, Acts_As_Votable, jQuery, Travis-ci, Simplecov, Rubocop | RSpec-Rails, Capybara, FactoryBot | <a href="https://morning-everglades-97311.herokuapp.com/"><img src="logos/Heroku.png" width="60" align="center"></a> |
 
-| [GildedRose Tech-Test(https://github.com/samworrall/GildedRose-Tech-Test) ] | As part of the tech test week at Makers, the GildedRose tech test required me to update and test pre-existing legacy code, in such a way that implementing a brand new feature would be seamless. | 3 Days | JavaScript, ES6 |
-Jasmine |  |
+| [GildedRose Tech-Test](https://github.com/samworrall/GildedRose-Tech-Test) | As part of the tech test week at Makers, the GildedRose tech test required me to update and test pre-existing legacy code, in such a way that implementing a brand new feature would be seamless. | 3 Days | JavaScript, ES6 | Jasmine |
 
 ## <a name="Skills">Skills</a>
 
