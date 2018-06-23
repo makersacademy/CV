@@ -19,6 +19,8 @@ I am searching for a role that constantly poses new challenges which can be solv
 
 I cultivated my analytical and research skills whilst at university. Essays that required hard source-based evidence along with a critical mindset made up a large part of the curriculum. The very nature of the degree gave me the opportunity to analyse and scrutinise not only the work of a range of scholars, but also my own.
 
+These skills have allowed me to learn independently, and hold my code to a high standard whilst at Makers Academy. Structured and intuitive research plays a key role when faced with problems, especially useful when I had to learn Rails and Node in a matter of days; and self criticism and analysis help maintain DRY and readable code.
+
 #### Customer service
 
 Through my time volunteering for Hospices of Hope and working as a sales assistant for the British Heart Foundation, I was able to gain a professional understanding of customer interaction. I would attend to questions and requests on a day-to-day basis, and would strive to give all customers the most positive and friendly experience possible.
@@ -26,6 +28,8 @@ Through my time volunteering for Hospices of Hope and working as a sales assista
 #### Team working
 
 I had the opportunity to work with many fellow students on collaborative projects during my degree. Furthermore, I was able to work with a team of both paid staff and a host of volunteers of all ages and abilities whist working at the British Heart Foundation. Through these experiences I learned how to work with others respectfully, but also how to spur and encourage them to increase productivity.
+
+Whilst at Makers, I was able to hone these skills on multiple occasions, not only through pair programming, but whilst working as part of teams of up to 5 developers. I learned the value of keeping every team member up to speed with individual developments, so as to avoid knowledge gaps.
 
 #### Independent learning
 
