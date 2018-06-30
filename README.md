@@ -15,6 +15,12 @@ I am searching for a role that constantly poses new challenges which can be solv
 
 ## <a name="Skills">Skills</a>
 
+#### Clean code and TDD advocate
+
+I am an advocate for clean, DRY, readable, and adaptable code. I have learned that in the long run, this approach lowers the risk of mistakes having wide spread effect, and allows new features to be added with ease without breaking current tests.
+
+I believe that a TDD approach is integral to good software development. At makers, I have found that compliance to the ways of TDD have massively improved my ability to write efficient code, debug and gain visibility when faced with blockers.
+
 #### Analysis and research
 
 I cultivated my analytical and research skills whilst at university. Essays that required hard source-based evidence along with a critical mindset made up a large part of the curriculum. The very nature of the degree gave me the opportunity to analyse and scrutinise not only the work of a range of scholars, but also my own.
@@ -45,7 +51,8 @@ During my second and third years at university I taught myself HTML, CSS, and ba
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Sinatra, Rails, JavaScript, Node, Express
+- Ruby, Sinatra, Rails, JavaScript
+- Dabbled in Node, Express
 - RSpec, Capybara, Jasmine
 - HTML, CSS, Pug
 
@@ -66,11 +73,10 @@ During my second and third years at university I taught myself HTML, CSS, and ba
 *Sales Assistant*  
 
 **Hospices of Hope** (July 2017 to October 2017)   
-*Store volunteer*
+*Store Volunteer*
 
-**National Trust** (June 2016 to September 2016)
-
-*Premises Department volunteer*
+**National Trust** (June 2016 to September 2016)   
+*Premises Department Volunteer*
 
 
 ## <a name="Hobbies/Interests">Hobbies/Interests</a>
