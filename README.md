@@ -1,13 +1,13 @@
 ## Muzzi Amir Aldean
 
-Full-stack web developer and recent graduate of Makers Academy. I have taught myself 4 languages in the past 4 months and I pride myself on writing code that is both clean and readable. During my intensive journey into web development, I had found a deep appreciation for Test Driven Development, Object Orientated Programming and XP values.
+Full-stack developer and recent graduate of Makers Academy. I have taught myself 4 languages in the past 4 months and I pride myself on writing code that is both clean and readable. During my intensive journey into web development, I had found a deep appreciation for Test Driven Development, Object Orientated Programming and XP values.
 
 Prior to Makers Academy I obtained experience in a diverse range of roles in a variety of countries. My experiences span journalism in Italy to managing a startup in Australia.
 
 ## Projects
 
 | Project  | Description | Tech Stack  | Testing |
-| ------------- | ------------- | ------------- | ------------- |
+| ---------------- | ------------- | ------------- | ------------- |
 | [Swift Exit](https://github.com/habin-isa/Angelos) | This was my final project. It is a mobile application that has the functionality to send emergency texts, make fake phone calls and put users in touch with support lines, all whilst under disguise as the home screen. I was heavily focussed on the backend i.e. building the models and testing. It took two weeks to complete. | Swift Twilio Alamofire Xcode Core-Libraries | XCT |
 | [Gilded Rose Tech-Test](https://github.com/muzzi92/Gilded_Rose_Tech_Test) | Completed during Tech Test week at Makers. This was a debugging and refactoring challenge, where some legacy code had to be cleaned up, extracted and tested. It took 3 days to finish. | Ruby | Rspec |
 | [Bank   Tech-Test](https://github.com/muzzi92/BankTechTest)  | I completed this challenge during Week 10 Tech Test challenges. It has been built in line with a given spec, and follows both DRY and SRP principles. It took 2 days to complete.  | JavaScript  | Jasmine  |
@@ -29,7 +29,7 @@ I am a strong advocate of Test Driven Development. Creating tests based on user 
 
 #### Communication
 
-Aside from studying communications at university, I have practiced it extensively both inside and outside of work. Working in sales required a way with words and an ability to connect with people, whilst travelling the world alone for 18 months required confidence and the ability to engage with new people on a daily basis. 
+Aside from studying communications at university, I have practiced it extensively both inside and outside of work. Working in sales required a way with words and an ability to connect with people, whilst travelling the world alone for 18 months required confidence and the ability to engage with new people on a daily basis.
 
 ## Education
 
