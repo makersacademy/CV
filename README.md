@@ -1,6 +1,6 @@
 ## Muzzi Amir Aldean
 
-Full-stack web developer and recent graduate of Makers Academy. I pride myself on writing code that is both clean and readable. During my intensive journey into web development, I had found a deep appreciation for Test Driven Development, Object Orientated Programming and XP values.
+Full-stack web developer and recent graduate of Makers Academy. I have taught myself 4 languages in the past 4 months and I pride myself on writing code that is both clean and readable. During my intensive journey into web development, I had found a deep appreciation for Test Driven Development, Object Orientated Programming and XP values.
 
 Prior to Makers Academy I obtained experience in a diverse range of roles in a variety of countries. My experiences span journalism in Italy to managing a startup in Australia.
 
@@ -17,22 +17,26 @@ Prior to Makers Academy I obtained experience in a diverse range of roles in a v
 
 ## Skills
 
-#### TDD
-
-I am a strong advocate of outside-in, Test Driven Development. Creating tests based on user stories is a fantastic way of ensuring specifications are always satisfied. On top of that, writing robust and mutable code means that I can contribute to solid code bases with high longevity. I have test driven all my applications at Makers, and have even created a [testing framework](https://github.com/ZoeKavanagh/mr_jazz_framework) for JavaScript.
-
 #### Fast, Independent Learner
 
-Having only stepped foot into programming in February 2018, I like to think that I have come a long way. After teaching myself some basic Python syntax, I moved on to an online, full-stack JavaScript course. On completion, I jumped straight into Makers where I have improved my JavaScript as well as picked up Ruby, Java and their associated stacks.
+* 4 languages (and their associated stacks) in 4 months.
+
+Having only stepped foot into programming in February 2018, I like to think that I have come a long way. After teaching myself some basic Python syntax, I moved on to an online, full-stack JavaScript course. On completion, I jumped straight into Makers where I have improved my JavaScript as well as picked up Ruby, Java, Swift and their associated stacks.
+
+#### TDD
+
+I am a strong advocate of Test Driven Development. Creating tests based on user stories is a fantastic way of ensuring specifications are always satisfied. On top of that, writing robust and mutable code means that I can contribute to solid code bases with high longevity. I have test driven all my applications at Makers, and have even created a [testing framework](https://github.com/ZoeKavanagh/mr_jazz_framework) for JavaScript.
+
+#### Communication
+
+Aside from studying communications at university, I have practiced it extensively both inside and outside of work. Working in sales required a way with words and an ability to connect with people, whilst travelling the world alone for 18 months required confidence and the ability to engage with new people on a daily basis. 
 
 ## Education
 
 #### Makers Academy (March 2018 to Present)
 
-- Logically minded
-- Keen to learn
-- OOP, TDD
-- JavaScript, Ruby, Java
+- JavaScript, Ruby, Swift, Java
+- Taught best practices for both team dynamics and code quality
 
 #### University of Birmingham (September 2011 to June 2015)
 
