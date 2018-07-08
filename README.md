@@ -1,5 +1,7 @@
 ## Muzzi Amir Aldean
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
+
 Full-stack developer and recent graduate of Makers Academy. I have taught myself 4 languages in the past 4 months and I pride myself on writing code that is both clean and readable. During my intensive journey into web development, I had found a deep appreciation for Test Driven Development, Object Orientated Programming and XP values.
 
 Prior to Makers Academy I obtained experience in a diverse range of roles in a variety of countries. My experiences span journalism in Italy to managing a startup in Australia.
@@ -79,3 +81,8 @@ I attend film club meet-ups when I can and enjoy going to fun events such as sec
 
 **Hiking**  
 Have you ever seen a developer in hiking boots and short shorts? Find me up a fell on Sunday mornings and you can find out why 95% of passersby experience nausea.
+
+## Contact
+
+* Email: amiraldean@gmail.com(amiraldean@gmail.com)
+* Telephone: 07891721675
