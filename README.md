@@ -1,12 +1,13 @@
 ## Samuel Worrall
 
+[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies/Interests](#Hobbies/Interests)
+
 An up and coming software developer with an insatiable need to learn and master new skills. I have recently finished my time at Bristol University where my studies in archaeology and history left my mind craving more technical challenges.
 
 I am searching for a role that constantly poses new challenges which can be solved using my creative and analytical skillset. The overall aim is to work on and contribute to big, important, innovative projects that take me to all manner of places.
 
 As a fresh graduate from Makers, I have a wide range of development skills under my belt which I am keen to nurture and add to!
 
-[Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies/Interests](#Hobbies/Interests)
 
 ## <a name="Projects">Projects</a>
 
@@ -23,6 +24,10 @@ As a fresh graduate from Makers, I have a wide range of development skills under
 I am an advocate for clean, DRY, readable, and adaptable code. I have learned that in the long run, this approach lowers the risk of mistakes having wide spread effect, and allows new features to be added with ease without breaking current tests.
 
 I believe that a TDD approach is integral to good software development. At makers, I have found that compliance to the ways of TDD have massively improved my ability to write efficient code, debug and gain visibility when faced with blockers.
+
+#### Debugging
+
+I take a very methodical approach to debugging techniques, an approach that I have learned and developed whilst at Makers. This approach helps me work through problems independently, and has also allowed me to help others who run into blockers.
 
 #### Analysis and research
 
