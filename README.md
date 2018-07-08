@@ -84,5 +84,5 @@ Have you ever seen a developer in hiking boots and short shorts? Find me up a fe
 
 ## Contact
 
-* Email: amiraldean@gmail.com(amiraldean@gmail.com)
-* Telephone: 07891721675
+* Email: amiraldean@gmail.com
+* Telephone: (+44) 07891721675
