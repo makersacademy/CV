@@ -8,8 +8,10 @@ Prior to Makers Academy I obtained experience in a diverse range of roles in a v
 
 | Project  | Description | Tech Stack  | Testing |
 | ------------- | ------------- | ------------- | ------------- |
-| [Bank Tech Test](https://github.com/muzzi92/BankTechTest)  | I completed this challenge during Week 10 Tech Test challenges. It has been built in line with a given spec, and follows both DRY and SRP principles. It took 2 days to complete.  | JavaScript  | Jasmine  |
-| [Acebook](https://github.com/Possed/Acebook-Blunicorn)  | This was a group engineering project in which we had to develop a website with some of the functionality of Facebook. I worked on post and comment features. It took two weeks to complete. | Java Spring Maven Heroku PostgreSQL React Node  | JUnit Cypress  |
+| [Gilded Rose Tech Test](https://github.com/muzzi92/Gilded_Rose_Tech_Test) | Completed during Tech Test week at Makers. This was a debugging and refactoring challenge, where some legacy code had to be cleaned up, extracted and tested. It took 3 days to finish. | Ruby | Rspec |
+| [Bank   Tech Test](https://github.com/muzzi92/BankTechTest)  | I completed this challenge during Week 10 Tech Test challenges. It has been built in line with a given spec, and follows both DRY and SRP principles. It took 2 days to complete.  | JavaScript  | Jasmine  |
+| [Acebook](https://github.com/Possed/Acebook-Blunicorn)  | This was a group engineering project in which we had to develop a website with some of the functionality of Facebook. I worked on post and comment features. It took two weeks to complete. | Java Spring Maven Heroku PostgreSQL React Node  | JUnit Cypress  |   
+
 
 
 ## Skills
