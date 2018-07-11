@@ -93,3 +93,4 @@ During my second and third years at university I taught myself HTML, CSS, and ba
 - Hiking
 - Film and cinema
 - Amateur guitarist (still learning!)
+- Gaming (e.g. Hearthstone, Fortnite, Bioshock)
