@@ -2,7 +2,7 @@
 
 [Projects](#Projects) | [Skills](#Skills) | [Education](#Education) | [Experience](#Experience) | [Hobbies/Interests](#Hobbies/Interests)
 
-An up and coming software developer with an insatiable need to learn and master new skills. I have recently finished my time at Bristol University where my studies in archaeology and history left my mind craving more technical challenges.
+A junior developer with an insatiable need to learn and master new skills. I have recently finished my time at Bristol University where I studied archaeology. Whilst this was an enjoyable experience, I always had a craving for more technical challenges, and now wish to leave the world of the past and explore the world of the future!
 
 I am searching for a role that constantly poses new challenges which can be solved using my creative and analytical skillset. The overall aim is to work on and contribute to big, important, innovative projects that take me to all manner of places.
 
