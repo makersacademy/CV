@@ -13,10 +13,28 @@ of collaboration, discipline and respect, willing to contribute to build a bette
 - Achievements
 - Evidence -->
 #### Creativity
- - I have 15 years of experience writing and producing music for film, use to work under precise
- requirements in order to contribute and make a project works.
- - Trained for taking in consideration different factors, such as dialogs, sound design, instrumentation, pitches, etc., in order to make my contribution useful and positive.
- - My clients and my work are the prove of my capacity to implement functional and solid work.
+ I have 15 years of experience creating and producing music for film. Creativity, combined with a precise
+ understanding of what the requirements are, are two main keys for this job. For me, creativity is the ability
+ to come up with a new idea, to be able to look at something in a new way. This ability applied to the world
+ of software development, can help organisations to move in a more productive direction, adding value to a
+ company.
+
+ - Composed and produced more than 400 commissioned pieces of music for feature film, tv and advertisement.
+ - Theatrical text writing contribution for 'Senza Sangue', adaptation of the novel by Alessandro Baricco.   
+
+#### Eager to learn
+I am a passionate of learning new things. Apart of had spended 7 years at university, studing music
+and theatre, I am untiringly studying new subjects that interest me, sach as music orchestration,
+piano playing, music counterpoint, yoga, meditation and currently software development.
+
+#### Ability to work under pressure
+Through my experience of working for the film industry, I am confident in getting the work
+done within deadlines. Particularly in the advertisement industry, the deadlines can be really tide,
+and force you to think and react very quick, requiring high standards of quality production. In my case,
+this process has involved a constant revision about what can be improved in order to make the work
+better and faster. Having a deep understanding about what needs to be done at a conceptual level,
+and developing the technical skills required in order to apply ideas to a practical level,
+are essential keys to success at this level.
 
 #### Focussed
 - Through my practice of Violin since I was 10, I am trained to get completely focus in what I am
@@ -24,13 +42,7 @@ doing.
 - Since I started my daily 30 minutes meditation practice, I've noticed a rise in my concentration
 and work capacity.
 
-#### Eager to learn
-In the last years I have studied different matters on my own, such as music orchestration,
-music counterpoint, piano playing, music software management and more recently code. I am really
-exited about the Makers Academy course, is a completely fascinating new world for me.
-
-#### Delivery
-- Through my experience in the advertisement world, used to work under pressure and deliver on time.
+in the advertisement world, used to work under pressure and deliver on time.
 
 #### Methodic
 
@@ -99,6 +111,7 @@ in Europe, Asia and America*
 - *Music Composer and Producer for Advertisements*
 
 LINKS
+# https://github.com/diegofontecilla
 # https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html  
 # https://www.theguardian.com/world/ng-interactive/2017/feb/10/quipu-the-phone-line-calling-for-justice-in-peru-video
 # https://www.imdb.com/name/nm2020909/?ref_=fn_al_nm_1
