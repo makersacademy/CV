@@ -1,9 +1,14 @@
-## Diego Fontecill
+## Diego Fontecilla
 <!--
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
-I am a music composer and producer that got seduced for the logical and abstract aspects
-of coding, now facing a carrier change at Makers Academy. I've worked creating music for
-feature film, tv series and advertisements, from now on glad to use my energy and creativity in designing elegant and efficient software. After a few weeks I'll be looking for my first job as a junior developer in London.
+An alumnus of Makers, I am a film music composer that got seduced by the logic and power of code.
+Through my carrier, I have growth a ability to produced and deliver work under commission,
+designing a product that fits the client requirements. Looking for a backend junior developer roll,
+in a company where I can grow my skills a software engineer, I am exited about join an environment
+of collaboration, discipline and respect, willing to contribute to build a better society.
+
+
+ from now on glad to use my energy and creativity in designing elegant and efficient software. After a few weeks I'll be looking for my first job as a junior developer in London.
 
 ## Skills
 <!-- #Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -100,7 +105,7 @@ LINKS
 # https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html  
 # https://www.theguardian.com/world/ng-interactive/2017/feb/10/quipu-the-phone-line-calling-for-justice-in-peru-video
 # https://www.imdb.com/name/nm2020909/?ref_=fn_al_nm_1
-# http://diegofontecilla.com/advertising/
+# http://diegofontecilla.com/
 
 ## Interests
 - Meditation
