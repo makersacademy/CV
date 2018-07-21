@@ -7,9 +7,6 @@ designing a product that fits the client requirements. Looking for a backend jun
 in a company where I can grow my skills a software engineer, I am exited about join an environment
 of collaboration, discipline and respect, willing to contribute to build a better society.
 
-
- from now on glad to use my energy and creativity in designing elegant and efficient software. After a few weeks I'll be looking for my first job as a junior developer in London.
-
 ## Skills
 <!-- #Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 - Experience
