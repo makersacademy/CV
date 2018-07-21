@@ -1,10 +1,9 @@
-## Diego Fontecilla
+## Diego Fontecill
 <!--
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 I am a music composer and producer that got seduced for the logical and abstract aspects
 of coding, now facing a carrier change at Makers Academy. I've worked creating music for
-feature film, tv series and advertisements, from now on glad to use my energy and creativity in designing elegant and efficient software. After a few weeks I'll be looking for my first
-job as a junior developer in London.
+feature film, tv series and advertisements, from now on glad to use my energy and creativity in designing elegant and efficient software. After a few weeks I'll be looking for my first job as a junior developer in London.
 
 ## Skills
 <!-- #Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -24,8 +23,8 @@ doing.
 and work capacity.
 
 #### Eager to learn
-In the last years I have studied different matters on my own: music orchestration,
-music counterpoint, piano playing, music software management and code. I am really
+In the last years I have studied different matters on my own, such as music orchestration,
+music counterpoint, piano playing, music software management and more recently code. I am really
 exited about the Makers Academy course, is a completely fascinating new world for me.
 
 #### Delivery
@@ -95,7 +94,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - *Actor in plays "Gemelos" and "Sin Sangre", with more than 400 performances
 in Europe, Asia and America*
 - **Estudio Libelula** (June 2003 to March 2005)
-- *Composer and Producer for Advertisements*
+- *Music Composer and Producer for Advertisements*
 
 LINKS
 # https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html  
@@ -110,3 +109,4 @@ LINKS
 - Films
 - Music
 - Nature
+- Trabels
