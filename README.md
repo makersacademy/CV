@@ -35,6 +35,11 @@ I am a passionate of learning. Apart of had spent 7 years full time at universit
 I am untiringly studying new subjects that interest me, such as music orchestration, music counterpoint,
 piano playing, yoga, meditation and currently software development.
 
+## <a name="makers_projects">Makers Academy Projects</a>
+| Project | Summary | Technologies | Further Info |
+|----------|----------|----------|----------|
+| [bank_tech_test](https://github.com/diegofontecilla/bank_tech_test) | This is a Ruby project emulating a real tech test for a bank on week 10 at Makers Academy. | Ruby, OOD, TDD |
+
 ## Education
 
 #### Makers Academy (May 2018 to August 2018)
@@ -88,12 +93,17 @@ in Europe, Asia and America*
 - **Estudio Libelula** (June 2003 to March 2005)
 - *Music Composer and Producer for Advertisements*
 
-## LINKS
+## Links
 [Github](https://github.com/diegofontecilla)
+
 [LinkedIn](https://www.linkedin.com/in/danpelensky)
+
 [theatre_press](https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html)
+
 [theguardian_documentary](https://www.theguardian.com/world/ng-interactive/2017/feb/10/quipu-the-phone-line-calling-for-justice-in-peru-video)
+
 [imdb](https://www.imdb.com/name/nm2020909/?ref_=fn_al_nm_1)
+
 [music_web](http://diegofontecilla.com/)
 
 ## Interests
