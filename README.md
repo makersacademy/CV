@@ -89,16 +89,11 @@ in Europe, Asia and America*
 - *Music Composer and Producer for Advertisements*
 
 ## LINKS
-[LinkedIn ](https://www.linkedin.com/in/danpelensky)
-
 [Github](https://github.com/diegofontecilla)
-
-[Press](https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html)
-
+[LinkedIn](https://www.linkedin.com/in/danpelensky)
+[theatre_press](https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html)
 [theguardian_documentary](https://www.theguardian.com/world/ng-interactive/2017/feb/10/quipu-the-phone-line-calling-for-justice-in-peru-video)
-
 [imdb](https://www.imdb.com/name/nm2020909/?ref_=fn_al_nm_1)
-
 [music_web](http://diegofontecilla.com/)
 
 ## Interests
