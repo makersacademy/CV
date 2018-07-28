@@ -23,18 +23,17 @@ a more productive direction, adding value to a company.
  - Composed and produced more than 400 commissioned pieces of music for feature film, tv and advertisement.
  - Theatrical text writing contribution for 'Senza Sangue', adaptation of the novel by Alessandro Baricco.   
 
+#### Ability to work under pressure
+Through my experience of working for the film industry, I am confident in getting the work done within tight
+deadlines. Particularly in the advertisement industry, the deadlines use to be really close, and force you to think and react quickly, requiring high standards of technical skills. In my case, this process has
+involved a constant revision about what can be improved in order to make the work better and faster.
+Having a clear understanding of the client requirements, and developing technical skills in order to apply
+ideas into a practical level, are two essential keys to succeed on this context.
+
 #### Eager to learn
 I am a passionate of learning. Apart of had spent 7 years full time at university studying music and theatre,
 I am untiringly studying new subjects that interest me, such as music orchestration, music counterpoint,
 piano playing, yoga, meditation and currently software development.
-
-#### Ability to work under pressure
-Through my experience of working for the film industry, I am confident in getting the work done within tight
-deadlines. Particularly in the advertisement industry, the deadlines use to be really close, and force you
-to think and react quickly, requiring high standards of technical skills. In my case, this process has
-involved a constant revision about what can be improved in order to make the work better and faster.
-Having a clear understanding of the client requirements, and developing technical skills in order to apply
-ideas into a practical level, are two essential keys to succeed on this context.
 
 ## Education
 
@@ -89,7 +88,7 @@ in Europe, Asia and America*
 - **Estudio Libelula** (June 2003 to March 2005)
 - *Music Composer and Producer for Advertisements*
 
-##LINKS
+## LINKS
 [LinkedIn ](https://www.linkedin.com/in/danpelensky)
 [Github](https://github.com/diegofontecilla)
 # [Press](https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html)
