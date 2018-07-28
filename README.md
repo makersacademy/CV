@@ -38,7 +38,7 @@ piano playing, yoga, meditation and currently software development.
 ## <a name="makers_projects">Makers Academy Projects</a>
 | Project | Summary | Technologies | Further Info |
 |----------|----------|----------|----------|
-| [bank_tech_test](https://github.com/diegofontecilla/bank_tech_test) | This is a Ruby project emulating a real tech test for a bank on week 10 at Makers Academy. | Ruby, OOD, TDD |
+| [bank_tech_test](https://github.com/diegofontecilla/bank_tech_test) | This is a Ruby solo project emulating a real tech test for a bank on week 10 at Makers Academy. | Ruby, OOD, TDD |
 | [acebook-off-the-rails](https://github.com/diegofontecilla/acebook-off-the-rails) | Acebook is a clone of Facebook built with Ruby on Rails as a group project during weeks 8-9 by team Off The Rails of the May 2018 cohort at Makers Academy. | Ruby, Rails, Rspec-rails, PostgreSQL |
 | [makersbnb](https://github.com/diegofontecilla/makersbnb) | Makersbnb is our first group project at Makers Academy, which we built between 18th and 22nd June, the sixth week of the course. | Ruby, BCrypt, Bootstrap, Capybara, PostgreSQL, Sinatra |
 
@@ -46,13 +46,13 @@ piano playing, yoga, meditation and currently software development.
 
 #### Makers Academy (May 2018 to August 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
+- Curious and passionate about code
+- Object Oriented Development
+- Great collaborator and pair programming
+- Test Driven Development
+- Software Craftsmanship
+- SOLID Principles
+- Ruby
 - RSpec, Jasmine
 <!-- #### Your University / College (start_date to end_date)
 - Subject, any specialisms
