@@ -1,5 +1,5 @@
 ## Diego Fontecilla
-[Skills](#skills) | [Makers Academy Projects](#makers_projects) | [Education](#education) | [Experience](#experience) | | [Links](#links) | [Interests](#interests)
+[Skills](#skills) | [Makers Academy Projects](#makers_projects) | [Education](#education) | [Experience](#experience) | | [Links](#links) | [Spoken Languages](#spoken languages) | [Interests](#interests)
 <!--
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 An alumnus of Makers, I am a film music composer that got seduced by the logic and power of programming.
@@ -67,34 +67,34 @@ piano playing, yoga, meditation and currently software development.
 <!--
 #### Any other qualifications -->
 ## Experience
-- **Villano** (September 2017 to May 2018)
+- **Villano** (September 2017 to May 2018) /
   *TV Series Music Composer and Producer*
-- **The Guardian** (January 2016 to March 2016)    
-- *Music Composer and Producer for The Guardian Documentary "Quipu"*
-- **Mandarina Producciones** (April 2015 to August 2016)    
-- *Music Composer and Producer for TV Documentary*
-- **Alaska Films** (May 2013 to December 2016)    
-- *Music Composer and Producer for advertisements*
-- **Ceneca Producciones** (November 2004 to February 2015)    
-- *Music Composer and Producer for Feature Film:*
-- *"En la Cama", "Lo Bueno de Llorar", "La Vida de los Peces", "La Memoria del Agua"*
-- **De Wolf Music** (October 2014 to April 2015)
-- *Music Composer for Library Music Album*
-- **Alexander Balanescu** (March 2013 to July 2013)
-- *Music Assistant for Alexander Balanescu*
-- **Fabula Producciones** (June 2012 to July 2012)
-- *Actor in Feature Film "Gloria", Directed by Sebastian Lelio*
-- **Taiga Films** (November 2011 to April 2012)    
-- *Music Composer and Producer for Feature Film "A Memoria que me Contam"*
-- **Cine Estacion** (March 2011 to June 2011)
-- *Music Composer and Producer for Feature Film "De Jueves a Domingo"*
-- **Ceneca Producciones** (June 2010 to July 2010)
-- *Actor in Feature Film "La Vida de los Peces", Directed by Matias Bize*
-- **Teatro Cinema** (June 2005 to June 2011)   
-- *Actor in plays "Gemelos" and "Sin Sangre", with more than 400 performances
-in Europe, Asia and America*
-- **Estudio Libelula** (June 2003 to March 2005)
-- *Music Composer and Producer for Advertisements*
+- **The Guardian** (January 2016 to March 2016) /
+  *Music Composer and Producer for The Guardian Documentary "Quipu"*
+- **Mandarina Producciones** (April 2015 to August 2016) /
+  *Music Composer and Producer for TV Documentary*
+- **Alaska Films** (May 2013 to December 2016) /
+  *Music Composer and Producer for advertisements*
+- **Ceneca Producciones** (November 2004 to February 2015) /
+  *Music Composer and Producer for Feature Film:*
+  *"En la Cama", "Lo Bueno de Llorar", "La Vida de los Peces", "La Memoria del Agua"*
+- **De Wolf Music** (October 2014 to April 2015) /
+  *Music Composer for Library Music Album*
+- **Alexander Balanescu** (March 2013 to July 2013) /
+  *Music Assistant for Alexander Balanescu*
+- **Fabula Producciones** (June 2012 to July 2012) /
+  *Actor in Feature Film "Gloria", Directed by Sebastian Lelio*
+- **Taiga Films** (November 2011 to April 2012) /    
+  *Music Composer and Producer for Feature Film "A Memoria que me Contam"*
+- **Cine Estacion** (March 2011 to June 2011) /
+  *Music Composer and Producer for Feature Film "De Jueves a Domingo"*
+- **Ceneca Producciones** (June 2010 to July 2010) /
+  *Actor in Feature Film "La Vida de los Peces", Directed by Matias Bize*
+- **Teatro Cinema** (June 2005 to June 2011) /   
+  *Actor in plays "Gemelos" and "Sin Sangre", with more than 400 performances
+  in Europe, Asia and America*
+- **Estudio Libelula** (June 2003 to March 2005) /
+  *Music Composer and Producer for Advertisements*
 
 ## Links
 [Github](https://github.com/diegofontecilla)
@@ -109,6 +109,11 @@ in Europe, Asia and America*
 
 [music_web](http://diegofontecilla.com/)
 
+## Spoken Languages
+- English
+- Spanish
+- Italian
+
 ## Interests
 - Meditation
 - Yoga
@@ -117,8 +122,3 @@ in Europe, Asia and America*
 - Music
 - Nature
 - Travels
-
-## Spoken Languages
-- English
-- Spanish
-- Italian
