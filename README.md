@@ -117,3 +117,8 @@ in Europe, Asia and America*
 - Music
 - Nature
 - Travels
+
+## Spoken Languages
+- English
+- Spanish
+- Italian
