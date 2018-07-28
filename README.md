@@ -39,7 +39,8 @@ piano playing, yoga, meditation and currently software development.
 | Project | Summary | Technologies | Further Info |
 |----------|----------|----------|----------|
 | [bank_tech_test](https://github.com/diegofontecilla/bank_tech_test) | This is a Ruby project emulating a real tech test for a bank on week 10 at Makers Academy. | Ruby, OOD, TDD |
-| [acebook-off-the-rails](https://github.com/diegofontecilla/acebook-off-the-rails) | Acebook is a clone of Facebook built with Ruby on Rails as a group project during weeks 8-9 by team Off The Rails of the May 2018 cohort at Makers Academy. | Ruby, Rails, Rspec-rails, PostgreSQL | 
+| [acebook-off-the-rails](https://github.com/diegofontecilla/acebook-off-the-rails) | Acebook is a clone of Facebook built with Ruby on Rails as a group project during weeks 8-9 by team Off The Rails of the May 2018 cohort at Makers Academy. | Ruby, Rails, Rspec-rails, PostgreSQL |
+| [makersbnb](https://github.com/diegofontecilla/makersbnb) | Makersbnb is our first group project at Makers Academy, which we built between 18th and 22nd June, the sixth week of the course. | Ruby, BCrypt, Bootstrap, Capybara, PostgreSQL, Sinatra |
 
 ## Education
 
