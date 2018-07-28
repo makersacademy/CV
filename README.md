@@ -1,11 +1,12 @@
 ## Diego Fontecilla
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | | [Links](#links) | [Interests](#interests)
 <!--
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
-An alumnus of Makers, I am a film music composer that got seduced by the logic and power of code.
+An alumnus of Makers, I am a film music composer that got seduced by the logic and power of programming.
 Through my carrier, I have growth a ability to produced and deliver work under commission,
 designing a product that fits the client requirements. Looking for a backend junior developer roll,
-in a company where I can grow my skills a software engineer, I am exited about join an environment
-of collaboration, discipline and respect, willing to contribute to build a better society.
+in a company where I can grow my skills a software engineer, I am exited about joining a work environment
+of collaboration, discipline and respect, willing to contribute to build elegant and efficient code.
 
 ## Skills
 <!-- #Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -13,49 +14,27 @@ of collaboration, discipline and respect, willing to contribute to build a bette
 - Achievements
 - Evidence -->
 #### Creativity
- I have 15 years of experience creating and producing music for film. Creativity, combined with a precise
- understanding of what the requirements are, are two main keys for this job. For me, creativity is the ability
- to come up with a new idea, to be able to look at something in a new way. This ability applied to the world
- of software development, can help organisations to move in a more productive direction, adding value to a
- company.
+I have 15 years of experience creating and producing music for film. Creativity, combined with a precise
+understanding of the client requirements, plus advanced technical skills, are essential keys for working on
+this industry. For me, creativity is the ability to come up with a new idea, to be able to look at something
+in a new way. This ability applied to the world of software development, can help organisations to move in
+a more productive direction, adding value to a company.
 
  - Composed and produced more than 400 commissioned pieces of music for feature film, tv and advertisement.
  - Theatrical text writing contribution for 'Senza Sangue', adaptation of the novel by Alessandro Baricco.   
 
 #### Eager to learn
-I am a passionate of learning new things. Apart of had spended 7 years at university, studing music
-and theatre, I am untiringly studying new subjects that interest me, sach as music orchestration,
-piano playing, music counterpoint, yoga, meditation and currently software development.
+I am a passionate of learning. Apart of had spent 7 years full time at university studying music and theatre,
+I am untiringly studying new subjects that interest me, such as music orchestration, music counterpoint,
+piano playing, yoga, meditation and currently software development.
 
 #### Ability to work under pressure
-Through my experience of working for the film industry, I am confident in getting the work
-done within deadlines. Particularly in the advertisement industry, the deadlines can be really tide,
-and force you to think and react very quick, requiring high standards of quality production. In my case,
-this process has involved a constant revision about what can be improved in order to make the work
-better and faster. Having a deep understanding about what needs to be done at a conceptual level,
-and developing the technical skills required in order to apply ideas to a practical level,
-are essential keys to success at this level.
-
-#### Focussed
-- Through my practice of Violin since I was 10, I am trained to get completely focus in what I am
-doing.
-- Since I started my daily 30 minutes meditation practice, I've noticed a rise in my concentration
-and work capacity.
-
-in the advertisement world, used to work under pressure and deliver on time.
-
-#### Methodic
-
-#### Precise
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Through my experience of working for the film industry, I am confident in getting the work done within tight
+deadlines. Particularly in the advertisement industry, the deadlines use to be really close, and force you
+to think and react quickly, requiring high standards of technical skills. In my case, this process has
+involved a constant revision about what can be improved in order to make the work better and faster.
+Having a clear understanding of the client requirements, and developing technical skills in order to apply
+ideas into a practical level, are two essential keys to succeed on this context.
 
 ## Education
 
@@ -110,9 +89,10 @@ in Europe, Asia and America*
 - **Estudio Libelula** (June 2003 to March 2005)
 - *Music Composer and Producer for Advertisements*
 
-LINKS
-# https://github.com/diegofontecilla
-# https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html  
+##LINKS
+[LinkedIn ](https://www.linkedin.com/in/danpelensky)
+[Github](https://github.com/diegofontecilla)
+# [Press](https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html)
 # https://www.theguardian.com/world/ng-interactive/2017/feb/10/quipu-the-phone-line-calling-for-justice-in-peru-video
 # https://www.imdb.com/name/nm2020909/?ref_=fn_al_nm_1
 # http://diegofontecilla.com/
@@ -124,4 +104,4 @@ LINKS
 - Films
 - Music
 - Nature
-- Trabels
+- Travels
