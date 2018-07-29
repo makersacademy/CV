@@ -1,6 +1,6 @@
 ## Diego Fontecilla
 [Skills](#skills) | [Makers Academy Projects](#makers_projects) | [Education](#education) | [Experience](#experience) | [Links](#links) |
-[Interests](#interests)  
+[Interests](#interests)
 <!--
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 An alumnus of Makers, I am a film music composer that got seduced by the logic and power of programming.
@@ -35,6 +35,10 @@ ideas into a practical level, are two essential keys to succeed on this context.
 I am a passionate of learning. Apart of had spent 7 years full time at university studying music and theatre,
 I am untiringly studying new subjects that interest me, such as music orchestration, music counterpoint,
 piano playing, yoga, meditation and currently software development.
+
+#### Other Languages
+- Mother tongue Spanish
+- Fluent writing and speaking Italian
 
 ## <a name="makers_projects">Makers Academy Projects</a>
 | Project | Summary | Technologies | Further Info |
@@ -109,11 +113,6 @@ piano playing, yoga, meditation and currently software development.
 [imdb](https://www.imdb.com/name/nm2020909/?ref_=fn_al_nm_1)
 
 [music_web](http://diegofontecilla.com/)
-
-## Spoken Languages
-- English
-- Spanish
-- Italian
 
 ## Interests
 - Meditation
