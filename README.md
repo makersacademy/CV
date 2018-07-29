@@ -117,8 +117,5 @@ piano playing, yoga, meditation and currently software development.
 ## Interests
 - Meditation
 - Yoga
-- Reading
-- Films
-- Music
+- Cinema
 - Nature
-- Travels
