@@ -1,5 +1,6 @@
 ## Diego Fontecilla
-[Skills](#skills) | [Makers Academy Projects](#makers_projects) | [Education](#education) | [Experience](#experience) | [Links](#links) | [Spoken Languages](#spoken languages) | [Interests](#interests)
+[Skills](#skills) | [Makers Academy Projects](#makers_projects) | [Education](#education) | [Experience](#experience) | [Links](#links) |
+[Interests](#interests)  
 <!--
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
 An alumnus of Makers, I am a film music composer that got seduced by the logic and power of programming.
