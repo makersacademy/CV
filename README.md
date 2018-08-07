@@ -39,7 +39,7 @@ MS Excel / VBA - automating team processes to minimise replication of tasks and 
 
 #### Communication
 
-Ability to impart technical information clearly, to a range of specialists and senior managers. Honest approach resulting in trusted relationships with senior colleagues. Run regular lunch and learn sessions at work to encourage debate and knowledge share. I host a number of [technical blogs](#technical-blogging) where I write tutorials on key analytical skills.
+Ability to impart technical information clearly, to a range of specialists and senior managers. Honest approach resulting in trusted relationships with senior colleagues. Run regular lunch and learn sessions at work to encourage debate and knowledge share. I host a number of [technical blogs](#technical-blogging) where I write tutorials on key analytical skills. If I had a mission statement it would probably say `Learn cool things and share`.
 
 #### Management
 
@@ -47,7 +47,7 @@ Provide strong, value driven leadership. Brought the NCL Acute Finance team thro
 
 #### Continuous Development
 
-Improvement focused - value continuous development both individually and departmentally. 
+Improvement focused - value continuous development both individually and departmentally. I love a challenge and am becoming ever more comfortable with feeling very uncomfortable!
 
 ## Education
 
