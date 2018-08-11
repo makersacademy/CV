@@ -4,15 +4,15 @@ I am an energetic and values-driven individual currently training with Makers, a
 
 My intention is to retrain as a Developer, building on my existing strengths and expertise as a technically astute analyst with a strong reputation for being delivery-focussed and efficient, and plan to combine this with coding knowledge to enable me to design and create software solutions.
 
-I am particularly motivated by the potential to harness software skills to improve areas of society whether that is health, fitness or social equality and I would like to ultimately secure a role where I will be doing meaningful, important work.
+I am particularly motivated by the potential to harness software skills to improve areas of society whether that is health, fitness or social equality and I would like to ultimately secure a role where I will be doing meaningful work.
 
 I also have mutiple interest such as ice-swimming or powerlifting that occupy me in my spare time - see [Hobbies and Interests](#hobbies-and-interests) for more details.
 
-**Tech Skills :** Ruby, tSQL, HTML, CSS, MS Excel
+**Tech Skills :** Ruby, tSQL, HTML, CSS, MS Excel, VBA
 
 ## Projects
 
-Project Name | Coment | Link |
+Project Name | Comment | Link |
 ------------ | ------ | ---- |
 100 Days of Code | Documenting my transformation from total noob to adept coder (hopefully) | [R2 Log](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md)
 Portfolio | Early days attempt at html and css | [Portfolio](https://github.com/Whatapalaver/portfolio)
@@ -39,7 +39,7 @@ MS Excel / VBA - automating team processes to minimise replication of tasks and 
 
 #### Communication
 
-Ability to impart technical information clearly, to a range of specialists and senior managers. Honest approach resulting in trusted relationships with senior colleagues. Run regular lunch and learn sessions at work to encourage debate and knowledge share. I host a number of [technical blogs](#technical-blogging) where I write tutorials on key analytical skills. If I had a mission statement it would probably say `Learn cool things and share`.
+Ability to impart technical information clearly, to a range of specialists and senior managers. Honest approach resulting in trusted relationships with senior colleagues. Run regular lunch and learn sessions at work to encourage debate and knowledge share. I host a number of [technical blogs](#technical-blogging) where I write tutorials on key analytical skills. If I had a mission statement it would probably be `Learn cool things and share`.
 
 #### Management
 
@@ -61,7 +61,7 @@ A 16-week intensive development bootcamp, focusing on :
 - Pair programming
 - XP values
 
-**BPP London** - CIMA full qualification (2006 - 2009)
+**BPP London** - CIMA full accountancy qualification (2006 - 2009)
 
 #### University College London (2003 - 2006)
 
