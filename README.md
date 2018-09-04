@@ -17,11 +17,11 @@
 
 </div>
 
-I am an energetic and values-driven individual currently training with Makers, a Developer Bootcamp in London. I am also a qualified CIMA accountant and have had a number of Senior Finance roles within the NHS over the last 10 years. I have extensive experience in technical healthcare roles, covering areas such as acute finance commissioning, income reporting, PbR, reference costing, SLR, patient level costing and financial planning.
+An energetic and values-driven full stack developer currently training with Makers, a Developer Bootcamp in London.  
 
-My intention is to retrain as a Developer, building on my existing strengths and expertise as a technically astute analyst with a strong reputation for being delivery-focussed and efficient, and plan to combine this with coding knowledge to enable me to design and create software solutions.
+I am passionate about data and the ability to delve into databases to reveal stories about peoples lives. I want to build on my existing strengths and expertise as a technically astute analyst and plan to combine this with coding knowledge to enable me to design and create effective software solutions, ideally in health or other socially responsible area.
 
-I am particularly motivated by the potential to harness software skills to improve areas of society whether that is health, fitness or social equality and I would like to ultimately secure a role where I will be doing meaningful work.
+I am also a qualified CIMA accountant and have previously held a number of Senior Finance roles within the NHS. I have extensive experience in technical healthcare roles, covering areas such as acute finance commissioning, income reporting, PbR, reference costing, SLR, patient level costing and financial planning. All my previous roles have had a strong technical slant and I have developed strong skills in VBA and tSQL that have fired my determination to develop other programming skills.
 
 I also have mutiple interest such as ice-swimming or powerlifting that occupy me in my spare time - see [Hobbies and Interests](#hobbies-and-interests) for more details.
 
@@ -62,7 +62,7 @@ Ability to impart technical information clearly, to a range of specialists and s
 
 #### Management
 
-Provide strong, value driven leadership. Brought the NCL Acute Finance team through three major reorganisations and ensured continuity and quality of departmental output.
+Provide strong, value driven leadership. Brought the NCL Acute Finance team through three major reorganisations and ensured continuity and quality of departmental output. I have a strong reputation for being delivery-focussed and efficient.
 
 #### Continuous Development
 
