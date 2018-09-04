@@ -1,4 +1,21 @@
-## Dr Angela Wolff
+<h1 align="center">Dr Angela Wolff</h1>
+<p align="center">
+<a href="https://twitter.com/DoctorMoxie">
+<img src="http://goinkscape.com/wp-content/uploads/2015/07/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+<a href="https://medium.com/@warriorwomenblog">
+<img src="http://www.webmasto.com/wp-content/uploads/2017/08/Medium-App-Icon-2017.png" alt="medium" hspace="50" height="42" width="42"></a>
+<a href="https://www.linkedin.com/in/angelawolff/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+
+<div align="center"> 
+  
+[Projects ](#projects) | 
+[Skills ](#skills) | 
+[Education ](#education) | 
+[Experience ](#experience) | 
+[Interests ](#hobbies-and-interests)
+
+</div>
 
 I am an energetic and values-driven individual currently training with Makers, a Developer Bootcamp in London. I am also a qualified CIMA accountant and have had a number of Senior Finance roles within the NHS over the last 10 years. I have extensive experience in technical healthcare roles, covering areas such as acute finance commissioning, income reporting, PbR, reference costing, SLR, patient level costing and financial planning.
 
