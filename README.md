@@ -12,10 +12,12 @@ I also have mutiple interest such as ice-swimming or powerlifting that occupy me
 
 ## Projects
 
-Project Name | Comment | Link |
------------- | ------ | ---- |
-100 Days of Code | Documenting my transformation from total noob to adept coder (hopefully) | [R2 Log](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md)
-Portfolio | Early days attempt at html and css | [Portfolio](https://github.com/Whatapalaver/portfolio)
+Project Name | Comment | Tech | Link |
+------------ | ------ | ---- | ----|
+100 Days of Code | Documenting my transformation from total noob to adept coder (hopefully) | | [R2 Log](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md)
+Instagram Challange | Week 8 solo weekend challenge, where I was determined to understand Devise for user authentication. | Ruby on Rails | [Instagram](https://github.com/Whatapalaver/instagram-challenge)
+Bowling Scorer | Week 6 solo weekend challenge. I loved the technicality of ten pin scoring and learned a lot about DRY principles while trying to improve my solutions | Javascript (vanilla) | [BowlingJS](https://github.com/Whatapalaver/bowling-challenge)
+AirBNB Clone | Week 6 Group Project - our first experience implementing Agile and XP principles | JS, node, express, PostGres | [AirBNB](https://github.com/Whatapalaver/Air_BnB_Clone)
 
 ## Skills
 
@@ -53,13 +55,7 @@ Improvement focused - value continuous development both individually and departm
 
 #### Makers (June 2018 - October 2018)
 
-A 16-week intensive development bootcamp, focusing on :
-
-- Agile methodologies
-- Object-oriented design
-- Test driven development and behaviour driven development
-- Pair programming
-- XP values
+A 16-week intensive development bootcamp, where we learn to handle new technologies and languages in a group setting. It was an amazing experience where we learned to handle a steady stream of new challenges and developed the skills to unpick error messages and rescue ourselves without panic.
 
 **BPP London** - CIMA full accountancy qualification (2006 - 2009)
 
