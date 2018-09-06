@@ -19,11 +19,11 @@
 
 An energetic and values-driven full stack developer currently training with Makers, a Developer Bootcamp in London.  
 
-I am passionate about data and the ability to delve into databases to reveal stories about peoples lives. I want to build on my existing strengths and expertise as a technically astute analyst and plan to combine this with coding knowledge to enable me to design and create effective software solutions, ideally in health or other socially responsible area.
+I am passionate about data and the ability to delve into databases to reveal stories about peoples lives. I want to build on my existing strengths and expertise as a technically astute analyst and plan to combine this with coding knowledge to enable me to design and create effective software solutions, ideally in a health or other socially responsible area.
 
 I am also a qualified CIMA accountant and have previously held a number of Senior Finance roles within the NHS. I have extensive experience in technical healthcare roles, covering areas such as acute finance commissioning, income reporting, PbR, reference costing, SLR, patient level costing and financial planning. All my previous roles have had a strong technical slant and I have developed strong skills in VBA and tSQL that have fired my determination to develop other programming skills.
 
-I also have mutiple interest such as ice-swimming or powerlifting that occupy me in my spare time - see [Hobbies and Interests](#hobbies-and-interests) for more details.
+I also have multiple interests such as ice-swimming and powerlifting that occupy me in my spare time - see [Hobbies and Interests](#hobbies-and-interests) for more details.
 
 **Tech Skills :** Ruby, tSQL, HTML, CSS, MS Excel, VBA
 
@@ -32,7 +32,7 @@ I also have mutiple interest such as ice-swimming or powerlifting that occupy me
 Project Name | Comment | Tech | Link |
 ------------ | ------ | ---- | ----|
 100 Days of Code | Documenting my transformation from total noob to adept coder (hopefully) | | [R2 Log](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md)
-Instagram Challange | Week 8 solo weekend challenge, where I was determined to understand Devise for user authentication. | Ruby on Rails | [Instagram](https://github.com/Whatapalaver/instagram-challenge)
+Instagram Challenge | Week 8 solo weekend challenge, where I was determined to understand Devise for user authentication. | Ruby on Rails | [Instagram](https://github.com/Whatapalaver/instagram-challenge)
 Bowling Scorer | Week 6 solo weekend challenge. I loved the technicality of ten pin scoring and learned a lot about DRY principles while trying to improve my solutions | Javascript (vanilla) | [BowlingJS](https://github.com/Whatapalaver/bowling-challenge)
 AirBNB Clone | Week 6 Group Project - our first experience implementing Agile and XP principles | JS, node, express, PostGres | [AirBNB](https://github.com/Whatapalaver/Air_BnB_Clone)
 
@@ -43,7 +43,7 @@ AirBNB Clone | Week 6 Group Project - our first experience implementing Agile an
 A concise, logical thinker with an ability to exploit technical skills to solve problems rapidly and clearly. My joy of solving problems has been well tested at Makers where I've faced implementation and logic problems on a daily basis, my prior experience has helped me remain calm and apply a logical, scientific approach to resolving the current issue. It is this rollercoaster of frustration and reward that makes coding so appealing for me.
 
 - At North Central London CCGs I created a reporting suite that enabled HRG level drill down across all of our provider trusts using macros to automate the transformation of multi-format reports. Previously the reports has been restricted to high level values without the ability to analyse and interrogate. My system could run automatically providing instant access to patient level data
-- At North West London CCGs I produced a 5 year planning template that was used across the entire sectore. Ensuring consistency of approach within organisations and an ability to consolidate reports for upward reporting.
+- At North West London CCGs I produced a 5 year planning template that was used across the entire sector. Ensuring consistency of approach within organisations and an ability to consolidate reports for upward reporting.
 
 #### Technical Skills
 
@@ -70,7 +70,7 @@ Improvement focused - value continuous development both individually and departm
 
 #### Makers (June 2018 - October 2018)
 
-A 16-week intensive development bootcamp, where we learn to handle new technologies and languages in a group setting. It was an amazing experience where we learned to handle a steady stream of new challenges and developed the skills to unpick error messages and rescue ourselves without panic. Here I have learned to work in groups forllowing an Agile framework where we use daily standups to ensure we are on track to deliver our target features. I have experience now in writing fullstack applications using a combination of Ruby and Javascript with frameworks such as Rails and React. All projects have been created using TDD approaches.
+A 16-week intensive development bootcamp, where we learn to handle new technologies and languages in a group setting. It was an amazing experience where we learned to handle a steady stream of new challenges and developed the skills to unpick error messages and rescue ourselves without panic. Here I have learned to work in groups following an Agile framework where we use daily standups to ensure we are on track to deliver our target features. I have experience now in writing fullstack applications using a combination of Ruby and Javascript with frameworks such as Rails and React. All projects have been created using TDD approaches.
 
 **BPP London** - CIMA full accountancy qualification (2006 - 2009)
 
@@ -129,9 +129,6 @@ My health and sporting exploits are featured on my [warriorwomen blog](http://wa
 - **Ice Swimming** - Having been inspired by Wim Hof I have taken to swimming outdoors throughout the winter months. I take great pleasure in cracking the ice at Tooting Bec Lido and have been delighted to swim during snow flurries.
 - **BJJ** - This is a relatively new addition to my sporting repertoire and I'm still fairly useless but have just got a new stripe on my white belt and am adept at the rear naked choke....
 - **Running** - I used to be pretty serious about running (although always in a very slow and plodding fashion), now I am only encouraged to jog for Obstacle events such as Wolf Run.
-
-#### Allotment Gardening
-I have dreams of eventually settling into the life of a geeky smallholder, for now I have to settle for a few growbags at home and a local allotment. I occasionally document this on my [earthwoman blog](http://earthwoman.co.uk)
 
 #### Technical Blogging
 I've been a serial blogger for many years and have a number of blogs for sharing tutorials on technical issues of for training people in specific skills.
