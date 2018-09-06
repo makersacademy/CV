@@ -40,11 +40,10 @@ AirBNB Clone | Week 6 Group Project - our first experience implementing Agile an
 
 #### Analytical and Judgement Skills
 
-A concise, logical thinker with an ability to exploit technical skills to solve problems rapidly and clearly.
+A concise, logical thinker with an ability to exploit technical skills to solve problems rapidly and clearly. My joy of solving problems has been well tested at Makers where I've faced implementation and logic problems on a daily basis, my prior experience has helped me remain calm and apply a logical, scientific approach to resolving the current issue. It is this rollercoaster of frustration and reward that makes coding so appealing for me.
 
 - At North Central London CCGs I created a reporting suite that enabled HRG level drill down across all of our provider trusts using macros to automate the transformation of multi-format reports. Previously the reports has been restricted to high level values without the ability to analyse and interrogate. My system could run automatically providing instant access to patient level data
 - At North West London CCGs I produced a 5 year planning template that was used across the entire sectore. Ensuring consistency of approach within organisations and an ability to consolidate reports for upward reporting.
-- At Barts Health I produced SQL linked spreadsheets that could automate data refresh and therefore support analysis with out the risk of copy and paste errors.
 
 #### Technical Skills
 
@@ -54,7 +53,6 @@ tSQL / MS Query / SSIS - writing queries and procedures to automate processes. L
 * scripting the financial reconciliation for a patient level costing project spanning multiple organisations and patient pathways (NWL Whole Systems)
 * generating the trust income plans from the bottom-up, allowing all components of change (eg. growth) to be identified and reported. Process included version control to roll back changes
 
-MS Excel / VBA - automating team processes to minimise replication of tasks and to eradicate user error. 
 
 #### Communication
 
@@ -72,7 +70,7 @@ Improvement focused - value continuous development both individually and departm
 
 #### Makers (June 2018 - October 2018)
 
-A 16-week intensive development bootcamp, where we learn to handle new technologies and languages in a group setting. It was an amazing experience where we learned to handle a steady stream of new challenges and developed the skills to unpick error messages and rescue ourselves without panic.
+A 16-week intensive development bootcamp, where we learn to handle new technologies and languages in a group setting. It was an amazing experience where we learned to handle a steady stream of new challenges and developed the skills to unpick error messages and rescue ourselves without panic. Here I have learned to work in groups forllowing an Agile framework where we use daily standups to ensure we are on track to deliver our target features. I have experience now in writing fullstack applications using a combination of Ruby and Javascript with frameworks such as Rails and React. All projects have been created using TDD approaches.
 
 **BPP London** - CIMA full accountancy qualification (2006 - 2009)
 
@@ -111,23 +109,18 @@ A 16-week intensive development bootcamp, where we learn to handle new technolog
 *Senior Finance Manager - Acute Commissioning*
 * Led on the reporting of acute care expenditure across the North central London group of CCGs
 
-**NHS North Central London** (Sept 2010 - Apr 2011)
-*Finance Planning Manager*
+**NHS North Central London** (Sept 2010 - Apr 2011) *Finance Planning Manager*
 
-**South West London and St Georges NHS Trust** (Sept 2009 - Sept 2010)   
-*Costing Manager*
+**South West London and St Georges NHS Trust** (Sept 2009 - Sept 2010) *Costing Manager*
 
-**NHS Shared Business Services** (Sept 2006 - Sept 2009)   
-*Graduate Finance Trainee*
+**NHS Shared Business Services** (Sept 2006 - Sept 2009) *Graduate Finance Trainee*
 
-**Marketforce** (Sept 2002 - Sept 2003)   
-*Retail Channel Analyst*
+**Marketforce** (Sept 2002 - Sept 2003) *Retail Channel Analyst*
 
-**Cork International** (Apr 1998 - Sept 2002)   
-*Manager of Sales Based Ordering System* 
+**Cork International** (Apr 1998 - Sept 2002) *Manager of Sales Based Ordering System* 
 
 ## Hobbies and Interests
-I’m a medically trained accountant with a PhD in Astrochemistry but I could also be described as a serial dabbler with multiple full time interests.
+I’m a medically and accountancy trained junior developer with a PhD in Astrochemistry but I could also be described as a serial dabbler with multiple full time interests.
 I document almost all of these interests in one or more blogs.
 
 #### Fitness and Health 
