@@ -78,9 +78,6 @@ During my second and third years at university I taught myself HTML, CSS, and ba
 ## <a name="Experience">Experience</a>
 
 
-**Telegraph** (August 2018 to Present)    
-*Junior Developer*
-
 **British Heart Foundation** (October 2017 to February 2018)    
 *Sales Assistant*  
 
