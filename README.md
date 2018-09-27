@@ -1,6 +1,11 @@
-## Your Name
+## Bill Muxworthy
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+In the past few months I've developed an interest in coding, and began practising a few basic Ruby skills, mainly through casual pairing sessions with friends and a fair few evenings on codewars.
+
+I'm currently a student at Makers Academy, hoping to kickstart a new career in Web Development or Programming.
+
+# Languages I've worked with:
+Ruby, HTML, CSS
 
 ## Skills
 
