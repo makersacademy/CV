@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (October 2018 to December 2018)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Leeds Metropolitan University (September 2010 to June 2013)
 
-- Subject, any specialisms
-- Grade
+- BSc Music Technology
 - Other cool stuff
 
 #### Any other qualifications
 
-## Experience
+## Work Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**OnlyRoses Knightsbridge** (October 2017 to May 2018)    
+*Driver/Warehouse Assistant*
+**Connection Crew CIC** (February 2015 to October 2017)   
+*Elite Crew*  
