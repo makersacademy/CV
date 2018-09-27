@@ -42,10 +42,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Leeds Metropolitan University (September 2010 to June 2013)
 
 - BSc Music Technology
-- Other cool stuff
+- Excelled at practical subjects such as sound design, electro-acoustic composition and interactive audio
+- Assisted in the technical set up of Met Air Radio, Leeds Met's official student radio station
+- Volunteered as Head of Technology at Met Air Radio
+- Sound engineered local weekly event Skyrack Open Mic Night
 
 #### Other qualifications
 
+- Completed A levels with:
+  *Music Technology - B
+  *Mathematics - B
+  *Physics - D
 - Trinity Rockschool Grade 8 Bass Guitar
 - ABRSM Grade 6 Piano
 - ABRSM Grade 5 Music Theory
