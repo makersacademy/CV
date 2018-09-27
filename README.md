@@ -46,9 +46,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
+- Trinity Rockschool Grade 8 Bass Guitar
+- ABRSM Grade 6 Piano
+- ABRSM Grade 5 Music Theory
+
 ## Work Experience
 
 **OnlyRoses Knightsbridge** (October 2017 to May 2018)    
 *Driver/Warehouse Assistant*
 **Connection Crew CIC** (February 2015 to October 2017)   
 *Elite Crew*  
+
+### Hobbies and interests
+- Playing bass guitar in hard rock band
+- Going to cinemas, theatre shows, concerts (music in general)
+- Cooking: I make a mean stew and my scrambled eggs are the best
