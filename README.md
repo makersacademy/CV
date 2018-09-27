@@ -44,7 +44,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - BSc Music Technology
 - Other cool stuff
 
-#### Any other qualifications
+#### Other qualifications
 
 - Trinity Rockschool Grade 8 Bass Guitar
 - ABRSM Grade 6 Piano
