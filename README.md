@@ -1,6 +1,6 @@
-## Bill Muxworthy
+## William Muxworthy
 
-In the past few months I've developed an interest in coding, and began practising a few basic Ruby skills, mainly through casual pairing sessions with friends and a fair few evenings on codewars.
+In the past few months I've developed an interest in coding, and in the summer began practising a few basic Ruby skills, mainly through casual pairing sessions with friends and a fair few evenings on codewars.
 
 I'm currently a student at Makers Academy, hoping to kickstart a new career in Web Development or Programming.
 
@@ -9,22 +9,16 @@ Ruby, HTML, CSS
 
 ## Skills
 
-#### This Skill
+#### Time management
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+During my time as a delivery driver for luxury floristry company OnlyRoses, my main responsibility was to ensure all deliveries are made within a strict timeframe. This involved very careful route planning and organisation, as well as a considerable amount of patience.
 
-- Experience
-- Achievements
-- Evidence
+Above all, I learned to stay calm in an often stressful work environment. Many of the flower arrangements were extremely delicate, so I needed to make sure I started my route in enough time to drive slowly and carefully.
 
-#### Another Skill
+#### Team work and collaboration
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+I have worked in many positions where team work is essential. When I worked for event crew companies Connection and Pinnacle, the majority of shifts involved a large objective split into multiple smaller tasks, which would usually be carried out in pairs. As a result, this way of working is very familiar to me and I have a great understanding of how two people can communicate and collaborate their way towards a common goal. After about a year working for them, Connection Crew promoted me from General Crew to Elite Crew, placing me in more of a leading position. However, I would still tend to prefer working as part of the team over authoritative roles.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
