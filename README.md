@@ -3,7 +3,7 @@
 
 After finishing my degree in Music Technology from Leeds Metropolitan University, I began working in the events industry, mainly as a general member of crew. This gave me plenty of hands-on experience in the technical side of events. I then spent a few months working as a van driver for luxury floristry company OnlyRoses, from which I gained valuable experience in working under strict time pressure.
 
-In the past few months I've developed an interest in coding, and in the summer began practising a few basic Ruby skills, mainly through casual pairing sessions with friends and a fair few evenings on codewars. I also ran through a crash course in web design in HTML and CSS, through which I designed a few different frameworks for basic blog sites.
+In the past few months I've developed an interest in coding, and in the summer began practising a few basic Ruby skills, mainly through casual pairing sessions with friends and some evenings messing around on codewars. I also ran through a crash course in HTML and CSS, through which I designed a few different frameworks for basic blog sites.
 
 I'm currently a student at Makers Academy, hoping to kickstart a new career in Web Development or Programming.
 
