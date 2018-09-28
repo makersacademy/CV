@@ -1,5 +1,6 @@
 ## William Muxworthy
 
+
 In the past few months I've developed an interest in coding, and in the summer began practising a few basic Ruby skills, mainly through casual pairing sessions with friends and a fair few evenings on codewars.
 
 I'm currently a student at Makers Academy, hoping to kickstart a new career in Web Development or Programming.
@@ -7,7 +8,9 @@ I'm currently a student at Makers Academy, hoping to kickstart a new career in W
 ###### Languages I've worked with:
 Ruby, HTML, CSS
 
+
 ## Skills
+
 
 #### Time management
 
@@ -20,7 +23,9 @@ Above all, I learned to stay calm in an often stressful work environment. Many o
 I have worked in many positions where team work is essential. When I worked for event crew companies Connection and Pinnacle, the majority of shifts involved a large objective split into multiple smaller tasks, which would usually be carried out in pairs. As a result, this way of working is very familiar to me and I have a great understanding of how two people can communicate and collaborate their way towards a common goal. After about a year working for them, Connection Crew promoted me from General Crew to Elite Crew, placing me in more of a leading position. However, I would still tend to prefer working as part of the team over authoritative roles.
 
 
+
 ## Education
+
 
 #### Makers Academy (October 2018 to December 2018)
 
@@ -33,6 +38,7 @@ I have worked in many positions where team work is essential. When I worked for 
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+
 #### Leeds Metropolitan University (September 2010 to June 2013)
 
 - BSc Music Technology
@@ -40,6 +46,7 @@ I have worked in many positions where team work is essential. When I worked for 
 - Assisted in the technical set up of Met Air Radio, Leeds Met's official student radio station
 - Volunteered as Head of Technology at Met Air Radio
 - Sound engineered local weekly event Skyrack Open Mic Night
+
 
 #### Other qualifications
 
@@ -51,12 +58,16 @@ I have worked in many positions where team work is essential. When I worked for 
 - ABRSM Grade 6 Piano
 - ABRSM Grade 5 Music Theory
 
+
 ## Work Experience
+
 
 **OnlyRoses Knightsbridge** (October 2017 to May 2018)    
 *Driver/Warehouse Assistant*
+
 **Connection Crew CIC** (February 2015 to October 2017)   
 *Elite Crew*  
+
 
 ### Hobbies and interests
 - Playing bass guitar in hard rock band
