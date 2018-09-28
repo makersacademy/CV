@@ -1,4 +1,4 @@
-## William Muxworthy
+# William Muxworthy
 
 
 In the past few months I've developed an interest in coding, and in the summer began practising a few basic Ruby skills, mainly through casual pairing sessions with friends and a fair few evenings on codewars.
@@ -69,7 +69,7 @@ I have worked in many positions where team work is essential. When I worked for 
 *Elite Crew*  
 
 
-### Hobbies and interests
+## Hobbies and interests
 - Playing bass guitar in hard rock band
 - Going to cinemas, theatre shows, concerts (music in general)
 - Cooking: I make a mean stew and my scrambled eggs are the best
