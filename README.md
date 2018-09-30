@@ -17,7 +17,7 @@
 
 </div>
 
-An energetic and values-driven full stack developer currently training with Makers, a Developer Bootcamp in London.  
+An energetic and values-driven full stack developer recently graduated from Makers, a Developer Bootcamp in London.  
 
 I am passionate about data and the ability to delve into databases to reveal stories about peoples lives. I want to build on my existing strengths and expertise as a technically astute analyst and plan to combine this with coding knowledge to enable me to design and create effective software solutions, ideally in a health or other socially responsible area.
 
@@ -25,13 +25,14 @@ I am also a qualified CIMA accountant and have previously held a number of Senio
 
 I also have multiple interests such as ice-swimming and powerlifting that occupy me in my spare time - see [Hobbies and Interests](#hobbies-and-interests) for more details.
 
-**Tech Skills :** Ruby, tSQL, HTML, CSS, MS Excel, VBA
+**Tech Skills :** Ruby, Javascript, Node.js, tSQL, HTML, CSS, MS Excel, VBA
 
 ## Projects
 
 Project Name | Comment | Tech | Link |
 ------------ | ------ | ---- | ----|
 100 Days of Code | Documenting my transformation from total noob to adept coder (hopefully) | | [R2 Log](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md)
+Paddlr | Final team project. A live ping pong scorer with restful API and Slack Integration | Node.js and React | [paddlr](https://github.com/Whatapalaver/paddlr)
 Instagram Challenge | Week 8 solo weekend challenge, where I was determined to understand Devise for user authentication. | Ruby on Rails | [Instagram](https://github.com/Whatapalaver/instagram-challenge)
 Bowling Scorer | Week 6 solo weekend challenge. I loved the technicality of ten pin scoring and learned a lot about DRY principles while trying to improve my solutions | Javascript (vanilla) | [BowlingJS](https://github.com/Whatapalaver/bowling-challenge)
 AirBNB Clone | Week 6 Group Project - our first experience implementing Agile and XP principles | JS, node, express, PostGres | [AirBNB](https://github.com/Whatapalaver/Air_BnB_Clone)
@@ -52,6 +53,7 @@ Advanced Excel and SQL data skills with a proven ability to transform vast, comp
 tSQL / MS Query / SSIS - writing queries and procedures to automate processes. Large scale project examples include:
 * scripting the financial reconciliation for a patient level costing project spanning multiple organisations and patient pathways (NWL Whole Systems)
 * generating the trust income plans from the bottom-up, allowing all components of change (eg. growth) to be identified and reported. Process included version control to roll back changes
+* Scripting patient level costs from Patient Administration Systems (PAS)
 
 
 #### Communication
