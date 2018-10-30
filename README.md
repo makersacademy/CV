@@ -31,12 +31,11 @@ I also have multiple interests such as ice-swimming and powerlifting that occupy
 
 Project Name | Comment | Tech | Link |
 ------------ | ------ | ---- | ----|
-100 Days of Code | Documenting my transformation from total noob to adept coder (hopefully) | | [R2 Log](https://github.com/Whatapalaver/100_Days_of_Code/blob/master/r2-log.md)
-Paddlr | Final team project. A live ping pong scorer with restful API and Slack Integration | Node.js, Express, MongoDB and React | [paddlr](https://github.com/Whatapalaver/paddlr)
+Makers Progress Log | Documenting my time across the 3 month Makers bootcamp with links to all the team and individual weekend projects | | [MakersLog](https://github.com/Whatapalaver/makers_progress/blob/master/README.md)
 Birdie Tech Test | First post Makers tech test. Given login details for an AWS DB, the task was to create an API and display Census statisitics on a single page react app | Node.js, Express, MySQL and React | [Birdie](https://github.com/Whatapalaver/birdietest)
+Paddlr | Final team project. A live ping pong scorer with restful API and Slack Integration | Node.js, Express, MongoDB and React | [paddlr](https://github.com/Whatapalaver/paddlr)
 Instagram Challenge | Week 8 solo weekend challenge, where I was determined to understand Devise for user authentication. | Ruby on Rails | [Instagram](https://github.com/Whatapalaver/instagram-challenge)
 Bowling Scorer | Week 6 solo weekend challenge. I loved the technicality of ten pin scoring and learned a lot about DRY principles while trying to improve my solutions | Javascript (vanilla) | [BowlingJS](https://github.com/Whatapalaver/bowling-challenge)
-AirBNB Clone | Week 6 Group Project - our first experience implementing Agile and XP principles | JS, node, express, PostGres | [AirBNB](https://github.com/Whatapalaver/Air_BnB_Clone)
 
 ## Skills
 
