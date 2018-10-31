@@ -3,11 +3,19 @@
 [Interests](#interests)
 <!--
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment. -->
-An alumnus of Makers, I am a film music composer that got seduced by the logic and power of programming.
-Through my carrier, I have growth a ability to produced and deliver work under commission,
-designing a product that fits the client requirements. Looking for a backend junior developer roll,
+An alumnus of Makers, I am a former film music composer that got seduced by the logic and power of programming.
+Through my career, I have growth a ability to produce and deliver work under commission,
+designing a product that fits the client requirements. Looking for a junior developer roll,
 in a company where I can grow my skills as a software engineer, I am exited about joining a work environment
 of collaboration, discipline and respect, willing to contribute to build elegant and efficient code.
+
+## <a name="makers_projects">Makers Academy Projects</a>
+| Project | Summary | Technologies | Further Info |
+|----------|----------|----------|----------|
+| [thermostatJS](https://github.com/diegofontecilla/thermostatJS) | This is a JavaScript solo project for creating a thermostat with a RESTful API. | JavaScript, Sinatra, Ruby, PostgreSQL, Jasmine, CSS|
+| [acebook-off-the-rails](https://github.com/diegofontecilla/acebook-off-the-rails) | Acebook is a clone of Facebook built with Ruby on Rails as a group project during weeks 8-9 by team Off The Rails of the May 2018 cohort at Makers Academy. | Ruby, Rails, Rspec-rails, PostgreSQL |
+| [makersbnb](https://github.com/diegofontecilla/makersbnb) | Makersbnb is our first group project at Makers Academy, which we built between 18th and 22nd June, the sixth week of the course. | Ruby, BCrypt, Bootstrap, Capybara, PostgreSQL, Sinatra |
+| [change_generator](https://github.com/diegofontecilla/change_generator) | Change generator is a kata for exercising and developing problem solving techniques. | Ruby, RSpec |
 
 ## Skills
 <!-- #Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
@@ -39,14 +47,6 @@ piano playing, yoga, meditation and currently software development.
 #### Other Languages
 - Mother tongue Spanish
 - Fluent writing and speaking Italian
-
-## <a name="makers_projects">Makers Academy Projects</a>
-| Project | Summary | Technologies | Further Info |
-|----------|----------|----------|----------|
-| [bank_tech_test](https://github.com/diegofontecilla/bank_tech_test) | This is a Ruby solo project emulating a real tech test for a bank on week 10 at Makers Academy. | Ruby, OOD, TDD |
-| [acebook-off-the-rails](https://github.com/diegofontecilla/acebook-off-the-rails) | Acebook is a clone of Facebook built with Ruby on Rails as a group project during weeks 8-9 by team Off The Rails of the May 2018 cohort at Makers Academy. | Ruby, Rails, Rspec-rails, PostgreSQL |
-| [makersbnb](https://github.com/diegofontecilla/makersbnb) | Makersbnb is our first group project at Makers Academy, which we built between 18th and 22nd June, the sixth week of the course. | Ruby, BCrypt, Bootstrap, Capybara, PostgreSQL, Sinatra |
-| [change_generator](https://github.com/diegofontecilla/change_generator) | Change generator is a kata for exercising and developing problem solving techniques. | Ruby, RSpec |
 
 ## Education
 
