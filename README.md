@@ -20,13 +20,13 @@ of collaboration, discipline and respect, willing to contribute to build elegant
 ## Skills
 
 #### Creativity
-I have 15 years of experience creating and producing music for film. Creativity, combined with a precise
+ I have 15 years of experience creating and producing music for film. Creativity, combined with a precise
 understanding of the client requirements, plus advanced technical skills, are essential keys for working on
 this industry. For me, creativity is the ability to come up with a new idea, to be able to look at something
 in a new way. This ability applied to the world of software development, can help organisations to move in
 a more productive direction, adding value to a company.
 
- - Composed and produced more than 400 commissioned pieces of music for feature film, tv and advertisement.
+ - Composed and produced more than 400 commissioned pieces of music for feature film, TV and advertisement.
  - Theatrical text writing contribution for 'Senza Sangue', adaptation of the novel by Alessandro Baricco.   
 
 #### Ability to work under pressure
@@ -39,7 +39,7 @@ ideas into a practical level, are two essential keys to succeed on this context.
 #### Eager to learn
 I am a passionate of learning. Apart of had spent 7 years full time at university studying music and theatre,
 I am untiringly studying new subjects that interest me, such as music orchestration, music counterpoint,
-piano playing, yoga, meditation and currently software development.
+piano playing, yoga, zen meditation and currently software development.
 
 #### Other Languages
 - Mother tongue Spanish
@@ -56,63 +56,30 @@ piano playing, yoga, meditation and currently software development.
 - Software Craftsmanship
 - SOLID Principles
 - Ruby
-- RSpec, Jasmine
-<!-- #### Your University / College (start_date to end_date)
-- Subject, any specialisms
-- Grade
-- Other cool stuff -->
+- JavaScript
+- RSpec, Jasmine, Capybara
+
 #### Image Theatre School (March 2000 to January 2003)
 - Degree in Drama & Theatre Arts
 #### Catholic University of Chile (March 1994 to December 1999)
 - Degree in Music Composition
 - Degree in Music Interpretation with a specialisation in Violin
-<!--
-#### Any other qualifications -->
-## Experience
-- **Villano** (September 2017 to May 2018) /
-  *TV Series Music Composer and Producer*
-- **The Guardian** (January 2016 to March 2016) /
-  *Music Composer and Producer for The Guardian Documentary "Quipu"*
-- **Mandarina Producciones** (April 2015 to August 2016) /
-  *Music Composer and Producer for TV Documentary*
-- **Alaska Films** (May 2013 to December 2016) /
-  *Music Composer and Producer for advertisements*
-- **Ceneca Producciones** (November 2004 to February 2015) /
-  *Music Composer and Producer for Feature Film:*
-  *"En la Cama", "Lo Bueno de Llorar", "La Vida de los Peces", "La Memoria del Agua"*
-- **De Wolf Music** (October 2014 to April 2015) /
-  *Music Composer for Library Music Album*
-- **Alexander Balanescu** (March 2013 to July 2013) /
-  *Music Assistant for Alexander Balanescu*
-- **Fabula Producciones** (June 2012 to July 2012) /
-  *Actor in Feature Film "Gloria", Directed by Sebastian Lelio*
-- **Taiga Films** (November 2011 to April 2012) /    
-  *Music Composer and Producer for Feature Film "A Memoria que me Contam"*
-- **Cine Estacion** (March 2011 to June 2011) /
-  *Music Composer and Producer for Feature Film "De Jueves a Domingo"*
-- **Ceneca Producciones** (June 2010 to July 2010) /
-  *Actor in Feature Film "La Vida de los Peces", Directed by Matias Bize*
-- **Teatro Cinema** (June 2005 to June 2011) /   
-  *Actor in plays "Gemelos" and "Sin Sangre", with more than 400 performances
-  in Europe, Asia and America*
-- **Estudio Libelula** (June 2003 to March 2005) /
-  *Music Composer and Producer for Advertisements*
 
-## Links
+## Experience
+
+- My tech projects on git:
 [Github](https://github.com/diegofontecilla)
 
-[LinkedIn](https://www.linkedin.com/in/danpelensky)
-
-[theatre_press](https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html)
-
-[theguardian_documentary](https://www.theguardian.com/world/ng-interactive/2017/feb/10/quipu-the-phone-line-calling-for-justice-in-peru-video)
-
+- Music composition and production(2005-2018):
+[music_web](http://diegofontecilla.com/)
 [imdb](https://www.imdb.com/name/nm2020909/?ref_=fn_al_nm_1)
 
-[music_web](http://diegofontecilla.com/)
+- Work as a professional actor(2005-2011):
+[theatre_press](https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html)
+[feature_film_gloria](https://www.imdb.com/title/tt2425486/?ref_=nm_knf_i2)
 
 ## Interests
-- Meditation
+- Zen Meditation
 - Yoga
 - Cinema
 - Nature
