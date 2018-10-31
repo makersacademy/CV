@@ -71,12 +71,12 @@ piano playing, yoga, zen meditation and currently software development.
 [Github](https://github.com/diegofontecilla?tab=repositories)
 
 - Music composition and production(2005-2018)
-[music_web](http://diegofontecilla.com/)
-[imdb](https://www.imdb.com/name/nm2020909/?ref_=fn_al_nm_1)
+1. [music_web](http://diegofontecilla.com/)
+1. [imdb](https://www.imdb.com/name/nm2020909/?ref_=fn_al_nm_1)
 
 - Work as a professional actor(2005-2011):
-*[theatre_press](https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html)*
-*[feature_film_gloria](https://www.imdb.com/title/tt2425486/?ref_=nm_knf_i2)*
+[theatre_press](https://www.nytimes.com/2007/07/12/theater/reviews/12geme.html)
+[feature_film_gloria](https://www.imdb.com/title/tt2425486/?ref_=nm_knf_i2)
 
 ## Interests
 - Zen Meditation
