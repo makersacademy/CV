@@ -29,7 +29,7 @@ I also have multiple interests such as ice-swimming and powerlifting that occupy
 
 ## Projects
 
-Project Name | Comment | Tech | Github Link | Hosted |
+Project | Comment | Tech | Github | Hosted |
 ------------ | ------ | ---- | -----| ---|
 **Post-Makers Projects:** 
 Anagram Tech Test (II) | Producing a frontend implementation of a simple anagram app created. This was produced in React and showcased my progress with css Grid | React | [Anagram-React](https://github.com/Whatapalaver/anagram_react) | [Heroku - Anagram](https://anagram-wolff.herokuapp.com/)
