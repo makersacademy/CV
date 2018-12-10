@@ -29,16 +29,17 @@ I also have multiple interests such as ice-swimming and powerlifting that occupy
 
 ## Projects
 
-Project Name | Comment | Tech | Link |
------------- | ------ | ---- | ----|
-Post-Makers Projects: 
-Anagram Tech Test (II) | Producing a frontend implementation of a simple anagram app created. This was produced in React and showcased my progress with css Grid | React | [Anagram-React](https://github.com/Whatapalaver/anagram_react)
-Pixie Labs Tech Test | A Simple Poker Card Game. A good test of TDD, OOP skills and the ability to create a full web app | Ruby and Sinatra | [Shuffle Decider](https://github.com/Whatapalaver/shuffle_decider)
-Birdie Tech Test | First post Makers tech test. Given login details for an AWS DB, the task was to create an API and display Census statisitics on a single page react app | Node.js, Express, MySQL and React | [Birdie](https://github.com/Whatapalaver/birdietest)
-Makers Projects:
+Project Name | Comment | Tech | Github Link | Hosted |
+------------ | ------ | ---- | -----| ---|
+**Post-Makers Projects:** 
+Anagram Tech Test (II) | Producing a frontend implementation of a simple anagram app created. This was produced in React and showcased my progress with css Grid | React | [Anagram-React](https://github.com/Whatapalaver/anagram_react) | [Heroku - Anagram](https://anagram-wolff.herokuapp.com/)
+Pixie Labs Tech Test | A Simple Poker Card Game. A good test of TDD, OOP skills and the ability to create a full web app | Ruby and Sinatra | [Shuffle Decider](https://github.com/Whatapalaver/shuffle_decider) | [Heroku - Shuffle](https://anagram-wolff.herokuapp.com/)
+Webscraping Tech Test | This was a time limited tech test with the challenge to scrape event details from a multipage ticketing website | Ruby with Nokogiri | [Ruby-webscrape](https://github.com/Whatapalaver/ruby_webscrape)
+Birdie Tech Test | First post Makers tech test. Given login details for an AWS DB, the task was to create an API and display Census statisitics on a single page react app | Node.js, Express, MySQL and React | [Birdie](https://github.com/Whatapalaver/birdietest) | [Census Live](https://birdie-tech-test.herokuapp.com/)
+**Makers Projects:**
 Makers Progress Log | Documenting my time across the 3 month Makers bootcamp with links to all the team and individual weekend projects | | [MakersLog](https://github.com/Whatapalaver/makers_progress/blob/master/README.md)
-Paddlr | Final team project. A live ping pong scorer with restful API and Slack Integration | Node.js, Express, MongoDB and React | [paddlr](https://github.com/Whatapalaver/paddlr)
-Instagram Challenge | Week 8 solo weekend challenge, where I was determined to understand Devise for user authentication. | Ruby on Rails | [Instagram](https://github.com/Whatapalaver/instagram-challenge)
+Paddlr | Final team project. A live ping pong scorer with restful API and Slack Integration | Node.js, Express, MongoDB and React | [paddlr](https://github.com/Whatapalaver/paddlr) | [Paddlr live](https://paddlr.live)
+Instagram Challenge | Week 8 solo weekend challenge, where I was determined to understand Devise for user authentication. | Ruby on Rails | [Instagram](https://github.com/Whatapalaver/instagram-challenge) | [Heroku-Instagram](https://whatapalavergram.herokuapp.com/)
 Bowling Scorer | Week 6 solo weekend challenge. I loved the technicality of ten pin scoring and learned a lot about DRY principles while trying to improve my solutions | Javascript (vanilla) | [BowlingJS](https://github.com/Whatapalaver/bowling-challenge)
 
 ## Skills
