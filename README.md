@@ -16,7 +16,7 @@
 [Interests ](#hobbies-and-interests)
 
 </div>
----------
+
 
 An energetic and values-driven full stack developer recently graduated from Makers, a Developer Bootcamp in London.  
 
