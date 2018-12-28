@@ -2,19 +2,21 @@
 
 [Github](https://github.com/Jeremy-Barrass)
 
-As a programmer, I'm a dreamer and idealistic visionary who wants to go ahead and make it real, to truly test the limits of the possible.  I have always had a vibrant and colourful inner world, to conquer and thought experiment in, reflected in the software I produce.  I've recently learned a lot about how to interact with computers at a level where I can build virtually anything my imagination might conceive.  I now know there's the real possiblity that I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can take part in our expansion outward into the cosmos.
+As a programmer, I remain a dreamer and idealistic visionary, and though this is now tempered with pragmatism about what can realistically be achieved in a given timescale, I still believe we should strive to make our ideals a reality.  I have always had a vibrant and colourful inner world, to conquer and thought experiment in, reflected in the software I produce.  I've learned a great deal in the last three years about competent programming, Agile practices, problem solving, good teamwork and pairing.  I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can take part in our expansion outward into the cosmos.
 
 ## Skills
 
 #### Problem Solving
 
-Enjoy solving puzzles and problems and have become very adroit at doing so, particularly during my time	at Makers Academy.
+A well practiced and capable problem solver, I enjoy the process of finding solutions to all varieties of obstacles.
 
-* Regularly solved problems of information provision and dissemination among colleagues and service users in previous roles: created crib sheets and instructional documents to summarise key information, improving workflow efficiency.
+* Provided solutions and helped resolve a broad variety of programmatic and product issues with my team at CTM: provided the solution to a redirect issue in our AMP pages, wrote the refactor to our SEO Tooling and helped navigate through to solutions for image compression in our CMS and asset storage in AWS.
 
-* Practised solving myriad software development problems over the duration of the course at Makers Academy.  Worked with pair partners to refactor and pass failing tests, configure test and development environments, and develop project ideas, creating a broad variety of github repos.
+* Practised solving myriad software development problems at Makers Academy.  Worked with pair partners to refactor and pass failing tests, configure test and development environments, and develop project ideas, creating a broad variety of github repos.
 
 * Engage in board games, computer games and pen-and-paper rpgs, promoting strategic thinking, conflict resolution and teamwork.  Includes a weekly Pathfinder gaming group, and the Magic: the Gathering group at Makers Academy.
+
+* Regularly solved problems of information provision and dissemination among colleagues and service users in previous roles: created crib sheets and instructional documents to summarise key information, improving workflow efficiency.
 
 #### Designing: Analysis, Planning & Research
 
@@ -61,6 +63,9 @@ Continuing self-directed learning via _Head First Java_ (Sierra & Bates, 2003).
 * Treasurer of the Role-playing Society for two years.
 
 ## Work
+
+**Compare The Martket** (July 2016 - Present)
+_Junior Software Engineer_
 
 **King's College Hospital** (Nov 2013 - Jan 2016)
 _Procurement Systems and Services Administrator_
