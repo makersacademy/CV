@@ -10,7 +10,7 @@ As a programmer, I remain a dreamer and idealistic visionary, and though this is
 
 A well practiced and capable problem solver, I enjoy the process of finding solutions to all varieties of obstacles.
 
-* Provided solutions and helped resolve a broad variety of programmatic and product issues with my team at CTM: provided the solution to a redirect issue in our AMP pages, wrote the refactor to our SEO Tooling and helped navigate through to solutions for image compression in our CMS and asset storage in AWS.
+* Provided solutions and helped resolve a broad variety of programmatic and product issues with my team at **Compare The Market** (CTM): provided the solution to a redirect issue in our AMP pages, wrote the refactor to our SEO Tooling and helped navigate through to solutions for image compression in our CMS and asset storage in AWS.
 
 * Practised solving myriad software development problems at Makers Academy.  Worked with pair partners to refactor and pass failing tests, configure test and development environments, and develop project ideas, creating a broad variety of github repos.
 
@@ -22,6 +22,8 @@ A well practiced and capable problem solver, I enjoy the process of finding solu
 
 Adept with managing the design process: breaking down processess and systems into components, to better understand how the whole fits together; building out step-by-step to achieve a goal, in a way others may easily follow; and gathering the relevant information to inform these two elements effectively.
 
+* At CTM, I designed and implemented a full refactor of our in-house SEO Tooling.  I also helped restructure the inheritance architecture of our CMS page types to better implement AMP pages in our solution.
+
 * At **King's College Hospital** (KCH), automated an inbox filing system to manage a high volume of emails, reducing time spent on this task significantly and allowing productivity improvements for other tasks.
 
 * Also at KCH, built a SQL script to work around an occasional bug in the user-management system, which meant new users were not always imported into the user database properly.
@@ -30,13 +32,15 @@ Adept with managing the design process: breaking down processess and systems int
 
 #### Support
 
-Throughout my vocational career and recent coding boot camp, I have supported people and projects, listening and rapidly responding to needs and requirements and endeavouring to anticipate how they may change as time progresses.
+Throughout my career, I have supported people and projects, listening and rapidly responding to needs and requirements and endeavouring to anticipate how they may change as time progresses.
+
+* CTM has given me extensive experience of Agile methodologies and practices which have complemented my 
 
 * In a role assigned from **Prospect Us**, I provided research project support across three departments.  My support allowed the research staff to gather, interpret and present their data within the projected timeline for the project.
 
-* Pairing with fellow cohort members during the boot camp allowed me to exercise these skills across many coding exercises, helping each other in turn to gain insights and experience into the design and construction process of software.
-
 * Provision of information and instruction to end users formed one of the core functions of my role at **King's College Hospital**, enabling colleagues on my team to improve productivity in other areas of their work.
+
+* Pairing with fellow cohort members during the boot camp allowed me to exercise these skills across many coding exercises, helping each other in turn to gain insights and experience into the design and construction process of software.
 
 
 ## Education
