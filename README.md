@@ -34,7 +34,7 @@ Adept with managing the design process: breaking down processess and systems int
 
 Throughout my career, I have supported people and projects, listening and rapidly responding to needs and requirements and endeavouring to anticipate how they may change as time progresses.
 
-* CTM has given me extensive experience of Agile methodologies and practices which have complemented my 
+* CTM has given me extensive experience of Agile methodologies and practices which have complemented my support skills developed in previous roles.
 
 * In a role assigned from **Prospect Us**, I provided research project support across three departments.  My support allowed the research staff to gather, interpret and present their data within the projected timeline for the project.
 
