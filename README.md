@@ -42,12 +42,7 @@ Throughout my career, I have supported people and projects, listening and rapidl
 
 * Pairing with fellow cohort members during the boot camp allowed me to exercise these skills across many coding exercises, helping each other in turn to gain insights and experience into the design and construction process of software.
 
-
 ## Education
-
-#### Java
-
-Continuing self-directed learning via _Head First Java_ (Sierra & Bates, 2003).
 
 #### Makers Academy (January to April 2016)
 
