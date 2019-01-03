@@ -38,7 +38,7 @@ Throughout my career, I have supported people and projects, listening and rapidl
 
 * In a role assigned from **Prospect Us**, I provided research project support across three departments.  My support allowed the research staff to gather, interpret and present their data within the projected timeline for the project.
 
-* Provision of information and instruction to end users formed one of the core functions of my role at **King's College Hospital**, enabling colleagues on my team to improve productivity in other areas of their work.
+* Provision of information and instruction to end users formed one of the core functions of my role at KCH, enabling colleagues on my team to improve productivity in other areas of their work.
 
 * Pairing with fellow cohort members during the boot camp allowed me to exercise these skills across many coding exercises, helping each other in turn to gain insights and experience into the design and construction process of software.
 
