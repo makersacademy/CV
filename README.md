@@ -35,6 +35,7 @@ I also have multiple interests such as ice-swimming and powerlifting that occupy
 Project | Comment | Tech | Github | Hosted |
 ------------ | ------ | ---- | -----| ---|
 Anagram Tech Test (II) | Producing a frontend implementation of a simple anagram app created. This was produced in React and showcased my progress with css Grid | React | [Anagram-React](https://github.com/Whatapalaver/anagram_react) | [Heroku - Anagram](https://anagram-wolff.herokuapp.com/)
+MultiRoute Tech Test | Creating a multipath text based story | Ruby and Sinatra | [Multi Route Text Game](https://github.com/Whatapalaver/tech_test_text_game) |
 Pixie Labs Tech Test | A Simple Poker Card Game. A good test of TDD, OOP skills and the ability to create a full web app | Ruby and Sinatra | [Shuffle Decider](https://github.com/Whatapalaver/shuffle_decider) | [Heroku - Shuffle](https://anagram-wolff.herokuapp.com/)
 Webscraping Tech Test | This was a time limited tech test with the challenge to scrape event details from a multipage ticketing website | Ruby with Nokogiri | [Ruby-webscrape](https://github.com/Whatapalaver/ruby_webscrape) |
 Birdie Tech Test | First post Makers tech test. Given login details for an AWS DB, the task was to create an API and display Census statisitics on a single page react app | Node.js, Express, MySQL and React | [Birdie](https://github.com/Whatapalaver/birdietest) | [Census Live](https://birdie-tech-test.herokuapp.com/)
