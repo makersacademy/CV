@@ -43,10 +43,10 @@ Throughout my career, I have supported people and projects, listening and rapidl
 * Pairing with fellow cohort members during the boot camp allowed me to exercise these skills across many coding exercises, helping each other in turn to gain insights and experience into the design and construction process of software.
 
 ## Familiar Tech
-* Cloud Computing: AWS, Consul, Terraform
-* System Monitoring: Prometheus, Grafana, Splunk, Eggplant Site Monitoring Services
-* Frameworks: Node, Moustache, Angular
-* Programming _et. al._ Languages: C Sharp, Java, Javascript, Ruby, Python, Sass
+* **Cloud Computing**: AWS, Consul, Terraform
+* **System Monitoring**: Prometheus, Grafana, Splunk, Eggplant Site Monitoring Services
+* **Frameworks**: Node, Moustache, Angular
+* **Programming _et. al._ Languages**: C Sharp, Java, Javascript, Ruby, Python, Sass
 
 ## Education
 
