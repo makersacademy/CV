@@ -33,18 +33,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, React, Redux
+- RSpec, Jasmine, Cypress
 
 #### University of Bristol (September 2012 - June 2016)
 
 - Mechanical Engineering
 - 2:1
-- Captained the University Korfball team (Yes it exists)
+- Captained the University Korfball team
 - Took a year out in 2014 to pursue a venture in Bitcoin Brokering
 
 #### Radley College (September 2010 - June 2012)
-- A Levels : A* in Mathematics, As in Further Mathematics, Physics and Geography
+- A Levels : 
+A* in Mathematics
+A in Further Mathematics
+A in Physics
+A in Geography
 
 ## Experience
 
