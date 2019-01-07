@@ -6,7 +6,7 @@ I have decided to hone my programming skills at Makers Academy so that I can rem
 
 ## Skills
 
-#### This Skill
+#### SOMETHING ACOUSTIC RELATED
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -14,14 +14,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Self taught web development
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+During a year out of University in 2014, a friend and I set up a Bitcoin Brokering business. We managed to set up a viable business by finding profitable artbitrage opportunities whilst minimizing any fees incurred through the banking system. This included developing a professional relationship with a major UK Bitcoin Exchange, and we were invited to their inaugral *Professional Bitcoin Brokers* meet. After a few months of trading, we decided to create a website using PHP, MySQL, html and javascript to minimise fees even further. We had never been taught any programming languages and embarked on the project utilising primarily youtube and stackoverflow. Despite finishing the project and deploying it on Amazon Web Services, we never went live as we weren't confident about handling financial transactions with our self learnt knowledge. 
 
 ## Education
 
@@ -43,12 +38,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Captained the University Korfball team
 - Took a year out in 2014 to pursue a venture in Bitcoin Brokering
 
-#### Radley College (September 2010 - June 2012)
-- A Levels : 
-A* in Mathematics
-A in Further Mathematics
-A in Physics
-A in Geography
+#### Radley College (September 2010 - June 2012) A-Levels
+
+- A* in Mathematics
+- A in Further Mathematics
+- A in Physics
+- A in Geography
+
+#### Kingston Grammer School (September 2005 - June 2010)
+
+-10 A* and As at GCSE 
 
 ## Experience
 
