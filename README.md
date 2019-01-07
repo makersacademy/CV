@@ -1,4 +1,11 @@
-## Alfie Freeman
+# Alfie Freeman CV #
+
+[Skills](#skills) | [Education](#education) | [Experience](#experience)
+-----------------
+
+<h4 align=center>Full Stack Makers Academy Graduate</h4>
+
+-----------------
 
 I have studied Engineering at University and then Acoustics whilst working for an Acoustic Engineering company and have always had a keen interest in programming. I have also worked as a Site Engineer at major construction sites in London such as 20 Fenchurch Street and in the Canary Wharf Estate.
 
@@ -6,15 +13,13 @@ I have decided to hone my programming skills at Makers Academy so that I can rem
 
 ## Skills
 
-#### SOMETHING ACOUSTIC RELATED
+#### Project Management
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Demonstrated through working as an Acoustic Engineer at Emtec Products Ltd
+- Managed projects on my own from initiation to completion
+- Worked alongside Clients, Design Teams, on-site Tradesmen and other Contractors 
 
-- Experience
-- Achievements
-- Evidence
-
-#### Self taught web development
+#### Self-taught Web Development 
 
 During a year out of University in 2014, a friend and I set up a Bitcoin Brokering business. We managed to set up a viable business by finding profitable artbitrage opportunities whilst minimizing any fees incurred through the banking system. This included developing a professional relationship with a major UK Bitcoin Exchange, and we were invited to their inaugral *Professional Bitcoin Brokers* meet. After a few months of trading, we decided to create a website using PHP, MySQL, html and javascript to minimise fees even further. We had never been taught any programming languages and embarked on the project utilising primarily youtube and stackoverflow. Despite finishing the project and deploying it on Amazon Web Services, we never went live as we weren't confident about handling financial transactions with our self learnt knowledge. 
 
@@ -47,7 +52,7 @@ During a year out of University in 2014, a friend and I set up a Bitcoin Brokeri
 
 #### Kingston Grammer School (September 2005 - June 2010)
 
--10 A* and As at GCSE 
+- 10 A* and As at GCSE 
 
 ## Experience
 
