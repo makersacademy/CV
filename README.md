@@ -16,7 +16,7 @@
 - Worked together with Clients, Design Teams, on-site Tradesmen and other Contractors
 - Managed smaller acoustic projects on my own from the design phase to completion during my time at Emtec.
 
-#### Curious
+#### Curious
 
 - Have always been curious to know how things work and as a child I was always designing and building things at home. This curiosity has led me to study Mechanical Engineering and Acoustic Engineering at University level, and then Programming at Makers Academy.   
 
@@ -60,7 +60,7 @@
 - Ruby, Rails, JavaScript, React, Redux
 - RSpec, Jasmine, Cypress
 
-#### Southbank University (October 2016 - June 2017)
+#### Southbank University (October 2016 - June 2017)
 
 - Studied Acoustics and Noise Control with merits in all modules attempted (5/6)
 - Sadly had to leave the course when I left my role in Acoustic Engineering
