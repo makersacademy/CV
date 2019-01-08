@@ -40,8 +40,8 @@
 
 |Project|Description|Tech|Testing|
 |:-:|:-:|:-:|:-:|
-|[__MakersRich__](https://github.com/toddpla/makersrich) |Worked alongside four fellow peers to build an educational online multiplayer Role Playing Game. We used React and Redux for the frontend and used Firebase to provide the database and online functionality. |JS, React, Redux, Firebase|Cypress, Jest|
-|[__Acebook__](https://github.com/toddpla/acebook-stars) | Used Rails to build the full clone in a week, with posts, comments and likes functionality. Rebuilt the frontend in React in the second week, and refactored the Rails product into an API to serve the frontend. Deployed the app on heroku.|Rails, JS, React|RSpec, Jest|
+|[__MakersRich__](https://github.com/toddpla/makersrich) |Worked alongside four fellow peers to build an educational online multiplayer role playing game. We used React and Redux for the frontend and Firebase to provide the database and online functionality. |JS, React, Redux, Firebase|Cypress, Jest|
+|[__Acebook__](https://github.com/toddpla/acebook-stars) | Used Rails to build a Facebook clone in a week, with posts, comments and likes functionality. Rebuilt the frontend in React in the second week, and refactored the Rails product into an API to serve the frontend. |Rails, JS, React|RSpec, Jest|
 |[__Sweet__](https://github.com/rbbri/sweet)| Collaborated with a colleague to build a JavaScript testing framework and published it as an NPM module. |JS|Sweet|
 
 
@@ -67,9 +67,7 @@
 
 #### University of Bristol (September 2012 - June 2016)
 
-- __2:1 Mechanical Engineering__
-- Captained the University Korfball team
-- Took a year out in 2014 to pursue a venture in Bitcoin Brokering
+- 2:1 in Mechanical Engineering
 
 #### Radley College (September 2010 - June 2012) A-Levels
 
