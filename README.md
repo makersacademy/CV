@@ -1,6 +1,6 @@
 # Alfie Freeman CV
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience)
+[Projects](#projects) | [Skills](#skills) |  [Experience](#experience) | [Education](#education)
 -----------------
 
 <h4 align=center>Full Stack Makers Academy Graduate</h4>
@@ -9,37 +9,69 @@
 
 ## Projects
 
-|Task|Solution|Tech Stack|
-|:-:|:-:|:-:|
-|__Makers Final Project__ Two week group project to showcase what we learnt through the 16 weeks of Makers Academy. Presented to a large audience.|[__MakersRich__](https://github.com/toddpla/makersrich) Worked alongside four fellow peers to build an educational online multiplayer Role Playing Game. We used React and Redux for the frontend and used Firebase to provide the database and online functionality. |JS, React, Redux, Firebase|
-|__Facebook Clone__ Two week engineering challenge at Makers Academy.  |[__Acebook__](https://github.com/toddpla/acebook-stars) Used Rails to build the full clone in a week, with posts, comments and likes functionality. Rebuilt the frontend in React in the second week, and refactored the Rails product into an API to serve the frontend. Deployed the app on heroku.|Rails, JS, React|
-|__Testing Framework__ Wanted to learn more about how testing frameworks and NPM packages are built.|[__test-sweet__](https://github.com/rbbri/sweet) Collaborated with a colleague to build a JavaScript testing framework and published it as an NPM module. |JS|
+|Project|Description|Tech|Testing|
+|:-:|:-:|:-:|:-:|
+|[__MakersRich__](https://github.com/toddpla/makersrich) |Worked alongside four fellow peers to build an educational online multiplayer Role Playing Game. We used React and Redux for the frontend and used Firebase to provide the database and online functionality. |JS, React, Redux, Firebase|Cypress, Jest|
+|[__Acebook__](https://github.com/toddpla/acebook-stars) | Used Rails to build the full clone in a week, with posts, comments and likes functionality. Rebuilt the frontend in React in the second week, and refactored the Rails product into an API to serve the frontend. Deployed the app on heroku.|Rails, JS, React|RSpec, Jest|
+|[__Sweet__](https://github.com/rbbri/sweet)| Collaborated with a colleague to build a JavaScript testing framework and published it as an NPM module. |JS|Sweet|
 
 ## Skills
 
 #### Project Management
 
-- Demonstrated through working as an Acoustic Engineer at Emtec Products Ltd
-- Managed projects on my own from initiation to completion
+- Managed teams of up to 15 people on major construction sites in London
 - Worked together with Clients, Design Teams, on-site Tradesmen and other Contractors
+- Managed smaller acoustic projects on my own from the design phase to completion during my time at Emtec.
+
+
+#### Curious
+
+- Have always been curious to know how things work and as a child I was always designing and building things at home. This curiosity has led me to study Mechanical Engineering and Acoustic Engineering at University level, and then Programming at Makers Academy.   
+
+#### Motivated
+
+- Back in 2014 I set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system. This led to the self-taught development of a website built in php, html and JavaScript in a couple of months.
+
+#### Creative
+
+- In my previous role as an Acoustic Engineer, I would often have to come up with bespoke designs to reduce the noise levels of domestic and commercial equipment, often with strict requirements such as space restrictions.
+
+#### Team Player
+
+- I have captained both Football and Korfball teams during my time at School and University, with the notable improvement of the Korfball team over my years involved a particular proud achievement of mine.
+
+#### Fast Learner
+
+- Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
+
+## Experience
+
+**Self Employed Bitcoin Broker** (September 2013 - June 2014)
+
+**Emtec Products Ltd** (September 2016 - September 2017)    
+- Junior Acoustic Engineer
+
+**Emtec Products Ltd** (Summers of 2012 - 2016)   
+- Junior Site Manager
 
 ## Education
 
 #### Makers Academy (October 2018 - December 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
+- 16 week coding bootcamp
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, React, Redux
 - RSpec, Jasmine, Cypress
 
+#### Southbank University (October 2016 - June 2017)
+
+- Studied Acoustics and Noise Control with merits in all modules attempted (5/6)
+- Sadly had to leave the course when I left my role in Acoustic Engineering
+
 #### University of Bristol (September 2012 - June 2016)
 
-- Mechanical Engineering
-- 2:1
+- __2:1 Mechanical Engineering__
 - Captained the University Korfball team
 - Took a year out in 2014 to pursue a venture in Bitcoin Brokering
 
@@ -53,23 +85,3 @@
 #### Kingston Grammer School (September 2005 - June 2010)
 
 - 10 A* and As at GCSE
-
-## Experience
-
-**Self Employed Bitcoin Broker** (September 2013 - June 2014)
-
-- Set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system
-- Created a website using PHP, MySQL, html and javascript with self taught knowledge
-- Deployed the website on AWS but never went live
-
-**Emtec Products Ltd** (September 2016 - September 2017)    
-*Junior Acoustic Engineer*  
-**Emtec Products Ltd** (Summers of 2012 - 2016)   
-*Junior Site Manager*  
-
-
-
-Notes
-
-
-During a year out of University in 2014, a friend and I set up a Bitcoin Brokering business. We managed to set up a viable business by finding profitable artbitrage opportunities whilst minimizing any fees incurred through the banking system. This included developing a professional relationship with a major UK Bitcoin Exchange, and we were invited to their inaugral *Professional Bitcoin Brokers* meet. After a few months of trading, we decided to create a website using PHP, MySQL, html and javascript to minimise fees even further. We had never been taught any programming languages and embarked on the project utilising primarily youtube and stackoverflow. Despite finishing the project and deploying it on Amazon Web Services, we never went live as we weren't confident about handling financial transactions with our self learnt knowledge.
