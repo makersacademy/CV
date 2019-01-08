@@ -1,20 +1,13 @@
 # Alfie Freeman CV
 
-[Projects](#projects) | [Skills](#skills) |  [Experience](#experience) | [Education](#education)
+[Skills](#skills) |  [Projects](#projects) | [Experience](#experience) | [Education](#education)
 -----------------
 
 <h4 align=center>Full Stack Makers Academy Graduate</h4>
 
+
+
 -----------------
-
-## Projects
-
-|Project|Description|Tech|Testing|
-|:-:|:-:|:-:|:-:|
-|[__MakersRich__](https://github.com/toddpla/makersrich) |Worked alongside four fellow peers to build an educational online multiplayer Role Playing Game. We used React and Redux for the frontend and used Firebase to provide the database and online functionality. |JS, React, Redux, Firebase|Cypress, Jest|
-|[__Acebook__](https://github.com/toddpla/acebook-stars) | Used Rails to build the full clone in a week, with posts, comments and likes functionality. Rebuilt the frontend in React in the second week, and refactored the Rails product into an API to serve the frontend. Deployed the app on heroku.|Rails, JS, React|RSpec, Jest|
-|[__Sweet__](https://github.com/rbbri/sweet)| Collaborated with a colleague to build a JavaScript testing framework and published it as an NPM module. |JS|Sweet|
-
 ## Skills
 
 #### Project Management
@@ -43,13 +36,20 @@
 
 - Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
 
+## Projects
+
+|Project|Description|Tech|Testing|
+|:-:|:-:|:-:|:-:|
+|[__MakersRich__](https://github.com/toddpla/makersrich) |Worked alongside four fellow peers to build an educational online multiplayer Role Playing Game. We used React and Redux for the frontend and used Firebase to provide the database and online functionality. |JS, React, Redux, Firebase|Cypress, Jest|
+|[__Acebook__](https://github.com/toddpla/acebook-stars) | Used Rails to build the full clone in a week, with posts, comments and likes functionality. Rebuilt the frontend in React in the second week, and refactored the Rails product into an API to serve the frontend. Deployed the app on heroku.|Rails, JS, React|RSpec, Jest|
+|[__Sweet__](https://github.com/rbbri/sweet)| Collaborated with a colleague to build a JavaScript testing framework and published it as an NPM module. |JS|Sweet|
+
+
 ## Experience
 
 **Self Employed Bitcoin Broker** (September 2013 - June 2014)
 
-**Emtec Products Ltd** (September 2016 - September 2017)    
-
-**Emtec Products Ltd** (Summers of 2012 - 2016)   
+**Emtec Products Ltd** (Summers of 2012 - 2016, Full-time September 2016 - September 2017)    
 
 ## Education
 
