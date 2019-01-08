@@ -23,7 +23,6 @@
 - Worked together with Clients, Design Teams, on-site Tradesmen and other Contractors
 - Managed smaller acoustic projects on my own from the design phase to completion during my time at Emtec.
 
-
 #### Curious
 
 - Have always been curious to know how things work and as a child I was always designing and building things at home. This curiosity has led me to study Mechanical Engineering and Acoustic Engineering at University level, and then Programming at Makers Academy.   
@@ -49,18 +48,15 @@
 **Self Employed Bitcoin Broker** (September 2013 - June 2014)
 
 **Emtec Products Ltd** (September 2016 - September 2017)    
-- Junior Acoustic Engineer
 
 **Emtec Products Ltd** (Summers of 2012 - 2016)   
-- Junior Site Manager
 
 ## Education
 
 #### Makers Academy (October 2018 - December 2018)
 
 - 16 week coding bootcamp
-- OOP, TDD, MVC, DDD
-- Agile/XP
+- Heavily focused on TDD and Object OOD.
 - Ruby, Rails, JavaScript, React, Redux
 - RSpec, Jasmine, Cypress
 
@@ -82,6 +78,6 @@
 - A in Physics
 - A in Geography
 
-#### Kingston Grammer School (September 2005 - June 2010)
+#### Kingston Grammar School (September 2005 - June 2010)
 
 - 10 A* and As at GCSE
