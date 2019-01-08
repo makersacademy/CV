@@ -19,10 +19,6 @@ I have decided to hone my programming skills at Makers Academy so that I can rem
 - Managed projects on my own from initiation to completion
 - Worked alongside Clients, Design Teams, on-site Tradesmen and other Contractors 
 
-#### Self-taught Web Development 
-
-During a year out of University in 2014, a friend and I set up a Bitcoin Brokering business. We managed to set up a viable business by finding profitable artbitrage opportunities whilst minimizing any fees incurred through the banking system. This included developing a professional relationship with a major UK Bitcoin Exchange, and we were invited to their inaugral *Professional Bitcoin Brokers* meet. After a few months of trading, we decided to create a website using PHP, MySQL, html and javascript to minimise fees even further. We had never been taught any programming languages and embarked on the project utilising primarily youtube and stackoverflow. Despite finishing the project and deploying it on Amazon Web Services, we never went live as we weren't confident about handling financial transactions with our self learnt knowledge. 
-
 ## Education
 
 #### Makers Academy (October 2018 - December 2018)
@@ -56,7 +52,20 @@ During a year out of University in 2014, a friend and I set up a Bitcoin Brokeri
 
 ## Experience
 
+**Self Employed Bitcoin Broker** (September 2013 - June 2014)
+
+- Set up a viable business by finding profitable artbitrage opportunities whilst minimizing any fees incurred through the banking system
+- Created a website using PHP, MySQL, html and javascript with self taught knowledge
+- Deployed the website on AWS but never went live
+
 **Emtec Products Ltd** (September 2016 - September 2017)    
 *Junior Acoustic Engineer*  
 **Emtec Products Ltd** (Summers of 2012 - 2016)   
 *Junior Site Manager*  
+
+
+
+Notes 
+
+
+During a year out of University in 2014, a friend and I set up a Bitcoin Brokering business. We managed to set up a viable business by finding profitable artbitrage opportunities whilst minimizing any fees incurred through the banking system. This included developing a professional relationship with a major UK Bitcoin Exchange, and we were invited to their inaugral *Professional Bitcoin Brokers* meet. After a few months of trading, we decided to create a website using PHP, MySQL, html and javascript to minimise fees even further. We had never been taught any programming languages and embarked on the project utilising primarily youtube and stackoverflow. Despite finishing the project and deploying it on Amazon Web Services, we never went live as we weren't confident about handling financial transactions with our self learnt knowledge. 
