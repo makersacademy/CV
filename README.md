@@ -7,9 +7,12 @@
 
 -----------------
 
-I have studied Engineering at University and then Acoustics whilst working for an Acoustic Engineering company and have always had a keen interest in programming. I have also worked as a Site Engineer at major construction sites in London such as 20 Fenchurch Street and in the Canary Wharf Estate.
+## Projects
 
-I have decided to hone my programming skills at Makers Academy so that I can remain useful in an ever changing world where it seems that software engineering is becoming the most interesting and fast moving field around.  
+|Task|Solution|Tech Stack|
+|:-:|:-:|:-:|
+|__Makers Final Project__ We were tasked to conceive an idea and present a working viable product in two weeks. |__MakersRich__ Worked alongside four fellow peers to build an educational online multiplayer Role Playing Game. We used React and Redux for the frontend and used Firebase to provide the database and online functionality. |JS, React, Redux|
+|__Facebook Clone__ We built a Facebook clone in Rails in two weeks. After one week, we were tasked to rebuild the frontend in React. |__Acebook__ Used Rails to build the full clone in a week, with posts, comments and likes functionality. Rebuilt the frontend in React in the second week, and refactored the Rails product into an API to serve the frontend. Deployed the app on heroku.|Ruby on Rails, React|
 
 ## Skills
 
