@@ -5,9 +5,8 @@
 
 <h4 align=center>Full Stack Makers Academy Graduate</h4>
 
-- passionate about cryptocurrency and emergin Tech
-- recently found passion for React and Redux
-- problem solving upbringing
+Full stack recent Makers Academy graduate with a strong aptitude for picking up new technologies. My background in engineering has equipped me with a natural problem solving skillset and an eagerness to learn. I am particularly passionate about Cryptocurrencies and other exciting emerging technology and am looking to start a career in the burgeoning London tech scene with opportunities to expand my knowledge as a Developer. 
+
 
 -----------------
 ## Projects
@@ -20,31 +19,20 @@
 
 ## Skills
 
-#### Teamwork
+**Fast Learner** - Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
 
-- I have captained both Football and Korfball teams during my time at School and University, with the notable improvement of the Korfball team over my years involved a particular proud achievement of mine.
+**Teamwork** - Used Agile (scrum) processes to help complete a particularly ambitious group project at Makers Academy. Working together we achieved far more than we could have working individually - and enjoyed the two weeks immensely. 
+- I have captained both Football and Korfball teams during my time at School and University, with the notable improvement of the Korfball team over my years involved a particularly proud achievement of mine.
 
-#### Project Management
+**Motivated** - Back in 2014 I set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system. This led to the self-taught development of a website to sell Bitcoin built in php, html and JavaScript in a couple of months.
 
-- Managed teams of up to 15 people on major construction sites in London
+**Project Management** - Managed teams of up to 15 people on major construction sites in London
 - Worked together with Clients, Design Teams, on-site Tradesmen and other Contractors
 - Managed smaller acoustic projects on my own from the design phase to completion during my time at Emtec.
 
-#### Motivated
+**Creative** - In my previous role as an Acoustic Engineer, I would often have to come up with bespoke designs to reduce the noise levels of domestic and commercial equipment, often with strict requirements such as space restrictions.
 
-- Back in 2014 I set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system. This led to the self-taught development of a website to sell Bitcoin built in php, html and JavaScript in a couple of months.
-
-#### Creative
-
-- In my previous role as an Acoustic Engineer, I would often have to come up with bespoke designs to reduce the noise levels of domestic and commercial equipment, often with strict requirements such as space restrictions.
-
-#### Fast Learner
-
-- Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
-
-#### Curious
-
-- Have always been curious to know how things work and as a child I was always designing and building things at home. This curiosity has led me to study Mechanical Engineering and Acoustic Engineering at University level, and then Programming at Makers Academy.   
+**Curious** - Have always been curious to know how things work and as a child I was always designing and building things at home. This curiosity has led me to study Mechanical Engineering and Acoustic Engineering at University level, and then Programming at Makers Academy.   
 
 ## Experience
 
@@ -56,9 +44,9 @@
 
 #### Makers Academy (September 2018 - December 2018)
 
-- Intense 16 week coding bootcamp
+- Intense 16 week coding bootcamp focused on teaching Agile, TDD and pair programming. 
 - Technologies used
-  - Ruby, Rails, JavaScript, React, Redux
+  - Ruby, Rails, JavaScript, React, Redux, postgreSQL
 - Testing Frameworks used
   - RSpec, Jasmine, Cypress, Jest
 
