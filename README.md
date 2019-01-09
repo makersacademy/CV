@@ -5,7 +5,7 @@
 
 <h4 align=center>Full Stack Makers Academy Graduate</h4>
 
-Full stack recent Makers Academy graduate with a strong aptitude for picking up new technologies. My background in engineering has equipped me with a high level of technical knowledge, a natural problem solving skillset and an eagerness to learn. I am particularly passionate about Cryptocurrencies and other exciting emerging technology and am looking to start a career in the burgeoning London tech scene with opportunities to expand my knowledge as a Developer. 
+Full stack recent Makers Academy graduate with a strong aptitude for picking up new technologies. My background in engineering has equipped me with a high level of technical knowledge, a natural problem solving skillset and an eagerness to learn. I am particularly passionate about Cryptocurrencies and other exciting emerging technology and am looking to start a career in the burgeoning London tech scene with immediate opportunities to expand my knowledge as a Developer. 
 
 
 -----------------
