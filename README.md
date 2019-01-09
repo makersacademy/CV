@@ -60,7 +60,7 @@
 - Testing Frameworks used
   - RSpec, Jasmine, Cypress, Jest
 
-#### Southbank University (October 2016 - June 2017)
+#### Southbank University (October 2016 - June 2017)
 
 - Studied Acoustics and Noise Control with merits in all modules (5/6)
 - Sadly had to leave the course when I left my role in Acoustic Engineering
