@@ -5,7 +5,9 @@
 
 <h4 align=center>Full Stack Makers Academy Graduate</h4>
 
-
+- passionate about cryptocurrency and emergin Tech
+- recently found passion for React and Redux
+- problem solving upbringing
 
 -----------------
 ## Projects
@@ -62,7 +64,7 @@
 
 #### Southbank University (October 2016 - June 2017)
 
-- Studied Acoustics and Noise Control with merits in all modules (5/6)
+- Studied an Acoustics and Noise Control Diploma with merits in all modules (5/6)
 - Sadly had to leave the course when I left my role in Acoustic Engineering
 
 #### University of Bristol (September 2012 - June 2016)
