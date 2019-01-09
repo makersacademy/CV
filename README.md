@@ -26,7 +26,8 @@ Full stack recent Makers Academy graduate with a strong aptitude for picking up 
 - Used Agile (scrum) processes to help complete a particularly ambitious group project at Makers Academy. Working together we achieved far more than we could have working individually - and enjoyed the two weeks immensely. 
 - I have captained both Football and Korfball teams during my time at School and University, with the notable improvement of the Korfball team over my years involved a particularly proud achievement of mine.
 
-**Motivated** - Back in 2014 I set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system. This led to the self-taught development of a website to sell Bitcoin built in php, html and JavaScript in a couple of months.
+**Motivated** 
+- Back in 2014 I set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system. This led to the self-taught development of a website to sell Bitcoin built in php, html and JavaScript in a couple of months.
 
 **Project Management** 
 - Managed teams of up to 15 people on major construction sites in London
