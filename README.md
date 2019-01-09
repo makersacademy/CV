@@ -19,20 +19,25 @@ Full stack recent Makers Academy graduate with a strong aptitude for picking up 
 
 ## Skills
 
-**Fast Learner** - Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
+**Fast Learner** 
+- Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
 
-**Teamwork** - Used Agile (scrum) processes to help complete a particularly ambitious group project at Makers Academy. Working together we achieved far more than we could have working individually - and enjoyed the two weeks immensely. 
+**Teamwork** 
+- Used Agile (scrum) processes to help complete a particularly ambitious group project at Makers Academy. Working together we achieved far more than we could have working individually - and enjoyed the two weeks immensely. 
 - I have captained both Football and Korfball teams during my time at School and University, with the notable improvement of the Korfball team over my years involved a particularly proud achievement of mine.
 
 **Motivated** - Back in 2014 I set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system. This led to the self-taught development of a website to sell Bitcoin built in php, html and JavaScript in a couple of months.
 
-**Project Management** - Managed teams of up to 15 people on major construction sites in London
+**Project Management** 
+- Managed teams of up to 15 people on major construction sites in London
 - Worked together with Clients, Design Teams, on-site Tradesmen and other Contractors
 - Managed smaller acoustic projects on my own from the design phase to completion during my time at Emtec.
 
-**Creative** - In my previous role as an Acoustic Engineer, I would often have to come up with bespoke designs to reduce the noise levels of domestic and commercial equipment, often with strict requirements such as space restrictions.
+**Creative** 
+- In my previous role as an Acoustic Engineer, I would often have to come up with bespoke designs to reduce the noise levels of domestic and commercial equipment, often with strict requirements such as space restrictions.
 
-**Curious** - Have always been curious to know how things work and as a child I was always designing and building things at home. This curiosity has led me to study Mechanical Engineering and Acoustic Engineering at University level, and then Programming at Makers Academy.   
+**Curious** 
+- Have always been curious to know how things work and as a child I was always designing and building things at home. This curiosity has led me to study Mechanical Engineering and Acoustic Engineering at University level, and then Programming at Makers Academy.   
 
 ## Experience
 
