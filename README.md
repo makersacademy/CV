@@ -56,7 +56,7 @@ Makers' Academy feels fundamentally different to other educational experiences I
 
 - The pair programming teaching model at Makers has made me a stronger programmer. I'm forced to work constantly with different people and adapt my workflow to suit their way of working and produce the best possible code.
 
-- The relentless focus on best working practises and Test Driven Development has made me into a devloper who feels ready to work within a team on real world exciting projects.
+- The relentless focus on best working practises and Test Driven Development has made me into a developer who feels ready to work within a team on real world exciting projects.
 
 
 
@@ -90,7 +90,6 @@ I took a training course run by Paremus Ltd which trained me in the basics of us
 - 5 A's
 - 3 B's
 
-  
 
 
 ## Work Experience
