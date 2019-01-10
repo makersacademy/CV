@@ -20,10 +20,10 @@ Full stack recent Makers Academy graduate with a strong aptitude for picking up 
 ## Skills
 
 **Fast Learner** 
-- Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
+- Whilst building a Facebook Clone during Makers Academy, we were tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
 
 **Teamwork** 
-- Used Agile (scrum) processes to help complete a particularly ambitious group project at Makers Academy. Working together we achieved far more than we could have working individually - and enjoyed the two weeks immensely. 
+- Used Agile (scrum) processes to help complete the particularly ambitious group project, [Makersrich](https://github.com/toddpla/makersrich), at Makers Academy. Working together we achieved far more than we could have working individually - and enjoyed the two weeks immensely. 
 - I have captained both Football and Korfball teams during my time at School and University, with the notable improvement of the Korfball team over my years involved a particularly proud achievement of mine.
 
 **Motivated** 
