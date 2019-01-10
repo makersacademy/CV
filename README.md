@@ -1,12 +1,12 @@
 ## Oliver Baum
 
-I'm a former theatre technician, wanting to turn my love for productivity and automation scripting into a career. I aim to build apps and websites implementing features that make people's lives better, happier and more productive.
+Tinkerer, builder and lifetime learner. I aim to build apps and websites implementing features that make people's lives better, happier and more productive.
 
 ## Skills
 
 #### Building/Fixing stuff
 
-I'm from a family of hobbyist crafters, DIYers and  builders. In that environment, it's hard not to inherit the make-do and mend attitude to life. Working in technical theatre, I regularly have to learn a new skill in order to build or fix something or assist with the running of a production, whether it's learning how to roll cigarettes for an onstage smoking scene, upholstering furniture or using a new sound desk. I think this constant cycle of learning skills is key to my new life as a developer where I will constantly be forced to learn new languages and tools in order to build projects.
+I'm from a family of hobbyist crafters, DIYers and  builders. In that environment, it's hard not to inherit the make-do and mend attitude to life. As a former theatre technician, I regularly had to learn a new skill in order to build or fix something or assist with the running of a production, whether it was learning how to roll cigarettes for an onstage smoking scene, upholstering furniture or using a new sound desk. I think this constant cycle of learning skills is key to my life as a developer where I am constantly forced to learn new languages and tools in order to build projects.
 
 #### Scripting
 
@@ -14,20 +14,55 @@ I was first attracted to programming when trying to make using my mac faster and
 
 #### Self-teaching
 
-I love to learn. At A level I took an extra subject by choice, and later self taught myself Latin and Further Maths and took an English Literature course. Learning to organise my own education made me learn a lot about how I learn, but mostly I learnt that teaching yourself *entirely* on your own is really difficult! Now that I'm at Maker's academy, I hope to make the most of working with and around other people to challenge my thinking and accelerate my learning.
+I love to learn. After an extreme teenage envy of a friend's talent on piano, I taught myself to play from scratch. At A level I took an extra subject by choice, and later self taught myself Latin and Further Maths and English Literature. Learning to organise my own education made me learn a lot about how I learn, but mostly I learnt that teaching yourself *entirely* on your own is really difficult! However, inner curiosity is an irrepressable part of my personality, I like learning for its own sake. Learning programming at Makers Academy continued in that tradition of self-driven learning, but gave me the support needed to identify processes to manage my own learning and how best to use those around me to accelerate my learning.
+
+
+
+## Projects
+
+#### Makers
+
+These were all projects undertaken at Makers' Academy in groups of 4 using an Agile workflow, involving 2 day sprints. They are test driven and 
+
+- [Acebook](https://github.com/olliebaum/acebook-COAD) - A clone of Acebook built in two weeks whilst learning Rails from scratch. 
+- [Final Project](https://github.com/olliebaum/final-project) - A to-do app that renders to-dos visually as a garden. Written with React and Rails. Tested with Jest + Enzyme.
+
+Self-led Makers' projects undertaken over the course of a weekend.
+
+- [Bowling Challenge](https://github.com/olliebaum/bowling-challenge) - A bowling scorecard web-app tested with Jest and Puppeteer.
+
+
+
+## Hobbies
+
+- **Amateur pianist** Learning to decode and read music has many similarities to coding. The process of refining and developing a musical skill is helpful in understanding how to streamline fluency with code, and learning new pieces out of my musical comfort zone can be much like learning new programming languages.
+
+- **Board games and puzzle fiend** I love logic puzzles and quizzes (Only Connect rules!). Engaging with games that require different strategies and figuring out their logic is immensely satisfying, and I'm trying to teach myself to solve cryptic crosswords. (Don't play me at chess though - I'm woeful)
+
+- **Building/making things**  I belong to a makerspace where I work on electronics projects and make cool things. This partly stemmed from a childhood fascination for Stop Motion Animation films where in attempts to make my own films, I learnt to sculpt puppets and build mini sets, and later from my career in theatre where I had to make props and build full size sets. 
+
+
 
 ## Education
 
 #### Makers' Academy, London (August 2018 to November 2018)
-*A prestigious intensive 16 week bootcamp designed to produce students confident in **OOP, TDD, MVC + DDD** programming, and **Agile** work practices.*
+*A prestigious intensive 16 week bootcamp designed to produce students confident in **OOP, TDD, MVC** programming, and **Agile** work practices.*
 
-- Languages/tools learnt: **Ruby, Rails, JavaScript, RSpec, Jasmine**
+Makers' Academy feels fundamentally different to other educational experiences I've had. Learning is self-driven, and much of the learning experience comes from the near professional atmosphere of the learning where students are encouraged to work in pairs, engage in multiple group projects, and use Agile practices to closely mirror a real-world working environment. The experience feels more like 3 months of professional experience than an educational course.
 
-- Maker's academy drives me to learn the key concepts of programming at an intense pace, while still giving me the freedom to spend time consolidating topics or reading ahead to the next material.
+- Languages/tools learnt: **Ruby, Rails, JavaScript, React, RSpec, Jasmine** and the rest...
 
-- The pair programming teaching model at Makers is making me a stronger programmer. I'm forced to work constantly with different people and adapt my workflow to suit their way of working and produce the best possible code.
+- Makers' academy has driven me to learn the key concepts of programming at an intense pace, while still giving me the freedom to spend time consolidating topics or reading ahead to the next material. I am not afraid to take on new technology and build with a previously unknown tool.
 
-- I want to use blogging, social media and public speaking as an opportunity to fuel my interests and improve my confidence as a member of the dev community.
+- The pair programming teaching model at Makers has made me a stronger programmer. I'm forced to work constantly with different people and adapt my workflow to suit their way of working and produce the best possible code.
+
+
+#### Paremus OSGi Training course (June 2017)
+
+*[OSGi](https://www.osgi.org/) is a framework and set of guidelines that assists in creating and managing modular code in Java.*
+
+I took a training course run by Paremus Ltd which trained me in the basics of using OSGi with Java. I had no prior experience in Java before this so had to self teach before attending. This was a valuable experience learning alongside Senior Java developers from Credit Suisse and Computer Science students.
+
 
 
 #### Glasgow University 2012 - 2013 (Incomplete)
@@ -54,7 +89,36 @@ I love to learn. At A level I took an extra subject by choice, and later self ta
 
 - 3 B's
 
+
+## Work Experience
+
+**Voices for Hospices website** (2015)  
+Maintenance and troubleshooting, fixing bugs + issues on WordPress, image editing.
+
+**Stanley School Library** (2014 - 2015)   
+Setting up library barcode software, enrolling new students, encouraging kids to read. 
+
+**Patrons Department at the Royal Academy** (2012 - 2013)  
+Helping out with mailings, memberships + invoices. Also photographer for events.
+
+
+
 ## Employment
+
+#### <u>Programming</u>  
+
+**Paremus.com** (Dec 2015)  
+*Web developer*
+
+Fixing WordPress bugs, creating a syndicated blog + adding improved Twitter support.
+
+This was a really excellent opportunity to work on a live website, fixing changes that broke code and working to a given specification all while having to manage my time efficiently to be cost effective.
+
+
+
+#### <u>Other</u>
+
+Undertaken so I could afford the course at Makers academy. I'll turn my hand to whatever I must to achieve my ambitions.
 
 **KFC** (May - July 2018)  
 *Team member* 
@@ -63,6 +127,10 @@ Serving customers, packing orders, prepping and cooking menu items, cleaning and
 
 **UberEATS** (2018)  
 *Delivery Cyclist*
+
+
+
+#### <u>Theatre</u>
 
 **Jermyn Street Theatre** (Apr - May 2018)  
 *'Tonight at 8:30', 'Tomorrow at Noon'*  
@@ -95,19 +163,3 @@ Deconstructing sets, staging, and installing new theatre sets for multiple shows
 *Assistant Set Builder*
 
 Construction, carpentry, installation.
-
-**Paremus.com** (Dec 2015)  
-*Web developer*
-
-Fixing WordPress bugs, creating a syndicated blog + adding improved Twitter support.
-
-## Work Experience
-
-**Voices for Hospices website** (2015)  
-Maintenance and troubleshooting, fixing bugs + issues on WordPress, image editing.
-
-**Stanley School Library** (2014 - 2015)   
-Setting up library barcode software, enrolling new students, encouraging kids to read.
-
-**Patrons Department at the Royal Academy** (2012 - 2013)  
-Helping out with mailings, memberships + invoices. Also photographer for events.
