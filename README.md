@@ -5,41 +5,44 @@
 
 <h4 align=center>Full Stack Makers Academy Graduate</h4>
 
-Full stack recent Makers Academy graduate with a strong aptitude for picking up new technologies. My background in engineering has equipped me with a high level of technical knowledge, a natural problem solving skillset and an eagerness to learn. I am particularly passionate about Cryptocurrencies and other exciting emerging technology and am looking to start a career in the booming London tech scene with immediate opportunities to expand my knowledge as a Developer. 
+Full stack recent Makers Academy graduate with a strong aptitude for picking up new technologies. My background in engineering has equipped me with a high level of technical knowledge, a natural problem solving skill-set and an eagerness to learn. I am particularly passionate about cryptocurrencies and other exciting emerging technology and am looking to start a career in the booming London tech scene with immediate opportunities to expand my knowledge as a Developer.
 
 
 -----------------
 ## Projects
 
 |Project|Description|Tech|Testing|
-|:-:|:-:|:-:|:-:|
-|[__MakersRich__](https://github.com/toddpla/makersrich) [<img src='./assets/Github-Mark.png'/>](https://github.com/toddpla/makersrich) |Worked alongside four fellow peers to build an educational online multiplayer role playing game. We used React and Redux for the frontend and Firebase to provide the database and online functionality. |__JS, React, Redux, Firebase__|__Cypress, Jest__|
-|[__Acebook__](https://github.com/toddpla/acebook-stars) [<img src='./assets/Github-Mark.png'/>](https://github.com/toddpla/acebook-stars)| Used Rails to build a Facebook clone in a week, with posts, comments and likes functionality. Rebuilt the frontend in React in the second week, and refactored the Rails product into an API to serve the frontend. |__Rails, JS, React__|__RSpec, Jest__|
+|:-:|-|:-:|:-:|
+|[__MakersRich__](https://github.com/toddpla/makersrich) [<img src='./assets/Github-Mark.png'/>](https://github.com/toddpla/makersrich) |Worked alongside four fellow software engineers to build an educational online multiplayer role playing game. We used React and Redux for the frontend and Firebase to provide the database and asynchronous functionality. |__JS__ <br> __React__ <br>  __Redux__ <br> __Firebase__|__Cypress__ <br> __Jest__|
+|[__Acebook__](https://github.com/toddpla/acebook-stars) [<img src='./assets/Github-Mark.png'/>](https://github.com/toddpla/acebook-stars)| Used Rails to build a Facebook clone in a week, with posts, comments and likes functionality. Rebuilt the frontend in React in the second week, and refactored the Rails product into an API to serve the frontend. |__Rails__<br> __JS__ <br> __React__|__RSpec__ <br> __Jest__|
 |[__Test-Sweet__](https://github.com/rbbri/sweet) [<img src='./assets/Github-Mark.png'/>](https://github.com/rbbri/sweet)| Collaborated with a colleague to build a JavaScript testing framework and published it as an [NPM package](https://www.npmjs.com/package/test-sweet). |__JS__|__Test-Sweet__|
 
 ## Skills
 
-**Fast Learner** 
-- Whilst building a Facebook Clone during Makers Academy, we were tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
+<!-- dont need bullet points if just one point  - make more than one point maybe?-->
 
-**Teamwork** 
-- Used Agile (scrum) processes to help complete the particularly ambitious group project, [Makersrich](https://github.com/toddpla/makersrich), at Makers Academy. Working together we achieved far more than we could have working individually - and enjoyed the two weeks immensely. 
+**Fast Learner** <br>
+Whilst building a Facebook Clone during Makers Academy, we tasked to rebuild the frontend in React - a new language to us at the time. I picked up the language very quickly and within a week could fluently build React components and manage data flow with Redux.
+
+**Teamwork**
+- Used Agile (scrum) processes to help complete a particularly ambitious group project at Makers Academy. Working together we achieved far more than we could have working individually and enjoyed the two weeks immensely.
 - I have captained both Football and Korfball teams during my time at School and University, with the notable improvement of the Korfball team over my years involved a particularly proud achievement of mine.
 
-**Motivated** 
-- Back in 2014 I set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system. 
+**Motivated**
+- Back in 2014 I set up a viable business by finding profitable arbitrage opportunities whilst minimising any fees incurred through the banking system. The company was profiting £3k/month.
 - This passion led to the self-taught development of a website to broker Bitcoin built in php, html and JavaScript in a couple of months.
 
-**Project Management** 
+**Project Management**
 - Managed teams of up to 15 people on major construction sites in London
-- Worked together with Clients, Design Teams, on-site Tradesmen and other Contractors
-- Managed smaller acoustic projects on my own from the design phase to completion during my time at Emtec.
+- Worked together with clients, design teams, on-site tradesmen and other contractors
+- Managed acoustic projects on my own from the design phase to completion during my time at Emtec.
 
-**Creative** 
-- In my previous role as an Acoustic Engineer, I would often have to come up with bespoke designs to reduce the noise levels of domestic and commercial equipment, often with strict requirements such as space restrictions.
 
-**Curious** 
-- Have always been curious to know how things work and as a child I was always designing and building things at home. This curiosity has led me to study Mechanical Engineering and Acoustic Engineering at University level, and then Programming at Makers Academy.   
+**Creative** <br>
+In my previous role as an Acoustic Engineer, I would often have to come up with bespoke designs to reduce the noise levels of domestic and commercial equipment, often with strict requirements such as space restrictions.
+
+**Curious** <br>
+Have always been curious to know how things work and as a child I was always designing and building things at home. This curiosity has led me to study Mechanical Engineering and Acoustic Engineering at University level, and then Programming at Makers Academy.   
 
 ## Experience
 
@@ -51,7 +54,7 @@ Full stack recent Makers Academy graduate with a strong aptitude for picking up 
 
 #### Makers Academy (September 2018 - December 2018)
 
-- Intense 16 week coding bootcamp focused on teaching Agile, TDD and pair programming. 
+- Intense 16 week coding bootcamp focused on teaching Agile, TDD and pair programming.
 - Technologies used
   - Ruby, Rails, JavaScript, React, Redux, postgreSQL
 - Testing Frameworks used
@@ -77,10 +80,10 @@ Full stack recent Makers Academy graduate with a strong aptitude for picking up 
 
 - 10 A* and As at GCSE
 
-## Interests 
+## Interests
 
 - Cryptocurrency
 - Korfball
 - Chess
 - Reading
-- Nature 
+- Nature
