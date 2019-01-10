@@ -1,6 +1,6 @@
 ## Oliver Baum
 
-Tinkerer, builder and lifetime learner. I aim to build apps and websites implementing features that make people's lives better, happier and more productive.
+Tinkerer, builder and lifelong learner with irrepressible curiosity for life. Ex theatre technician turned software programmer. I aim to build apps and websites implementing features that make people's lives better, happier and more productive.
 
 ## Skills
 
@@ -18,6 +18,15 @@ I love to learn. After an extreme teenage envy of a friend's talent on piano, I 
 
 
 
+## Hobbies
+
+- **Amateur pianist**  I love classical music and arranging old film music.
+
+- **Board games and puzzle fiend**  I love games, puzzles and quizzes. (Only Connect rules!)
+
+- **Building/making things**  I belong to a communal workshop where I work on electronics projects and make cool things.
+
+
 ## Projects
 
 #### Makers
@@ -29,17 +38,8 @@ These were all projects undertaken at Makers' Academy in groups of 4 using an Ag
 
 Self-led Makers' projects undertaken over the course of a weekend.
 
-- [Bowling Challenge](https://github.com/olliebaum/bowling-challenge) - A bowling scorecard web-app tested with Jest and Puppeteer.
+- [Bowling Challenge](https://github.com/olliebaum/bowling-challenge) - A bowling scorecard web app tested with Jest and Puppeteer.
 
-
-
-## Hobbies
-
-- **Amateur pianist** Learning to decode and read music has many similarities to coding. The process of refining and developing a musical skill is helpful in understanding how to streamline fluency with code, and learning new pieces out of my musical comfort zone can be much like learning new programming languages.
-
-- **Board games and puzzle fiend** I love logic puzzles and quizzes (Only Connect rules!). Engaging with games that require different strategies and figuring out their logic is immensely satisfying, and I'm trying to teach myself to solve cryptic crosswords. (Don't play me at chess though - I'm woeful)
-
-- **Building/making things**  I belong to a makerspace where I work on electronics projects and make cool things. This partly stemmed from a childhood fascination for Stop Motion Animation films where in attempts to make my own films, I learnt to sculpt puppets and build mini sets, and later from my career in theatre where I had to make props and build full size sets. 
 
 
 
@@ -50,20 +50,23 @@ Self-led Makers' projects undertaken over the course of a weekend.
 
 Makers' Academy feels fundamentally different to other educational experiences I've had. Learning is self-driven, and much of the learning experience comes from the near professional atmosphere of the learning where students are encouraged to work in pairs, engage in multiple group projects, and use Agile practices to closely mirror a real-world working environment. The experience feels more like 3 months of professional experience than an educational course.
 
-- Languages/tools learnt: **Ruby, Rails, JavaScript, React, RSpec, Jasmine** and the rest...
+- Languages/tools learnt: **Ruby, Rails, JavaScript, Node, React, RSpec, Jasmine...**
 
 - Makers' academy has driven me to learn the key concepts of programming at an intense pace, while still giving me the freedom to spend time consolidating topics or reading ahead to the next material. I am not afraid to take on new technology and build with a previously unknown tool.
 
 - The pair programming teaching model at Makers has made me a stronger programmer. I'm forced to work constantly with different people and adapt my workflow to suit their way of working and produce the best possible code.
+
+- The relentless focus on best working practises and Test Driven Development has made me into a devloper who feels ready to work within a team on real world exciting projects.
+
 
 
 #### Paremus OSGi Training course (June 2017)
 
 *[OSGi](https://www.osgi.org/) is a framework and set of guidelines that assists in creating and managing modular code in Java.*
 
-I took a training course run by Paremus Ltd which trained me in the basics of using OSGi with Java. I had no prior experience in Java before this so had to self teach before attending. This was a valuable experience learning alongside Senior Java developers from Credit Suisse and Computer Science students.
+I took a training course run by Paremus Ltd which trained me in the basics of using OSGi with Java. I had no prior experience in Java before this so self taught before attending. This was a valuable experience learning alongside Senior Java developers from Credit Suisse and Computer Science students.
 
-
+  
 
 #### Glasgow University 2012 - 2013 (Incomplete)
 ##### English Literature, Latin
@@ -84,10 +87,10 @@ I took a training course run by Paremus Ltd which trained me in the basics of us
 ##### GCSES
 
 - 4 A*'s
-
 - 5 A's
-
 - 3 B's
+
+  
 
 
 ## Work Experience
