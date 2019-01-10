@@ -108,7 +108,7 @@ Helping out with mailings, memberships + invoices. Also photographer for events.
 
 ## Employment
 
-#### <u>Programming</u>  
+### <u>Programming</u>  
 
 **Paremus.com** (Dec 2015)  
 *Web developer*
@@ -119,7 +119,7 @@ This was a really excellent opportunity to work on a live website, fixing change
 
 
 
-#### <u>Other</u>
+### <u>Other</u>
 
 Undertaken so I could afford the course at Makers academy. I'll turn my hand to whatever I must to achieve my ambitions.
 
@@ -133,7 +133,7 @@ Serving customers, packing orders, prepping and cooking menu items, cleaning and
 
 
 
-#### <u>Theatre</u>
+### <u>Theatre</u>
 
 **Jermyn Street Theatre** (Apr - May 2018)  
 *'Tonight at 8:30', 'Tomorrow at Noon'*  
