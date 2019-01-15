@@ -7,15 +7,16 @@
 <a href="https://www.linkedin.com/in/angelawolff/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
 
-<div align="center"> 
-  
-[Projects ](#projects) | 
-[Skills ](#skills) | 
-[Education ](#education) | 
-[Experience ](#experience) | 
+<div align="center">
+
+[Projects ](#projects) |
+[Skills ](#skills) |
+[Education ](#education) |
+[Experience ](#experience) |
 [Interests ](#hobbies-and-interests)
 
 </div>
+---------
 
 An energetic and values-driven full stack developer recently graduated from Makers, a Developer Bootcamp in London.  
 
@@ -29,18 +30,23 @@ I also have multiple interests such as ice-swimming and powerlifting that occupy
 
 ## Projects
 
+**Post-Makers Projects:**
+
 Project | Comment | Tech | Github | Hosted |
 ------------ | ------ | ---- | -----| ---|
-**Post-Makers Projects:** 
 Anagram Tech Test (II) | Producing a frontend implementation of a simple anagram app created. This was produced in React and showcased my progress with css Grid | React | [Anagram-React](https://github.com/Whatapalaver/anagram_react) | [Heroku - Anagram](https://anagram-wolff.herokuapp.com/)
 Pixie Labs Tech Test | A Simple Poker Card Game. A good test of TDD, OOP skills and the ability to create a full web app | Ruby and Sinatra | [Shuffle Decider](https://github.com/Whatapalaver/shuffle_decider) | [Heroku - Shuffle](https://anagram-wolff.herokuapp.com/)
-Webscraping Tech Test | This was a time limited tech test with the challenge to scrape event details from a multipage ticketing website | Ruby with Nokogiri | [Ruby-webscrape](https://github.com/Whatapalaver/ruby_webscrape)
+Webscraping Tech Test | This was a time limited tech test with the challenge to scrape event details from a multipage ticketing website | Ruby with Nokogiri | [Ruby-webscrape](https://github.com/Whatapalaver/ruby_webscrape) |
 Birdie Tech Test | First post Makers tech test. Given login details for an AWS DB, the task was to create an API and display Census statisitics on a single page react app | Node.js, Express, MySQL and React | [Birdie](https://github.com/Whatapalaver/birdietest) | [Census Live](https://birdie-tech-test.herokuapp.com/)
+
 **Makers Projects:**
-Makers Progress Log | Documenting my time across the 3 month Makers bootcamp with links to all the team and individual weekend projects | | [MakersLog](https://github.com/Whatapalaver/makers_progress/blob/master/README.md)
+
+Project | Comment | Tech | Github | Hosted |
+------------ | ------ | ---- | -----| ---|
+Makers Progress Log | Documenting my time across the 3 month Makers bootcamp with links to all the team and individual weekend projects | |  [MakersLog](https://github.com/Whatapalaver/makers_progress/blob/master/README.md) |
 Paddlr | Final team project. A live ping pong scorer with restful API and Slack Integration | Node.js, Express, MongoDB and React | [paddlr](https://github.com/Whatapalaver/paddlr) | [Paddlr live](https://paddlr.live)
 Instagram Challenge | Week 8 solo weekend challenge, where I was determined to understand Devise for user authentication. | Ruby on Rails | [Instagram](https://github.com/Whatapalaver/instagram-challenge) | [Heroku-Instagram](https://whatapalavergram.herokuapp.com/)
-Bowling Scorer | Week 6 solo weekend challenge. I loved the technicality of ten pin scoring and learned a lot about DRY principles while trying to improve my solutions | Javascript (vanilla) | [BowlingJS](https://github.com/Whatapalaver/bowling-challenge)
+Bowling Scorer | Week 6 solo weekend challenge. I loved the technicality of ten pin scoring and learned a lot about DRY principles while trying to improve my solutions | Javascript (vanilla) | [BowlingJS](https://github.com/Whatapalaver/bowling-challenge) |
 
 ## Skills
 
@@ -85,7 +91,7 @@ A 16-week intensive development bootcamp, where we learn to handle new technolog
 
 - PhD Chemistry (Astrochemistry)
 - Thesis title: Formation of Alcohol on Interstellar Dust Grain Analogues
-- This was an experimental PhD involving serious spanner skills (of the motor mechanic variety). I maintained a huge vacuum chamber that enabled me to recreate interstellar conditions (extremely low temperatures and pressures) and performed gas bombardment experiments on a small piece of graphite suspended in the middle of the chamber. This experience taught me very high levels of patience and the ability to process large volumes of data.
+- This was an experimental PhD involving serious spanner skills. I maintained a huge vacuum chamber that enabled me to recreate interstellar conditions (extremely low temperatures and pressures) and performed gas bombardment experiments on a small piece of graphite suspended in the middle of the chamber. This experience taught me very high levels of patience and the ability to process large volumes of data.
 
 **Open University** - BSc in Natural Sciences with Chemistry 1st Class Hons (1995 - 2000)
 
@@ -96,7 +102,7 @@ A 16-week intensive development bootcamp, where we learn to handle new technolog
 ## Experience
 
 **Barts Health NHS Trust** (May 2017 - June 2018)    
-*Associate Director of Finance - Income* 
+*Associate Director of Finance - Income*
 * Responsible for the reporting and billing of £1.3bn of patient treatment income
 
 **NHS Central London CCG** (Feb 2015 - May 2017)   
@@ -114,7 +120,6 @@ A 16-week intensive development bootcamp, where we learn to handle new technolog
 
 **NHS North Central London** (April 2011 - Sept 2011)   
 *Senior Finance Manager - Acute Commissioning*
-* Led on the reporting of acute care expenditure across the North central London group of CCGs
 
 **NHS North Central London** (Sept 2010 - Apr 2011) *Finance Planning Manager*
 
@@ -124,13 +129,12 @@ A 16-week intensive development bootcamp, where we learn to handle new technolog
 
 **Marketforce** (Sept 2002 - Sept 2003) *Retail Channel Analyst*
 
-**Cork International** (Apr 1998 - Sept 2002) *Manager of Sales Based Ordering System* 
+**Cork International** (Apr 1998 - Sept 2002) *Manager of Sales Based Ordering System*
 
 ## Hobbies and Interests
-I’m a medically and accountancy trained junior developer with a PhD in Astrochemistry but I could also be described as a serial dabbler with multiple full time interests.
-I document almost all of these interests in one or more blogs.
+I’m a medically and accountancy trained junior developer with a PhD in Astrochemistry but I could also be described as a serial dabbler with multiple full time interests. I document almost all of these interests in one or more blogs.
 
-#### Fitness and Health 
+#### Fitness and Health
 My health and sporting exploits are featured on my [warriorwomen blog](http://warriorwomen.co.uk)
 - **Powerlifting** - I have competed in a number of regional competitions and qualified for the All England Championships.
 - **Ice Swimming** - Having been inspired by Wim Hof I have taken to swimming outdoors throughout the winter months. I take great pleasure in cracking the ice at Tooting Bec Lido and have been delighted to swim during snow flurries.
@@ -138,7 +142,7 @@ My health and sporting exploits are featured on my [warriorwomen blog](http://wa
 - **Running** - I used to be pretty serious about running (although always in a very slow and plodding fashion), now I am only encouraged to jog for Obstacle events such as Wolf Run.
 
 #### Technical Blogging
-I've been a serial blogger for many years and have a number of blogs for sharing tutorials on technical issues of for training people in specific skills.
+I have a number of blogs for sharing tutorials on technical issues of for training people in specific skills.
 
 - *[NHS Excel Blog](http://nhsexcel.com) - designed to share specific excel tips and tricks for other NHS Accountants*
 - *[Excel Pivots Blog](http://excelpivots.com) - tips and tricks focussed on the marvellous pivot table*
