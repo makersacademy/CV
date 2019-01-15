@@ -18,16 +18,15 @@
 </div>
 ---------
 
+An energetic and values-driven full stack developer currently working at The Victoria and Albert Museum after graduating from Makers, a developer bootcamp in London.
 
-An energetic and values-driven full stack developer recently graduated from Makers, a Developer Bootcamp in London.  
+I am passionate about data and the ability to delve into databases to reveal stories about peoples lives. I want to build on my existing strengths and expertise as a technically astute analyst and plan to combine this with coding knowledge to enable me to design and create effective software solutions, ideally in a socially responsible area.
 
-I am passionate about data and the ability to delve into databases to reveal stories about peoples lives. I want to build on my existing strengths and expertise as a technically astute analyst and plan to combine this with coding knowledge to enable me to design and create effective software solutions, ideally in a health or other socially responsible area.
+I am also a qualified CIMA accountant and have previously held a number of Senior Finance roles within the NHS. I have extensive experience in technical healthcare roles, covering areas such as acute finance commissioning, income reporting, PbR, reference costing, SLR, patient level costing and financial planning. All my previous roles have had a strong technical slant and I have developed strong skills in VBA and tSQL.
 
-I am also a qualified CIMA accountant and have previously held a number of Senior Finance roles within the NHS. I have extensive experience in technical healthcare roles, covering areas such as acute finance commissioning, income reporting, PbR, reference costing, SLR, patient level costing and financial planning. All my previous roles have had a strong technical slant and I have developed strong skills in VBA and tSQL that have fired my determination to develop other programming skills.
+I have multiple interests such as ice-swimming and powerlifting that occupy me in my spare time - see [Hobbies and Interests](#hobbies-and-interests) for more details.
 
-I also have multiple interests such as ice-swimming and powerlifting that occupy me in my spare time - see [Hobbies and Interests](#hobbies-and-interests) for more details.
-
-**Tech Skills :** Ruby, Javascript, Node.js, tSQL, HTML, CSS, MS Excel, VBA
+**Tech Skills :** Ruby, Ruby on Rails, Javascript, Node.js, tSQL, HTML, CSS, MS Excel, VBA
 
 ## Projects
 
@@ -56,18 +55,14 @@ Bowling Scorer | Week 6 solo weekend challenge. I loved the technicality of ten 
 
 A concise, logical thinker with an ability to exploit technical skills to solve problems rapidly and clearly. My joy of solving problems has been well tested at Makers where I've faced implementation and logic problems on a daily basis, my prior experience has helped me remain calm and apply a logical, scientific approach to resolving the current issue. It is this rollercoaster of frustration and reward that makes coding so appealing for me.
 
-- At North Central London CCGs I created a reporting suite that enabled HRG level drill down across all of our provider trusts using macros to automate the transformation of multi-format reports. Previously the reports has been restricted to high level values without the ability to analyse and interrogate. My system could run automatically providing instant access to patient level data
-- At North West London CCGs I produced a 5 year planning template that was used across the entire sector. Ensuring consistency of approach within organisations and an ability to consolidate reports for upward reporting.
-
 #### Technical Skills
 
 Advanced Excel and SQL data skills with a proven ability to transform vast, complex data into meaningful management reports.
 
 tSQL / MS Query / SSIS - writing queries and procedures to automate processes. Large scale project examples include:
-* scripting the financial reconciliation for a patient level costing project spanning multiple organisations and patient pathways (NWL Whole Systems)
-* generating the trust income plans from the bottom-up, allowing all components of change (eg. growth) to be identified and reported. Process included version control to roll back changes
-* Scripting patient level costs from Patient Administration Systems (PAS)
-
+- scripting the financial reconciliation for a patient level costing project spanning multiple organisations and patient pathways (NWL Whole Systems)
+- generating the trust income plans from the bottom-up, allowing all components of change (eg. growth) to be identified and reported. Process included version control to roll back changes
+- Scripting patient level costs from Patient Administration Systems (PAS)
 
 #### Communication
 
@@ -103,27 +98,26 @@ A 16-week intensive development bootcamp, where we learn to handle new technolog
 
 ## Experience
 
-**Barts Health NHS Trust** (May 2017 - June 2018)    
+**The Victoria and Albert Museum** (Jan 2019 to present)
+*Full Stack Developer*
+
+**Barts Health NHS Trust** (May 2017 - June 2018)
 *Associate Director of Finance - Income*
-* Responsible for the reporting and billing of £1.3bn of patient treatment income
+- Responsible for the reporting and billing of £1.3bn of patient treatment income
 
-**NHS Central London CCG** (Feb 2015 - May 2017)   
+**NHS Central London CCG** (Feb 2015 - May 2017)
 *Senior Project and Planning Accountant for the NWL Collaboration of CCGs*  
-* Financial lead on large scale transformational projects across North West London, including GP Federations and Whole Systems cross-pathway costing
-* Planning lead for 5 CCG's
+- Financial lead on large scale transformational projects across North West London, including GP Federations and Whole Systems cross-pathway costing
+- Planning lead for 5 CCG's
 
-**Croydon University Hospital** (Mar 2013 - Feb 2015)   
+**Croydon University Hospital** (Mar 2013 - Feb 2015)
 *Head of Costing*
-* Led team responsible for reference cost production and patient level costing
 
-**NHS North Central London** (Sept 2011 - Mar 2013)   
-*Head of Finance - Acute Commissioning*  
-* Led team of contract finance accountants who were responsible for ensuring value for money in Acute Provider contract delivery
+**NHS North Central London:**
 
-**NHS North Central London** (April 2011 - Sept 2011)   
-*Senior Finance Manager - Acute Commissioning*
-
-**NHS North Central London** (Sept 2010 - Apr 2011) *Finance Planning Manager*
+- (Sept 2011 - Mar 2013) *Head of Finance - Acute Commissioning*  
+- (April 2011 - Sept 2011) *Senior Finance Manager - Acute Commissioning*
+- (Sept 2010 - Apr 2011) *Finance Planning Manager*
 
 **South West London and St Georges NHS Trust** (Sept 2009 - Sept 2010) *Costing Manager*
 
@@ -134,13 +128,12 @@ A 16-week intensive development bootcamp, where we learn to handle new technolog
 **Cork International** (Apr 1998 - Sept 2002) *Manager of Sales Based Ordering System*
 
 ## Hobbies and Interests
-I’m a medically and accountancy trained junior developer with a PhD in Astrochemistry but I could also be described as a serial dabbler with multiple full time interests. I document almost all of these interests in one or more blogs.
+I’m a medically and accountancy trained full stack developer with a PhD in Astrochemistry but I could also be described as a serial dabbler with multiple full time interests. I document almost all of these interests in one or more blogs.
 
 #### Fitness and Health
 My health and sporting exploits are featured on my [warriorwomen blog](http://warriorwomen.co.uk)
 - **Powerlifting** - I have competed in a number of regional competitions and qualified for the All England Championships.
 - **Ice Swimming** - Having been inspired by Wim Hof I have taken to swimming outdoors throughout the winter months. I take great pleasure in cracking the ice at Tooting Bec Lido and have been delighted to swim during snow flurries.
-- **BJJ** - This is a relatively new addition to my sporting repertoire and I'm still fairly useless but have just got a new stripe on my white belt and am adept at the rear naked choke....
 - **Running** - I used to be pretty serious about running (although always in a very slow and plodding fashion), now I am only encouraged to jog for Obstacle events such as Wolf Run.
 
 #### Technical Blogging
