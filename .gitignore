@@ -2,3 +2,5 @@
 *.docx
 *.html
 /old/
+.gitignore
+.DS_Store

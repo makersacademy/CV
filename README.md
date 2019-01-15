@@ -16,6 +16,7 @@
 [Interests ](#hobbies-and-interests)
 
 </div>
+
 ---------
 
 An energetic and values-driven full stack developer currently working at The Victoria and Albert Museum after graduating from Makers, a developer bootcamp in London.
