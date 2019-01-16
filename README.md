@@ -8,7 +8,7 @@ In the past few months I've developed an interest in coding, and in the summer b
 I'm currently a student at Makers Academy, hoping to kickstart a new career in Web Development or Programming.
 
 ###### Languages I've worked with:
-Ruby, HTML, CSS
+Ruby, JavaScript (ES5 and ES6), HTML, CSS, SQL, Python, React Native, ERB
 
 
 ## Skills
