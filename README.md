@@ -14,10 +14,10 @@ Ruby, JavaScript (ES5 and ES6), HTML, CSS, SQL, Python, React Native, ERB
 
 Title | Description | Timeframe | Tech | Testing
 --- | --- | --- | --- | ---
-[https://github.com/JL-J/splitr_app](Splitr) | Makers final group project, a mobile app that splits tasks between people preparing for an event | 2 weeks | React Native, Redux | Jest, Enzyme, ESLint
-[https://github.com/BillMux/bank-tech-test](The Bank Tech Test) | A virtual bank account that can be interact with using a REPL | 1 week | Ruby, Terminal Table | RSpec, SimpleCov, Rubocop
-[https://github.com/BillMux/MakersBnb](MakersBnb) | Makers group project, an AirBnB clone | 1 week | Ruby, JavaScript, JQuery, ERB, CSS, DataMapper, Sinatra, pickadate, CircleType | RSpec, Capybara, SimpleCov |
-| [https://github.com/BillMux/gilded-rose](Gilded Rose Design Project)| The Gilded Rose kata, an exercise in refactoring and product design | 2 days | Ruby | RSpec, SimpleCov, Rubocop |
+[Splitr](https://github.com/JL-J/splitr_app) | Makers final group project, a mobile app that splits tasks between people preparing for an event | 2 weeks | React Native, Redux | Jest, Enzyme, ESLint
+[The Bank Tech Test](https://github.com/BillMux/bank-tech-test) | A virtual bank account that can be interact with using a REPL | 1 week | Ruby, Terminal Table | RSpec, SimpleCov, Rubocop
+[MakersBnB](https://github.com/BillMux/MakersBnb) | Makers group project, an AirBnB clone | 1 week | Ruby, JavaScript, JQuery, ERB, CSS, DataMapper, Sinatra, pickadate, CircleType | RSpec, Capybara, SimpleCov |
+| [Gilded Rose Design Project](https://github.com/BillMux/gilded-rose)| The Gilded Rose kata, an exercise in refactoring and product design | 2 days | Ruby | RSpec, SimpleCov, Rubocop |
 
 ## Skills
 
