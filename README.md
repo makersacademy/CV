@@ -1,14 +1,14 @@
-# William Muxworthy
+# Bill Muxworthy
 
 
 After finishing my degree in Music Technology from Leeds Metropolitan University, I began working in the events industry, mainly as a general member of crew. This gave me plenty of hands-on experience in the technical side of events. I then spent a few months working as a van driver for luxury floristry company OnlyRoses, from which I gained valuable experience in working under strict time pressure.
 
-In the past few months I've developed an interest in coding, and in the summer began practising a few basic Ruby skills, mainly through casual pairing sessions with friends and some evenings messing around on codewars. I also ran through a crash course in HTML and CSS, through which I designed a few different frameworks for basic blog sites.
+In the following few months I developed an interest in coding, and in the summer began practising a few basic Ruby skills, mainly through casual pairing sessions with friends and some evenings messing around on codewars. I also ran through a crash course in HTML and CSS, through which I designed a few simple HTML templates for basic blog sites.
 
-I'm currently a student at Makers Academy, hoping to kickstart a new career in Web Development or Programming.
+I have recently graduated from Makers Academy, a 12 week bootcamp where I was able to adapt these skills and learn plenty of new ones.
 
 ###### Languages I've worked with:
-Ruby, JavaScript (ES5 and ES6), HTML, CSS, SQL, Python, React Native, ERB
+Ruby, JavaScript (ES5 and ES6), HTML, CSS, SQL, Python, React Native, ERB, Haskell
 
 ## Projects
 
@@ -16,7 +16,7 @@ Title | Description | Timeframe | Tech | Testing
 --- | --- | --- | --- | ---
 [Splitr](https://github.com/JL-J/splitr_app) | Makers final group project, a mobile app that splits tasks between people preparing for an event | 2 weeks | React Native, Redux | Jest, Enzyme, ESLint
 [The Bank Tech Test](https://github.com/BillMux/bank-tech-test) | A virtual bank account that can be interact with using a REPL | 1 week | Ruby, Terminal Table | RSpec, SimpleCov, Rubocop
-[MakersBnB](https://github.com/BillMux/MakersBnb) | Makers group project, an AirBnB clone | 1 week | Ruby, JavaScript, JQuery, ERB, CSS, DataMapper, Sinatra, pickadate, CircleType | RSpec, Capybara, SimpleCov |
+[MakersBnB](https://github.com/BillMux/MakersBnb) | Makers group project, an AirBnB clone | 1 week | Ruby, JavaScript, JQuery, PostgreSQL, ERB, CSS, DataMapper, Sinatra, pickadate, CircleType | RSpec, Capybara, SimpleCov |
 | [Gilded Rose Design Project](https://github.com/BillMux/gilded-rose)| The Gilded Rose kata, an exercise in refactoring and product design | 2 days | Ruby | RSpec, SimpleCov, Rubocop |
 
 ## Skills
