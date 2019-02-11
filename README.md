@@ -1,7 +1,7 @@
 # Bill Muxworthy
 
 
-I am a graduate of Makers where I’ve been immersed in test-driven approaches to writing well-written and maintainable code. I discovered programming after graduating with a BSc in Music Technology and started to build some basic HTML websites and playing with Codewars. Through it discovered a craft I want to learn everything about while contributing to a wider tech team and product. 
+I am a graduate of Makers where I’ve been immersed in test-driven approaches to writing well-written and maintainable code. I discovered programming after graduating with a BSc in Music Technology and started to build some basic HTML websites and playing with Codewars. Through this, I discovered a craft I want to learn everything about while contributing to a wider tech team and product. 
 
 ###### Languages I've worked with:
 Ruby, JavaScript (ES5 and ES6), HTML, CSS, SQL, Python, React Native, ERB, Haskell
