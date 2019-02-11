@@ -1,4 +1,4 @@
-[Technologies](#technologies) | [Skills](#skills) | [Personal Projects](#personal-projects) |[Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Blog](http://www.joemaidman.com/?page_id=51) | [Twitter](https://twitter.com/joemaidman)
+[Technologies](#technologies) | [Skills](#skills) | [Personal Projects](#personal-projects) |[Education](#education) | [Experience](#experience) | [Hobbies](#hobbies) | [Blog](http://www.joemaidman.com/) | [Twitter](https://twitter.com/joemaidman)
 
 ## Joe Maidman
 Software developer, former financial analyst, keen technologist.
@@ -7,20 +7,20 @@ I have followed a passion to become a software developer, completing an intensi
 
 ## Technologies
 
-This is a selection of the languages, frameworks and tools I have experience with. My goal is to use the best tool for the job and become a better developer.
+This is a selection of the languages, frameworks, and tools I have experience with. My goal is to use the best tool for the job and become a better developer.
 
-<b>Frontend</b> ~ Typescript | javascript | jQuery | Node | React | Redux | SCSS & CSS</br>
-<b>Backend</b>  ~ Java & Lombok | Kotlin | Spring | Hazelcast | Ruby | C# | WPF (XAML) | VBA | MySQL </br>
-<b>Workflow</b> ~ Git | Stash | Webpack | Jenkins | Docker</br>
+<b>Backend</b>  ~ Java & Lombok | Kotlin | Typescript | javascript | Node | Spring | Hazelcast | Ruby | C# | WPF (XAML) | VBA </br>
+<b>Frontend</b> ~ Typescript | javascript | React | Redux | SCSS & CSS</br>
+<b>Workflow</b> ~ Git | Stash | Webpack | Jenkins | Docker | AWS</br>
 <b>Testing</b>  ~ JUnit | Mockito | Hamcrest | Mocha | Chai | Jest | Enzyme | Sinon | React Storybook
 
 ## Skills
 
-I am a <b>curious</b> person who enjoys challenging accepted wisdom, questioning what I see around me, understanding how things work and people tick. I relish the unknown. My interests in technology vary and in my self-driven (sometimes slightly strange) projects, I’ve delved into a whole range of subjects from automated trading on betting exchanges to [reverse engineering RF frequencies](https://github.com/joemaidman/blades-in-motion), virtual reality and [cellular automata](http://gameoflife.netlify.com/). My most recent side project, [Bedrock](https://github.com/joemaidman/bedrock), is a javascript testing framework. I was curious to explore and solve the challenges involved with building a tool like this which is so critical to my day-to-day workflow. 
+I am a <b>curious</b> person who enjoys challenging accepted wisdom, questioning what I see around me, understanding how things work and people tick. I relish the unknown. My interests in technology vary and in my self-driven (sometimes slightly strange) projects, I’ve delved into a whole range of subjects from automated trading on betting exchanges to [reverse engineering RF frequencies](https://github.com/joemaidman/blades-in-motion), virtual reality, and [cellular automata](http://gameoflife.netlify.com/). A recent side project, [Bedrock](https://github.com/joemaidman/bedrock), is a javascript testing framework. I was curious to explore and solve the challenges involved with building a tool like this which is so critical to my day-to-day workflow. 
 
-I am used to working in an environment of constant <b>change</b> where remaining agile is a critical skill. The great volatility during the financial crisis challenged my perspective on risk and has been at least partly responsible for my decision to make such a bold career change earlier this year. 
+I am used to working in an environment of constant <b>change</b> where remaining agile is a critical skill. The great volatility during the financial crisis challenged my perspective on risk and has been at least partly responsible for my decision to make such a bold career change. 
 
-I have been fortunate to work as part of a team practising <b>agile methodologies</b> and have experience of both Kanban and Scrum, often working with colleagues distributed around the world. We put strong emphasis on implementing the principles of <b>clean code</b> and test-driven development.
+I have been fortunate to work as part of several teams practising <b>agile methodologies</b> and have experience of both Kanban and Scrum, including working with colleagues distributed around the world. I put a strong emphasis on implementing the principles of <b>clean code</b> and test-driven development.
 
 
 <b>Communication</b> of ideas has been an essential part of my career to date. I relish the opportunity to meet new people and enjoy situations where communication is critical. My previous experience working as a Financial Analyst was all about <b>understanding businesses</b> and the potential impact of their decisions. I worked in a B2B environment dealing with clients on a daily basis.
@@ -30,11 +30,11 @@ I have been fortunate to work as part of a team practising <b>agile methodologie
 
 | Project  | Description  | Demo  | Technologies |
 |---|---|---|---|
+| [Arithmio](https://github.com/joemaidman/arithmio)  | Maths expression parser and calculator  (infix to postfix)  | [npm](https://www.npmjs.com/package/arithmio) / [API](https://arithmio.netlify.com/#introduction) |  Typescript, jest |
 | [Bedrock](https://github.com/joemaidman/bedrock)  | javascript testing framework  | [npm](https://www.npmjs.com/package/bed-rock) |  Typescript, javascript, Ramda, Esprima |
 | [Cryptomonitor](https://github.com/joemaidman/cryptomonitor)  | Cyrptocurrency pricing dashboard | [Demo](https://cryptomonitor.netlify.com/) | javascript, React, Redux |
 | [Blades in motion](https://github.com/joemaidman/blades-in-motion)  | RF sniffing and replay  | [Blog/video](http://www.joemaidman.com/?p=317) |  SDR, Arduino, C/C++ |
 | [Bloc](https://github.com/joemaidman/bloc)  | Isometric multi-player building game | [Demo](https://bloc-game.herokuapp.com/)/[Blog](http://www.joemaidman.com/?p=540) | javascript, Node, Express, socket.io, MongoDB, Mocha, Chai, Sinon |
-| [Jobot](https://github.com/joemaidman/jobot)  | Chat bot | [Demo](http://www.joemaidman.com/?page_id=530) | javascript, Node, Microsoft Bot Framework, Mocha, Chai |
 
 ## Education
 
@@ -52,28 +52,29 @@ I have been fortunate to work as part of a team practising <b>agile methodologie
 ## Experience
 
 ### Reposit (Proptech), London   
-**Front End Developer** ~ *Jan 2018 to Present*
+**Software Developer** ~ *Jan 2018 to Present*
 
-Migrating the platform from Angular to React. Building new features and components. 
+Rebuilding a pure javascript node backend in Typescript. Migrating the front-end platform from Angular to React. Delivering new features and components.
 
-<b>Frontend</b> ~ Typescript | javascript | Node | React | Redux | Angular | SCSS </br>
+<b>Backend</b> ~ Node | Typescript | Typeorm | Nestjs | GraphQL </br>
+<b>Frontend</b> ~ Typescript | React | Redux | GraphQL (Apollo Client) | Angular | SCSS </br>
 <b>Workflow</b>  ~ Git | Webpack | Jenkins | AWS</br>
-<b>Testing</b>  ~| Mocha | Chai | Sinon | Jest | Enzyme | React Storybook
+<b>Testing</b>  ~ Mocha | Chai | Sinon | Jest | Enzyme | React Storybook
 
 ### Lab49 (Technology Consultancy), London   
 **Graduate Software Engineer** ~ *Jun 2017 to Jan 2018*
 
 Delivering user stories and resolving defects for a client project. The code base makes extensive use of dependency injection, code generation, a functional style, separation of concerns and microservices.
 
-<b>Frontend</b> ~ Typescript | javascript | Node | React | Redux | SCSS </br>
 <b>Backend</b>  ~ Java | Kotlin | Spring | Hazelcast | Lombok </br>
+<b>Frontend</b> ~ Typescript | javascript | React | Redux | SCSS </br>
 <b>Workflow</b>  ~ Git | Webpack | Jenkins | Docker</br>
 <b>Testing</b>  ~ JUnit | Mockito | Hamcrest | Mocha | Chai | Sinon | React Storybook
 
 ### Panmure Gordon & Co (Stockbrokers), London   
 **Investment Funds Analyst** ~ *Nov 2012 to Jan 2017*
 
-Analysing and publishing research on [listed investment companies](https://en.wikipedia.org/wiki/Closed-end_fund), modelling and structuring deals including new share offerings. My experience as an investment analyst meant dealing with large and disparate data sets and combining qualitative and quantitative inputs to reach useful conclusions on a variety of sectors from [technology](http://www.joemaidman.com/wp-content/uploads/2017/05/PCT.pdf) to [mining](http://www.joemaidman.com/wp-content/uploads/2017/05/BRWM.pdf). Commercial and strategic decisions were made based on my analysis.
+Analysing and publishing research on [listed investment companies](https://en.wikipedia.org/wiki/Closed-end_fund), modelling and structuring deals including new share offerings. My experience as an investment analyst meant dealing with large and disparate data sets and combining qualitative and quantitative inputs to reach useful conclusions on a variety of sectors from [technology](http://joemaidman.com/documents/PCT.pdf) to [mining](http://joemaidman.com/documents/BRWM.pdf). Commercial and strategic decisions were made based on my analysis.
 
  As well as face to face meetings and relationship building, I wrote research to encourage engagement and conceived and built a research portal and blog (WordPress) for the team to market our product.
 
