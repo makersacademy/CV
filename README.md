@@ -1,11 +1,7 @@
 # Bill Muxworthy
 
 
-After finishing my degree in Music Technology from Leeds Metropolitan University, I began working in the events industry, mainly as a general member of crew. This gave me plenty of hands-on experience in the technical side of events. I then spent a few months working as a van driver for luxury floristry company OnlyRoses, from which I gained valuable experience in working under strict time pressure.
-
-In the following few months I developed an interest in coding, and in the summer began practising a few basic Ruby skills, mainly through casual pairing sessions with friends and some evenings messing around on codewars. I also ran through a crash course in HTML and CSS, through which I designed a few simple HTML templates for basic blog sites.
-
-I have recently graduated from Makers Academy, a 12 week bootcamp where I was able to adapt these skills and learn plenty of new ones.
+I am a graduate of Makers where I’ve been immersed in test-driven approaches to writing well-written and maintainable code. I discovered programming after graduating with a BSc in Music Technology and started to build some basic HTML websites and playing with Codewars. Through it discovered a craft I want to learn everything about while contributing to a wider tech team and product. 
 
 ###### Languages I've worked with:
 Ruby, JavaScript (ES5 and ES6), HTML, CSS, SQL, Python, React Native, ERB, Haskell
@@ -17,20 +13,22 @@ Title | Description | Timeframe | Tech | Testing
 [Splitr](https://github.com/JL-J/splitr_app) | Makers final group project, a mobile app that splits tasks between people preparing for an event | 2 weeks | React Native, Redux | Jest, Enzyme, ESLint
 [The Bank Tech Test](https://github.com/BillMux/bank-tech-test) | A virtual bank account that can be interact with using a REPL | 1 week | Ruby, Terminal Table | RSpec, SimpleCov, Rubocop
 [MakersBnB](https://github.com/BillMux/MakersBnb) | Makers group project, an AirBnB clone | 1 week | Ruby, JavaScript, JQuery, PostgreSQL, ERB, CSS, DataMapper, Sinatra, pickadate, CircleType | RSpec, Capybara, SimpleCov |
-| [Gilded Rose Design Project](https://github.com/BillMux/gilded-rose)| The Gilded Rose kata, an exercise in refactoring and product design | 2 days | Ruby | RSpec, SimpleCov, Rubocop |
+[Gilded Rose Design Project](https://github.com/BillMux/gilded-rose)| The Gilded Rose kata, an exercise in refactoring and product design | 2 days | Ruby | RSpec, SimpleCov, Rubocop
+
 
 ## Skills
 
+#### Commitment
+
+My study of bass guitar took me to a degree in Music Technology where I also got to work as a composer and producer. Dedicating myself to music has helped develop an inner commitment to writing good code which also often means working alone with dedication to solve a problem. Working to master a piece of music has developed grit to stay with particularly tricky problems and refining a composition has many similarities to refactoring a piece of code.
+
+#### Collaboration
+
+Similar to writing code, as a bass player I practice, writing parts alone, then go to collaborate on it with my band. We continue to gig together and recently won competition gigs to play at Bloodstock festival and Isle of Wight festival. I’ve worked as part of professional teams both as a sound engineer, Head of Tech for a radio station, in an events crew team and in a customer facing role as a delivery driver after University. This has helped me work with any project team at Makers, where we paired daily or worked in larger teams using Agile methodologies which emphasise great communication and feedback. 
 
 #### Time management
 
-During my time as a delivery driver for luxury floristry company OnlyRoses, my main responsibility was to ensure all deliveries are made within a strict timeframe. This involved very careful route planning and organisation, as well as a considerable amount of patience.
-
-Above all, I learned to stay calm in an often stressful work environment. Many of the flower arrangements were extremely delicate, so I needed to make sure I started my route in enough time to drive slowly and carefully.
-
-#### Team work and collaboration
-
-I have worked in many positions where team work is essential. When I worked for event crew companies Connection and Pinnacle, the majority of shifts involved a large objective split into multiple smaller tasks, which would usually be carried out in pairs. As a result, this way of working is very familiar to me and I have a great understanding of how two people can communicate and collaborate their way towards a common goal. After about a year working for them, Connection Crew promoted me from General Crew to Elite Crew, placing me in more of a leading position. However, I would still tend to prefer working as part of the team over authoritative roles.
+As a delivery driver for luxury floristry company OnlyRoses, my main responsibility was to ensure all deliveries are made within a strict time-frame. This involved very careful route planning and organisation, as well as a considerable amounts of patience. Above all, I learned to stay calm in an often stressful work environment. I have been able to take this attitude of calmness while remaining mindful of time constraints into tech projects teams where sprints have time limits and pre-defined outcomes.
 
 
 
@@ -38,16 +36,6 @@ I have worked in many positions where team work is essential. When I worked for 
 
 
 #### Makers Academy (October 2018 to December 2018)
-
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
 
 #### Leeds Metropolitan University (September 2010 to June 2013)
 
