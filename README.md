@@ -4,6 +4,12 @@
 
 As a programmer, I remain a dreamer and idealistic visionary, and though this is now tempered with pragmatism about what can realistically be achieved in a given timescale, I still believe we should strive to make our ideals a reality.  I have always had a vibrant and colourful inner world, to conquer and thought experiment in, reflected in the software I produce.  I've learned a great deal in the last three years about competent programming, Agile practices, problem solving, good teamwork and pairing.  I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can take part in our expansion outward into the cosmos.
 
+## Software Engineering Work
+
+#### Compare the Market, _July 2016 - Present_
+
+
+
 ## Skills
 
 #### Problem Solving
