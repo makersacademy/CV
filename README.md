@@ -1,6 +1,6 @@
 ## Raefe Newton-Jones
 
-I am a Developer with a particular interests in Machine Learning, Cloud Services and FinTech looking for a backend role in a start-up with a passionate mission-focused team. The most enjoyable part of coding to me is writing a beautiful piece of code that is as efficient and succinct as possible.
+I am a Software Engineer with a particular interest  in Machine Learning, Cloud Services and FinTech looking for a backend role in a company with a passionate mission-focused team. The most enjoyable part of coding to me is writing a beautiful piece of code that is as efficient and succinct as possible.
 
 
 ## Projects
@@ -22,7 +22,7 @@ You won't often find people raving about the fact they dropped out of university
 #### Problem Solving
 
 
-I've always prided myself on my ability to be pragmatic. I have a strong background in Maths, and have enjoyed solving really difficult problems since a young age. In the final project at Makers Academy, I faced many high-level problems, with no prior knowledge of Machine Learning we were able to test-drive three bots. One particular problem I overcame during the course was to create instant messaging functionality using websockets and actioncable in a Rails app,
+I've always prided myself on my ability to be pragmatic. I have a strong background in Maths, and have enjoyed solving really difficult problems from a young age. In the final project at Makers Academy, I faced many high-level problems. With no prior knowledge of Machine Learning we were able to test-drive three bots. One particular problem I overcame during the course was to create instant messaging functionality using websockets and actioncable in a Rails app.
 
 
 ## Education
