@@ -2,11 +2,15 @@
 
 [Github](https://github.com/Jeremy-Barrass)
 
-As a programmer, I remain a dreamer and idealistic visionary, and though this is now tempered with pragmatism about what can realistically be achieved in a given timescale, I still believe we should strive to make our ideals a reality.  I have always had a vibrant and colourful inner world, to conquer and thought experiment in, reflected in the software I produce.  I've learned a great deal in the last three years about competent programming, Agile practices, problem solving, good teamwork and pairing.  I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can take part in our expansion outward into the cosmos.
+As a programmer, now tempered with pragmatism about what is realistic to achieve in a given timescale, I want to get things working, fulfil ticket and project requirements and ensure future programmers will understand the intent of the code I have written.   I firmly believe we should strive to make ideals reality.  I have always had a vibrant and colourful inner world, to conquer and thought experiment in, reflected in the software I produce.  I've learned a great deal in the last three years about competent programming, Agile practices, problem solving, good teamwork and pairing.  I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can take part in our expansion outward into the cosmos.
 
 ## Software Engineering Work
 
 #### Compare the Market, _July 2016 - Present_
+
+Working at Compare the Market has afforded me multiple opportunities to learn and improve as a developer.  I have worked on the company website, which received , maintaining webpages and building additional content tools for the content editors in C#, Sass and Javascript, to create content on the website.  In particular I worked on projects to build an automated image compression module into the Content Management System for the website, using a Nuget Package to implement the Kraken Image Compression API; built a content block to house multiple interactive infographics, selected by the user via a drop-down menue; 
+
+#### Makers Academy, _January - April 2016_
 
 
 
