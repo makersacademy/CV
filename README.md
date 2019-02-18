@@ -8,7 +8,20 @@ As a programmer, now tempered with pragmatism about what is realistic to achieve
 
 #### Compare the Market, _July 2016 - Present_
 
-Working at Compare the Market has afforded me multiple opportunities to learn and improve as a developer.  I have worked on the company website, which received , maintaining webpages and building additional content tools for the content editors in C#, Sass and Javascript, to create content on the website.  In particular I worked on projects to build an automated image compression module into the Content Management System for the website, using a Nuget Package to implement the Kraken Image Compression API; built a content block to house multiple interactive infographics, selected by the user via a drop-down menue; 
+
+Working at Compare the Market has afforded me multiple opportunities to learn and improve as a developer.  I joined the Marketing IT Team, responsible for the company website, which receives ~7200 visits per hour on average, where I maintained webpages and built additional content tools in C#, Sass, HTML and Javascript using Visual Studio with Resharper, for the content editors to create content on the website.  Significant projects I've worked on include:-
+
+* Building an automated image compression module into the Content Management System for the website, using a Nuget Package to implement the Kraken Image Compression API.
+* I built a content block to house multiple interactive infographics, selected by the website user via a drop-down menu, using Knockout.js.
+* I built a server-side API which user clients called to set personalised content on the page.
+* I built the initial proof of concept for launching Project Sparkles, the website's backend redesign and rewrite, in AWS, using the Amazon Nuget package with Visual Studio.
+* I worked on Integration Testing the CMS Asset Image Upload module for Sparkles.
+* I wrote the launch script for the Sparkles Continuous Development servers, which launch and run a Team City configuration in AWS EC2, using Terraform and Powershell.
+* I single-handedly wrote the refactor for our SEO Team's Aggregator Tool, using TDD and Clean Code techniques and went on to add a module to automate the collection and entry of data for their Keyword Ranking Report.
+
+Working with Marketing IT has also exposed me to Agile methodoligies and working practices, participating with the Team in daily Stand Ups, Retrospectives, Ticket Refinement and Sprint Planning.  Within the team we often pair programme to improve the pace of ticket completion and peer review one another's work as part of our working practices before releasing code to our deployment pipeline.  I often led releases as part of regular duties within the Team, working with GO CD to ensure code releases to our production ran smoothly and were thoroughly tested.
+
+I've also adopted numerous additional duties during my time with Compare The Market.  I have been part of the Out of Hours On-Call Team for the majority of my time with Compare The Market, which has given me a lot of experience with different monitoring systems, including Pager Duty, Grafana, Prometheus, Splunk and Eggplant (formerly Site Confidence), and handling a variety of Alerting formats from those systems.  I also adopted Fire Marshall and First Aider duties within the London Office.
 
 #### Makers Academy, _January - April 2016_
 
