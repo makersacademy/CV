@@ -16,7 +16,7 @@ As a programmer, now tempered with pragmatism about what is realistic to achieve
 
 #### Personal Projects, _April 2016 - Present
 
-## Automated Character Sheet
+##### Automated Character Sheet
 
 A Java based application, to automate a lot of the research that goes into designing and building characters for pen-and-paper RPGs.
 
