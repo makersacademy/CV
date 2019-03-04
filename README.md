@@ -33,9 +33,9 @@ I have multiple interests such as ice-swimming and powerlifting that occupy me i
 
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-| <img width="1604" alt="Anagram Tech Test (II)" src="./images/anagram.png">  [Anagram-React](https://github.com/Whatapalaver/anagram_react) |  <img width="1604" alt="tech test text game" src="./images/text_game.png"> [Multi Route Text Game](https://github.com/Whatapalaver/tech_test_text_game) | <img width="1604" alt="Tech test shuffle decider" src="./images/shuffle_decider.png"> [Shuffle Decider](https://github.com/Whatapalaver/shuffle_decider) |
+| <a href=https://github.com/Whatapalaver/anagram_react><img width="1604" alt="Anagram Tech Test (II)" src="./images/anagram.png"></a>  [Anagram-React](https://github.com/Whatapalaver/anagram_react) |  <a href=https://github.com/Whatapalaver/tech_test_text_game><img width="1604" alt="tech test text game" src="./images/text_game.png"></a> [Multi Route Text Game](https://github.com/Whatapalaver/tech_test_text_game) | <a href=https://github.com/Whatapalaver/shuffle_decider><img width="1604" alt="Tech test shuffle decider" src="./images/shuffle_decider.png"></a> [Shuffle Decider](https://github.com/Whatapalaver/shuffle_decider) |
 | Producing a frontend implementation of a simple anagram app created. This was produced in React and showcased my progress with css Grid | Creating a multipath text based story | A Simple Poker Card Game. A good test of TDD, OOP skills and the ability to create a full web app |
-| <img width="1604" alt="Ruby webscrape Tech Test" src="./images/webscrape.png">  [Ruby-webscrape](https://github.com/Whatapalaver/ruby_webscrape) |  <img width="1604" alt="Census tech test" src="./images/birdie.png"> [Birdie](https://github.com/Whatapalaver/birdietest) | <img width="1604" alt="ping pong scorer" src="./images/paddlr.png"> [paddlr](https://github.com/Whatapalaver/paddlr) |
+| <a href=https://github.com/Whatapalaver/ruby_webscrape><img width="1604" alt="Ruby webscrape Tech Test" src="./images/webscrape.png"></a>  [Ruby-webscrape](https://github.com/Whatapalaver/ruby_webscrape) |  <a href=https://github.com/Whatapalaver/birdietest><img width="1604" alt="Census tech test" src="./images/birdie.png"></a> [Birdie](https://github.com/Whatapalaver/birdietest) | <a href=https://github.com/Whatapalaver/paddlr><img width="1604" alt="ping pong scorer" src="./images/paddlr.png"></a> [paddlr](https://github.com/Whatapalaver/paddlr) |
 | This was a time limited tech test with the challenge to scrape event details from a multipage ticketing website | First post Makers tech test. Given login details for an AWS DB, the task was to create an API and display Census statisitics on a single page react app | Final team project at Makers. A live ping pong scorer with restful API and Slack Integration |
 
 ## Skills
@@ -48,6 +48,8 @@ A concise, logical thinker with an ability to exploit technical skills to solve 
 
 - Ruby and Ruby on Rails which is the framework for the V&A CMS.
 - JavaScript, Node and React
+- IIIF (International image framework) 
+- Elasticsearch
 - Advanced Excel and SQL data skills with a proven ability to transform vast, complex data into meaningful management reports.
 - tSQL / MS Query / SSIS - writing queries and procedures to automate processes. Large scale project examples include, NHS NWL Whole Systems a multi organisation patient costing project.
 

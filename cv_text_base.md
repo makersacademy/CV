@@ -60,6 +60,8 @@ A concise, logical thinker with an ability to exploit technical skills to solve 
 
 - Ruby and Ruby on Rails which is the framework for the V&A CMS.
 - JavaScript, Node and React
+- IIIF (International image framework) 
+- Elasticsearch
 - Advanced Excel and SQL data skills with a proven ability to transform vast, complex data into meaningful management reports.
 - tSQL / MS Query / SSIS - writing queries and procedures to automate processes. Large scale project examples include, NHS NWL Whole Systems a multi organisation patient costing project.
 
