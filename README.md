@@ -2,7 +2,7 @@
 
 [Github](https://github.com/Jeremy-Barrass)
 
-As a programmer, now tempered with pragmatism about what is realistic to achieve in a given timescale, I want to get things working, fulfil ticket and project requirements and ensure future programmers will understand the intent of the code I have written.   More generally, I want to push boundaries, expand humanity's collective knowledge and comprehension and improve everyone's capacity to access the resources they need.  I've learned a great deal in the last three years about competent programming, Agile practices, problem solving, good teamwork and pairing.  I can leave the world a better place than I found it.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can take part in our expansion outward into the cosmos.
+As a programmer, now tempered with pragmatism about what is realistic to achieve in a given timescale, I want to get things working, fulfil ticket and project requirements and ensure future programmers will understand the intent of the code I have written.   I want to push the boundaries of what my Team feels they can achieve, expand my colleagues' knowledge and comprehension and improve my employer's capacity to access the resources they need.  I've learned a great deal in the last three years about competent programming, Agile practices, problem solving, good teamwork and pairing.  I _will_ make the world a better place.  I would love to contribute this potential to the space industry, such as ESA's EXOMars Rover or the Sentinel Satellite programme, where I can apply my problem solving skills to one of my true passions.
 
 ## Familiar Tech
 
@@ -27,7 +27,7 @@ Working at Compare the Market (CTM) has afforded me multiple opportunities to le
 * I wrote the launch script for the Sparkles Continuous Development servers, which runs a Team City configuration in AWS EC2, using Terraform and PowerShell.
 * I single-handedly wrote the refactor for our SEO Team's Aggregator Tool, using TDD and Clean Code techniques and went on to add a module to automate the collection and entry of data for their Keyword Ranking Report, using .NET in Visual Studio.
 
-Working with Marketing IT has also exposed me to Agile methodologies and working practices, participating with the Team in daily Stand Ups, Retrospectives, Ticket Refinement and Sprint Planning.  Within the team we often pair programme to improve the pace of ticket completion and peer review one another's work in Github as part of our working practices before releasing code to our deployment pipeline and ultimately to our production servers.  I often led releases as part of regular duties within the Team, working with GO CD to ensure code releases to our production ran smoothly and were thoroughly tested.  These experiences have complemented my support skills developed in previous roles.  I also helped the Team switch from using React to using AMP in Project Sparkles and have taken on board various requirement changes for the Aggregator Tool.
+Working with Marketing IT has also exposed me to Agile methodologies and working practices, participating with the Team in daily Stand Ups, Retrospectives, Ticket Refinement and Sprint Planning.  Within the team we often pair programme to improve the pace of ticket completion and peer review one another's work in Github as part of our working practices before releasing code to our deployment pipeline and ultimately to our production servers.  I often led releases as part of regular duties within the Team, working with GO CD to ensure code releases to our Production Environment ran smoothly and were thoroughly tested.  These experiences have complemented my support skills developed in previous roles.  I also helped the Team switch from using React to using AMP in Project Sparkles and have taken on board various requirement changes for the Aggregator Tool.
 
 I have been afforded numerous opportunities to provide solutions and help resolve a broad variety of programmatic and product issues during my time with CTM, such as providing the solution to a redirect issue in our AMP pages, writing the refactor to our SEO Tooling and helping navigate through to solutions for image compression in our CMS and asset storage in AWS.  The refactor of the Aggregator Tool for our SEO Team, in particular, also involved a significant of design work as well as implemention, which I managed solo.  I also helped my team restructure the inheritance architecture of our CMS page types to better implement AMP pages in our solution.
 
@@ -35,7 +35,7 @@ I've also adopted numerous additional duties during my time with CTM.  I have be
 
 #### Makers Academy, _January - April 2016_
 
-This is the coding boot camp where I learned many of the techniques I went onto apply at Compare The Market, including but not limited to:
+This is the coding boot camp where I learned many of the techniques I went on to apply at Compare The Market, including but not limited to:
 
 * True passion for TDD
 * The principles of OO design, SOLID and DDD
@@ -48,7 +48,7 @@ This is the coding boot camp where I learned many of the techniques I went onto 
 * Helped design and build several projects using Ruby and Javascript, including Alibot and Markpad.
 * Pairing with fellow cohort members allowed me to exercise my support skills across many coding exercises, myself and my pair partner helping each other in turn to gain insights and experience into the design and construction process of software.
 
-#### Personal Projects, _April 2016 - Present
+#### Personal Projects, _April 2016 - Present_
 
 ##### Automated Character Sheet
 
