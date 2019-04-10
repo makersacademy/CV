@@ -1,62 +1,25 @@
-## Sam Broughton
+## About me
 
-I'm a full-stack developer, Makers Academy alumnus and passionate coder with experience in JavaScript, Ruby and C#. I'm also an amateur philosopher, TV fanatic and keen reader whose headlong stumble through life has accumulated many interests from experimental psychology to classical ballet. I'm currently looking for my first Graduate/Junior Developer role at an exciting company where I can continue to develop my coding skills alongside a great team! Please contact me at sjbroughton1@gmail.com if you think I'd be a good fit for your company!
+I'm a full-stack developer looking for an challenging new role in an exciting company. I've spent my career so far developing a broad knowledge base with the aim of gaining a robust overview of the full spectrum of web development. Now that I feel I've (sufficiently) achieved this goal, I want to push my skills to the next level and gain deeper understanding by joining an active and thriving company with a passionate community of developers to learn from and to mentor.
 
-## Skills
+I've put together a couple of example projects, linked below, to demonstrate the current state of my knowledge and preferred tech stack. However, my aim in assembling a Docker- and Microservice-based stack was to remain as implementation-agnostic as possible, as I am extremely keen to continue to learn and adopt new languages, frameworks and technologies!
 
-#### Fast learner
-- For our Makers Academy final project: [Make It Stop! Alarm Clock](https://github.com/MakeItStop/task-based-alarm), my team and I wanted to challenge ourselves to learn a brand-new JavaScript framework not taught as part of the course. After some research into various options, we decided on NativeScript with Angular 2 and TypeScript. By the end of the 12-day project we had produced a fully operational app, which I've used as my personal alarm ever since!
+## Portfolio
+|Live Site|Github Repo|Summary|Technologies Used|
+|-------|-------------|---------|------------|
+|[Full Stack Chat App Tech Demo](http://fullstack.sjbroughton.com) | [samjbro/full-stack-reference](https://github.com/samjbro/full-stack-reference) | A live chat app showcasing my favourite of all the various technologies I've been working with, brought together into a single project to be used as a reference for future projects. | Docker, Microservices architecture, NodeJS, VueJS, GraphQL, WebSockets, JWT Authorisation, Express, Webpack, Prisma, MySQL, Bash Scripting, NGINX Proxying, Continuous Integration & Deployment, AWS Deployment
+|[Landing Pages Demo](http://landing-pages.sjbroughton.com) | [samjbro/landing-pages](https://github.com/samjbro/landing-pages) | A collection of recreated landing pages from around the web, demonstrating my approach when building a modern, responsive front-end application from an existing design. | VueJS, SCSS, Responsive Design, Webpack, Docker, NodeJS, Axios, FontAwesome, Heroku Deployment
 
-#### Attentive to detail
-- My previous job in an investment bank involved facilitating payments often worth upwards of a billion pounds' value in various currencies. Since one incorrect digit could result in huge financial losses and some very unhappy clients, I was inspired to develop an obsessive attention to detail.
+## Employment History
+**Personal Coding Study** (January 2019 to March 2019)
+- I took two months out of formal employment to expand and improve my overall coding knowledge, working with technologies such as GraphQL, Prisma, AWS deployments and Kubernetes.
 
-#### Systematic thinker, problem solver
-- My training in philosophy and formal logic at the University of Cambridge has helped immensely in my approach to coding, and allowed me to hone my ability to break down a problem systematically into distinct components.
+**Comms Express (Developer)** (January 2018 to December 2018)
+- Primary role: Assembling a modern full-stack architecture and workflow.
+- Secondary role: Fulfilling project briefs working from designs in collaboration with the Marketing department.
 
-## Education
-
-### Independent Learning
-  Some projects I have been working on recently: 
-  - https://github.com/samjbro/react-redux-bowling-scorer
-  - https://github.com/samjbro/node-chat-app
-  - https://github.com/samjbro/node-todo
-  - https://github.com/samjbro/node-battleships
-
-#### Makers Academy Remote (July 2016 to September 2016)
-
-- Cultivating curiosity and hungry passion for code
-- Independent learning and problem-solving
-- OOP, TDD, SOLID, MVC, DDD
-- Ruby & Rails
-- JavaScript & NodeJS
-- Rspec, Jasmine, Mocha
-- C# and Unity
-
-
-|Project|Summary|Technologies|
-|-------|-------|------------|
-|[Make It Stop! Alarm Clock](https://github.com/MakeItStop/task-based-alarm) | A mobile app task-based alarm clock coded in Nativescript with Angular 2 for deployment on both Android and iOS. Makers Academy Final Project. | Nativescript, Angular 2, Typescript, CSS|
-|[Dress 2 Impress](https://github.com/jonnymoore12/dress_2_impress)  | A full-stack Rails web-app that allows users to submit and vote on fashion dilemmas. Makers Academy Hackathon project. | Ruby on Rails, Postgres w/ ActiveRecord, HTML5(HAML)  |
-|[Inglourious BnBsterds](https://github.com/samjbro/inglourious-BnBsterds)  | An Airbnb clone built in Ruby on Rails as a first team project.  | Ruby on Rails, Postgres w/ DataMapper, HTML5(ERB)  |
-|[DnD Text Adventure](https://github.com/samjbro/dndTextAdventure)  | A rudimentary text-adventure in a classic fantasy setting, created in the build-up to Makers Academy, as I couldn't wait to start making things!  | Ruby  |
-
-
-#### University of Cambridge (2008 to 2013)
-
-- Philosophy
-- BA Hons. (Incomplete)
-
-### King Edward VI Grammar School
-- A-Levels: Maths (A), Philosophy (A), English Literature (A)
-
-### Interests  
-- Feminism in popular culture (and in general!) 
-- Film
-- Science Fiction
-- Gaming (tabletop & video)
-- Playing piano, ukulele, fife (purely for my own enjoyment)
-
-## Experience
+**Comms Express (Junior Developer)** (July 2017 to January 2018)
+- Worked on the backend of an internal Content Management System web application using PHP Laravel and MySQL
 
 **Bank of New York Mellon** (July 2015 to June 2016)    
 *Liquidities, Senior Administrator*   
@@ -64,3 +27,17 @@ I'm a full-stack developer, Makers Academy alumnus and passionate coder with exp
 *Image Library Administrator*  
 **Brentwood Local Council** (August 2014 to October 2014)   
 *Scrutiny and Peer Review Officer*
+
+## Education
+#### Makers Academy Remote (July 2016 to September 2016)
+- 12 week coding bootcamp based in London, England
+- Final project: [Make It Stop! Alarm Clock](https://github.com/MakeItStop/task-based-alarm)
+#### University of Cambridge, England (2008 to 2013)
+- Philosophy, BA Hons. (Incomplete)
+#### King Edward VI Grammar School, Chelmsford, Essex, England
+- A-Levels: Maths (A), Philosophy (A), English Literature (A)
+
+## Interests
+I love travel, books, cinema and television; I'm a huge Sci-Fi and Fantasy geek who enjoys playing video and tabletop games and is a little bit obsessed with pop culture. I also play the piano quite poorly but with great enthusiasm!
+
+**References supplied upon request**
