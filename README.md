@@ -20,7 +20,7 @@ Title | Description | Timeframe | Tech | Testing
 
 #### Commitment
 
-My study of bass guitar took me to a degree in Music Technology where I also got to work as a composer and producer. Dedicating myself to music has helped develop an inner commitment to writing good code which also often means working alone with dedication to solve a problem. Working to master a piece of music has developed grit to stay with particularly tricky problems and refining a composition has many similarities to refactoring a piece of code.
+I am driven to work with calm urgency until a problem is solved. That satisfaction after struggling to find a solution is what I strive for when I work. What I love about coding is that these moments come along very frequently. Every time my test suite comes back showing green, I feel I have accomplished one task. This is what provides me with the commitment to continue to wrestle with challenging problems until I see those passing tests.
 
 #### Collaboration
 
