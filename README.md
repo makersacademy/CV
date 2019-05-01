@@ -1,7 +1,7 @@
 # Bill Muxworthy
 
 
-I am a graduate of Makers where I’ve been immersed in test-driven approaches to writing well-written and maintainable code. I discovered programming after graduating with a BSc in Music Technology and started to build some websites with HTML and CSS and playing with Codewars. Through this, I discovered a craft I want to learn everything about while contributing to a wider tech team and product. 
+I am a graduate of [Makers Academy](https://makers.tech), where I’ve been immersed in test-driven approaches to writing well-written and maintainable code. I discovered programming after graduating with a BSc in Music Technology and started to build some websites with HTML and CSS and testing my abilities on sites like Codewars and HackerRank. Through this, I discovered a craft I want to learn everything about while contributing to a wider tech team and product. 
 
 ###### Languages I've worked with:
 Ruby, JavaScript (ES5 and ES6), HTML, CSS, SQL, Python, React Native, ERB, Haskell
@@ -13,7 +13,7 @@ Title | Description | Timeframe | Tech | Testing
 [Splitr](https://github.com/JL-J/splitr_app) | Makers final group project, a mobile app that splits tasks between people preparing for an event | 2 weeks | React Native, Redux | Jest, Enzyme, ESLint
 [The Bank Tech Test](https://github.com/BillMux/bank-tech-test) | A virtual bank account that can be interact with using a REPL | 1 week | Ruby, Terminal Table | RSpec, SimpleCov, Rubocop
 [MakersBnB](https://github.com/BillMux/MakersBnb) | Makers group project, an AirBnB clone | 1 week | Ruby, JavaScript, JQuery, PostgreSQL, ERB, CSS, DataMapper, Sinatra, pickadate, CircleType | RSpec, Capybara, SimpleCov |
-[Gilded Rose Design Project](https://github.com/BillMux/gilded-rose)| The Gilded Rose kata, an exercise in refactoring and product design | 2 days | Ruby | RSpec, SimpleCov, Rubocop
+[Conway's Game of Life](https://github.com/BillMux/game-of-life-ruby)| John Conway’s Game of Life in Ruby | 1 month | Ruby, Gosu | RSpec, SimpleCov, Rubocop
 
 
 ## Skills
