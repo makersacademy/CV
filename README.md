@@ -3,7 +3,6 @@
 
 Makers Academy grad, currently looking for work as a junior developer. Former musician and linguist. Looking for work as a junior developer contributing to interesting projects in an environment geared towards continuous learning.
 
-[]https://img.shields.io/badge/HTML/CSS-416%20commits-orange.svg
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Ruby-233%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/JavaScript-188%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/HTML/CSS-416%20commits-orange.svg" alt=""></a>
