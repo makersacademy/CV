@@ -1,9 +1,15 @@
 ## David Mears
-[LinkedIn](https://www.linkedin.com/in/david-mears-2605a7159/) | [Blog](https://medium.com/@davidmears)
+[LinkedIn](https://www.linkedin.com/in/david-mears-2605a7159/) | [Blog](https://medium.com/@davidmears) | [Education](#education) | [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
 
-[Education](#education) | [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+Makers Academy grad, currently looking for work as a junior developer. Former musician and linguist. Looking for work as a junior developer contributing to interesting projects in an environment geared towards continuous learning.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+[]https://img.shields.io/badge/HTML/CSS-416%20commits-orange.svg
+<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Ruby-233%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/JavaScript-188%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/HTML/CSS-416%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Python-97%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/CoffeeScript-85%20commits-orange.svg" alt=""></a>
+
 
 ## Skills
 
