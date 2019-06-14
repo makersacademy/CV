@@ -31,7 +31,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (December to March 2019)
+**[Makers Academy](http://makersacademy.com/)** (December 2018-March 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -42,14 +42,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Cambridge University - King's College (2011-14)
+**[Royal Academy of Music](https://www.ram.ac.uk/)** (2015-17)
+
+- MA Distinction in Clarinet Performance
+
+**[Cambridge University - King's College](https://www.cam.ac.uk/)** (2011-14)
 
 - Linguistics 2.I (69%)
 - [My final dissertation](https://www.academia.edu/6572064/Theoretical_accounts_of_phonetic_correlates_of_gender)
-
-#### Royal Academy of Music (2015-17)
-
-- MA Distinction in Clarinet Performance
 
 ## Experience
 
