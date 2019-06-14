@@ -22,6 +22,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Another Skill
 
+Communicating complex ideas through text - link to Kinder blog post
+
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
