@@ -11,13 +11,10 @@
 
 ## Projects
 
-The below is copied from someone else's CV, and does not apply to me - just getting the formatting as a template
-
-| Project title    | Timeframe          | Technologies        |
+| Project title    | Description          | Technologies        |
 | ---                                                                     |---                 |---                                                        |
-| [Mind Mapp](https://github.com/charlottebrf/mytm)  | 1 wk group project | An Interactive Mind map tool: Node.js, Express, JavaScript ES6, HTML5 Canvas, CSS, Mocha, Chai, Zombie, Supertest       |
-| [Rock Paper Scissors](https://github.com/charlottebrf/rps-challenge) | 2 days solo project| An online game: Ruby, Sinatra, CSS, HTML, RSpec, Capybara                                  |
-| [Chitter Challenge](https://github.com/charlottebrf/chitter-challenge)  | 2 days solo project| A public messaging service similar to Twitter: Ruby, Sinatra, PostgreSQL, DataMapper, bcrypt, RSpec, Capybara  |
+| [Receipt Generator App](https://github.com/rtcharity/receipt_generator_app)  | An app written for Rethink Charity to automate the generation of tax receipt pdfs for donors | Python, Django, unittest |
+| What Zen | 1.5 week team project | askdjfghasdkjfahdsf |
 
 
 ## Skills
