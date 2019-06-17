@@ -4,9 +4,9 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Skills
 
-#### This Skill
+Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### This Skill
 
 - Experience
 - Achievements
@@ -25,10 +25,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (start_date to end_date)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -42,9 +38,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Any other qualifications
 
+That in some arguable way make you a better software developer or well-rounded person
+
 ## Experience
 
 **Company Name** (start_date to end_date)    
 *Your job title*  
+- Any experience relevent to software development
+
 **Company Name** (start_date to end_date)   
 *Your job title*  
+- Any experience relevent to software development
+
+## Hobbies
+
+Any cool stuff that makes you a super part of a software development team
