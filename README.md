@@ -96,6 +96,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Classroom teacher of English as a Foreign Language at one of the city's most popular English-language schools.
 
+## Hobbies and Interests
 
-
-
+I write [music](https://www.youtube.com/watch?v=_ZULf__C2k8), do life-drawing, play games, and listen to podcasts on eclectic topics (genetics, world politics, philosophy, rationality, psychology, altruism, economics, futurism, comedy).
