@@ -1,5 +1,5 @@
 ## David Mears
-[LinkedIn](https://www.linkedin.com/in/david-mears-2605a7159/) | [Programming Blog](https://medium.com/@davidmears/) | [Education](#education) | [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+[LinkedIn](https://www.linkedin.com/in/david-mears-2605a7159/) | [Programming Blog](https://medium.com/@davidmears/) | [Education](#education) | [Projects](#projects) | [Skills](#skills) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
 
 [Makers Academy](https://makers.tech) grad, aspiring junior developer. Former musician and linguist. Looking for work contributing to interesting projects in an environment geared towards continuous learning.
 
