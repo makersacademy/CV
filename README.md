@@ -47,7 +47,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC, DDD, CI, algorithmic efficiency
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
