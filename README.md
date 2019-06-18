@@ -73,7 +73,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Contract and voluntary work as a developer*
 
 - I created an app for internal use by RC in a language (Python) and with frameworks (Django, unittest) not touched on by the Makers course, iterating on feedback from the client.
-- After proving myself, I was invited to become part of the [team of 12](https://github.com/orgs/rtcharity/people) voluntary engineers working on a website for them.
+- After proving myself, I was invited to become part of the [team of 12](https://github.com/orgs/rtcharity/people) (all?) voluntary developers working on a website for them.
 
 **[Kinder](https://kinder.world/)** (July-August 2018)
 *Charity analysis intern*
