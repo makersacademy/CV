@@ -14,7 +14,7 @@
 | Project title    | Description          | Technologies        |
 | ---                                                                     |---                 |---                                                        |
 | [Receipt Generator App](https://github.com/rtcharity/receipt_generator_app)  | An app written for Rethink Charity to automate the generation of tax receipt pdfs for donors | Python, Django, unittest |
-| What Zen | 1.5 week team project | askdjfghasdkjfahdsf |
+| EA Hub | A site with several hundred users. I was invited to join RC's volunteer tech team after writing Receipt Generator App. [My PRs](https://github.com/rtcharity/eahub.org/pulls/david-mears) | Python, Django, JavaScript, Jasmine |
 
 
 ## Skills
