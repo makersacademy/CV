@@ -41,14 +41,14 @@ Using accelerate.io's tech tests to get a metric of my abilities:
 
 Makers taught me:
 - Essential pragmatic software skills:
-    - Object-Oriented Programming in Ruby, Rails, JavaScript
-    - Test-Driven Development (RSpec, Jasmine)
-    - Model-View-Controller architecture
-    - Continuous Integration
-    - Algorithmic complexity ('Big-O' notation)
+    [x] Object-Oriented Programming in Ruby, Rails, JavaScript
+    [x] Test-Driven Development (RSpec, Jasmine)
+    [x] Model-View-Controller architecture
+    [x] Continuous Integration
+    [x] Algorithmic complexity ('Big-O' notation)
 - Essential 'soft' skills:
-    - Healthy team dynamics: how to collaborate effectively without a project manager
-    - Agile and XP principles
+    [x] Healthy team dynamics: how to collaborate effectively without a project manager
+    [x] Agile and XP principles
 - That I can learn very quickly when driven, and that coding projects provide that motivation
 
 **[Royal Academy of Music](https://www.ram.ac.uk/)** (2015-17)
