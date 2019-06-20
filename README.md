@@ -33,9 +33,9 @@ Using accelerate.io's tech tests to get a metric of my abilities:
 ### Communication skills
 
 The ability to distil abstruse ideas into their key elements is one of my USPs.
+- As a teacher, my favourite thing was managing to place the stepping stones at optimal intervals so that my students could bridge the gap between state A and state B. In that way a seemingly intractable task is reduced to a few simple steps + practice. It may be the reason my students seemed to progress faster than average.
 - When I became excited by the all the parallels between concepts in linguistics and computer science, I wrote [a long-post](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2) that got 46 claps on Medium.
 - While at Kinder, I wrote a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405) on their site summarizing some of the science behind, and highlighting some potential drawbacks of, their vetting framework.
-- The best part about being a teacher was managing to place the stepping stones at optimal intervals so that my students could bridge the gap between state A and state B. In that way a seemingly intractable task is reduced to a few simple steps + practice. It may be the reason my students seemed to progress faster than average.
 
 ### Continuous learning
 
