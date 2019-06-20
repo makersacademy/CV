@@ -44,8 +44,7 @@ I'm committed to iterative improvement through practice and study. There will ne
 ## Education
 
 **[Makers Academy](http://makersacademy.com/) Coding Bootcamp** (December 2018-March 2019)
-
-Makers taught me:
+*Taught me:*
 - Essential pragmatic software skills:
     - [x] Object-Oriented Programming in Ruby, Rails, JavaScript
     - [x] Test-Driven Development (RSpec, Jasmine)
@@ -77,17 +76,17 @@ Makers taught me:
 **[Rethink Charity](https://rtcharity.org/)** (April 2019 to present)    
 *Contract and voluntary work as a developer*
 
-- I created an app for internal use by RC in a language (Python) and with frameworks (Django, unittest) not touched on by the Makers course, iterating on feedback from the client.
-- After proving myself, I was invited to become part of the [volunteer tech team](https://github.com/orgs/rtcharity/teams/tech) working on a website for them. [My PRs](https://github.com/rtcharity/eahub.org/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adavid-mears+)
+- I built an app for RC in a language (Python) and with frameworks (Django, unittest) not touched on by the Makers course, iterating on feedback from the client.
+- After proving myself, I was invited to join the [volunteer tech team](https://github.com/orgs/rtcharity/teams/tech) working on the EA Hub website. [My PRs](https://github.com/rtcharity/eahub.org/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adavid-mears+).
 
 **[Kinder](https://kinder.world/)** (July-August 2018)
 *Charity analysis intern*
 
-- I applied Kinder's vetting framework on organizational competence to charities on their platform, and gave feedback to the company on their vetting framework, which demonstrated their self-reflective processes well enough that they decided to publish it in [blog form](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405).
+- I applied Kinder's vetting framework on organizational competence to charities on their platform, and gave feedback to the company on their vetting framework, which showcased their self-reflective processes well enough that they decided to publish it in [blog form](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405).
 
 **Freelance clarinettist and singer** (2015-2018)
 
-- Outside of my two performing groups, I specialised in creative learning participation: enabling people living with dementia, children with Special Educational Needs, and other groups to express themselves creatively.
+- Outside of my two performing groups, I specialised in Creative Learning Participation: empowering people living with dementia, children with Special Educational Needs, and other groups to express themselves creatively.
 
 **[Matrix Music School](https://www.matrixmusicschool.co.uk/)** (March 2015 to December 2018)   
 *Instrumental Teacher*
@@ -96,7 +95,7 @@ Makers taught me:
 
 **[Oxford School of English](https://www.oxfordschoolofenglish.com/)**  (Sep-Nov 2014, June-July 2015)
 
-- Classroom teacher of English as a Foreign Language at one of the city's most popular English-language schools.
+- English as a Foreign Language teaching at one of the city's most popular EFL schools.
 
 ## Hobbies and Interests
 
