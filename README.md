@@ -18,7 +18,7 @@
 
 ## Skills
 
-#### Programming
+### Programming!
 
 I learned my trade at Makers Academy - see [Education](#education) for details of pragmatic and soft skills.
 
@@ -30,7 +30,7 @@ Using accelerate.io's tech tests to get a metric of my abilities:
         - Complete test coverage. (Test Coverage = 100%)
     - [Compared to all other candidates](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=All%20candidates&rangeFrom=0&rangeTo=300)
 
-#### Communicating complex ideas through text
+### Communicating complex ideas through text
 
 The ability to distil abstruse ideas into their key elements is one of my USPs.
 - I drew analogies between concepts from linguistics and computer science in [a long-post](https://medium.com/@davidmears/) that received 46 claps on Medium.
