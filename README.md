@@ -83,7 +83,7 @@ Makers taught me:
 **[Kinder](https://kinder.world/)** (July-August 2018)
 *Charity analysis intern*
 
-- I applied Kinder's vetting framework on organizational competence to charities on their platform, and gave feedback to the company on their vetting framework, which demonstrated their self-reflective processes well enough that they decided to publish in [blog form](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405).
+- I applied Kinder's vetting framework on organizational competence to charities on their platform, and gave feedback to the company on their vetting framework, which demonstrated their self-reflective processes well enough that they decided to publish it in [blog form](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405).
 
 **Freelance clarinettist and singer** (2015-2018)
 
