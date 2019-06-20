@@ -35,7 +35,7 @@ Using accelerate.io's tech tests to get a metric of my abilities:
 The ability to distil abstruse ideas into their key elements is one of my USPs.
 - When I became excited by the all the parallels between concepts in linguistics and computer science, I wrote [a long-post](https://medium.com/@davidmears/) that got 46 claps on Medium.
 - While at Kinder, I wrote a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405) on their site summarizing some of the science behind, and highlighting some potential drawbacks of, their vetting framework.
-- The best part about being a teacher was managing to place the stepping stones at optimal intervals so that my students could bridge the gap between state A and state B. In that way a seemingly intractable task is reduced to a few simple steps + practice. Consequently, my students progressed faster than average.
+- The best part about being a teacher was managing to place the stepping stones at optimal intervals so that my students could bridge the gap between state A and state B. In that way a seemingly intractable task is reduced to a few simple steps + practice. It may be the reason my students seemed to progress faster than average.
 
 ### Continuous learning
 
