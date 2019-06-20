@@ -20,12 +20,12 @@
 
 #### Programming
 
-I used accelerate.io's tech tests to get a metric of my abilities. On Fizz, I had "
-- FIZZ
+I used accelerate.io's tech tests to get a metric of my abilities.
+- FIZZ challenge
     - [Report](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=Mears&rangeFrom=0&rangeTo=300)
-        - Fast delivery pace.( Clock Time <= 1h 10m )
-        - Great attention to detail.( Penalty <= 0m )
-        - Complete test coverage.( Test Coverage = 100%
+        - Fast delivery pace. (Clock Time <= 1h 10m)
+        - Great attention to detail. (Penalty <= 0m)
+        - Complete test coverage. (Test Coverage = 100%)
     - [Compared to all other candidates](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=All%20candidates&rangeFrom=0&rangeTo=300)
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
