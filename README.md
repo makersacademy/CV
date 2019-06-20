@@ -72,7 +72,7 @@ Makers taught me:
 *Contract and voluntary work as a developer*
 
 - I created an app for internal use by RC in a language (Python) and with frameworks (Django, unittest) not touched on by the Makers course, iterating on feedback from the client.
-- After proving myself, I was invited to become part of the [volunteer tech team](https://github.com/orgs/rtcharity/teams/tech)?) working on a website for them. [My PRs](https://github.com/rtcharity/eahub.org/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adavid-mears+)
+- After proving myself, I was invited to become part of the [volunteer tech team](https://github.com/orgs/rtcharity/teams/tech) working on a website for them. [My PRs](https://github.com/rtcharity/eahub.org/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adavid-mears+)
 
 **[Kinder](https://kinder.world/)** (July-August 2018)
 *Charity analysis intern*
