@@ -1,7 +1,7 @@
 ## David Mears
 [LinkedIn](https://www.linkedin.com/in/david-mears-2605a7159/) | [Programming Blog](https://medium.com/@davidmears/) | [Education](#education) | [Projects](#projects) | [Skills](#skills) |  [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
 
-[Makers Academy](https://makers.tech) grad, aspiring junior developer. Former musician and linguist. Looking for work contributing to interesting projects in an environment geared towards continuous learning.
+[Makers Academy](https://makers.tech) grad, aspiring junior developer, former musician and linguist. Looking for work contributing to meaningful, interesting projects in an environment geared towards continuous learning.
 
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Ruby-233%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/JavaScript-188%20commits-orange.svg" alt=""></a>
@@ -30,11 +30,16 @@ Using accelerate.io's tech tests to get a metric of my abilities:
         - Complete test coverage. (Test Coverage = 100%)
     - [Compared to all other candidates](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=All%20candidates&rangeFrom=0&rangeTo=300)
 
-### Communicating complex ideas through text
+### Communication skills
 
 The ability to distil abstruse ideas into their key elements is one of my USPs.
 - When I became excited by the all the parallels between concepts in linguistics and computer science, I wrote [a long-post](https://medium.com/@davidmears/) that got 46 claps on Medium.
 - While at Kinder, I wrote a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405) on their site summarizing some of the science behind, and highlighting some potential drawbacks of, their vetting framework.
+- The best part about being a teacher was managing to place the stepping stones at optimal intervals so that my students could bridge the gap between state A and state B. In that way a seemingly intractable task is reduced to a few simple steps + practice. Consequently, my students progressed faster than average.
+
+### Continuous learning
+
+I'm committed to iterative improvement through practice and study. There will never be time to learn everything, so I pride myself on knowing when to discontinue reading a book or article (diminishing returns are evil). I let the accelerating quality of my GitHub repos stand as evidence of this.
 
 ## Education
 
