@@ -44,6 +44,7 @@ I'm committed to iterative improvement through practice and study. There will ne
 ## Education
 
 **[Makers Academy](http://makersacademy.com/) Coding Bootcamp** (December 2018-March 2019)
+
 *Taught me:*
 - Essential pragmatic software skills:
     - [x] Object-Oriented Programming in Ruby, Rails, JavaScript
