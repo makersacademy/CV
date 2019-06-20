@@ -32,6 +32,7 @@ Using accelerate.io's tech tests to get a metric of my abilities:
 
 #### Communicating complex ideas through text
 
+The ability to distil abstruse ideas into their key elements is one of my USPs.
 - I drew analogies between concepts from linguistics and computer science in [a long-post](https://medium.com/@davidmears/) that received 46 claps on Medium.
 - While at Kinder, I wrote a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405) on their site summarizing some of the science behind, and highlighting some potential drawbacks of, their vetting framework.
 
