@@ -79,7 +79,7 @@ Makers taught me:
 
 - I applied Kinder's vetting framework on organizational competence to charities on their platform, and gave feedback to the company on their vetting framework.
 
-**[Freelance clarinettist and singer]** (2015-2018)
+**Freelance clarinettist and singer** (2015-2018)
 
 - Outside of my two performing groups, I specialised in creative learning participation: enabling people living with dementia, children with Special Educational Needs, and other groups to express themselves creatively.
 
