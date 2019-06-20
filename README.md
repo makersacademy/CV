@@ -100,4 +100,4 @@ Makers taught me:
 
 ## Hobbies and Interests
 
-I write [music](https://www.youtube.com/watch?v=_ZULf__C2k8), do life-drawing, play games, and listen to podcasts on eclectic topics (genetics, world politics, philosophy, rationality, psychology, altruism, economics, futurism, comedy).
+I write [music](https://www.youtube.com/watch?v=_ZULf__C2k8), do life-drawing, play games, and listen to podcasts on eclectic topics (genetics, world politics, philosophy, rationality, psychology, altruism, economics, futurism, comedy). Here are a couple of blogs: [programming](https://medium.com/@davidmears/programming-and-linguistics-makers-week-1-da1709051ca2), [fiction/eclectica](https://pelicanesis.wordpress.com/).
