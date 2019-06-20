@@ -16,10 +16,17 @@
 | [Receipt Generator App](https://github.com/rtcharity/receipt_generator_app)  | An app written for Rethink Charity to automate the generation of tax receipt pdfs for donors | Python, Django, unittest |
 | [EA Hub](https://github.com/rtcharity/eahub.org) | A site with several hundred users. I was invited to join RC's volunteer [tech team](https://github.com/orgs/rtcharity/teams/tech) after writing Receipt Generator App. [My PRs](https://github.com/rtcharity/eahub.org/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adavid-mears+) | Python, Django, JavaScript, Jasmine |
 
-
 ## Skills
 
-#### This Skill
+#### Programming
+
+I used accelerate.io's tech tests to get a metric of my abilities. On Fizz, I had "
+- FIZZ
+    - [Report](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=Mears&rangeFrom=0&rangeTo=300)
+        - Fast delivery pace.( Clock Time <= 1h 10m )
+        - Great attention to detail.( Penalty <= 0m )
+        - Complete test coverage.( Test Coverage = 100%
+    - [Compared to all other candidates](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=All%20candidates&rangeFrom=0&rangeTo=300)
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -41,16 +48,19 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-**[Makers Academy](http://makersacademy.com/)** (December 2018-March 2019)
+**[Makers Academy] Coding Bootcamp(http://makersacademy.com/)** (December 2018-March 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD, CI, algorithmic efficiency
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Makers taught me:
+- Essential pragmatic software skills:
+    - Object-Oriented Programming in Ruby, Rails, JavaScript
+    - Test-Driven Development (RSpec, Jasmine)
+    - Model-View-Controller architecture
+    - Continuous Integration
+    - Algorithmic complexity ('Big-O' notation)
+- Essential 'soft' skills:
+    - Healthy team dynamics: how to collaborate effectively without a project manager
+    - Agile and XP principles
+- That I can learn very quickly when driven, and that coding projects provide that motivation
 
 **[Royal Academy of Music](https://www.ram.ac.uk/)** (2015-17)
 
@@ -73,7 +83,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 *Contract and voluntary work as a developer*
 
 - I created an app for internal use by RC in a language (Python) and with frameworks (Django, unittest) not touched on by the Makers course, iterating on feedback from the client.
-- After proving myself, I was invited to become part of the [team of 12](https://github.com/orgs/rtcharity/people) (all?) voluntary developers working on a website for them.
+- After proving myself, I was invited to become part of the [volunteer tech team](https://github.com/orgs/rtcharity/teams/tech)?) working on a website for them. [My PRs](https://github.com/rtcharity/eahub.org/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Adavid-mears+)
 
 **[Kinder](https://kinder.world/)** (July-August 2018)
 *Charity analysis intern*
