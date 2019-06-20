@@ -46,7 +46,7 @@ I'm committed to iterative improvement through practice and study. There will ne
 I'm practical-minded, preferring to be proactive over reactive. Here are a couple of small examples.
 - During onboarding as a volunteer for [SoGive](https://sogive.org/), I was conscious that the founder was giving up his afternoon. I therefore asked to audio-record the process, and transcribed it into a document to be sent to new volunteers.
 - At the Royal Academy of Music, there weren't many reasons, besides the bar, for players in different departments to get to know each other. That's why I founded the Book Club, which is where I met my best friends at that time.
-- When I sang in [Arcadian Singers](http://www.arcadiansingers.co.uk/), there was a dearth of music by women, even among living composers. I suggested and organised our 2015 Women Composers' Competition, which received over 30 entries.
+- When I sang in [Arcadian Singers](http://www.arcadiansingers.co.uk/), there was a dearth of music by women, even among living composers. I suggested and organised our Women Composers' Competition, which received over 30 entries.
 
 ## Education
 
