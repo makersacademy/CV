@@ -6,7 +6,7 @@
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Ruby-233%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/JavaScript-188%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/HTML/CSS-416%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Python-97%20commits-orange.svg" alt=""></a>
+<a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/Python-114%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/david-mears"><img src="https://img.shields.io/badge/CoffeeScript-85%20commits-orange.svg" alt=""></a>
 
 ## Projects
@@ -20,7 +20,9 @@
 
 #### Programming
 
-I used accelerate.io's tech tests to get a metric of my abilities.
+I learned my trade at Makers Academy - see [Education](#education) for details of pragmatic and soft skills.
+
+Using accelerate.io's tech tests to get a metric of my abilities:
 - FIZZ challenge
     - [Report](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=Mears&rangeFrom=0&rangeTo=300)
         - Fast delivery pace. (Clock Time <= 1h 10m)
@@ -28,27 +30,14 @@ I used accelerate.io's tech tests to get a metric of my abilities.
         - Complete test coverage. (Test Coverage = 100%)
     - [Compared to all other candidates](https://report.accelerate.io/FIZ/mears0iouhka/index.html?candidate=dixe01&benchmark=All%20candidates&rangeFrom=0&rangeTo=300)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
 #### Communicating complex ideas through text
 
 - I drew analogies between concepts from linguistics and computer science in [a long-post](https://medium.com/@davidmears/) that received 46 claps on Medium.
 - While at Kinder, I wrote a [blog post](https://kinder.world/blogs/company/increasing-effectiveness-with-high-quality-internal-research-19405) on their site summarizing some of the science behind, and highlighting some potential drawbacks of, their vetting framework.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
-**[Makers Academy] Coding Bootcamp(http://makersacademy.com/)** (December 2018-March 2019)
+**[Makers Academy](http://makersacademy.com/) Coding Bootcamp** (December 2018-March 2019)
 
 Makers taught me:
 - Essential pragmatic software skills:
