@@ -14,15 +14,6 @@ I'm a multi-skilled, bilingual TV journalist and have loads of experience workin
 
 - I have outstanding verbal and written communication skills - I have my voice heard in editorial meetings, face-to-face meetings with the CEO, and was asked by our presenter Jon Snow to work as the researcher on his book because of my ability to condense complex information. 
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
 ## Education
 
 #### Makers Academy (September - December 2019)
