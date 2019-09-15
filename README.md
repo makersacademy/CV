@@ -14,6 +14,10 @@ I'm a multi-skilled, bilingual TV journalist and have loads of experience workin
 
 - I have outstanding verbal and written communication skills - I have my voice heard in editorial meetings, face-to-face meetings with the CEO, and was asked by our presenter Jon Snow to work as the researcher on his book because of my ability to condense complex information. 
 
+#### Languages
+
+- I'm bilingual Finnish - English, have decent conversational French and did Swedish and German to A-level standard
+
 ## Education
 
 #### Makers Academy (September - December 2019)
@@ -50,7 +54,7 @@ News Editor (previously Programme Editor and Producer on Channel 4 News, News at
 
 **CNN International** (1997-2000)   
 Satellite Feed Producer
-- I booked satellite feeds across the world for CNN's output, and experimented with new tech including TOKO
+- Whist studying for my Masters, I worked in the CNN London master control room, booking satellite feeds across the world for CNN's output, and experimenting with new tech including TOKO
 
 **Heart 106.2** (1996-1998)   
 Reporter  
