@@ -1,13 +1,13 @@
 ## HELI SIVUNEN
 
-I'm a multi-skilled, bilingual TV journalist and have loads of experience working in national and international TV news at a senior level. I love working in a large group of talented professionals. I manage two assistants and several camera crews, and I'm proud to foster a really good atmosphere and relationships within my team. I was selected for an Avid 'train the trainer' course to teach video editing to more than a hundred ITN staff, and during that process (someone tried to poach me!) I realised I could make an important contribution towards improving software. I'm now hoping to use my TV production experience to help companies to excite their audiences and business clients with elegant but highly practical software. I care deeply about the environment. I spent several months planning my own business, which would have used ocean plastic to manufacture goods. I abandoned this because I realised the big beasts would catch up soon - I was right! I have volunteered at beach cleans and sit on ITN's Sustainability Forum.
+I'm a multi-skilled, bilingual TV journalist and have loads of experience working in national and international TV news at a senior level. I love working in a large group of talented professionals, and I'm proud to foster a really good atmosphere and relationships within my team. I was selected to train Avid video editing to more than a hundred ITN staff, and during that process (someone tried to poach me!) I realised I could make an important contribution towards improving software. I'm now hoping to use my TV production experience to help companies to excite their audiences and business clients with elegant but highly practical software. I care deeply about the environment. I spent several months planning my own business, which would have used ocean plastic to manufacture goods. I abandoned this because I realised the big beasts would catch up soon - I was right! I volunteer at Code Bar to help improve diversity in the tech industry, and am a member of ITN's Sustainability Forum which works to reduce the company's carbon footprint.
 
 
 ## Skills
 
 #### TV journalism
 
-- I have excellent writing, editing, newsgathering and editorial skills. I'm very proud that I was the first Channel 4 News journalist to report and edit a lead story!
+- I have excellent writing, editing, editorial and logistical skills. I'm very proud that I was the first Channel 4 News journalist to report and edit a lead story!
 - Programmes I have worked on have won Emmy, Bafta and RTS awards for news coverage and News Programme of the Year.
 
 #### Communication
@@ -16,7 +16,7 @@ I'm a multi-skilled, bilingual TV journalist and have loads of experience workin
 
 #### Languages
 
-- I'm bilingual Finnish - English, have decent conversational French and did Swedish and German to A-level standard
+- I'm bilingual Finnish - English, have decent conversational French after studying in Bordeaux during my gap year, and did Swedish and German to A-level standard
 
 ## Education
 
@@ -43,7 +43,7 @@ I'm a multi-skilled, bilingual TV journalist and have loads of experience workin
 #### Any other qualifications
 
 - Happy Startup School course, 2016 
-- Helsinki Dance Institute, scholarship student 1985 - 1994
+- Helsinki Dance Institute, dancer in their high performance pathway 1985 - 1994
 
 ## Experience
 
