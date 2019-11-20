@@ -1,6 +1,10 @@
 ## HELI SIVUNEN
 
-I'm a multi-skilled, bilingual TV journalist and have loads of experience working in national and international TV news at a senior level. I love working in a large group of talented professionals, and I'm proud to foster a really good atmosphere and relationships within my team. I was selected to train Avid video editing to more than a hundred ITN staff, and during that process (someone tried to poach me!) I realised I could make an important contribution towards improving software. I'm now hoping to use my TV production experience to help companies to excite their audiences and business clients with elegant but highly practical software. I care deeply about the environment. I spent several months planning my own business, which would have used ocean plastic to manufacture goods. I abandoned this because I realised the big beasts would catch up soon - I was right! I volunteer at Code Bar to help improve diversity in the tech industry, and am a member of ITN's Sustainability Forum which works to reduce the company's carbon footprint.
+I'm a multi-skilled, bilingual TV journalist and have years of experience working in national and international TV news at a senior level. I love working in a large group of talented professionals, and I'm proud to foster a great atmosphere and relationships within my team. 
+
+I was selected to train Avid video editing to more than a hundred ITN staff, and during that process (someone tried to poach me!) I realised I could make an important contribution towards improving software. I'm now hoping to use my TV production experience to help companies excite their audiences and business clients with elegant but highly practical software. 
+
+I care deeply about the environment. I spent several months planning my own business, which would have used ocean plastic to manufacture goods. I abandoned this because I realised the big beasts would catch up soon - I was right! I volunteer at Code Bar to help improve diversity in the tech industry, and am a member of ITN's Sustainability Forum which works to reduce the company's carbon footprint.
 
 
 ## Skills
@@ -60,4 +64,4 @@ Satellite Feed Producer
 Reporter  
 
 ## Hobbies
-I'm in the early stages of writing a book from about 2,000 letters my grandparents sent to each other when my grandfather was fighting in the Finnish Continuation War during WWII.
+I'm in the early stages of writing a book from more than 2,000 letters my grandparents sent to each other when my grandfather was fighting in the Finnish Continuation War during WWII.
