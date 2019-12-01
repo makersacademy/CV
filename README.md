@@ -1,22 +1,29 @@
 ## HELI SIVUNEN
 
-I'm a multi-skilled, bilingual TV journalist and have years of experience working in national and international TV news at a senior level. I love working in a large group of talented professionals, and I'm proud to foster a great atmosphere and relationships within my team. 
+I'm a bilingual developer and multi-skilled TV journalist with years of experience working in national and international TV news at a senior level. Whether in coding or TV production, I love working in small and large groups of talented professionals, and I'm proud to foster a great atmosphere and relationships within my teams. 
 
-I was selected to train Avid video editing to more than a hundred ITN staff, and during that process (someone tried to poach me!) I realised I could make an important contribution towards improving software. I'm now hoping to use my TV production experience to help companies excite their audiences and business clients with elegant but highly practical software. 
+I am a graduate of Makers, a 12-week, highly selective coding bootcamp in London. My first programming language is Ruby (including Rails), and I have also worked in Javascript and Swift and experimented with Python. My full-stack work has a strong emphasis on TDD. I have spent the last three months pair programming, and I've worked in three group projects with Agile practices and a rigorous workflow. I have been selected as scrum master several times because of my leadership and organisational skills.
 
-I care deeply about the environment. I spent several months planning my own business, which would have used ocean plastic to manufacture goods. I abandoned this because I realised the big beasts would catch up soon - I was right! I volunteer at Code Bar to help improve diversity in the tech industry, and am a member of ITN's Sustainability Forum which works to reduce the company's carbon footprint.
+I care deeply about the environment. I spent several months planning my own business, which would have used ocean plastic to manufacture goods. I abandoned this because I realised the big beasts would catch up soon - I was right! I have signed up to volunteer at Code Bar to help improve diversity in the tech industry. I'm a member of ITN's Sustainability Forum which works to reduce the company's carbon footprint, and have recently become vegan to slash my own.
 
+During my career in TV news, I was selected to train Avid video editing to more than a hundred ITN staff, and in that process (someone tried to poach me!) I realised I could make an important contribution towards improving software. I'm now hoping to use my TV production experience to help companies excite their audiences and business clients with elegant but highly practical software. 
 
 ## Skills
 
-#### TV journalism
+#### Programming
 
-- I have excellent writing, editing, editorial and logistical skills. I'm very proud that I was the first Channel 4 News journalist to report and edit a lead story!
+- Languages Ruby, Javascript, Swift, HTML, CSS
+- Frameworks: Rails, Bootstrap
+- Test suites: RSpec, Capybara, Jasmine, Travis
+- IDEs: Atom, Xcode
+- Other technologies: GitHub for version control and continuous integration, Heroku for deployment, Active Record for
+persisting data, SQL/TablePlus for data management
+
+#### TV journalism / communication
+
+- excellent writing, editing, editorial and logistical skills. I'm very proud that I was the first Channel 4 News journalist to report and edit a lead story.
+- I have my voice heard in editorial meetings, face-to-face meetings with the CEO, and was asked by our presenter Jon Snow to work as the researcher on his book because of my ability to condense complex information. 
 - Programmes I have worked on have won Emmy, Bafta and RTS awards for news coverage and News Programme of the Year.
-
-#### Communication
-
-- I have outstanding verbal and written communication skills - I have my voice heard in editorial meetings, face-to-face meetings with the CEO, and was asked by our presenter Jon Snow to work as the researcher on his book because of my ability to condense complex information. 
 
 #### Languages
 
@@ -26,14 +33,12 @@ I care deeply about the environment. I spent several months planning my own busi
 
 #### Makers Academy (September - December 2019)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Final project: iPhone native Jack the Ripper game with Swift / Xcode, being new to both technologies. The full-stack project was completed in a group of six with two-day sprints, daily standups and retros, pair programming and independent research. I was scrum master for most of the project, and blogged about my experiences.
 
 #### London School of Economics (LSE) (1998-2000)
 
 - MSc International Relations (dissertation on child labour)
+- Post-Graduate Diploma in World Politics
 
 #### Institut Universitaire de Technologie (IUT) Bordeaux (3 months during gap year 1997)
 
@@ -47,7 +52,7 @@ I care deeply about the environment. I spent several months planning my own busi
 #### Any other qualifications
 
 - Happy Startup School course, 2016 
-- Helsinki Dance Institute, dancer in their high performance pathway 1985 - 1994
+- Helsinki Dance Institute, dancer on their high performance pathway 1985 - 1994
 
 ## Experience
 
