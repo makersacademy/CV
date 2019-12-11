@@ -4,6 +4,8 @@ I'm a bilingual developer and multi-skilled TV journalist with years of experien
 
 I am a graduate of Makers, a 12-week, highly selective coding bootcamp in London. My first programming language is Ruby (including Rails), and I have also worked in Javascript and Swift and experimented with Python. My full-stack work has a strong emphasis on TDD. I have spent the last three months pair programming, and I've worked in three group projects with Agile practices and a rigorous workflow. I have been selected as scrum master several times because of my leadership and organisational skills.
 
+Please see my three entries to our final project blog here: https://medium.com/team-6
+
 I care deeply about the environment. I spent several months planning my own business, which would have used ocean plastic to manufacture goods. I abandoned this because I realised the big beasts would catch up soon - I was right! I have signed up to volunteer at Code Bar to help improve diversity in the tech industry. I'm a member of ITN's Sustainability Forum which works to reduce the company's carbon footprint, and have recently become vegan to slash my own.
 
 During my career in TV news, I was selected to train Avid video editing to more than a hundred ITN staff, and in that process (someone tried to poach me!) I realised I could make an important contribution towards improving software. I'm now hoping to use my TV production experience to help companies excite their audiences and business clients with elegant but highly practical software. 
