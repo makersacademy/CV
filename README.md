@@ -1,4 +1,8 @@
-## Your Name
+## John Baxter
+
+A trainee software developer with Makers Academy. My background combines the hard-working logical thoroughness of working to meet the strict requirements of International Standards with the flexibility to adjust to changing customer demands and strict deadlines. 
+
+My background combines a ten year career in the pharmaceutical industry
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
@@ -23,17 +27,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2020 to May 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Heriot-Watt University, Edinburgh (1999 to 2005)
 
-- Subject, any specialisms
-- Grade
+- BSc (Hons) Chemistry with Management
 - Other cool stuff
 
 #### Any other qualifications
@@ -42,14 +45,18 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
+**Cambridge Sconultants** (2012 to 2019)    
+*Laboratory Technician*  
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Laboratory Analyst** (2009 to 2012)   
+*Laboratory Analyst*  
 - Any experience relevent to software development
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Reading: non-fiction, popular science and science fiction.
+- Board games, e.g. Carcassonne, Lords of Waterdeep and Codenames.
+- Watching sport, e.g. football, cricket and rugby league.
+- Trivia and pub quizzes, especially geography and sport.
+- Learning Spanish (post-beginner level).
