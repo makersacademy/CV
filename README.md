@@ -48,13 +48,11 @@ I believe that in unity there is strength- I have become a part of the coding co
 
 ## Experience
 
-**Trailfinders** ( OCT 19 to AUG 17 ) 
-*Junior Product Contractor / Travel Consultant*
+**Trailfinders** ( OCT 19 to AUG 17 ) *Junior Product Contractor / Travel Consultant*
 - Producing company wide statistics to help identify sales trends and to find areas to expand our product
 - Helped to develop and implement a new API feed
 
-**The Royal Household** (SUMMERS OF 14 to 17)   
-*Ticket Sales and Information Team Leader*
+**The Royal Household** (SUMMERS OF 14 to 17) *Ticket Sales and Information Team Leader*
 - Line manager to 21 individuals. Monitoring their phone calls, providing regular feedback and managing issues regarding lateness, absence or poor performance.
 - Carried out opening and closing procedures daily. Activities included delivering the morning briefing, checking the cash floats and liaising with other departments.
 - Dealt with customer escalations, managing operational issues, approving exchanges and refunds.
