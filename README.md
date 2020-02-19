@@ -48,8 +48,6 @@ I believe that in unity there is strength- I have become a part of the coding co
 
 ## Experience
 
-Throughout my time at secondary school and sixth form, I held the title of International Representative for Student Voice. We campaigned for better education for all, votes at 16 and democratic education. I attended various conferences across Europe and I planned and facilitated the OBESSU study session '"Special Needs": education, participation and social inclusion' which was held for 35 student representatives from the EU.
-
 **Trailfinders** ( OCT 19 to AUG 17 ) 
 *Junior Product Contractor / Travel Consultant*
 - Producing company wide statistics to help identify sales trends and to find areas to expand our product
@@ -60,6 +58,10 @@ Throughout my time at secondary school and sixth form, I held the title of Inter
 - Line manager to 21 individuals. Monitoring their phone calls, providing regular feedback and managing issues regarding lateness, absence or poor performance.
 - Carried out opening and closing procedures daily. Activities included delivering the morning briefing, checking the cash floats and liaising with other departments.
 - Dealt with customer escalations, managing operational issues, approving exchanges and refunds.
+
+## Other Experience
+
+Throughout my time at secondary school and sixth form, I held the title of International Representative for Student Voice. We campaigned for better education for all, votes at 16 and democratic education. I attended various conferences across Europe and I planned and facilitated the OBESSU study session '"Special Needs": education, participation and social inclusion' which was held for 35 student representatives from the EU.
 
 ## Hobbies
 
