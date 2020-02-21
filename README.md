@@ -64,7 +64,7 @@ I believe that teams work best when everyone is enabled to contribute to the bes
 
 ## Other Experience
 
-Throughout my time at secondary school and sixth form, I held the title of International Representative for [Student Voice](https://www.studentvoice.co.uk/). We campaigned for better education for all, votes at 16 and democratic education. I attended various conferences across Europe and I planned and facilitated the [OBESSU](https://www.obessu.org/) study session ['"Special Needs": education, participation and social inclusion'](https://rm.coe.int/16806fd5b0) which was held for 35 student representatives from the EU. In recognition of my commitment and dedication to the cause, I was asked to be a Trustee member for [Phenoix Education Trust](https://www.phoenixeducation.co.uk/).
+Throughout my time at secondary school and sixth form, I held the title of International Representative for [Student Voice](https://www.studentvoice.co.uk/). We campaigned for better education for all, votes at 16 and democratic education. I attended various conferences across Europe and I planned and facilitated the [OBESSU](https://www.obessu.org/) study session ['"Special Needs": education, participation and social inclusion'](https://rm.coe.int/16806fd5b0) which was held for 35 student representatives from the EU. In recognition of my commitment and dedication to the cause, I was asked to be a Trustee Member for [Phenoix Education Trust](https://www.phoenixeducation.co.uk/).
 
 ## Hobbies
 
