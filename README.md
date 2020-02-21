@@ -6,7 +6,7 @@ My time spent at Makers Academy has taught me the importance of best coding prac
 
 I believe that in unity there is strength- I have become a part of the coding community in London, attending various meet-ups and conferences and founded my own organisation, the London Vegan Coders.
 
-I believe that teams work best when everyone is enabled to contribute to the best of their ability and I have recieved comments from team members at Makers that I explained things really well, in a way that allowed them to grasp concepts that they previously struggled with, such as using whiteboarding ang my excellent communication skills get across a new concept when working on the Notes App and explaining the MVC model.
+I believe that teams work best when everyone is enabled to contribute to the best of their ability and I have recieved comments from team members at Makers that I explained things really well, in a way that allowed them to grasp concepts that they previously struggled with, such as using whiteboarding and my excellent communication skills get across a new concept when working on the Notes App and explaining the MVC model.
 
 ## Skills
 
