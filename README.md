@@ -24,9 +24,9 @@ I believe that teams work best when everyone is enabled to contribute to the bes
 
 ## Projects
 
-- Acebook: A social media platform built using Ruby on Rails and RSpec. Worked as part of a team using agile principles to a tight two week deadline. Used my organisational skills to deliver on time a well tested product. https://github.com/asiaellis5/acebook-U-JAKD https://acebook-u-jakd.herokuapp.com/
-- The Book Explorer: Independent project to upload CSV files containing a list of books. I was self motivated to do this to learn how to use AWS S3. Ruby on Rails, RSpec, AWS S3 https://github.com/junolouise/the_book_explorer https://the-book-explorer-1.herokuapp.com/
-- Notes App: A single page JavaScript app to add/ display notes. We used pure JavaScript and built our own testing framework. JavaScript  https://github.com/junolouise/notesApp 
+- [Acebook](https://acebook-u-jakd.herokuapp.com/): A social media platform built using Ruby on Rails and RSpec. Worked as part of a team using agile principles to a tight two week deadline. Used my organisational skills to deliver on time a well tested product. https://github.com/asiaellis5/acebook-U-JAKD 
+- [The Book Explorer](https://the-book-explorer-1.herokuapp.com/): Independent project to upload CSV files containing a list of books. I was self motivated to do this to learn how to use AWS S3. Ruby on Rails, RSpec, AWS S3 https://github.com/junolouise/the_book_explorer 
+- [Notes App](https://github.com/junolouise/notesApp): A single page JavaScript app to add/ display notes. We used pure JavaScript and built our own testing framework. JavaScript  
 
 ## Education
 
