@@ -23,7 +23,7 @@ I believe that teams work best when everyone is enabled to contribute to the bes
 - In team projects at Makers I have kept team morale high by arranging team lunches. I do not shy away from difficult tasks such as volunteering to work as the Night Officer for Trailfinders to help clients around the globe on their travels often in difficult situations such as needing to fly home due to the death of a loved one or flight cancellations. 
 
 ## Projects
-
+- [Seasonal Regional](https://seasonal-regional.herokuapp.com/): A single page Vue.js app to highlight carbon emissions produced by different ingredients. Selecting an ingredient shows relevant recipes from an API. Built in two weeks as a group. Vue.js, Cypress, Firebase https://github.com/junolouise/seasonal-and-regional 
 - [Acebook](https://acebook-u-jakd.herokuapp.com/): A social media platform built using Ruby on Rails and RSpec. Worked as part of a team using agile principles to a tight two week deadline. Used my organisational skills to deliver on time a well tested product. https://github.com/asiaellis5/acebook-U-JAKD 
 - [The Book Explorer](https://the-book-explorer-1.herokuapp.com/): Independent project to upload CSV files containing a list of books. I was self motivated to do this to learn how to use AWS S3. Ruby on Rails, RSpec, AWS S3 https://github.com/junolouise/the_book_explorer 
 - [Notes App](https://github.com/junolouise/notesApp): A single page JavaScript app to add/ display notes. We used pure JavaScript and built our own testing framework. JavaScript  
