@@ -6,7 +6,7 @@ My time spent at Makers Academy has taught me the importance of best coding prac
 
 I believe that in unity there is strength- I have become a part of the coding community in London, attending various meet-ups and conferences and founded my own organisation, the London Vegan Coders.
 
-I believe that teams work best when everyone is enabled to contribute to the best of their ability and I have recieved comments from team members at Makers that I explained things really well, in a way that allowed them to grasp concepts that they previously struggled with, such as using whiteboarding and my excellent communication skills to get across a new concept when working on the Notes App and explaining the MVC model.
+I believe that teams work best when everyone is enabled to contribute to the best of their ability and I have received comments from team members at Makers that I explained things really well, in a way that allowed them to grasp concepts that they previously struggled with, such as using whiteboarding and my excellent communication skills to get across a new concept when working on the Notes App and explaining the MVC model.
 
 ## Skills
 
@@ -64,7 +64,7 @@ I believe that teams work best when everyone is enabled to contribute to the bes
 
 ## Other Experience
 
-Throughout my time at secondary school and sixth form, I held the title of International Representative for [Student Voice](https://www.studentvoice.co.uk/). We campaigned for better education for all, votes at 16 and democratic education. I attended various conferences across Europe and I planned and facilitated the [OBESSU](https://www.obessu.org/) study session ['"Special Needs": education, participation and social inclusion'](https://rm.coe.int/16806fd5b0) which was held for 35 student representatives from the EU. In recognition of my commitment and dedication to the cause, I was asked to be a Trustee Member for [Phenoix Education Trust](https://www.phoenixeducation.co.uk/).
+Throughout my time at secondary school and sixth form, I held the title of International Representative for [Student Voice](https://www.studentvoice.co.uk/). We campaigned for better education for all, votes at 16 and democratic education. I attended various conferences across Europe and I planned and facilitated the [OBESSU](https://www.obessu.org/) study session ['"Special Needs": education, participation and social inclusion'](https://rm.coe.int/16806fd5b0) which was held for 35 student representatives from the EU. In recognition of my commitment and dedication to the cause, I was asked to be a Trustee Member for [Pheonix Education Trust](https://www.phoenixeducation.co.uk/).
 
 ## Hobbies
 
