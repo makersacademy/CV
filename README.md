@@ -33,7 +33,7 @@ You won't often find people raving about the fact they dropped out of university
 
 #### Sensyne Health (May 2019 - to present)
 
-- Successful start-up, working in developing apps for healthcare
+- Successful start-up, took machine learning models and turned them into functional awesome APIs
 - Promoted from junior data engineer to data engineer after 4 months
 - Team of 3 people initially, was involved in process and hiring
 - Agile scrum environment
