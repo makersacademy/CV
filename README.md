@@ -1,6 +1,6 @@
 ## Raefe Newton-Jones
 
-I am a Data Engineer with a particular interest in helping companies to turn machine learning models into functional pieces of software. The most enjoyable aspect of coding for me is writing a beautiful piece of code which is precise, streamlined and accessible. I love automating, in every arena possible.
+I am a Data Engineer with a particular interest in helping companies to turn machine learning models into functional pieces of software. The most enjoyable aspect of coding for me is writing a beautiful piece of code which is efficient, succinct and accessible. I love automating, in every arena possible.
 
 
 ## Projects
@@ -20,8 +20,8 @@ I am a Data Engineer with a particular interest in helping companies to turn mac
 
 I've always prided myself on my ability to be pragmatic.
 I have a particular strength in Maths and from a young age have enjoyed solving really difficult mathematical problems.
-In the final project at Makers Academy I faced many high-level coding challenges. With no prior knowledge of Machine Learning I was able to test-drive three bots.
-One particular project I'm proud of is building an entire data pipeline, integrating legacy APIs with new technologies to create ward reports for hospitals.
+In the final project at Makers Academy I faced many high-level coding challenges. With no prior knowledge of Machine Learning I was able to test-drive three machine learning models.
+One particular project I'm proud of is building an entire data pipeline; integrating legacy APIs with new technologies to create a ward reporting function for hospitals.
 
 #### Communication
 
@@ -39,7 +39,7 @@ You won't often find people raving about the fact they dropped out of university
 
 - Successful start-up, took machine learning models and turned them into functional awesome APIs
 - Promoted from junior data engineer to data engineer after 4 months
-- PArt of a team of 3 people initially, was involved in process and hiring
+- Part of a team of 3 people, was involved in  changing engineering process and making hiring decisions
 - Agile scrum environment
 - Python, Neo4J, SQL, SQL Server, GCP, Microsoft Azure, Microservices Architecture, TDD
 
