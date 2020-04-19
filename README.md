@@ -6,7 +6,7 @@ I am a Data Engineer with a particular interest in helping companies to turn mac
 ## Projects
 | Project  | Summary | Technologies |
 | ------------- | ------------- | ------------- |
-|1. [Machine Learning Project](https://github.com/Raefey/FinalProjectML)  | Our final project at Makers Academy which explored Machine Learning. We created bots to detect cancerous tumours and diabetes. Going into the week with no experience in machine learning by the end of the week we were able to test drive all the bots with 100% coverage  | Python, Unittest, Tensorflow |
+|1. [Machine Learning Project](https://github.com/Raefey/FinalProjectML)  | Our final project at Makers Academy which explored Machine Learning. We wrote models to detect cancerous tumours and diabetes. We went into the week with no experience in machine learning and we were able to test drive all the models with 100% coverage  | Python, Unittest, Tensorflow |
 |2. [Acebook](https://github.com/Raefey/acebook-dart)  | A two week group project to create a clone of Facebook  | Ruby on Rails, RSpec, JQuery, Postgres, Heroku  |
 |3. [Bank Tech Test](https://github.com/Raefey/bank-tech-test)  | A practice tech test, simulating a Bank, focusing on the bank statement  | Ruby, RSpec |
 |4. [Bowling Challenge](https://github.com/Raefey/bowling-challenge)  | A bowling-score calculator, I was proud of this project as I used a really interesting recurring method  | Javascript, Jasmine |
