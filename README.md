@@ -1,12 +1,12 @@
 ## Raefe Newton-Jones
 
-I am a Data Engineer looking to help companies turn machine learning models into functional pieces of software. The most enjoyable part of coding to me is writing a beautiful piece of code that is as efficient and succinct as possible. I love automating anything where possible.
+I am a Data Engineer with a particular interest in helping companies to turn machine learning models into functional pieces of software. The most enjoyable aspect of coding for me is writing a beautiful piece of code which is precise, streamlined and accessible. I love automating, in every arena possible.
 
 
 ## Projects
 | Project  | Summary | Technologies |
 | ------------- | ------------- | ------------- |
-|1. [Machine Learning Project](https://github.com/Raefey/FinalProjectML)  | Our final project at Makers Academy which explored Machine Learning, we created bots to detect cancerous tumours and diabetes. We went into the week with no experience in machine learning and were able to test drive all the bots with 100% coverage  | Python, Unittest, Tensorflow |
+|1. [Machine Learning Project](https://github.com/Raefey/FinalProjectML)  | Our final project at Makers Academy which explored Machine Learning. We created bots to detect cancerous tumours and diabetes. Going into the week with no experience in machine learning by the end of the week we were able to test drive all the bots with 100% coverage  | Python, Unittest, Tensorflow |
 |2. [Acebook](https://github.com/Raefey/acebook-dart)  | A two week group project to create a clone of Facebook  | Ruby on Rails, RSpec, JQuery, Postgres, Heroku  |
 |3. [Bank Tech Test](https://github.com/Raefey/bank-tech-test)  | A practice tech test, simulating a Bank, focusing on the bank statement  | Ruby, RSpec |
 |4. [Bowling Challenge](https://github.com/Raefey/bowling-challenge)  | A bowling-score calculator, I was proud of this project as I used a really interesting recurring method  | Javascript, Jasmine |
@@ -18,15 +18,19 @@ I am a Data Engineer looking to help companies turn machine learning models into
 #### Problem Solving
 
 
-I've always prided myself on my ability to be pragmatic. I have a strong background in Maths, and have enjoyed solving really difficult problems from a young age. In the final project at Makers Academy, I faced many high-level problems. With no prior knowledge of Machine Learning we were able to test-drive three bots. One particular problem I'm proud of overcoming was building an entire data pipeline that was used as part of a ward reporting process in hospitals.
+I've always prided myself on my ability to be pragmatic.
+I have a particular strength in Maths and from a young age have enjoyed solving really difficult mathematical problems.
+In the final project at Makers Academy I faced many high-level coding challenges. With no prior knowledge of Machine Learning I was able to test-drive three bots.
+One particular project I'm proud of is building an entire data pipeline, integrating legacy APIs with new technologies to create ward reports for hospitals.
 
 #### Communication
 
-In year 12 I was part of the Young Enterprise Program, I was voted by my peers and the year above to represent the company as Managing Director, this involved public speaking, and management within the team. I was made vice captain of the City water polo team in Dundee within the first few weeks playing for the club.
+In year 12 at school I was part of the Young Enterprise Program. I was voted by my peers and year 13 to represent the company as Managing Director which involved public speaking, and management of the team.  
+At University I was made vice captain of the City Water Polo Team in Dundee within the first few weeks playing for the club.
 
 #### Unstoppable
 
-You won't often find people raving about the fact they dropped out of university posted all over their CVs. Leaving University was a difficult decision for me, it left me in London with no qualifications, job or help. Being completely independent from the age of 19, I've had to work hard to get to where I am today, and have absolutely no desire to stop now. When I set myself a task there is little to nothing that can stand in my way.
+You won't often find people raving about the fact they dropped out of university posted all over their CVs. Leaving University was a difficult decision for me, it left me in London with no qualifications, job or financial support. Being completely independent since the age of 19, I've had to work hard to get to where I am today and have absolutely no desire to stop now. When I set myself a task there is little or nothing that will stand in my way.
 
 
 ## Experience
@@ -35,7 +39,7 @@ You won't often find people raving about the fact they dropped out of university
 
 - Successful start-up, took machine learning models and turned them into functional awesome APIs
 - Promoted from junior data engineer to data engineer after 4 months
-- Team of 3 people initially, was involved in process and hiring
+- PArt of a team of 3 people initially, was involved in process and hiring
 - Agile scrum environment
 - Python, Neo4J, SQL, SQL Server, GCP, Microsoft Azure, Microservices Architecture, TDD
 
@@ -56,7 +60,7 @@ You won't often find people raving about the fact they dropped out of university
 
 - One year completed
 - Economics as a chosen module
-- First team Water Polo
+- University first team Water Polo
 - City of Dundee Water Polo
 
 #### Framlingham College (2011 - 15)
