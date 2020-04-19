@@ -1,6 +1,6 @@
 ## Raefe Newton-Jones
 
-I am a Software Engineer looking for a full-stack role in a company with a passionate mission-focused team. The most enjoyable part of coding to me is writing a beautiful piece of code that is as efficient and succinct as possible.
+I am a Data Engineer looking to help companies turn machine learning models into functional pieces of software. The most enjoyable part of coding to me is writing a beautiful piece of code that is as efficient and succinct as possible. I love automating anything where possible.
 
 
 ## Projects
@@ -18,25 +18,26 @@ I am a Software Engineer looking for a full-stack role in a company with a passi
 #### Problem Solving
 
 
-I've always prided myself on my ability to be pragmatic. I have a strong background in Maths, and have enjoyed solving really difficult problems from a young age. In the final project at Makers Academy, I faced many high-level problems. With no prior knowledge of Machine Learning we were able to test-drive three bots. One particular problem I overcame during the course was to create instant messaging functionality using websockets and actioncable in a Rails app.
+I've always prided myself on my ability to be pragmatic. I have a strong background in Maths, and have enjoyed solving really difficult problems from a young age. In the final project at Makers Academy, I faced many high-level problems. With no prior knowledge of Machine Learning we were able to test-drive three bots. One particular problem I'm proud of overcoming was building an entire data pipeline that was used as part of a ward reporting process in hospitals.
 
 #### Communication
 
-In year 12 I was part of the Young Enterprise Program, I was voted by people of my own age and a year older to represent the company as Managing Director, this involved a level of public speaking, and management within the team. I was made vice captain of the City water polo team in Dundee within the first few weeks playing for the club.
+In year 12 I was part of the Young Enterprise Program, I was voted by my peers and the year above to represent the company as Managing Director, this involved public speaking, and management within the team. I was made vice captain of the City water polo team in Dundee within the first few weeks playing for the club.
 
 #### Unstoppable
 
-You won't often find people raving about the fact they dropped out of university posted all over their CVs. Leaving University was a difficult decision for me, it left me in London with no qualifications, job or help. Being completely independent from the age of 19, I've had to work hard to get to where I am already, and have absolutely no desire to stop now. When I set myself a task there is little to nothing that can stand in my way.
+You won't often find people raving about the fact they dropped out of university posted all over their CVs. Leaving University was a difficult decision for me, it left me in London with no qualifications, job or help. Being completely independent from the age of 19, I've had to work hard to get to where I am today, and have absolutely no desire to stop now. When I set myself a task there is little to nothing that can stand in my way.
 
 
 ## Experience
 
-#### Sensyne Health (May - September 2019)
+#### Sensyne Health (May 2019 - to present)
 
 - Successful start-up, working in developing apps for healthcare
-- One month in each department; Engineering, Data, Machine Learning and one month working personally with the CTO
+- Promoted from junior data engineer to data engineer after 4 months
+- Team of 3 people initially, was involved in process and hiring
 - Agile scrum environment
-- Python, Javascript, React, Neo4J, Microservices, TDD
+- Python, Neo4J, SQL, SQL Server, GCP, Microsoft Azure, Microservices Architecture, TDD
 
 
 ## Education
