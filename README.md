@@ -4,13 +4,11 @@
 
 Software developer, former financial analyst, keen technologist.
 
-My interests in technology vary and in self-driven projects, I’ve delved into a whole range of subjects from automated trading on betting exchanges to [reverse engineering RF frequencies](https://github.com/joemaidman/blades-in-motion), virtual reality, and [cellular automata](http://gameoflife.netlify.com/). One of my side projects, [Flub](https://github.com/joemaidman/flub), is a javascript testing framework. I was curious to explore and solve the challenges involved with building a tool like this which is so critical to my day-to-day workflow.
-
-I have been fortunate to work as part of several teams practising agile methodologies and have experience of both Kanban and Scrum, including working with colleagues distributed around the world. I put a strong emphasis on implementing the principles of clean code and test-driven development.
-
 ## Technologies
 
-I have a preference for backend development but have experience across the stack with multiple languages, frameworks and tools. My goal is to keep learning about new technology and to use the best tool for the job to deliver the right solution.
+I have a preference for backend development but have experience across the stack with multiple languages, frameworks and tools. My goal is to keep learning about new technology and to use the best tool for the job to deliver the right solution. I put a strong emphasis on implementing the principles of clean code and test-driven development.
+
+My interests in technology vary and in self-driven projects, I’ve delved into a whole range of subjects from automated trading on betting exchanges to [reverse engineering RF frequencies](https://github.com/joemaidman/blades-in-motion), virtual reality, and [cellular automata](http://gameoflife.netlify.com/). One of my side projects, [Flub](https://github.com/joemaidman/flub), is a javascript testing framework. I was curious to explore and solve the challenges involved with building a tool like this which is so critical to my day-to-day workflow.
 
 <b>Backend</b> ~ Typescript | javascript | Node | NestJS | GraphQL | OpenAPI | PostgreSQL | Java & Lombok | Kotlin | Spring | Ruby | C# | WPF (XAML) | VBA </br>
 <b>Frontend</b> ~ Typescript | javascript | React | Redux | Redux-Saga | SCSS & CSS</br>
@@ -28,11 +26,11 @@ I have a preference for backend development but have experience across the stack
 
 **Lead Developer** ~ _June 2019 to Present_
 
-Most recently building and architecting the second version of the tech platform, principally the backend. Working in Typescript with the NestJS framework and exploring metaprogramming and code-generation.
+Architecting, building and launching the second version of the platform, principally the backend. Working in Typescript with the NestJS framework. Exploring metaprogramming and code-generation.
 
 **Software Developer** ~ _Jan 2018 to June 2019_
 
-On arrival, refactoring a pure javascript node (express) backend in Typescript and migrating the front-end platform from Angular to React. Delivering new features and components. Also responsible for managing deployments and maintenance.
+Refactoring a pure javascript node (express) backend in Typescript and migrating the front-end platform from Angular to React. Delivering new features and components. Also responsible for managing deployments and maintenance.
 
 ### Lab49 (Technology Consultancy), London
 
@@ -43,7 +41,7 @@ On arrival, refactoring a pure javascript node (express) backend in Typescript a
 
 **Graduate Software Engineer** ~ _Jun 2017 to Jan 2018_
 
-Working on a bespoke client project, delivering user stories and resolving bugs and issues. The code base made extensive use of dependency injection, code generation, a functional style, separation of concerns and microservices.
+Working on a bespoke client project, delivering user stories and resolving bugs and issues. The code base made extensive use of dependency injection, code generation, a functional style, separation of concerns and microservices. I worked as part of a team practising agile methodologies (both Kanban and Scrum), including working with colleagues distributed around the world.
 
 ### Panmure Gordon & Co (Stockbrokers), London
 
