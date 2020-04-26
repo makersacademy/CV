@@ -21,25 +21,27 @@ I have a preference for backend development but have experience across the stack
 
 ### Reposit (Proptech), London
 
-**Software Developer** ~ _Jan 2018 to Present_
-
 <b>Backend</b> ~ Node | Typescript | Nestjs | Typeorm | GraphQL | PostgreSQL </br>
 <b>Frontend</b> ~ Typescript | React | Redux | Redux-Saga | GraphQL (Apollo Client) | Angular | SCSS </br>
 <b>Workflow</b> ~ Git | Webpack | CicleCI | AWS</br>
 <b>Testing</b> ~ Jest | Mocha | Chai | Sinon | Enzyme | React Storybook
 
+**Lead Developer** ~ _June 2019 to Present_
+
 Most recently building and architecting the second version of the tech platform, principally the backend. Working in Typescript with the NestJS framework and exploring metaprogramming and code-generation.
+
+**Software Developer** ~ _Jan 2018 to June 2019_
 
 On arrival, refactoring a pure javascript node (express) backend in Typescript and migrating the front-end platform from Angular to React. Delivering new features and components. Also responsible for managing deployments and maintenance.
 
 ### Lab49 (Technology Consultancy), London
 
-**Graduate Software Engineer** ~ _Jun 2017 to Jan 2018_
-
 <b>Backend</b> ~ Java | Kotlin | Spring | Lombok | PostgreSQL </br>
 <b>Frontend</b> ~ Typescript | javascript | React | Redux | RxJS | SCSS </br>
 <b>Workflow</b> ~ Git | Webpack | Jenkins | Docker</br>
 <b>Testing</b> ~ JUnit | Mockito | Hamcrest | Mocha | Chai | Sinon | React Storybook
+
+**Graduate Software Engineer** ~ _Jun 2017 to Jan 2018_
 
 Working on a bespoke client project, delivering user stories and resolving bugs and issues. The code base made extensive use of dependency injection, code generation, a functional style, separation of concerns and microservices.
 
