@@ -89,16 +89,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 use the below formatting to adjust relevant headings above.
 remove the border - this was only included as a guide.
 ```
-
-<table border="1" style="width: 737px">
-    <colgroup>
-       <col span="1" style="width: 70%;">
-       <col span="1" style="width: 30%;">
-    </colgroup>
-    <tbody>
-        <tr>
-            <td style="text-align:left;">Cambridge Consultants, engineering consultancy</td>
-            <td style="text-align:right;">(2012 to 2019)</td>
-        </tr>
-    </tbody>
+here is some normal text as a guide for alignment
+<table border="0" style="width: 737px">
+  <colgroup>
+    <col span="1" style="width: 70%;">
+    <col span="1" style="width: 30%;">
+  </colgroup>
+  <tbody>
+    <tr>
+      <td style="text-align:left;padding-left:0px;font-size:14px">
+        <b>
+          Cambridge Consultants, engineering consultancy
+        </b>
+      </td>
+      <td style="text-align:right;">
+        <b>
+          (2012 to 2019)
+        </b>
+      </td>
+    </tr>
+  </tbody>
 </table>
