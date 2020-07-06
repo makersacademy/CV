@@ -26,28 +26,50 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
-
-#### Makers Academy (January 2020 to May 2020)
+<table border="1", width=935px>
+ <tr>
+    <td><b style="font-size:14px">Makers Academy - software bootcamp</b></td>
+    <td><b style="font-size:14px"style="text-align: right">(January to May 2020)</b></td>
+ </tr>
+</table>
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Heriot-Watt University, Edinburgh (1999 to 2005)
+<table border="1", width=935px>
+ <tr>
+    <td><b style="font-size:14px">Heriot-Watt University, Edinburgh</b></td>
+    <td><b style="font-size:14px"style="text-align: right">(1999 to 2005)</b></td>
+ </tr>
+</table>
+
 
 - BSc (Hons) Chemistry with Management
 - Other cool stuff
 
-#### Any other qualifications
+#### ~~Any other qualifications~~
 
-That in some arguable way make you a better software developer or well-rounded person
+~~That in some arguable way make you a better software developer or well-rounded person~~
 
 ## Experience
+<table border="1", width=935px>
+ <tr>
+    <td><b style="font-size:14px">Cambridge Consultants, engineering consultancy</b></td>
+    <td><b style="font-size:14px" style="text-align: right">(2012 to 2019)</b></td>
+ </tr>
+</table>
 
-**Cambridge Sconultants** (2012 to 2019)    
 *Laboratory Technician*  
 - Any experience relevent to software development
+
+<table border="1", width=935px>
+ <tr>
+    <td><b style="font-size:14px">Melbourn Scientific, part of Intertek</b></td>
+    <td><b style="font-size:14px", style="text-align: right">(2009 to 2012)</b></td>
+ </tr>
+</table>
 
 **Laboratory Analyst** (2009 to 2012)   
 *Laboratory Analyst*  
@@ -60,3 +82,23 @@ That in some arguable way make you a better software developer or well-rounded p
 - Watching sport, e.g. football, cricket and rugby league.
 - Trivia and pub quizzes, especially geography and sport.
 - Learning Spanish (post-beginner level).
+
+
+# TO DO
+```
+use the below formatting to adjust relevant headings above.
+remove the border - this was only included as a guide.
+```
+
+<table border="1" style="width: 737px">
+    <colgroup>
+       <col span="1" style="width: 70%;">
+       <col span="1" style="width: 30%;">
+    </colgroup>
+    <tbody>
+        <tr>
+            <td style="text-align:left;">Cambridge Consultants, engineering consultancy</td>
+            <td style="text-align:right;">(2012 to 2019)</td>
+        </tr>
+    </tbody>
+</table>
