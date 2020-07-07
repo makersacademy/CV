@@ -35,7 +35,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
     <tr>
       <td style="text-align:left;font-size:14px">
         <b>
-          <a href="https://makers.tech/about-us/" target="_blank"; style="color: #1a1a1a">Makers Academy</a>, software bootcamp
+          <a href="https://makers.tech/about-us/" target="_blank"; style="color: #262626">Makers Academy</a>, software bootcamp
         </b>
       </td>
       <td style="text-align:right;">
@@ -68,7 +68,7 @@ Graduated from a leading London software bootcamp
     <tr>
       <td style="text-align:left;font-size:14px">
         <b>
-          <a href="https://www.hw.ac.uk/uk/edinburgh.htm" target="_blank"; style="color: #1a1a1a">Heriot-Watt University, Edinburgh</a>
+          <a href="https://www.hw.ac.uk/uk/edinburgh.htm" target="_blank"; style="color: #262626">Heriot-Watt University, Edinburgh</a>
         </b>
       </td>
   </tbody>
@@ -94,7 +94,7 @@ Final project was in inorganic chemistry - specifically organometallic chemistry
     <tr>
       <td style="text-align:left;font-size:14px">
         <b>
-          <a href="https://www.cambridgeconsultants.com/about-us" target="_blank"; style="color: #1a1a1a">Cambridge Consultants</a>, engineering consultancy
+          <a href="https://www.cambridgeconsultants.com/about-us" target="_blank"; style="color: #262626">Cambridge Consultants</a>, engineering consultancy
         </b>
       </td>
       <td style="text-align:right;">
@@ -106,8 +106,15 @@ Final project was in inorganic chemistry - specifically organometallic chemistry
   </tbody>
 </table>
 
-*Laboratory Technician*  
-- Any experience relevent to software development
+**Laboratory Technician**
+
+- Worked within project teams to develop novel medical devices, encompassing the process from initial concept to commercial release.
+- Managed my time efficiently to meet tight deadlines for multiple simultaneous projects, and adapt procedures to accommodate changing requirements
+- Required to analyse multiple different data points and test for discrepancies
+- Effectively communicated with multi-disciplinary teams to ensure work was progressing
+- Displayed flexibility and adaptability to contend with any changes to project scope or deadlines
+- Assumed ad-hoc leadership of sub-teams when necessary to make sure team members were working cooperatively
+
 
 <table border="0" style="width: 737px; background-color: #ccf2ff">
   <colgroup>
@@ -119,7 +126,7 @@ Final project was in inorganic chemistry - specifically organometallic chemistry
       <td style="text-align:left;font-size:14px">
         <b>
           Melbourn Scientific, part of 
-          <a href="https://www.intertek.com/pharmaceutical/melbourn/" target="_blank"; style="color: #1a1a1a">Intertek</a>
+          <a href="https://www.intertek.com/pharmaceutical/melbourn/" target="_blank"; style="color: #262626">Intertek</a>
         </b>
       </td>
       <td style="text-align:right;">
@@ -131,9 +138,13 @@ Final project was in inorganic chemistry - specifically organometallic chemistry
   </tbody>
 </table>
 
-**Laboratory Analyst** (2009 to 2012)   
-*Laboratory Analyst*  
-- Any experience relevent to software development
+**Laboratory Analyst**
+
+- Ensured that our workspaces and procedures were compliant with the requirements of upcoming audits. The testing I did was aligned with the guidelines set by the United States and European Pharmacopoeias
+- Testing samples by a variety of industry-standard quantitative, and various qualitative techniques. 
+- Was able to multi-task to maintain optimal workflow
+- Able to adapt behaviour, working practises and communication to mesh well with different colleagues
+- Able to manage my own time and productivity to optimise the throughput of  test samples
 
 ## Voluntary positions
 
@@ -146,7 +157,7 @@ Final project was in inorganic chemistry - specifically organometallic chemistry
     <tr>
       <td style="text-align:left;font-size:14px">
         <b>
-          <a href="https://www.rspb.org.uk/our-work/conservation/conservation-and-sustainability/farming/hope-farm/the-farm/" target="_blank"; style="color: #1a1a1a">RSPB Grange Farm</a>
+          <a href="https://www.rspb.org.uk/our-work/conservation/conservation-and-sustainability/farming/hope-farm/the-farm/" target="_blank"; style="color: #262626">RSPB Grange Farm</a>
         </b>
       </td>
       <td style="text-align:right;">
@@ -159,7 +170,9 @@ Final project was in inorganic chemistry - specifically organometallic chemistry
 </table>
 
 **Laboratory Assistant**
-- bullets go here...
+- Supported an ongoing conservation project in alignment with my passion for supporting wildlife
+- Prepared samples for analysis; samples contained assorted invertebrates which were to be catalogued by order.
+- The role required attention to detail and self-motivation
 
 <table border="0" style="width: 737px; background-color: #ccf2ff">
   <colgroup>
@@ -170,7 +183,7 @@ Final project was in inorganic chemistry - specifically organometallic chemistry
     <tr>
       <td style="text-align:left;font-size:14px">
         <b>
-          <a href="https://www.edinburghzoo.org.uk/education/" target="_blank"; style="color: #1a1a1a">Edinburgh Zoo (Education department)</a>
+          <a href="https://www.edinburghzoo.org.uk/education/" target="_blank"; style="color: #262626">Edinburgh Zoo (Education department)</a>
         </b>
       </td>
       <td style="text-align:right;">
@@ -182,8 +195,11 @@ Final project was in inorganic chemistry - specifically organometallic chemistry
   </tbody>
 </table>
 
-**~~Don't need a job title here~~**
-- Bullets here
+**~~Don't really need the job title here but kinda don't want to leave it blank??? - 'Volunteer helper'~~**
+- Supported the zoo’s education program in alignment with my desire to support both conservation and education
+- Engaged with members of the public and provided interactive educational experiences.
+- The role provided opportunities to learn about various animals and to present this information to zoo visitors.
+
 
 ## Hobbies
 
