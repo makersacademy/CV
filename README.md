@@ -2,11 +2,15 @@
   John Baxter
 </h1>
 
-[ Skills ](#skills) / 
-[ Education ](#education) / 
-[ Experience ](#experience) / 
-[ Volunteering ](#voluntary_positions) / 
-[ Hobbies ](#hobbies)
+[ Skills ] 
+
+<a href=#skills>Skills</a>
+
+(#--skills) / 
+[ Education ](#--education) / 
+[ Experience ](#--experience) / 
+[ Volunteering ](#--voluntary-positions) / 
+[ Hobbies ](#--hobbies)
 
 ```
 this part is still WIP
@@ -19,9 +23,12 @@ My background combines a ten year career in the pharmaceutical industry
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 ***
-<h2>
-  Skills
-</h2>
+<a name=#skills>
+  <h2>
+    Skills
+  </h2>
+</a>
+
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
