@@ -1,14 +1,10 @@
-<h1>
-  John Baxter
-</h1>
+# John Baxter
 
-[ Skills ](#skills)
-
-
-[ Education ](#--education) / 
-[ Experience ](#--experience) / 
-[ Volunteering ](#--voluntary-positions) / 
-[ Hobbies ](#--hobbies)
+[Skills](#skills) /
+[Education](#education) / 
+[Experience](#experience) / 
+[Volunteering](#voluntary-positions) / 
+[Hobbies](#hobbies)
 
 ```
 this part is still WIP
@@ -21,12 +17,7 @@ My background combines a ten year career in the pharmaceutical industry
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
 
 ***
-<a name=#skills>
-  <h2>
-    Skills
-  </h2>
-</a>
-
+## [^](#john-baxter)Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
@@ -51,9 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 
 ***
-<h2>
-  Education
-</h2>
+## [^](#john-baxter)Education
 
 <h3>
   <a href="https://makers.tech/about-us/" target="_blank"; style="color: #262626">
@@ -85,9 +74,7 @@ Final project was in inorganic chemistry - specifically organometallic chemistry
 - Learning self-discipline and team working skills
 
 ***
-<h2>
-  Experience
-</h2>
+## [^](#john-baxter)Experience
 
 <h3>
   <a href="https://www.cambridgeconsultants.com/about-us" target="_blank"; style="color: #262626">
@@ -121,9 +108,7 @@ Worked within project teams to develop novel medical devices, encompassing the p
 - Able to manage my own time and productivity to optimise the throughput of test samples
 
 ***
-<h2>
-  Voluntary positions
-</h2>
+## [^](#john-baxter)Voluntary positions
 
 <h3>
   <a href="https://www.rspb.org.uk/our-work/conservation/conservation-and-sustainability/farming/hope-farm/the-farm/" target="_blank"; style="color: #262626">
@@ -150,9 +135,7 @@ Worked within project teams to develop novel medical devices, encompassing the p
 - The role provided opportunities to learn about various animals and to present this information to zoo visitors.
 
 ***
-<h2>
-  Hobbies
-</h2>
+## [^](#john-baxter)Hobbies
 
 - Reading: non-fiction, popular science and science fiction.
 - Board games, e.g. Carcassonne, Lords of Waterdeep and Codenames.
