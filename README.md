@@ -2,11 +2,9 @@
   John Baxter
 </h1>
 
-[ Skills ] 
+[ Skills ](#skills)
 
-<a href=#skills>Skills</a>
 
-(#--skills) / 
 [ Education ](#--education) / 
 [ Experience ](#--experience) / 
 [ Volunteering ](#--voluntary-positions) / 
