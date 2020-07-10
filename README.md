@@ -21,17 +21,13 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-<h3>
-  This Skill
-</h3>
+### This Skill
 
 - Experience
 - Achievements
 - Evidence
 
-<h3>
-  Another Skill
-</h3>
+### Another Skill
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -44,13 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 ***
 ## [^](#john-baxter)Education
 
-<h3>
-  <a href="https://makers.tech/about-us/" target="_blank"; style="color: #262626">
-    Makers Academy
-  </a>
-  , software bootcamp
-  (January to May 2020)
-</h3>
+### [Makers Academy](www.makers.tech), software bootcamp (January to May 2020)
 
 Graduated from a leading London software bootcamp
 - Decided to pursue a career change
@@ -62,11 +52,7 @@ Graduated from a leading London software bootcamp
 - Disciplined and committed to working under the pressures of upcoming project deadlines
 - Realised the benefits and overcame the difficulty of mixing different working styles
 
-<h3>
-  <a href="https://www.hw.ac.uk/uk/edinburgh.htm" target="_blank"; style="color: #262626">
-    Heriot-Watt University, Edinburgh
-  </a>
-</h3>
+### [Heriot-Watt University, Edinburgh](https://www.hw.ac.uk/uk/edinburgh.htm)
 
 Final project was in inorganic chemistry - specifically organometallic chemistry
 - Modules included chemistry as the main subject with supplementary mathematics, and electives in economics, marketing, business modelling and project management.
@@ -76,13 +62,7 @@ Final project was in inorganic chemistry - specifically organometallic chemistry
 ***
 ## [^](#john-baxter)Experience
 
-<h3>
-  <a href="https://www.cambridgeconsultants.com/about-us" target="_blank"; style="color: #262626">
-    Cambridge Consultants
-  </a>
-  , engineering consultancy
-  (2012 to 2019)
-</h3>
+### [Cambridge Consultants](https://www.cambridgeconsultants.com/about-us), engineering consultancy (2012 to 2019)
 
 **Laboratory Technician**\
 Worked within project teams to develop novel medical devices, encompassing the process from initial concept to commercial release.
@@ -92,13 +72,7 @@ Worked within project teams to develop novel medical devices, encompassing the p
 - Displayed flexibility and adaptability to contend with any changes to project scope or deadlines
 - Assumed ad-hoc leadership of sub-teams when necessary to make sure team members were working cooperatively
 
-<h3>
-  Melbourn Scientific, now part of 
-  <a href="https://www.intertek.com/pharmaceutical/melbourn/" target="_blank"; style="color: #262626">
-    Intertek
-  </a>
-  (2009 to 2012)
-</h3>
+### Melbourn Scientific, now part of [Intertek](https://www.intertek.com/pharmaceutical/melbourn/) (2009 to 2012)
 
 **Laboratory Analyst**
 - Ensured that our workspaces and procedures were compliant with the requirements of upcoming audits. The testing I did was aligned with the guidelines set by the United States and European Pharmacopoeias
@@ -110,24 +84,14 @@ Worked within project teams to develop novel medical devices, encompassing the p
 ***
 ## [^](#john-baxter)Voluntary positions
 
-<h3>
-  <a href="https://www.rspb.org.uk/our-work/conservation/conservation-and-sustainability/farming/hope-farm/the-farm/" target="_blank"; style="color: #262626">
-    RSPB Grange Farm
-  </a>
-  (October to November 2009)
-</h3>
+### [RSPB Grange Farm](https://www.rspb.org.uk/our-work/conservation/conservation-and-sustainability/farming/hope-farm/the-farm/) (October to November 2009)
 
 **Laboratory Assistant**
 - Supported an ongoing conservation project in alignment with my passion for supporting wildlife
 - Prepared samples for analysis; samples contained assorted invertebrates which were to be catalogued by order.
 - The role required attention to detail and self-motivation
 
-<h3>
-  <a href="https://www.edinburghzoo.org.uk/education/" target="_blank"; style="color: #262626">
-    Edinburgh Zoo (Education department)
-  </a>
-  (2008 to 2009)
-</h3>
+### [Edinburgh Zoo (Education Department)](https://www.edinburghzoo.org.uk/education/) (2008 to 2009)
 
 **~~Don't really need the job title here but kinda don't want to leave it blank??? - 'Volunteer helper'~~**
 - Supported the zoo’s education program in alignment with my desire to support both conservation and education
