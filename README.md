@@ -1,5 +1,14 @@
 # John Baxter
 
+[email me](mailto:john.g.baxter@googlemail.com?subject=[GitHub])
+
+<a href="https://medium.com/@s.ellenberger95">
+<img src="./cv-images/medium.png" alt="medium" hspace="50" height="42" width="42"></a>
+<a href="https://www.linkedin.com/in/stephan-ellenberger-2ba0911aa/">
+<img src="./cv-images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+
+[![email me](./images/gmail.png)](mailt:john.g.baxter@googlemail.com?subject=[GitHub])
+
 [Skills](#skills) /
 [Education](#education) / 
 [Experience](#experience) / 
@@ -101,6 +110,9 @@ Worked within project teams to develop novel medical devices, encompassing the p
 
 ***
 ## [^](#john-baxter)Hobbies
+
+
+
 
 - Reading: non-fiction, popular science and science fiction.
 - Board games, e.g. Carcassonne, Lords of Waterdeep and Codenames.
