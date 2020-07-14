@@ -42,7 +42,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ### [Makers Academy](www.makers.tech), software bootcamp (January to May 2020)
 
-Graduated from a leading London software bootcamp
+**Graduated from a leading London software bootcamp**
 - Decided to pursue a career change
 - Intensive self-led learning environment
 - Learned the programming practises of TDD, OOP and MVC; and Agile development
@@ -54,6 +54,7 @@ Graduated from a leading London software bootcamp
 
 ### [Heriot-Watt University, Edinburgh](https://www.hw.ac.uk/uk/edinburgh.htm)
 
+**BSc Chemistry with Management**\
 Final project was in inorganic chemistry - specifically organometallic chemistry
 - Modules included chemistry as the main subject with supplementary mathematics, and electives in economics, marketing, business modelling and project management.
 - Learning how to work under pressure and to tight deadlines
