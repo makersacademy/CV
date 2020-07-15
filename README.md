@@ -1,6 +1,15 @@
 # John Baxter
 ### Software Developer
 
+***
+```
+notes I've left to explain my progress/blockers are in code blocks
+```
+`notes from the Makers template are in monospace font`
+<!-- TO DO remember to delete this part -->
+***
+
+
 <p>
   <a href="mailto:john.g.baxter@googlemail.com?subject=[GitHubCV]">
     <img src="./images/gmail.png" alt="email me" hspace="15" height="42" width="42">
@@ -30,7 +39,11 @@ My background combines the hard-working logical thoroughness of working in pharm
 `Then a sentence about what you've achieved.`
 
 ```
-hmmm
+This is difficult because I feel like I don't have any achievements I'm really proud of or that I can speak about. What sort of stuff is even appropriate to put here? It seems like any time I think I have the start of an idea it's:
+- not something that can be made snappy, and
+- something that will be covered in pretty much the next section...
+
+ok I get that this bit is supposed to be the part that summarises the rest of the document and that it's therefore ok to repeat some of the language here later (while elaborating on it later) but I don;t know where to draw the line
 ```
 
 `And then a sentence about what exictes you about tech.`
@@ -50,28 +63,54 @@ And then a sentence about what exictes you about tech.
 ***
 ## [^](#john-baxter)Skills
 
-```
+`
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+`
+
+### Attention to detail
+
+- `Experience`
+- 
+- `Achievements`
+- 
+- `Evidence`
+- 
+
+### Fast learner
+
+`Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.`
+
+- `I achieved A during my work at B (job, or otherwise)`
+- 
+- `I contributed to the growth of X while doing Y (job, or otherwise)`
+- 
+- `I built this, made this, broke this, fixed this, etc.`
+- 
+- `A link to some on-line evidence (blogs, videos, articles, etc.)`
+- 
+
+### Teamworking
+
 ```
+I've copied and pasted this from above because the template only had space for two. I also changed 'descriptive' to 'short'.
+```
+`Short paragraph of how capable you are at this skill and, if relevant, how it has developed.`
 
-### This Skill
+- `Experience`
+- 
+- `Achievements`
+- 
+- `Evidence`
+- 
 
-- Experience
-- Achievements
-- Evidence
-
-### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-<!-- ***
+***
 ## [^](#john-baxter)Projects
-`projects bit goes here` -->
+```
+projects bit goes here - Not really got started with thinking about it yet. I presume it will be some sort of table, and will probably include Asset Tracker (in progress), Algorithm workshop (which I intended to write a report for but I ran out of steam and I've left it for several weeks now) and Community Video 2020 (Makers final project - which admittedly is kinda cool but I'm not really inspired by it nor do I feel connected or invested in it in any way. It really feels like a project some people did while I was in zoom with them)
+```
+```
+Making a table will be fine, I know how to do that and it will look good; I just need to know what to put in.
+```
 
 ***
 ## [^](#john-baxter)Education
@@ -143,13 +182,15 @@ Worked within project teams to develop novel medical devices, encompassing the p
 I have no idea how to do this part. I want to lean towards the fact that I prefer low-tech or even tech-free stuff.
 -Stuff like gardening, cooking or DIY using only hand tools and traditional/old fashioned methods
 -Other stuff like how I like lower league football to get the community feel and none of the nonsense around TV replays and huge commercial/advertising interest
--I was also thinking about writing a sentence about learning Spanish; but writing it actually in Spanish.
+-I was also thinking about writing a sentence about learning Spanish; but writing it actually in Spanish. (he estado aprender español hace dos años (I think this is close))
 -Also maybe a bit about flow art, circus skills and weapon skills
 
 My difficulty is in finding how to write this in a way that captures what I'm trying to say while being interesting to a casual observer (difficult because people are generally not interested in my hobbies) and without making it far too long.
 ```
 
-`this is the old bit:`
+```
+below is how it was on my old CV:
+```
 - Reading: non-fiction, popular science and science fiction.
 - Board games, e.g. Carcassonne, Lords of Waterdeep and Codenames.
 - Watching sport, e.g. football, cricket and rugby league.
