@@ -1,15 +1,18 @@
 # John Baxter
+### Software Developer
 
-[email me](mailto:john.g.baxter@googlemail.com?subject=[GitHub])
+<p>
+  <a href="mailto:john.g.baxter@googlemail.com?subject=[GitHubCV]">
+    <img src="./images/gmail.png" alt="email me" hspace="15" height="42" width="42">
+  </a>
 
-<a href="https://medium.com/@s.ellenberger95">
-<img src="./cv-images/medium.png" alt="medium" hspace="50" height="42" width="42"></a>
-<a href="https://www.linkedin.com/in/stephan-ellenberger-2ba0911aa/">
-<img src="./cv-images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
-
-[![email me](./images/gmail.png)](mailt:john.g.baxter@googlemail.com?subject=[GitHub])
+  <a href="https://www.linkedin.com/in/john-baxter2020/">
+    <img src="./images/linkedin-icon-purple.png" alt="linkedin" hspace="15" height="42" width="42">
+  </a>
+</p>
 
 [Skills](#skills) /
+[Projects](#projects) /
 [Education](#education) / 
 [Experience](#experience) / 
 [Volunteering](#voluntary-positions) / 
@@ -19,16 +22,37 @@
 this part is still WIP
 ```
 
-A trainee software developer with Makers Academy. My background combines the hard-working logical thoroughness of working to meet the strict requirements of International Standards with the flexibility to adjust to changing customer demands and strict deadlines. 
+`A sentence about who and what you are.` 
 
-My background combines a ten year career in the pharmaceutical industry
+A junior software developer and graduate of Makers Academy.\
+My background combines the hard-working logical thoroughness of working in pharmaceutical research with experience of customer service and working to client demands.
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+`Then a sentence about what you've achieved.`
+
+```
+hmmm
+```
+
+`And then a sentence about what exictes you about tech.`
+
+I'm very excited about how the world of tech has created so many new ways to improve the lives of people all around the world. From large-scale ecological projects benifiting the natural world to the fact that banking is now a bit easier; real people are seeing real advantages based on the work of developers everywhere.
+
+<!-- A trainee software developer with Makers Academy. My background combines the hard-working logical thoroughness of working to meet the strict requirements of International Standards with the flexibility to adjust to changing customer demands and strict deadlines.  -->
+
+<!-- My background combines a ten year career in the pharmaceutical industry -->
+
+<!-- ```
+A sentence about who and what you are. 
+Then a sentence about what you've achieved. 
+And then a sentence about what exictes you about tech.
+``` -->
 
 ***
 ## [^](#john-baxter)Skills
 
+```
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+```
 
 ### This Skill
 
@@ -45,6 +69,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
 
+<!-- ***
+## [^](#john-baxter)Projects
+`projects bit goes here` -->
 
 ***
 ## [^](#john-baxter)Education
@@ -112,10 +139,21 @@ Worked within project teams to develop novel medical devices, encompassing the p
 ## [^](#john-baxter)Hobbies
 
 
+```
+I have no idea how to do this part. I want to lean towards the fact that I prefer low-tech or even tech-free stuff.
+-Stuff like gardening, cooking or DIY using only hand tools and traditional/old fashioned methods
+-Other stuff like how I like lower league football to get the community feel and none of the nonsense around TV replays and huge commercial/advertising interest
+-I was also thinking about writing a sentence about learning Spanish; but writing it actually in Spanish.
+-Also maybe a bit about flow art, circus skills and weapon skills
 
+My difficulty is in finding how to write this in a way that captures what I'm trying to say while being interesting to a casual observer (difficult because people are generally not interested in my hobbies) and without making it far too long.
+```
 
+`this is the old bit:`
 - Reading: non-fiction, popular science and science fiction.
 - Board games, e.g. Carcassonne, Lords of Waterdeep and Codenames.
 - Watching sport, e.g. football, cricket and rugby league.
 - Trivia and pub quizzes, especially geography and sport.
 - Learning Spanish (post-beginner level).
+
+[email me](mailto:john.g.baxter@googlemail.com?subject=[GitHubCV])
