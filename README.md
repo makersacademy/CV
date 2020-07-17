@@ -11,12 +11,12 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Experience
 
-**Company Name** (start_date to end_date)  
+**Company Name** (start-date to end-date)  
 _Your job title_
 
 - Any experience relevent to software development
 
-**Company Name** (start_date to end_date)  
+**Company Name** (start-date to end-date)  
 _Your job title_
 
 - Any experience relevent to software development
