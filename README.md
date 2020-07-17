@@ -2,6 +2,18 @@
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
+## Experience
+
+**Company Name** (start_date to end_date)  
+_Your job title_
+
+- Any experience relevent to software development
+
+**Company Name** (start_date to end_date)  
+_Your job title_
+
+- Any experience relevent to software development
+
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
@@ -39,16 +51,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### Any other qualifications
 
 That in some arguable way make you a better software developer or well-rounded person
-
-## Experience
-
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
-
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
 
 ## Hobbies
 
