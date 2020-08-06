@@ -5,10 +5,10 @@ Hello! _insert guff here_
 ## Projects
 
 | Name                         | Description         | Tech/tools        | Link |  
-| ---------------------------- | :-----------------: | ----------------- || :---: |
-| **Space Trash**              | educational orbita debris visualiser | Django, JS, Python, TensorFlow, PSQL  | [Go to](https://github.com/Apliz/SpaceTrash "Space Trash") |  
-| **Makers BnB** | Airbnb mock   | Ruby, HTML, CSS | [Go to](https://github.com/Apliz/MakersBnb "Makers Bnb") |  
-| **Separatab** | Tab seperator chrome extension | Javascript, Chrome API  | [Go to](https://github.com/Apliz/Tab-Seperator "Separatab") |  
+| ---------------------------- |:-----------------:|-----------------|:---:|
+| **Space Trash**| test | Django, JS, Python, TensorFlow, PSQL  | [Go to](https://github.com/Apliz/SpaceTrash "Space Trash")   |  
+| **Makers BnB** | Airbnb mock   | Ruby, HTML, CSS | [Go to](https://github.com/Apliz/MakersBnb "Makers Bnb")   |  
+| **Separatab** | Chrome Extension | Javascript, Chrome API  | [Go to](https://github.com/Apliz/Tab-Seperator "Separatab")   |  
 
 ## Experience
 
