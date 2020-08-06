@@ -1,14 +1,19 @@
 ## Anton Plisnier
 
-Hello! _insert guff here_
+[SKILLS](#Skills) ~ [EXPERIENCE](#Experience) ~ [EDUCATION](#Education) ~ [INTERESTS](#Hobbies)  
+
+***
+
+_I believe I have always demonstrated willingness to grow by seeking out new challenges to stand on my own two feet. These are the greatest means to extend beyond my own comfort zone and grow._
+_Enthusiasm and passion are pre-requisites for each element in my life. Anything worth doing has to offer fulfillment with the challenge. In my personal life, I always looks for areas to explore and roles where my passion & zeal can lead to positive results that fulfill my goals and provide extreme value to the teams I work with._  
 
 ## Projects
 
 | Name                         | Description         | Tech/tools        | Link |  
 | ---------------------------- |:-----------------:|-----------------|:---:|
-| **Space Trash**| test | Django, JS, Python, TensorFlow, PSQL  | [Click](https://github.com/Apliz/SpaceTrash "Space Trash")   |  
-| **Makers BnB** | Airbnb mock   | Ruby-on-Rails, HTML, CSS | [Go to](https://github.com/Apliz/MakersBnb "Makers Bnb")   |  
-| **Separatab** | Chrome Extension | Javascript, Chrome API  | [Find!](https://github.com/Apliz/Tab-Seperator "Separatab")   |  
+| **Space Trash**| Final group Makers project, an educational app for orbital debris visualisation implementing machine learning| Django, Python, D3, Tensorflow, Anaconda, Cesium, Travis, Heroku, PostgreSQL  | [Explore](https://github.com/Apliz/SpaceTrash "Space Trash")   |  
+| **Makers BnB** | AirBnb clone built on rails  | Ruby-on-Rails, HTML, CSS | [Go to](https://github.com/Apliz/MakersBnb "Makers Bnb")   |  
+| **Separatab** | Chrome Extension for tab management | Javascript, Chrome API  | [Find!](https://github.com/Apliz/Tab-Seperator "Separatab")   |  
 
 ## Experience
 
@@ -37,9 +42,7 @@ _Project Lead for Grillstock Live_
 - Part of a small team tasked with redeveloping our CS business processes for GDPR compliance for our UK offices. with no prior business process analysis experience I quickly learnt the structure of each existing process and GDPR requirements to facilitate reforming our best practices with minimal loss in team efficacy.
 - Recognised and mentored by the Country Manager in business facing elements leading to further offers to mentor with the group general manager at our Singapore headquaters.
 
-#### Learning & Curiosity
-
-_I believe I have always demonstrated willingness to grow by seeking out new challenges to stand on my own two feet. These are the greatest means to extend beyond my own comfort zone and grow._
+#### Learn and grow curiouser  
 
 - Part of a team tasked with creating GDPR compliant standard business practices for the UK office customer service department. I had no prior experience and at the time had quickly developed necessary understanding of GDPR compliance to be able to merge with our combined teams knowledge of the client support roles and create ste-by-step processes for all possible interactions and edge cases.
 - Recognised and mentored by the Country Manager in business facing elements leading to further mentorship offers with the group general manager at our Singapore headquaters.
@@ -52,24 +55,25 @@ _I believe I have always demonstrated willingness to grow by seeking out new cha
 
 ## Education
 
-#### Makers Academy [ Feb '20 to May '20 ]
+#### Makers Academy (February '20 - May '20)  
 
 - OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Jasmine, Capybara
 
-#### British Irish Modern Music Institute [ Oct '15 to June '16 ]
+#### British Irish Modern Music Institute (October '15 - June '16)
 
-- Contemporary music performance and production diploma [ Merit/ Merit ]  
+- Contemporary music performance and production diploma ~ _Merit/ Merit_  
 
-#### Oxford Open Learning [ Oct '15 to June '16 ]
+#### Oxford Open Learning (October '15 - June '16)
 
-- English Language [ A ]  
+- English Language ~ _A_  
 
 ## Hobbies
 
-- Self development  
+- Personal development
+- Fitness  
 - Cooking  
 - Noodling on my piano  
 - Gaming  
