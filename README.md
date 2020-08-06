@@ -4,16 +4,15 @@
 
 ***
 
-_I believe I have always demonstrated willingness to grow by seeking out new challenges to stand on my own two feet. These are the greatest means to extend beyond my own comfort zone and grow._
-_Enthusiasm and passion are pre-requisites for each element in my life. Anything worth doing has to offer fulfillment with the challenge. In my personal life, I always looks for areas to explore and roles where my passion & zeal can lead to positive results that fulfill my goals and provide extreme value to the teams I work with._  
+_word in progress_
 
 ## Projects
 
 | Name                         | Description         | Tech/tools        | Link |  
 | ---------------------------- |:-----------------:|-----------------|:---:|
 | **Space Trash**| Final group Makers project, an educational app for orbital debris visualisation implementing machine learning| Django, Python, D3, Tensorflow, Anaconda, Cesium, Travis, Heroku, PostgreSQL  | [Explore](https://github.com/Apliz/SpaceTrash "Space Trash")   |  
-| **Makers BnB** | AirBnb clone built on rails  | Ruby-on-Rails, HTML, CSS | [Go to](https://github.com/Apliz/MakersBnb "Makers Bnb")   |  
-| **Separatab** | Chrome Extension for tab management | Javascript, Chrome API  | [Find!](https://github.com/Apliz/Tab-Seperator "Separatab")   |  
+| **Makers BnB** | AirBnb clone built on rails  | Ruby-on-Rails, HTML, CSS | [Explore](https://github.com/Apliz/MakersBnb "Makers Bnb")   |  
+| **Separatab** | Chrome Extension for tab management | Javascript, Chrome API  | [Explore](https://github.com/Apliz/Tab-Seperator "Separatab")   |  
 
 ## Experience
 
@@ -42,12 +41,12 @@ _Project Lead for Grillstock Live_
 - Part of a small team tasked with redeveloping our CS business processes for GDPR compliance for our UK offices. with no prior business process analysis experience I quickly learnt the structure of each existing process and GDPR requirements to facilitate reforming our best practices with minimal loss in team efficacy.
 - Recognised and mentored by the Country Manager in business facing elements leading to further offers to mentor with the group general manager at our Singapore headquaters.
 
-#### Learn and grow curiouser  
+#### Learn and Grow Curious  
 
 - Part of a team tasked with creating GDPR compliant standard business practices for the UK office customer service department. I had no prior experience and at the time had quickly developed necessary understanding of GDPR compliance to be able to merge with our combined teams knowledge of the client support roles and create ste-by-step processes for all possible interactions and edge cases.
 - Recognised and mentored by the Country Manager in business facing elements leading to further mentorship offers with the group general manager at our Singapore headquaters.
 
-# Communication
+#### Communication
 
 - Assisted in coordinating with agencies to organise endorsements from celebrity clientele meetups/ for our events.  
 - Responsible for compilation and presentation of daily formatted revenue reports for review to the company GGM and CEO in Singapore.  
@@ -57,7 +56,7 @@ _Project Lead for Grillstock Live_
 
 #### Makers Academy (February '20 - May '20)  
 
-- OOP, TDD, MVC
+- OOP, TDD, MVC, PP
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Capybara
