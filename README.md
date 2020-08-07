@@ -11,8 +11,8 @@ Self Made & weaving a story thats good to tell
 
 | Name                         | Description         | Tech/tools        | Link |  
 | ---------------------------- |:-----------------:|-----------------|:---:|
-| **Space Trash**| Final project at Makers Academy, an educational app for orbital debris visualisation implementing machine learning| Django, Python, D3, Tensorflow, Anaconda, Cesium, Travis, Heroku, PostgreSQL  | [Explore](https://github.com/Apliz/SpaceTrash "Space Trash")   |  
-| **Makers BnB** | AirBnb clone built on rails  | Ruby-on-Rails, HTML, CSS | [Explore](https://github.com/Apliz/MakersBnb "Makers Bnb")   |  
+| **Space Trash**| Final project at Makers Academy, an educational app for orbital debris visualisation implementing machine learning| Django, Python, D3, Tensorflow, Anaconda, Cesium, Travis, Heroku, PostgreSQL  | <a href="https://github.com/Apliz/SpaceTrash">![SpaceTrash](https://github.com/Apliz/CV/src/gh_sleek_128.png "Shoot the Moon!")</a> |  
+| **Makers BnB** | AirBnb clone built on rails  | Ruby-on-Rails, HTML, CSS | <a href="https://github.com/Apliz/MakersBnb">![SpaceTrash]('./src/gh_sleek_128.png' "Shoot the Moon!")</a> |  
 | **Separatab** | Current project building a Chrome extension to organise groups of tabs | Javascript, Google Chrome API  | [Explore](https://github.com/Apliz/Tab-Seperator "Separatab")   |  
 
 ## Experience
