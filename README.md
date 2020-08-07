@@ -1,5 +1,5 @@
 ## Anton Plisnier &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ruby](https://github.com/Apliz/CV/blob/draft/src/languages-tools/ruby_24.png)&nbsp;![Javascript](https://github.com/Apliz/CV/blob/draft/src/languages-tools/Javascript_24.png)&nbsp;![Rails](https://github.com/Apliz/CV/blob/draft/src/languages-tools/rails_24.png)&nbsp;![Python](https://github.com/Apliz/CV/blob/draft/src/languages-tools/python_24.png)&nbsp;![psql](https://github.com/Apliz/CV/blob/draft/src/languages-tools/psql_24.png)&nbsp;![Django](https://github.com/Apliz/CV/blob/draft/src/languages-tools/django_24.png)&nbsp;![heroku](https://github.com/Apliz/CV/blob/draft/src/languages-tools/heroku_24.png)&nbsp;![travis](https://github.com/Apliz/CV/blob/draft/src/languages-tools/travis_24.png)&nbsp;![html](https://github.com/Apliz/CV/blob/draft/src/languages-tools/html_24.png)&nbsp;![css](https://github.com/Apliz/CV/blob/draft/src/languages-tools/css_24.png)&nbsp;![cSharp](https://github.com/Apliz/CV/blob/draft/src/languages-tools/c_sharp_24.png)
-[SKILLS](#Skills) ~ [EXPERIENCE](#Experience) ~ [EDUCATION](#Education) ~ [INTERESTS](#Hobbies)  
+[SKILLS](#Skills) ~ [EXPERIENCE](#Experience) ~ [EDUCATION](#Education) ~ [INTERESTS](#Interests)  
 
 ***
 
@@ -80,7 +80,7 @@ _National BBQ Smokehouse_
 
 - Diploma Popular Music Performace Guitar 1-year intensive  ~ _Merit/ Merit_  
 
-## Hobbies
+## Interests
 
 - Personal development
 - Fitness & yoga 
