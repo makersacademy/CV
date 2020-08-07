@@ -1,5 +1,4 @@
-## Anton Plisnier
-
+## Anton Plisnier &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt text](https://github.com/Apliz/CV/blob/draft/src/language-tools/Javascript_24.png)&nbsp;![alt text](https://github.com/Apliz/CV/blob/draft/src/language-tools/Javascript_24.png)&nbsp;![alt text](https://github.com/Apliz/CV/blob/draft/src/language-tools/Javascript_24.png)
 [SKILLS](#Skills) ~ [EXPERIENCE](#Experience) ~ [EDUCATION](#Education) ~ [INTERESTS](#Hobbies)  
 
 ***
@@ -11,9 +10,9 @@ Self Made & weaving a story thats good to tell
 
 | Name                         | Description         | Tech/tools        | Explore |  
 | ---------------------------- |:-----------------:|-----------------|:---:|
-| **Space Trash**| Final project at Makers Academy, an educational app for orbital debris visualisation implementing machine learning| Django, Python, D3, Tensorflow, Anaconda, Cesium, Travis, Heroku, PostgreSQL  | <a href="https://github.com/Apliz/SpaceTrash">![SpaceTrash](https://github.com/Apliz/CV/blob/draft/src/sleek_64.png "Shoot the Moon!")</a> |  
-| **Makers BnB** | AirBnb clone built on rails  | Ruby-on-Rails, HTML, CSS | <a href="https://github.com/Apliz/MakersBnb">![MakersBnb](https://github.com/Apliz/CV/blob/draft/src/rustic_64.png "Come fly with Me!")</a> |  
-| **Separatab** | Current project building a Chrome extension to organise groups of tabs | Javascript, Google Chrome API  | <a href="https://github.com/Apliz/Separatab">![Separatab](https://github.com/Apliz/CV/blob/draft/src/cloud_64.png "Lost no more!")</a> |  
+| **Space Trash**| Final project at Makers Academy, an educational app for orbital debris visualisation implementing machine learning| Django, Python, D3, Tensorflow, Anaconda, Cesium, Travis, Heroku, PostgreSQL  | <a href="https://github.com/Apliz/SpaceTrash">![SpaceTrash](https://github.com/Apliz/CV/blob/draft/src/github-logos/sleek_64.png "Shoot the Moon!")</a> |  
+| **Makers BnB** | AirBnb clone built on rails  | Ruby-on-Rails, HTML, CSS | <a href="https://github.com/Apliz/MakersBnb">![MakersBnb](https://github.com/Apliz/CV/blob/draft/src/github-logos/rustic_64.png "Come fly with Me!")</a> |  
+| **Separatab** | Current project building a Chrome extension to organise groups of tabs | Javascript, Google Chrome API  | <a href="https://github.com/Apliz/Separatab">![Separatab](https://github.com/Apliz/CV/blob/draft/src/github-logos/cloud_64.png "Lost no more!")</a> |  
 
 ## Experience
 
