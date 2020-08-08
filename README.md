@@ -1,10 +1,11 @@
 ## Anton Plisnier &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ruby](https://github.com/Apliz/CV/blob/draft/src/languages-tools/ruby_24.png)&nbsp;![Javascript](https://github.com/Apliz/CV/blob/draft/src/languages-tools/Javascript_24.png)&nbsp;![Rails](https://github.com/Apliz/CV/blob/draft/src/languages-tools/rails_24.png)&nbsp;![Python](https://github.com/Apliz/CV/blob/draft/src/languages-tools/python_24.png)&nbsp;![psql](https://github.com/Apliz/CV/blob/draft/src/languages-tools/psql_24.png)&nbsp;![Django](https://github.com/Apliz/CV/blob/draft/src/languages-tools/django_24.png)&nbsp;![heroku](https://github.com/Apliz/CV/blob/draft/src/languages-tools/heroku_24.png)&nbsp;![travis](https://github.com/Apliz/CV/blob/draft/src/languages-tools/travis_24.png)&nbsp;![html](https://github.com/Apliz/CV/blob/draft/src/languages-tools/html_24.png)&nbsp;![css](https://github.com/Apliz/CV/blob/draft/src/languages-tools/css_24.png)&nbsp;![cSharp](https://github.com/Apliz/CV/blob/draft/src/languages-tools/c_sharp_24.png)
-[SKILLS](#Skills) ~ [EXPERIENCE](#Experience) ~ [EDUCATION](#Education) ~ [INTERESTS](#Interests)  
+[SKILLS](#Skills) ~ [EXPERIENCE](#Experience) ~ [EDUCATION](#Education) ~ [INTERESTS](#Interests) ~ [CONTACT](#Contact) ~ [LINKEDIN](https://www.linkedin.com/in/anttongp/)  
 
 ***
 
-_word in progress_  
-Self Made & weaving a story thats good to tell
+_Junior full-stack developer_ focused in front end web development. Hugely passionate for each thing I do, preferring outside the box to inside, and learning rather than preaching. There hasn't been a lot of focus in my short working life, moving across industries and vocations. If there's something I'm going to contribute and add value too during the span of an entire career, The pre-requisite that it must genuinely excite me, coding is that pre-requisite, found!  
+Recently graduated from [Makers Academy](https://makers.tech/hire/), a highly selective 12 week software development intensive in the heart of London. It provided me with the tools to become a confident, adaptable coder who can add value to a team.  
+A strong communicator; creative and dedicated individual looking to expand my own skillset and grow. Based in Vienna, Austria, searching for work locally or as part of a remote team.  
 
 ## Projects
 
@@ -83,9 +84,13 @@ _National BBQ Smokehouse_
 ## Interests
 
 - Personal development
-- Fitness & yoga 
+- Fitness & yoga  
 - Cooking spaghetti vongole  
 - Noodling on my piano  
 - Gaming  
 - Making spontaneous decisions  
 - Speaking french  
+
+## Contact
+
+- Twitter : [@antonplisnier](https://twitter.com/AntonPlisnier)
