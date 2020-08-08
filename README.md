@@ -3,7 +3,7 @@
 
 ***
 
-_Junior full-stack developer_ focused in front end web development. Hugely passionate for each thing I do, preferring outside the box to inside, and learning rather than preaching. There hasn't been a lot of focus in my short working life, moving across industries and vocations. If there's something I'm going to contribute and add value too during the span of an entire career, The pre-requisite that it must genuinely excite me, coding is that pre-requisite, found!  
+_Junior full-stack developer_ focused in front end web development. Hugely passionate for each thing I do, preferring outside the box to inside, and learning rather than preaching. Moving across industries and vocations, it's given me expert insight into who Anton is and what he can do! If there's something I'm going to contribute and add value too during the span of an entire career, The pre-requisite that it must genuinely excite me, coding is that pre-requisite, found!  
 Recently graduated from [Makers Academy](https://makers.tech/hire/), a highly selective 12 week software development intensive in the heart of London. It provided me with the tools to become a confident, adaptable coder who can add value to a team.  
 A strong communicator; creative and dedicated individual looking to expand my own skillset and grow. Based in Vienna, Austria, searching for work locally or as part of a remote team.  
 
