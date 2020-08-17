@@ -3,10 +3,12 @@
 
 ***
 
-Junior full-stack developer with a focus on front-end web development and graduate of Makers Academy, a highly selective 12 week software development intensive in the heart of London. At Makers we learn software fundamentals including SOLID design principles, test-driven development using modern coding frameworks.
-I am passionate about anything I do and prefer to think outside the box. I am a determined self-starter and bring transferable skills developed managing live music events and working with a leading personal development company in client-facing roles.
-A career in coding is genuinely exciting and I aim to add value to a company where I can combine a deep interest in solving technical problems with creativity, dedication and teamwork.
-Based in Vienna, Austria. Searching for work locally or as part of a remote community.
+Junior full-stack developer focused on front end web development who values outside the box thinking.  
+Moving across disparate industries has turned me into a determined self-starter; bringing transferable skills developed managing live music events and working with a leading personal development company in client-facing roles. The pre-requisite has been that I can contribute value while thriving from it. Coding is that pre-requisite, found!  
+<br>
+Recent graduate from [Makers Academy](https://makers.tech/hire/), a highly selective 12 week software development intensive in the heart of London where we learn software fundamentals including SOLID design principles, test-driven development using modern coding frameworks. A strong communicator; creative and dedicated individual looking to expand my own skillset and grow.  
+Based in Vienna, Austria. Searching for work locally or as part of a remote community.  
+
 
 ## Projects
 
