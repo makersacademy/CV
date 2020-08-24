@@ -6,7 +6,7 @@ I am a graduate of Makers, a 12-week, highly selective coding bootcamp in London
 
 Please see my three entries to our final project blog here: https://medium.com/@helisivunen
 
-I care deeply about the environment. I spent several months planning my own business: using ocean plastic to manufacture goods. Last year I mentored a young journalist through the charity The Second Source. I'm a member of ITN's Sustainability Forum which works to reduce the company's carbon footprint, and have recently become vegan to slash my own.
+I care deeply about the environment. I spent several months planning my own business: using ocean plastic to manufacture goods. As a member of ITN's Sustainability Forum, I have corporate experience in reducing a company's carbon footprint. I put my money where my mouth is by being a vegan and choose to buy from responsible companies.
 
 During my career in TV news, I was selected to train Avid video editing to more than a hundred ITN staff, and in that process (someone tried to poach me!) I realised I could make an important contribution towards improving software. I'm now hoping to use my TV production experience to help companies excite their audiences and business clients with elegant but highly practical software. 
 
@@ -14,7 +14,7 @@ During my career in TV news, I was selected to train Avid video editing to more 
 
 #### Programming
 
-- Languages Ruby, Javascript, Swift, HTML, CSS
+- Languages: Ruby, Javascript, Swift, HTML, CSS
 - Frameworks: Rails, Bootstrap
 - Test suites: RSpec, Capybara, Jasmine, Travis
 - IDEs: Atom, Xcode, Visual Studio
