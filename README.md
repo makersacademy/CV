@@ -17,13 +17,14 @@ During my career in TV news, I was selected to train Avid video editing to more 
 - Languages Ruby, Javascript, Swift, HTML, CSS
 - Frameworks: Rails, Bootstrap
 - Test suites: RSpec, Capybara, Jasmine, Travis
-- IDEs: Atom, Xcode
+- IDEs: Atom, Xcode, Visual Studio
 - Other technologies: GitHub for version control and continuous integration, Heroku for deployment, Active Record for
 persisting data, SQL/TablePlus for data management
 
 #### TV journalism / communication
 
-- excellent writing, editing, editorial and logistical skills. I'm very proud that I was the first Channel 4 News journalist to report and edit a lead story.
+- I'm an expert at people logistics. I am always finding ways to move our staff and kit to various countries via difficult routes and have worked on complicated visa processes and transport options. I've managed to get teams out of countries before lockdown, and from war zones with innovative solutions. 
+- I have excellent writing, editing and editorial. I'm very proud that I was the first Channel 4 News journalist to report and edit a lead story.
 - I have my voice heard in editorial meetings, face-to-face meetings with the CEO, and was asked by our presenter Jon Snow to work as the researcher on his book because of my ability to condense complex information. 
 - Programmes I have worked on have won Emmy, Bafta and RTS awards for news coverage and News Programme of the Year.
 
