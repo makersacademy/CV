@@ -2,7 +2,7 @@
 
 I'm a bilingual developer and multi-skilled TV journalist and newsgathering logistics expert, with years of experience working in national and international TV news at a senior level. Whether in coding or TV production, I love working in small and large groups of talented professionals, and I'm proud to foster a great atmosphere and relationships within my teams. 
 
-I am a graduate of Makers, a 12-week, highly selective coding bootcamp in London. My first programming language is Ruby (including Rails), and I have also worked in Javascript and Swift and experimented with Python. My full-stack work has a strong emphasis on TDD. I spent my three months on the Makers course pair programming, and I've worked in three group projects with Agile practices and a rigorous workflow. I have been selected as scrum master several times because of my leadership and organisational skills.
+I am a graduate of Makers, a 12-week, highly selective coding bootcamp in London. My first programming language is Ruby (including Rails), and I have also worked in Javascript and Swift and experimented with Python. My full-stack work has a strong emphasis on TDD. I spent my three months on the Makers course pair programming, and I worked in group projects with Agile practices and a rigorous workflow. I was selected as scrum master several times because of my leadership and organisational skills.
 
 Please see my three entries to our final project blog here: https://medium.com/@helisivunen
 
@@ -23,8 +23,8 @@ persisting data, SQL/TablePlus for data management
 
 #### TV journalism / communication
 
-- I'm an expert at people logistics. I am always finding ways to move our staff and kit to various countries via difficult routes and have worked on complicated visa processes and transport options. I've managed to get teams out of countries before lockdown, and from war zones with innovative solutions. 
-- I have excellent writing, editing and editorial. I'm very proud that I was the first Channel 4 News journalist to report and edit a lead story.
+- I'm an expert at people logistics. I am always finding ways to move staff and kit to various countries via difficult routes and have worked on complicated visa processes and transport options. I've managed to get teams out of countries before lockdown, and from war zones with innovative solutions. 
+- I have excellent writing, editing and editorial skills. I'm very proud that I was the first Channel 4 News journalist to report and edit a lead story.
 - I have my voice heard in editorial meetings, face-to-face meetings with the CEO, and was asked by our presenter Jon Snow to work as the researcher on his book because of my ability to condense complex information. 
 - Programmes I have worked on have won Emmy, Bafta and RTS awards for news coverage and News Programme of the Year.
 
