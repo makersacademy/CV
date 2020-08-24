@@ -1,6 +1,6 @@
 ## HELI SIVUNEN
 
-I'm a bilingual developer and multi-skilled TV journalist with years of experience working in national and international TV news at a senior level. Whether in coding or TV production, I love working in small and large groups of talented professionals, and I'm proud to foster a great atmosphere and relationships within my teams. 
+I'm a bilingual developer and multi-skilled TV journalist and newsgathering logistics expert, with years of experience working in national and international TV news at a senior level. Whether in coding or TV production, I love working in small and large groups of talented professionals, and I'm proud to foster a great atmosphere and relationships within my teams. 
 
 I am a graduate of Makers, a 12-week, highly selective coding bootcamp in London. My first programming language is Ruby (including Rails), and I have also worked in Javascript and Swift and experimented with Python. My full-stack work has a strong emphasis on TDD. I spent my three months on the Makers course pair programming, and I've worked in three group projects with Agile practices and a rigorous workflow. I have been selected as scrum master several times because of my leadership and organisational skills.
 
