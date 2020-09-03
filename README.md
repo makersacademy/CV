@@ -69,7 +69,7 @@ project, and blogged about my experiences.
 - BA (Hons) Journalism and Psychology
 - I specialised in politics and radio journalism. My dissertation was a radio piece on black ballet dancers.
 
-#### Any other qualifications
+#### Other qualifications
 
 - Happy Startup School course, 2016 
 - Helsinki Dance Institute, dancer on their high performance pathway 1985 - 1994
