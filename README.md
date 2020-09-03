@@ -38,8 +38,6 @@ via difficult routes and have worked on complicated visa processes and transport
 get teams out of countries before lockdown, and from war zones with innovative solutions. 
 - I have excellent writing, editing and editorial skills. I'm very proud that I was the first Channel 4 News 
 journalist to report and edit a lead story.
-- I have my voice heard in editorial meetings, face-to-face meetings with the CEO, and was asked by our 
-presenter Jon Snow to work as the researcher on his book because of my ability to condense complex information. 
 - Programmes I have worked on have won Emmy, Bafta and RTS awards for news coverage and News Programme of 
 the Year.
 
