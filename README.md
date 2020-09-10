@@ -7,7 +7,7 @@ and I'm proud to foster a great atmosphere and relationships within my teams.
 
 I am a graduate of Makers, a 12-week, selective developer bootcamp in London. I’m currently working on  
 a couple of React projects and taking a top-up React course at Makers to improve my front-end skills.  
-I’ve done most of my learning in Ruby/Rails and have also written projects in JavaScript and Swift.  
+I’ve done most of my learning in Ruby/Rails and have written projects in JavaScript and Swift.  
 I’m also learning to make beautiful scrollytelling web pages with HTML and CSS. I really enjoy pair  
 programming and teamwork, and have completed several group projects with Agile practices and a  
 rigorous workflow.  
