@@ -87,14 +87,15 @@ I'm full stack, but most interested in front-end developing and love working wit
 **Channel 4 News, ITN** (2000-present)    
 Current role: News Editor 
 - I run the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
-  "best picture", assign reporters and camera crews to cover stories and provide editorial guidance and  
-  help with legal compliance. I frequently answer the question "how do we make this into TV?".
+  the best picture of the day, assign reporters and camera crews to cover stories and provide  
+  editorial guidance and help with legal compliance. I frequently answer the question  
+  "how do we make this into TV?".
 - One of my previous roles was Site Editor for Channel 4 News Digital. I managed a team of online  
   journalists in covering the day's stories for our digital platforms. I learned about SEO,  
   thumbnails/story promotion, and to use a CMS and publishing tools.  
 - As Producer, my job was to make stories into engaging TV. I became proficient at video editing,  
-  learned house style and the differences between the visual style of news in the UK and other countries,  
-  especially the US.
+  learned house style and the differences between the visual style of news in the UK and other  
+  countries, especially the US.
 - I have trained more than 100 staff across departments on Avid editing software and server tools,  
   including the Washington DC bureau staff.
 
