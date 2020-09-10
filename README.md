@@ -16,7 +16,7 @@ Please see my three entries to our final project blog here: https://medium.com/@
 
 Whilst working in my current job, I was selected to train Avid video editing to more than a hundred  
 ITN staff. During Avid's 'train the trainer' course, I became interested in developing the software,  
-as well as being an end user. I'm now hoping to use my TV production experience to help companies  
+not just being an end user. I'm now hoping to use my TV production experience to help companies  
 excite their audiences and business clients with elegant but highly practical software.  
 
 I care deeply about the environment. I have experience in corporate carbon footprint reduction as I'm  
