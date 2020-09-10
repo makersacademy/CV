@@ -58,7 +58,7 @@ I'm full stack, but most interested in front-end developing and love working wit
 
 - Final project: iPhone native Jack the Ripper game with Swift / Xcode - I had to learn both  
   technologies from scratch. The full-stack project was completed in two weeks, in a group of six, with  
-  two-day sprints, daily standups and retros, pair programming and independent research.  I was 
+  two-day sprints, daily standups and retros, pair programming and independent research.  I was  
   responsible for a lot of the visual cleanup of the pages, which was great to learn in Xcode. I was  
   scrum master for much of the project, and blogged about my experiences.
 
@@ -101,7 +101,7 @@ Current role: News Editor
 **CNN International** (1997-2000)   
 Satellite Feed Producer
 -	Whist studying for my MSc, I worked in the CNN London Master Control Room, booking satellite feeds  
-  across the world for CNN's output. We experimented with new tech including TOKO, which allowed CNN 
+  across the world for CNN's output. We experimented with new tech including TOKO, which allowed CNN  
   to go live to reporters via sat phone video (a big deal at the time!).
 
 **Heart 106.2** (1996-1998)   
