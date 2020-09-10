@@ -13,12 +13,12 @@ teamwork, and have completed several group projects with Agile practices and a r
 
 Please see my three entries to our final project blog here: https://medium.com/@helisivunen
 
-Whilst working in my current job, I was selected to train Avid video editing to more than a hundred 
-ITN staff. During Avid's 'train the trainer' course, I became interested in developing the software, 
-as well as being an end user. I'm now hoping to use my TV production experience to help companies 
-excite their audiences and business clients with elegant but highly practical software.
+Whilst working in my current job, I was selected to train Avid video editing to more than a hundred  
+ITN staff. During Avid's 'train the trainer' course, I became interested in developing the software,  
+as well as being an end user. I'm now hoping to use my TV production experience to help companies  
+excite their audiences and business clients with elegant but highly practical software.  
 
-I care deeply about the environment. I have experience in corporate carbon footprint reduction as I'm a 
+I care deeply about the environment. I have experience in corporate carbon footprint reduction as I'm a  
 member of ITN's Sustainability Forum, which works to improve the company’s environmental credentials.
 
 ## Skills
