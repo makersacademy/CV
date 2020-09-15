@@ -1,9 +1,8 @@
 ## HELI SIVUNEN
 
-I'm a developer and multi-skilled TV journalist at Channel 4 News, highly experienced at producing  
-visually engaging national and international news for programmes, rolling news and digital output.  
-Whether in coding or TV production, I love working in small and large groups of talented professionals,  
-and I'm proud to foster a great atmosphere and relationships within my teams.  
+I'm a developer and multi-skilled journalist at Channel 4 News, highly experienced at producing  
+visually engaging TV News. Whether in coding or TV production, I love working in small and large  
+groups of talented professionals, and I'm proud to foster a great atmosphere within my team.  
 
 I am a graduate of Makers, a 12-week, selective developer bootcamp in London. I’m currently working on  
 a couple of React projects and taking a top-up React course at Makers to improve my front-end skills.  
