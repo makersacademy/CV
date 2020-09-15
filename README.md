@@ -5,9 +5,9 @@ visually engaging TV News. I love working in small and large groups of talented 
 and I'm proud to foster a great atmosphere within my team.  
 
 I am a graduate of Makers, a 12-week, selective developer bootcamp in London. The most fun I have when  
-I'm coding, is when working in a team or pairs, and tinkering with the visuals of a page. 
+I'm coding, is when working in a team or pairs, and tinkering with the visuals of a page.  
 I’m currently working on building a portfolio from scratch with React, and I'm taking a top-up React  
-course at Makers to improve my front-end skills. 
+course at Makers to improve my front-end skills.  
 I’m also learning to make beautiful scrollytelling web pages with HTML and CSS, and a long-term personal  
 project is to make a scrollytelling story with WWII letters my grandparents sent to each other.
 
