@@ -43,11 +43,6 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 - I have excellent writing, editing and editorial skills. I'm very proud that I was the first  
   Channel 4 News journalist to report and edit a lead story on my own.
 
-#### Languages
-
-- Bilingual Finnish - English, have decent conversational French after studying in Bordeaux during  
-  my gap year, and did Swedish and German to A-level standard
-
 ## Education
 
 #### Makers Academy (September - December 2019)
@@ -69,37 +64,32 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 #### City University, London (1994-1998)
 
 - BA (Hons) Journalism and Psychology
-- I specialised in politics and radio journalism. My dissertation was a radio piece on
-  black ballet dancers.
 
-#### Other qualifications
+#### Spoken languages
 
-- Happy Startup School course, 2016
-- Helsinki Dance Institute, dancer on their high performance pathway 1985 - 1994
+- Bilingual Finnish - English, fluent French, A-level standard Swedish and German 
 
 ## Experience
 
 **Channel 4 News, ITN** (2000-present)    
-Current role: News Editor
-- I run the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
+Current role: 
+- `News Editor`: I run the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
   the best picture of the day, assign reporters and camera crews to cover stories and provide  
   editorial guidance and help with legal compliance.
-- One of my previous roles was Site Editor for Channel 4 News Digital. I managed a team of online  
-  journalists in covering the day's stories for our digital platforms. I learned about SEO,  
-  thumbnails/story promotion, and to use a CMS and publishing tools.  
-- As Producer, my job was to make stories into engaging TV.
-- I have trained more than 100 staff across departments on Avid editing software and server tools,  
-  including the Washington DC bureau staff.
+  
+Previous roles:   
+- `Site Editor`, Channel 4 News Digital: I managed a team of online journalists working on our digital platforms.  
+  I learned about SEO, thumbnails/story promotion, CMS and publishing tools.  
+- `Producer`: my job was to make stories into engaging TV.
+- `Avid Edit Trainer`: trained more 100+ staff across departments on Avid editing software and server tools, in  
+  London and DC
 
 **CNN International** (1997-2000)   
-Satellite Feed Producer
--	Whist studying for my MSc, I worked in the CNN London Master Control Room, booking satellite feeds  
-  across the world for CNN's output.
+- `Satellite Feed Producer`: I worked in the CNN London Master Control Room  
 
 **Heart 106.2** (1996-1998)   
-Reporter
-- An amazing way to gain experience as a journalist. I got to interview Desmond Tutu and Tony Blair and  
-  cover stories from scrabble championships to police raids.
+- `Reporter`: An amazing way to gain experience as a journalist, interviewing politicians and covering stories  
+  from scrabble championships to police raids.
 
 ## Hobbies
 - I'm in the early stages of writing a book and scrollytelling project from more than 2,000 letters  
