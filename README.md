@@ -1,34 +1,30 @@
 ## HELI SIVUNEN
 
-I'm a developer and multi-skilled journalist at Channel 4 News, highly experienced at producing  
-visually engaging TV News. I love working in small and large groups of talented professionals,  
-and I'm proud to foster a great atmosphere within my team.  
+I'm a newly qualified full stack developer and really good at making TV news. I love working in teams of every size! 
 
-I am a graduate of Makers, a 12-week, selective developer bootcamp in London. The most fun I have when  
-I'm coding, is when working in a team or pairs, and tinkering with the visuals of a page.  
-I’m currently working on building a portfolio from scratch with React, and I'm taking a top-up React  
-course at Makers to improve my front-end skills.  
-I’m also learning to make beautiful scrollytelling web pages with HTML and CSS, and a long-term personal  
-project is to make a scrollytelling story with WWII letters my grandparents sent to each other.
+I've graduated from the Makers bootcamp in London. Team and pair programming is my thing, and I love tinkering  
+with the visuals of a page.  
 
-Please see my three entries to our Maker final project blog here: https://medium.com/@helisivunen
+I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we work to reduce carbon footprint.
 
-I've always been known as a tech geek at work, and was selected to train Avid video editing and server  
-tools to more than a hundred ITN staff. I realised during that process that I want to write the  
-software as well as use it.
+## Projects 
 
-I care deeply about the environment. I have experience in corporate carbon footprint reduction as I'm  
-a member of ITN's Sustainability Forum, which works to improve the company’s environmental credentials.
+|    Project                                        |    Details                                        |  
+| ------------------------------------------------- | ------------------------------------------------- |  
+|    iOS native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. Here's my blog! https://medium.com/@helisivunen                     |    Swift, Xcode                                   |
+
+
+    
 
 ## Skills
 
 #### Programming
 
-•	Languages: Ruby, JavaScript, React, HTML, CSS, Swift  
-•	Frameworks: Rails, Node.js  
-•	Test suites: Jest, React Testing Library, RSpec, Capybara, Travis  
-•	IDEs: Atom, Visual Studio, Xcode  
-•	Other technologies: GitHub, Heroku, SQL/TablePlus, Azure DevOps   
+•	Languages: `Ruby`, `JavaScript`, `React`, `HTML`, `CSS`, `Swift`  
+•	Frameworks: `Rails`, `Node.js`  
+•	Test suites: `Jest`, `React Testing Library`, `RSpec`, `Capybara`, `Travis`  
+•	IDEs: `Atom`, `Visual Studio`, `Xcode`  
+•	Other technologies: `GitHub`, `Heroku`, `SQL/TablePlus`, `Azure DevOps`   
 
 #### TV journalism / communication
 
@@ -51,7 +47,8 @@ a member of ITN's Sustainability Forum, which works to improve the company’s e
 - Final project: iPhone native Jack the Ripper game with Swift / Xcode - we had to learn both  
   technologies from scratch. The full-stack project was completed in two weeks, in a group of six, with  
   two-day sprints, daily standups and retros, pair programming and independent research. I was  
-  scrum master for much of the project, and blogged about my experiences.
+  scrum master for much of the project, and blogged about my experiences. 
+  https://medium.com/@helisivunen
 
 #### London School of Economics (LSE) (1998-2000)
 
