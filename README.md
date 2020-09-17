@@ -56,11 +56,10 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 #### London School of Economics (LSE) (1998-2000)
 
 - MSc International Relations (dissertation on child labour)
-- Post-Graduate Diploma in World Politics
 
 #### Institut Universitaire de Technologie (IUT) Bordeaux (3 months during gap year 1997)
 
-- I spent a few months at their prestigious journalism school
+- Attended their prestigious journalism school
 
 #### City University, London (1994-1998)
 
@@ -68,7 +67,7 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 
 #### Spoken languages
 
-- Bilingual Finnish - English, fluent French, A-level standard Swedish and German
+- Bilingual Finnish / English, fluent French, A-level standard Swedish and German
 
 ## Experience
 
