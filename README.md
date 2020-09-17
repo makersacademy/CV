@@ -1,6 +1,6 @@
 # Heli Sivunen <a  href="https://www.linkedin.com/in/heli-sivunen/"> <img align="right" src="/public/LI-In-Bug.png" width="25" height="25"/><a  href="https://twitter.com/Heli_Sivunen"> <img align="right" src="/public/Twitter_Social_Icon_Square_Color.png" width="25" height="25"/>
 
-## Full Stack / Front End Developer with TV news background
+## Full Stack / Front End Developer with TV news background 🎬
 
 I'm a graduate of the Makers bootcamp in London and work for Channel 4 News.  
 
@@ -15,7 +15,7 @@ I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we wor
 |     **Jack The Ripper**
 Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. Here's my blog! https://medium.com/@helisivunen                     |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
 |         **Disco**
-|              Colour-changing app for learning React and experimenting with Google Fonts                                         |https://blooming-waters-22212.herokuapp.com/ <img src="/public/Disco_1.gif"/> |
+|              Tech stack: `React`, `Google Fonts`. Colour-changing app for learning to write React. Under construction! 🛠                                         |https://blooming-waters-22212.herokuapp.com/ <img src="/public/Disco_1.gif"/> |
 |         **Headline Search**
 |              Tech stack: `Ruby`, `Rails`, `CSS` to emulate FT's colour and font. `API` call app for searching FT headlines.                                         |  <img src="/public/FT.gif"/>|
 |         **Tarvikkeet**                              |                                                   |
