@@ -14,7 +14,7 @@ I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we wor
 |     **Jack The Ripper**
 Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. Here's my blog! https://medium.com/@helisivunen                     |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
 |         **Disco**
-|              Colour-changing app for learning React                                         |https://blooming-waters-22212.herokuapp.com/ <img src="/public/Disco_1.gif"/> |
+|              Colour-changing app for learning React and experimenting with Google Fonts                                         |https://blooming-waters-22212.herokuapp.com/ <img src="/public/Disco_1.gif"/> |
 |         **Headline Search**
 |              Tech stack: `Ruby`, `Rails`, `CSS` to emulate FT's colour and font. `API` call app for searching FT headlines.                                         |  <img src="/public/FT.gif"/>|
 |         **Tarvikkeet**                              |                                                   |
