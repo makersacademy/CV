@@ -1,21 +1,21 @@
 ## HELI SIVUNEN
 
-I'm a newly qualified full stack developer and really good at making TV news. I love working in teams of every size! 
+I'm a newly qualified full stack developer and really good at making TV news. I love working in teams of every size!
 
 I've graduated from the Makers bootcamp in London. Team and pair programming are my thing, and I love tinkering  
 with the visuals of a page.  
 
 I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we work to reduce carbon footprint.
 
-## Projects 
+## Projects
 
 |    Project                                        |    Details                                        |  
-| ------------------------------------------------- | ------------------------------------------------- |  
-|    iOS native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. Here's my blog! https://medium.com/@helisivunen                     |    Swift, Xcode   ![alt-text](JackTheRipper.gif)                              |
+| ------------------------------------------------- | :-------------------------------------------------: |  
+|    iOS native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. Here's my blog! https://medium.com/@helisivunen                     |    Swift, Xcode   <img src="/public/JackTheRipper.gif" width="250" height="250"/>
 
 
 
-    
+
 
 ## Skills
 
@@ -62,25 +62,25 @@ I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we wor
 #### City University, London (1994-1998)
 
 - BA (Hons) Journalism and Psychology
-- I specialised in politics and radio journalism. My dissertation was a radio piece on 
+- I specialised in politics and radio journalism. My dissertation was a radio piece on
   black ballet dancers.
 
 #### Other qualifications
 
-- Happy Startup School course, 2016 
+- Happy Startup School course, 2016
 - Helsinki Dance Institute, dancer on their high performance pathway 1985 - 1994
 
 ## Experience
 
 **Channel 4 News, ITN** (2000-present)    
-Current role: News Editor 
+Current role: News Editor
 - I run the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
   the best picture of the day, assign reporters and camera crews to cover stories and provide  
-  editorial guidance and help with legal compliance. 
+  editorial guidance and help with legal compliance.
 - One of my previous roles was Site Editor for Channel 4 News Digital. I managed a team of online  
   journalists in covering the day's stories for our digital platforms. I learned about SEO,  
   thumbnails/story promotion, and to use a CMS and publishing tools.  
-- As Producer, my job was to make stories into engaging TV. 
+- As Producer, my job was to make stories into engaging TV.
 - I have trained more than 100 staff across departments on Avid editing software and server tools,  
   including the Washington DC bureau staff.
 
@@ -88,9 +88,9 @@ Current role: News Editor
 Satellite Feed Producer
 -	Whist studying for my MSc, I worked in the CNN London Master Control Room, booking satellite feeds  
   across the world for CNN's output.
-  
+
 **Heart 106.2** (1996-1998)   
-Reporter 
+Reporter
 - An amazing way to gain experience as a journalist. I got to interview Desmond Tutu and Tony Blair and  
   cover stories from scrabble championships to police raids.
 
