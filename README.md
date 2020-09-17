@@ -31,11 +31,11 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 
 #### Programming
 
-•	Languages: `Ruby`, `JavaScript`, `React`, `HTML`, `CSS`, `Swift`  
-•	Frameworks: `Rails`, `Node.js`  
-•	Test suites: `Jest`, `React Testing Library`, `RSpec`, `Capybara`, `Travis`  
-•	IDEs: `Atom`, `Visual Studio`, `Xcode`  
-•	Other technologies: `GitHub`, `Heroku`, `SQL/TablePlus`, `Azure DevOps`   
+-	Languages: `Ruby`, `JavaScript`, `React`, `HTML`, `CSS`, `Swift`  
+-	Frameworks: `Rails`, `Node.js`  
+-	Test suites: `Jest`, `React Testing Library`, `RSpec`, `Capybara`, `Travis`  
+-	IDEs: `Atom`, `Visual Studio`, `Xcode`  
+-	Other technologies: `GitHub`, `Heroku`, `SQL/TablePlus`, `Azure DevOps`   
 
 #### TV journalism / communication
 
