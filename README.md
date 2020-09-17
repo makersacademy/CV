@@ -1,9 +1,10 @@
-## HELI SIVUNEN
+# Heli Sivunen
 
-I'm a newly qualified full stack developer and experienced TV journalist. I love working in teams of every size!
+## Full Stack / Front End Developer with TV news background
 
-I've graduated from the Makers bootcamp in London. Team and pair programming are my thing, and I love tinkering  
-with the visuals of a page.  
+I'm a graduate of the Makers bootcamp in London and work for Channel 4 News.  
+
+I love programming in pairs and teams, and tinkering with the visuals of a page.
 
 I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we work to reduce carbon footprint.
 
@@ -36,12 +37,10 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 
 #### TV journalism / communication
 
-- I'm an excellent communicator, and, being a journalist, can condense complex information and present  
-  it convincingly.
-- I understand viewer (therefore customer) behaviour online, and have logistics, copyright and  
-  legal/music clearance experience.
-- I have excellent writing, editing and editorial skills. I'm very proud that I was the first  
-  Channel 4 News journalist to report and edit a lead story on my own.
+- Excellent communication skills - I can condense complex information and present it convincingly.
+- Understanding of user behaviour online (click-throughs)
+- Logistics, copyright and legal/music clearance
+- Writing, video editing and editorial skills
 
 ## Education
 
