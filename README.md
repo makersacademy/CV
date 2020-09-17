@@ -75,21 +75,20 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 Current role:
 - `News Editor`: I run the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
   the best picture of the day, assign reporters and camera crews to cover stories and provide  
-  editorial guidance and help with legal compliance.
+  editorial and legal guidance.
 
 Previous roles:   
-- `Site Editor`, Channel 4 News Digital: I managed a team of online journalists working on our digital platforms.  
+- `Site Editor`, Channel 4 News Digital: managing a team of journalists working on our digital platforms.  
   I learned about SEO, thumbnails/story promotion, CMS and publishing tools.  
-- `Producer`: my job was to make stories into engaging TV.
+- `Producer`: making stories into engaging TV.
 - `Avid Edit Trainer`: trained more 100+ staff across departments on Avid editing software and server tools, in  
   London and DC
 
 **CNN International** (1997-2000)   
-- `Satellite Feed Producer`: I worked in the CNN London Master Control Room  
+- `Satellite Feed Producer` in the CNN London Master Control Room  
 
 **Heart 106.2** (1996-1998)   
-- `Reporter`: An amazing way to gain experience as a journalist, interviewing politicians and covering stories  
-  from scrabble championships to police raids.
+- `Reporter`: interviewing politicians and covering stories from scrabble championships to police raids.
 
 ## Hobbies
 - I'm in the early stages of writing a book and scrollytelling project from more than 2,000 letters  
