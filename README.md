@@ -2,7 +2,7 @@
 
 I'm a newly qualified full stack developer and really good at making TV news. I love working in teams of every size! 
 
-I've graduated from the Makers bootcamp in London. Team and pair programming is my thing, and I love tinkering  
+I've graduated from the Makers bootcamp in London. Team and pair programming are my thing, and I love tinkering  
 with the visuals of a page.  
 
 I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we work to reduce carbon footprint.
