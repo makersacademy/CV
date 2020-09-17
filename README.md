@@ -1,5 +1,5 @@
-# Heli Sivunen 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/heli-sivunen/)
+# Heli Sivunen
+[![Linkedin](<img src="/public/Disco_1.gif"/>) LinkedIn](https://www.linkedin.com/in/heli-sivunen/)
 &nbsp;
 
 ## Full Stack / Front End Developer with TV news background
@@ -68,16 +68,16 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 
 #### Spoken languages
 
-- Bilingual Finnish - English, fluent French, A-level standard Swedish and German 
+- Bilingual Finnish - English, fluent French, A-level standard Swedish and German
 
 ## Experience
 
 **Channel 4 News, ITN** (2000-present)    
-Current role: 
+Current role:
 - `News Editor`: I run the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
   the best picture of the day, assign reporters and camera crews to cover stories and provide  
   editorial guidance and help with legal compliance.
-  
+
 Previous roles:   
 - `Site Editor`, Channel 4 News Digital: I managed a team of online journalists working on our digital platforms.  
   I learned about SEO, thumbnails/story promotion, CMS and publishing tools.  
