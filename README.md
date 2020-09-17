@@ -44,11 +44,10 @@ I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we wor
 
 #### Makers Academy (September - December 2019)
 
-- Final project: iPhone native Jack the Ripper game with Swift / Xcode - we had to learn both  
-  technologies from scratch. The full-stack project was completed in two weeks, in a group of six, with  
-  two-day sprints, daily standups and retros, pair programming and independent research. I was  
-  scrum master for much of the project, and blogged about my experiences. 
-  https://medium.com/@helisivunen
+- 12-week, intensive career change bootcamp. First four weeks was `Ruby`/`Rspec`, then `JavaScript`,  
+  and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`,  
+  `modelling`, `debugging` and `clean code`. I'm currently taking a top-up `React` course with Makers because  
+  I want to gain amazing front-end skills.
 
 #### London School of Economics (LSE) (1998-2000)
 
