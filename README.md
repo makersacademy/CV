@@ -10,12 +10,14 @@ I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we wor
 ## Projects
 
 |    Project                                        |    Details                                        |  
-| ------------------------------------------------- | :-------------------------------------------------: |  
-|    iOS native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. Here's my blog! https://medium.com/@helisivunen                     |    Tech stack: Swift, Xcode   <br><br> <img src="/public/JackTheRipper.gif" width="180" height="350"/>
-|                                                   |                                                      |
-|     Colour-changing app for learning React        | Deployed on Heroku: https://blooming-waters-22212.herokuapp.com/
-
-
+| :-------------------------------------------------: | :-------------------------------------------------: |  
+|     **Jack The Ripper** 
+iOS native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. Here's my blog! https://medium.com/@helisivunen                     |    Tech stack: Swift, Xcode   <br><br> <img src="/public/JackTheRipper.gif" width="180" height="350"/>
+|         **Disco**
+|              Colour-changing app for learning React                                         |Deployed on Heroku: https://blooming-waters-22212.herokuapp.com/ |
+|         **Headline Search**    
+|    API call app for searching FT headlines. Basic CSS styling to emulate the FT colour and font. |       Tech stack: Ruby, Rails
+Github repo: https://github.com/PacificRebel/headline-search                |
 
 
 
