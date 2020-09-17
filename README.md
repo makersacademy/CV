@@ -1,5 +1,4 @@
-# Heli Sivunen <a align="right" href="https://www.linkedin.com/in/heli-sivunen/">
-  <img src="/public/LI-In-Bug.png" width="25" height="25"/>
+# Heli Sivunen <a  href="https://www.linkedin.com/in/heli-sivunen/"> <img align="right" src="/public/LI-In-Bug.png" width="25" height="25"/>
 
 ## Full Stack / Front End Developer with TV news background
 
