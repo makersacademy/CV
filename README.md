@@ -14,6 +14,7 @@ I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we wor
 |    iOS native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. Here's my blog! https://medium.com/@helisivunen                     |    Swift, Xcode   ![alt-text](JackTheRipper.gif)                              |
 
 
+
     
 
 ## Skills
