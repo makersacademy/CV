@@ -1,4 +1,6 @@
-# Heli Sivunen
+# Heli Sivunen 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/heli-sivunen/)
+&nbsp;
 
 ## Full Stack / Front End Developer with TV news background
 
