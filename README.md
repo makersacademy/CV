@@ -18,7 +18,7 @@ iOS native Jack the Ripper geolocation game. This was my final project at Makers
 |         **Headline Search**
 |              API call app for searching FT headlines.                                         |Tech stack: Ruby, Rails, CSS to emulate FT's colour and font. Github repo: https://github.com/PacificRebel/headline-search  <br><br> <img src="/public/FT.gif"/>|
 |         **Tarvikkeet**
-|              Front end project to learn CSS and scrollytelling with still images and video: a Finnish-language CRUD website for managing items on a list.                                         |Tech stack: Ruby, Rails, HTML, CSS. Deployed on Heroku: https://tarvikkeet.herokuapp.com
+|              Front end project to learn CSS and scrollytelling with still images and video: a Finnish-language CRUD website for managing items on a list.                                         |Tech stack: Ruby, Rails, HTML, CSS. Deployed on Heroku: https://tarvikkeet.herokuapp.com <img src="/public/Tarvikkeet_small.gif"/>
 
 
 
