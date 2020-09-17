@@ -1,6 +1,6 @@
 ## HELI SIVUNEN
 
-I'm a newly qualified full stack developer and really good at making TV news. I love working in teams of every size!
+I'm a newly qualified full stack developer and experienced TV journalist. I love working in teams of every size!
 
 I've graduated from the Makers bootcamp in London. Team and pair programming are my thing, and I love tinkering  
 with the visuals of a page.  
@@ -11,7 +11,10 @@ I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we wor
 
 |    Project                                        |    Details                                        |  
 | ------------------------------------------------- | :-------------------------------------------------: |  
-|    iOS native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. Here's my blog! https://medium.com/@helisivunen                     |    Swift, Xcode   <img src="/public/JackTheRipper.gif" width="200" height="320"/>
+|    iOS native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. Here's my blog! https://medium.com/@helisivunen                     |    Swift, Xcode   <img src="/public/JackTheRipper.gif" width="200" height="350"/>
+|                                                   |                                                      |
+|     Colour-changing app for learning React        | React, deployed on Heroku: https://blooming-waters-22212.herokuapp.com/
+
 
 
 
