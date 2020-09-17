@@ -53,7 +53,7 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 
 #### London School of Economics (LSE) (1998-2000)
 
-- MSc International Relations (dissertation on child labour)
+- MSc International Relations
 
 #### Institut Universitaire de Technologie (IUT) Bordeaux (3 months during gap year 1997)
 
