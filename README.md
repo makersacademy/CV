@@ -1,6 +1,6 @@
 # Heli Sivunen
-[![Linkedin](<img src="/public/Disco_1.gif"/>) LinkedIn](https://www.linkedin.com/in/heli-sivunen/)
-&nbsp;
+<a href="https://www.linkedin.com/in/heli-sivunen/">
+  <img src="/public/LI-In-Bug.png" width="25" height="25"/>
 
 ## Full Stack / Front End Developer with TV news background
 
