@@ -55,7 +55,7 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 
 - MSc International Relations
 
-#### Institut Universitaire de Technologie (IUT) Bordeaux (3 months during gap year 1997)
+#### Institut Universitaire de Technologie (IUT) Bordeaux (3 months during gap year)
 
 - Attended their prestigious journalism school
 
