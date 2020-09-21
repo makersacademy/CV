@@ -71,7 +71,7 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 
 **Channel 4 News, ITN** (2000-present)    
 Current role:
-- `News Editor`: I run the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
+- `News Editor`: running the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
   the best picture of the day, assign reporters and camera crews to cover stories and provide  
   editorial and legal guidance.
 
@@ -79,7 +79,7 @@ Previous roles:
 - `Site Editor`, Channel 4 News Digital: managing a team of journalists working on our digital platforms.  
   I learned about SEO, thumbnails/story promotion, CMS and publishing tools.  
 - `Producer`: making stories into engaging TV.
-- `Avid Edit Trainer`: trained more 100+ staff across departments on Avid editing software and server tools, in  
+- `Avid Edit Trainer`: training more 100+ staff across departments on Avid editing software and server tools, in  
   London and DC
 
 **CNN International** (1997-2000)   
