@@ -39,12 +39,13 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 -	IDEs: `Atom`, `Visual Studio`, `Xcode`  
 -	Other technologies: `GitHub`, `Heroku`, `SQL/TablePlus`, `Azure DevOps`   
 
-#### Transferrable skills (from TV to programming)
+#### Transferrable skills
 
 - Excellent communication skills - I can condense complex information and present it convincingly.
 - Understanding of user behaviour online (click-throughs)
 - Logistics, copyright and legal/music clearance
 - Writing, video editing and editorial skills
+- Juggling multiple tasks at once and remaining calm under pressure
 
 ## Education
 
