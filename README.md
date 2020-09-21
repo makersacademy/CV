@@ -2,11 +2,12 @@
 
 ## Full Stack / Front End Developer with TV news background 🎬
 
-I'm a graduate of the Makers bootcamp in London and work for Channel 4 News.  
+I'm a graduate of the Makers bootcamp in London and work for Channel 4 News. I'm really excited about front end work, especially  
+building beautiful, user-friendly apps and immersive scrollytelling pages. I love it when something I built elicits  
+reactions of wonder from those I demo it to!
 
-I love programming in pairs and teams, and tinkering with the visuals of a page.
-
-I'm a tree-hugging vegan, and member of ITN's Sustainability Forum, where we work to reduce carbon footprint.
+I want to put my programming skills to use for the benefit of our planet, and see endless possibilities for this. I'm a  
+tree-hugging vegan, and member of my company's Sustainability Forum, where we work to reduce carbon footprint.
 
 ## Projects
 
