@@ -48,22 +48,22 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 
 ## Education
 
-#### Makers Academy (September - December 2019)
+#### Makers Academy
 
 - 12-week, intensive career change bootcamp. First four weeks was `Ruby`/`Rspec`, then `JavaScript`,  
   and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`,  
   `modelling`, `debugging` and `clean code`. I'm currently taking a top-up `React` course with Makers because  
   I want to gain amazing front-end skills.
 
-#### London School of Economics (LSE) (1998-2000)
+#### London School of Economics (LSE)
 
 - MSc International Relations
 
-#### Institut Universitaire de Technologie (IUT) Bordeaux (3 months during gap year)
+#### Institut Universitaire de Technologie (IUT) Bordeaux 
 
-- Attended their prestigious journalism school
+- Attended their prestigious journalism school for 3 months
 
-#### City University, London (1994-1998)
+#### City University, London
 
 - BA (Hons) Journalism and Psychology
 
@@ -73,7 +73,7 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 
 ## Experience
 
-**Channel 4 News, ITN** (2000-present)    
+**Channel 4 News, ITN**     
 Current role:
 - `News Editor`: running the newsdesk, which is the nerve centre of the newsroom. I generate story ideas, spot  
   the best picture of the day, assign reporters and camera crews to cover stories and provide  
@@ -86,10 +86,10 @@ Previous roles:
 - `Avid Edit Trainer`: training more 100+ staff across departments on Avid editing software and server tools, in  
   London and DC
 
-**CNN International** (1997-2000)   
+**CNN International**   
 - `Satellite Feed Producer` in the CNN London Master Control Room  
 
-**Heart 106.2** (1996-1998)   
+**Heart 106.2**  
 - `Reporter`: interviewing politicians and covering stories from scrabble championships to police raids.
 
 ## Hobbies
