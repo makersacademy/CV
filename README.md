@@ -32,8 +32,7 @@ Tech stack: `Swift`, `Xcode`. `iOS` native Jack the Ripper geolocation game. Thi
 
 ## Transferable skills
 
-- Excellent communication skills - I can condense complex information and  
-  present it convincingly.
+- Excellent communication skills - I can condense complex information and present it convincingly.
 - Understanding of user behaviour online (click-throughs)
 - Logistics, copyright and legal/music clearance
 - Writing, video editing and editorial skills
@@ -65,16 +64,16 @@ Previous roles:
 
 #### Makers Academy
 
--	Languages: `Ruby`, `JavaScript`, `React`, `HTML`, `CSS`, `Swift`  
--	Frameworks: `Rails`, `Node.js`  
--	Test suites: `Jest`, `React Testing Library`, `RSpec`, `Capybara`, `Travis`  
--	IDEs: `Atom`, `Visual Studio`, `Xcode`  
--	Other technologies: `GitHub`, `Heroku`, `SQL/TablePlus`, `Azure DevOps`   
-
 - 12-week, intensive career change bootcamp. First four weeks was `Ruby`/`Rspec`, then `JavaScript`,  
-  and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`,  
-  `modelling`, `debugging` and `clean code`. I'm currently taking a top-up `React` course with Makers because  
-  I want to gain amazing front-end skills.
+  and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`, `debugging` and `clean code`. I'm currently taking a top-up `React` course  
+  with Makers because I want to gain amazing front-end skills.
+
+    ##### Tech learned:
+    -	Languages: `Ruby`, `JavaScript`, `React`, `HTML`, `CSS`, `Swift`  
+    -	Frameworks: `Rails`, `Node.js`  
+    -	Test suites: `Jest`, `React Testing Library`, `RSpec`, `Capybara`, `Travis`  
+    -	IDEs: `Atom`, `Visual Studio`, `Xcode`  
+    -	Other technologies: `GitHub`, `Heroku`, `SQL/TablePlus`, `Azure DevOps`   
 
 #### London School of Economics (LSE)
 
