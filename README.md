@@ -20,13 +20,13 @@ Women Driven Development conference was an eye-opener for me.
 |    Project details                                        |    Demo                                        |  
 | :-------------------------------------------------: | :-------------------------------------------------: |  
 |     **Jack The Ripper**
-`iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. Here's my blog! https://medium.com/@helisivunen <br />Tech stack: `Swift`, `Xcode`.                   |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
+`iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. <br />Here's my blog! https://medium.com/@helisivunen <br />Tech stack: `Swift`, `Xcode`.                   |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
 |         **Disco**
-|              Colour-changing app for learning to write React. <br /> Tech stack: `React`, `Google Fonts`.  Under construction! 🛠                                         |https://blooming-waters-22212.herokuapp.com/ <img src="/public/Disco_1.gif"/> |
+|              Colour-changing app for learning to write React. <br /><br /> Tech stack: `React`, `Google Fonts`.  Under construction! 🛠                                         |https://blooming-waters-22212.herokuapp.com/ <img src="/public/Disco_1.gif"/> |
 |         **Headline Search**
 |              `API` call app for searching FT headlines. <br />Tech stack: `Ruby`, `Rails`, `CSS` to emulate FT's colour and font.                                          |  <img src="/public/FT.gif"/>|
 |         **Tarvikkeet**                              |                                                   |
-|              Finnish-language front end CRUD project to learn CSS and `scrollytelling` with still images and video.<br /> Tech stack: `Ruby`, `Rails`, `HTML`, `CSS`.                                          | <img src="/public/Tarvikkeet_small.gif"/>
+|              Finnish-language front end CRUD project to learn CSS and `scrollytelling` with still images and video. <br /> Tech stack: `Ruby`, `Rails`, `HTML`, `CSS`.                                          | <img src="/public/Tarvikkeet_small.gif"/>
 
 ## Transferable skills
 
