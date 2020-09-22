@@ -4,10 +4,10 @@
 
 I'm a graduate of the Makers bootcamp in London and work for Channel 4 News. I'm particularly excited about front end work,  
 especially building beautiful, user-friendly apps and immersive scrollytelling pages. I love it when something small I built  
-elicits reactions of wonder from those I demo it to!
+elicits reactions of wonder from those I demo it to!  
 
 I want to put my programming skills to use for the benefit of our planet, and see endless possibilities for this. I'm a  
-tree-hugging vegan, and member of my company's Sustainability Forum, where we work to reduce carbon footprint.
+tree-hugging vegan, and member of my company's Sustainability Forum, where we work to reduce carbon footprint.  
 
 I also want to demystify programming for those who aren't normally drawn into it as a career, especially girls. Inclusive  
 design fascinates me and I want to become good at it!
