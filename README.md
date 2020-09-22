@@ -2,7 +2,7 @@
 
 ## Full Stack / Front End Developer with TV news background 🎬
 
-I'm a full stack developer, a recent graduate of the Makers bootcamp in London and work for Channel 4 News. 
+I'm a full stack developer, a recent graduate of the Makers bootcamp in London and work for Channel 4 News.  
 I'm particularly excited about front end work, especially building beautiful, user-friendly apps and  
 immersive scrollytelling pages. I love it when something small I built elicits reactions of wonder from  
 those I demo it to! For example, I've recently built and deployed websites with birthday greetings  
