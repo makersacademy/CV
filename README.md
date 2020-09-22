@@ -4,7 +4,7 @@
 
 I'm a full stack developer, a recent graduate of the Makers bootcamp in London and work for Channel 4 News.  
 I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages.  
-I love it when something small I built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed  
+I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed  
 websites with birthday greetings for friends and family instead of cards - a joy to receive, and great for the environment too.  
 
 I want to put my programming skills to use for the benefit of our planet, and see endless possibilities for this.  
