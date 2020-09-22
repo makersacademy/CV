@@ -68,7 +68,7 @@ Previous roles:
   and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`,  
   `debugging` and `clean code`. I'm currently taking a top-up `React` course with Makers because I want to gain amazing front-end skills.
 
-    ##### Tech learned:
+    #### Tech learned:
     -	Languages: `Ruby`, `JavaScript`, `React`, `HTML`, `CSS`, `Swift`  
     -	Frameworks: `Rails`, `Node.js`  
     -	Test suites: `Jest`, `React Testing Library`, `RSpec`, `Capybara`, `Travis`  
