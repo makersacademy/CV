@@ -91,7 +91,8 @@ Previous roles:
 - Bilingual Finnish / English, fluent French, A-level standard Swedish and German
 
 
-## Hobbies
-- I'm in the early stages of writing a book and scrollytelling project from more than 2,000 letters  
-  my grandparents sent to each other when my grandfather was fighting in the Finnish Continuation War  
-  during WWII.
+## Interests
+- I love the TLDR newsletter, which is a perfect tech geek roundup for someone like me, who's juggling many things!
+- Pod Save America and Campaign HQ are essential listening to enable me to stay on top of the US Presidential election
+- I'm in the early stages of writing a book and scrollytelling project from more than 2,000 letters my grandparents  
+  sent to each other when my grandfather was fighting in the Finnish Continuation War during WWII.
