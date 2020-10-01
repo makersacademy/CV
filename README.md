@@ -2,7 +2,6 @@
 
 I am a Data Engineer with a particular interest in helping companies to turn machine learning models into production-ready software. The most enjoyable aspect of coding for me is writing a beautiful piece of code which is efficient, succinct and accessible. I love automating, in every arena possible.
 
-
 *<div align="center"> "[Raefe] quickly impressed the teams he worked in with his quick grasp of what we were working on and began to contribute at a usable level even earlier than I had hoped. Raefe is going to make great contributions wherever he goes".  - Steven Hamblin, CEO, Dyad*
 
 ## Skills
