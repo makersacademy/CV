@@ -64,8 +64,7 @@ Previous roles:
 #### Makers Academy
 
 - 12-week, intensive career change bootcamp. First four weeks was `Ruby`/`Rspec`, then `JavaScript`,  
-  and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`, `debugging` and `clean code`. I've taken a top-up `React` course with Makers,  
-  and that’s strengthened my front-end skills.
+  and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`, `debugging` and `clean code`. I've taken a top-up `React` course with Makers, which I loved  and it strengthened my front-end skills.
 
     #### Tech learned:
     -	Languages: `React`, `JavaScript`, `Ruby`, `HTML`, `CSS`, `Swift`  
