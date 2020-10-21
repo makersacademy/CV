@@ -22,7 +22,7 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Forum, where
 |     **Jack The Ripper**
 `iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. <br />Here's my blog! https://medium.com/@helisivunen <br /><br />Tech stack: `Swift`, `Xcode`.                   |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
 |         **Portfolio**
-|              My portfolio, linked to my repos via the GitHub API. <br /><br /> Tech stack: `Gatsby`,`React`, `Google Fonts`. <br /> Under construction! 🛠                                         |https://friendly-kepler-67683c.netlify.app/ <img src="/public/Portfolio.gif"/> |
+|              My portfolio, linked to my repos via the GitHub API. <br /><br /> Tech stack: `Gatsby`,`React`, `Flexbox`, `Google Fonts`. <br /> Under construction! 🛠                                         |https://friendly-kepler-67683c.netlify.app/ <img src="/public/Portfolio.gif"/> |
 |         **Headline Search**
 |              `API` call app for searching FT headlines. <br /><br />Tech stack: `Ruby`, `Rails`, `CSS` to emulate FT's colour and font.                                          |  <img src="/public/FT.gif"/>|
 |         **Tarvikkeet**                              |                                                   |
@@ -30,11 +30,12 @@ I'm a tree-hugging vegan, and member of my company's Sustainability Forum, where
 
 ## Transferable skills
 
-- Excellent communication skills - I can condense complex information and present it convincingly.
+- Excellent communication skills - I can condense complex information and present it convincingly
 - Understanding of user behaviour online (click-throughs)
 - Logistics, copyright and legal/music clearance
 - Writing, video editing and editorial skills
 - Juggling multiple tasks at once and remaining calm under pressure
+- Great team player - I believe in taking collective credit for achievements
 
 ## Experience
 
