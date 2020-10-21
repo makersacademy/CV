@@ -3,17 +3,17 @@
 ## Full Stack / Front End Developer with TV news background 🎬
 
 I'm a full stack developer, a recent graduate of the Makers bootcamp in London and work for Channel 4 News.  
-I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages.  
+I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a couple of API call apps (my portfolio, and New York Times top story app)  and I'm
+really interested in the SEO and responsive web design opportunities Gatsby offers.  
+
 I love it when something small I've built elicits reactions of wonder from those I demo it to! For example, I've recently built and deployed
-websites with birthday greetings for friends and family instead of cards - exciting to receive, and great for the environment too.  
+websites with birthday greetings for friends and family instead of cards - exciting to receive, and great for the environment too.   
 
-I want to put my programming skills to use for the benefit of our planet, and see endless possibilities for this.  
-I'm a tree-hugging vegan, and member of my company's Sustainability Forum, where we work to reduce carbon footprint.  
-
-I also want to demystify programming for those who aren't normally drawn into it as a career, especially girls.  
+I want to demystify programming for those who aren't normally drawn into it as a career, especially girls.  
 I got into programming myself thanks to a RailsGirls workshop, and have been coding with my daughter on Sphero Edu and Scratch.  
-Inclusive design fascinates me and I want to become good at it - I knew the issues but Chimmy Kalu's talk at this year's  
-Women Driven Development conference was an eye-opener for me.  
+Inclusive design fascinates me and I want to become good at it - I knew the issues but Chimmy Kalu's talk at this year's Women Driven Development conference was an eye-opener for me.  
+
+I'm a tree-hugging vegan, and member of my company's Sustainability Forum, where we work to reduce carbon footprint.
 
 ## Projects
 
@@ -21,8 +21,8 @@ Women Driven Development conference was an eye-opener for me.
 | :-------------------------------------------------: | :-------------------------------------------------: |  
 |     **Jack The Ripper**
 `iOS` native Jack the Ripper geolocation game. This was my final project at Makers,  designed and written in a group of 6. <br />Here's my blog! https://medium.com/@helisivunen <br /><br />Tech stack: `Swift`, `Xcode`.                   |     <img src="/public/JackTheRipper.gif" width="180" height="350"/>
-|         **Disco**
-|              Colour-changing app for learning to write React. <br /><br /> Tech stack: `React`, `Google Fonts`. <br /> Under construction! 🛠                                         |https://blooming-waters-22212.herokuapp.com/ <img src="/public/Disco_1.gif"/> |
+|         **Portfolio**
+|              My portfolio, linked to my repos via the GitHub API. <br /><br /> Tech stack: `Gatsby`,`React`, `Google Fonts`. <br /> Under construction! 🛠                                         |https://friendly-kepler-67683c.netlify.app/ <img src="/public/Portfolio.gif"/> |
 |         **Headline Search**
 |              `API` call app for searching FT headlines. <br /><br />Tech stack: `Ruby`, `Rails`, `CSS` to emulate FT's colour and font.                                          |  <img src="/public/FT.gif"/>|
 |         **Tarvikkeet**                              |                                                   |
@@ -64,15 +64,14 @@ Previous roles:
 
 - 12-week, intensive career change bootcamp. First four weeks was `Ruby`/`Rspec`, then `JavaScript`,  
   and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`,  
-  `debugging` and `clean code`. I'm currently taking a top-up `React` course with Makers because I want to gain  
-  amazing front-end skills.
+  `debugging` and `clean code`. I've taken a top-up `React` course with Makers, and that’s strengthened my front-end skills.
 
     #### Tech learned:
-    -	Languages: `Ruby`, `JavaScript`, `React`, `HTML`, `CSS`, `Swift`  
-    -	Frameworks: `Rails`, `Node.js`  
+    -	Languages: `React`, `JavaScript`, `Ruby`, `HTML`, `CSS`, `Swift`  
+    -	Frameworks: `Gatsby`,`Node.js`, `Rails`  
     -	Test suites: `Jest`, `React Testing Library`, `RSpec`, `Capybara`, `Travis`  
     -	IDEs: `Atom`, `Visual Studio`, `Xcode`  
-    -	Other technologies: `GitHub`, `Heroku`, `SQL/TablePlus`, `Azure DevOps`   
+    -	Other technologies: `GitHub`, `Heroku`, `Netlify`, `SQL/TablePlus`, `Azure DevOps`   
 
 #### London School of Economics (LSE)
 
