@@ -50,10 +50,10 @@ Previous roles:
   I learned about SEO, thumbnails/story promotion, CMS and publishing tools.  
 - `Producer`: making stories into engaging TV.
 - `Avid Edit Trainer`: training more 100+ staff across departments on Avid editing software and server tools, in  
-  London and DC
+  London and DC.
 
 **CNN International**   
-- `Satellite Feed Producer` in the CNN London Master Control Room  
+- `Satellite Feed Producer` in the CNN London Master Control Room.  
 
 **Heart 106.2**  
 - `Reporter`: interviewing politicians and covering stories from scrabble championships to police raids.
@@ -64,8 +64,8 @@ Previous roles:
 #### Makers Academy
 
 - 12-week, intensive career change bootcamp. First four weeks was `Ruby`/`Rspec`, then `JavaScript`,  
-  and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`,  
-  `debugging` and `clean code`. I've taken a top-up `React` course with Makers, and that’s strengthened my front-end skills.
+  and for the final project I learned `Swift`. The course taught me `pair programming`, `TDD`, `Agile practices`, `modelling`, `debugging` and `clean code`. I've taken a top-up `React` course with Makers,  
+  and that’s strengthened my front-end skills.
 
     #### Tech learned:
     -	Languages: `React`, `JavaScript`, `Ruby`, `HTML`, `CSS`, `Swift`  
