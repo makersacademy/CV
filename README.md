@@ -1,7 +1,5 @@
 # Heli Sivunen <a  href="https://www.linkedin.com/in/heli-sivunen/"> <img align="right" src="/public/LI-In-Bug.png" width="25" height="25"/><a  href="https://twitter.com/Heli_Sivunen"> <img align="right" src="/public/Twitter_Social_Icon_Square_Color.png" width="25" height="25"/>
 
-## Full Stack / Front End Developer with TV news background 🎬
-
 ### I'm a full stack developer, a recent graduate of the Makers bootcamp in London and journalist at Channel 4 News.  
 I'm particularly excited about front end work, especially building beautiful, user-friendly apps and immersive scrollytelling pages. I'm currently building different types of apps with React and Gatsby, for example a couple of API call apps (my portfolio, and New York Times top story app)  and I'm
 really interested in the SEO and responsive web design opportunities Gatsby offers.  
@@ -88,6 +86,9 @@ Previous roles:
 #### Spoken languages
 
 - Bilingual Finnish / English, fluent French, A-level standard Swedish and German
+
+
+## Hobbies
 
 
 ## Interests
