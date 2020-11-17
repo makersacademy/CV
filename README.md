@@ -1,12 +1,10 @@
 ## Katie Rodgers
 
-My love of travel lead me to working for a travel company for several years, until one day I had the realisation that a lot of my job could have been carried out by a computer. This sparked my interest in coding. A month after coding in my spare time, I loved it so much that I quit my job and started studying at Makers Academy.
-
-My time spent at Makers Academy has taught me the importance of best coding practices, and this is my biggest priority in looking for a junior developer role. I am looking for work in a supportive environment where those practices are followed.
+Software Engineer who is highly motivated and has commerical experience of the full cycle of software development. I am versitile and a quick learner.
 
 I believe that in unity there is strength- I have become a part of the coding community in London, attending various meet-ups and conferences and founded my own organisation, the London Vegan Coders.
 
-I believe that teams work best when everyone is enabled to contribute to the best of their ability and I have received comments from team members at Makers that I explained things really well, in a way that allowed them to grasp concepts that they previously struggled with, such as using whiteboarding and my excellent communication skills to get across a new concept when working on the Notes App and explaining the MVC model.
+I believe that teams work best when everyone is enabled to contribute to the best of their ability and I received comments from team members at Makers that I explained things really well, in a way that allowed them to grasp concepts that they previously struggled with, such as using whiteboarding and my excellent communication skills to get across a new concept when working on the Notes App and explaining the MVC model.
 
 ## Skills
 
@@ -20,7 +18,7 @@ I believe that teams work best when everyone is enabled to contribute to the bes
 
 #### Enthusiastic
 
-- In team projects at Makers I have kept team morale high by arranging team lunches. I do not shy away from difficult tasks such as volunteering to work as the Night Officer for Trailfinders to help clients around the globe on their travels often in difficult situations such as needing to fly home due to the death of a loved one or flight cancellations. 
+- In team projects at Makers I kept team morale high by arranging team lunches. I do not shy away from difficult tasks such as volunteering to work as the Night Officer for Trailfinders to help clients around the globe on their travels often in difficult situations such as needing to fly home due to the death of a loved one or flight cancellations. 
 
 ## Projects
 - [Seasonal Regional](https://seasonal-regional.herokuapp.com/): A single page Vue.js app to highlight carbon emissions produced by different ingredients. Selecting an ingredient shows relevant recipes from an API. Built in two weeks as a group. I kept a [blog](https://medium.com/@katierodgers95) to document our journey. Vue.js, Cypress, Firebase https://github.com/junolouise/seasonal-and-regional 
@@ -50,17 +48,18 @@ I believe that teams work best when everyone is enabled to contribute to the bes
 
 ## Experience
 
+**Resolver** ( APR 20 to PRESENT ) *Junior Developer*
+- Working in the product team to maintain the consumer website and build new features
+- Reviewing code for peers
+- Working between teams to communicate business needs and to then turn these into features
+- Reporting to the rest of the company on my teams activities
+- Written for our Engineering blog
+
 **Trailfinders** ( OCT 19 to AUG 17 ) *Junior Product Contractor / Travel Consultant*
 - Producing company wide statistics to help identify sales trends and to find areas to expand our product
 - Helped to develop and implement a new API feed
 - Used attention to detail whilst reviewing contracts 
 - Negotiated with clients to secure lower rates whilst avoiding conflict
-
-
-**The Royal Household** (SUMMERS OF 14 to 17) *Ticket Sales and Information Team Leader*
-- Line manager to 21 individuals. Monitoring their phone calls, providing regular feedback and managing issues regarding lateness, absence or poor performance.
-- Carried out opening and closing procedures daily. Activities included delivering the morning briefing, checking the cash floats and liaising with other departments.
-- Dealt with customer escalations, managing operational issues, approving exchanges and refunds.
 
 ## Other Experience
 
