@@ -1,5 +1,7 @@
 # John Baxter
-### Software Developer
+<!-- ### Software Developer -->
+<!-- ### London | Cambridge -->
+### Software Developer, London | Cambridge
 
 ***
 ```
@@ -39,11 +41,16 @@ My background combines the hard-working logical thoroughness of working in pharm
 `Then a sentence about what you've achieved.`
 
 ```
-This is difficult because I feel like I don't have any achievements I'm really proud of or that I can speak about. What sort of stuff is even appropriate to put here? It seems like any time I think I have the start of an idea it's:
-- not something that can be made snappy, and
-- something that will be covered in pretty much the next section...
+This is difficult because I feel like I don't have any achievements I'm really
+ proud of or that I can speak about. What sort of stuff is even appropriate to
+  put here? It seems like any time I think I have the start of an idea it's:
 
-ok I get that this bit is supposed to be the part that summarises the rest of the document and that it's therefore ok to repeat some of the language here later (while elaborating on it later) but I don;t know where to draw the line
+  - not something that can be made snappy, and
+  - something that will be covered in pretty much the next section...
+
+ok I get that this bit is supposed to be the part that summarises the rest of 
+the document and that it's therefore ok to repeat some of the language here 
+later (while elaborating on it later) but I don't know where to draw the line
 ```
 
 `And then a sentence about what exictes you about tech.`
@@ -69,6 +76,9 @@ Consider skills relevent to software development. Then consider your best skills
 
 ### Attention to detail
 
+`paragraph`\
+
+
 - `Experience`
 - 
 - `Achievements`
@@ -78,7 +88,9 @@ Consider skills relevent to software development. Then consider your best skills
 
 ### Fast learner
 
-`Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.`
+`Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.`\
+
+
 
 - `I achieved A during my work at B (job, or otherwise)`
 - 
@@ -92,7 +104,8 @@ Consider skills relevent to software development. Then consider your best skills
 ### Teamworking
 
 ```
-I've copied and pasted this from above because the template only had space for two. I also changed 'descriptive' to 'short'.
+I've copied and pasted this from above because the template only had space for two. 
+I also changed 'descriptive' to 'short'.
 ```
 `Short paragraph of how capable you are at this skill and, if relevant, how it has developed.`
 
@@ -106,10 +119,17 @@ I've copied and pasted this from above because the template only had space for t
 ***
 ## [^](#john-baxter)Projects
 ```
-projects bit goes here - Not really got started with thinking about it yet. I presume it will be some sort of table, and will probably include Asset Tracker (in progress), Algorithm workshop (which I intended to write a report for but I ran out of steam and I've left it for several weeks now) and Community Video 2020 (Makers final project - which admittedly is kinda cool but I'm not really inspired by it nor do I feel connected or invested in it in any way. It really feels like a project some people did while I was in zoom with them)
+projects bit goes here - Not really got started with thinking about it yet. I 
+presume it will be some sort of table, and will probably include Asset Tracker 
+(in progress), Algorithm workshop (which I intended to write a report for but 
+I ran out of steam and I've left it for several weeks now) and Community Video 
+2020 (Makers final project - which admittedly is kinda cool but I'm not really 
+inspired by it nor do I feel connected or invested in it in any way. It really 
+feels like a project some people did while I was in zoom with them)
 ```
 ```
-Making a table will be fine, I know how to do that and it will look good; I just need to know what to put in.
+Making a table will be fine, I know how to do that and it will look good; I just 
+need to know what to put in.
 ```
 
 ***
@@ -117,15 +137,22 @@ Making a table will be fine, I know how to do that and it will look good; I just
 
 ### [Makers Academy](www.makers.tech), software bootcamp (January to May 2020)
 
-**Graduated from a leading London software bootcamp**
-- Decided to pursue a career change
+**Graduated from a leading London software bootcamp**\
+Decided to pursue a career change
 - Intensive self-led learning environment
-- Learned the programming practises of TDD, OOP and MVC; and Agile development
-- Developed and refined skills in problem solving, pair programming and working on team projects.
-- Pair programming in-person and also remote, team projects exclusively remote
+- Learned the programming practises of TDD, OOP and MVC and Agile development
+- Developed and refined skills in problem solving pair programming and working on team projects.
+- Pair programming variously in-person and remote, team projects exclusively remote
 - Utilised & improved interpersonal and team-working skills learned in previous roles
 - Disciplined and committed to working under the pressures of upcoming project deadlines
 - Realised the benefits and overcame the difficulty of mixing different working styles
+<!-- - Intensive **self-led learning** environment
+- Learned the programming practises of **TDD, OOP and MVC**; and Agile development
+- Developed and refined skills in **problem solving**, pair programming and working on team projects.
+- **Pair programming** variously in-person and remote, team projects exclusively remote
+- Utilised & improved interpersonal and **team-working skills** learned in previous roles
+- Disciplined and committed to working under the pressures of upcoming **project deadlines**
+- Realised the benefits and **overcame** the **difficulty** of mixing different working styles -->
 
 ### [Heriot-Watt University, Edinburgh](https://www.hw.ac.uk/uk/edinburgh.htm)
 
@@ -179,13 +206,22 @@ Worked within project teams to develop novel medical devices, encompassing the p
 
 
 ```
-I have no idea how to do this part. I want to lean towards the fact that I prefer low-tech or even tech-free stuff.
--Stuff like gardening, cooking or DIY using only hand tools and traditional/old fashioned methods
--Other stuff like how I like lower league football to get the community feel and none of the nonsense around TV replays and huge commercial/advertising interest
--I was also thinking about writing a sentence about learning Spanish; but writing it actually in Spanish. (he estado aprender español hace dos años (I think this is close))
+I have no idea how to do this part. I want to lean towards the fact that I prefer 
+low-tech or even tech-free stuff.
+
+-Stuff like gardening, cooking or DIY using only hand tools and traditional/old 
+fashioned methods
+-Other stuff like how I like lower league football to get the community feel and 
+none of the nonsense around TV replays and huge commercial/advertising interest
+-I was also thinking about writing a sentence about learning Spanish; but 
+writing it actually in Spanish. (he estado aprender español hace dos años (I think 
+this is close))
 -Also maybe a bit about flow art, circus skills and weapon skills
 
-My difficulty is in finding how to write this in a way that captures what I'm trying to say while being interesting to a casual observer (difficult because people are generally not interested in my hobbies) and without making it far too long.
+My difficulty is in finding how to write this in a way that captures what I'm 
+trying to say while being interesting to a casual observer (difficult because 
+people are generally not interested in my hobbies) and without making it far 
+too long.
 ```
 
 ```
