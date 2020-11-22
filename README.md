@@ -3,6 +3,7 @@
 <!-- ### London | Cambridge -->
 ### Software Developer, London | Cambridge
 
+
 ***
 ```
 notes I've left to explain my progress/blockers are in code blocks
@@ -69,6 +70,7 @@ And then a sentence about what exictes you about tech.
 
 ***
 ## [^](#john-baxter)Skills
+
 
 `
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
