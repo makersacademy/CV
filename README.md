@@ -118,7 +118,7 @@ I also changed 'descriptive' to 'short'.
 
 ***
 ## [^](#john-baxter)Projects
-```
+<!-- ```
 projects bit goes here - Not really got started with thinking about it yet. I 
 presume it will be some sort of table, and will probably include Asset Tracker 
 (in progress), Algorithm workshop (which I intended to write a report for but 
@@ -130,7 +130,7 @@ feels like a project some people did while I was in zoom with them)
 ```
 Making a table will be fine, I know how to do that and it will look good; I just 
 need to know what to put in.
-```
+``` -->
 |Project|Description|Language|Testing|
 |---|---|---|---|
 |[Bites game](https://github.com/john-baxter/Bites-game)|A playable clone of the existing tabletop game ['Bites'](https://www.boardgametables.com/products/bites-board-game). Playable through the command line and copies the logic used in the game in a clean test-driven Python app. |Python|Python's built-in testing framework: [unittest](https://docs.python.org/3/library/unittest.html)|
