@@ -220,8 +220,19 @@ Worked within project teams to develop novel medical devices, encompassing the p
 ***
 ## [^](#john-baxter)Hobbies
 
+I like to contrast my busy tech work-life with stepping away from the screen and keyboard in my leisure time. A lot of what I do for fun could be described as traditional or old-fashioned. I also enjoy learning lots of information about a diverse range of subjects, so when something interests me I am likely to find something to read about it.
 
-```
+- Cooking is a nice activity to help wind down at the end of a busy day. I enjoy taking my time over the process, and experimenting with flavours. Eating delicious food at the end is also a bonus - and if something hasn't worked out, well that's what Tabasco is for. 
+
+- Watching lower league (and non-league) football is a fun passtime for a Saturday afternoon. Going to a small stadium and getting involved with the local community is what I consider 'real' football. It's nice to be far removed from the TV cameras and million-pound advertising contracts.
+
+- Learning languages is a good way to keep the brain active; so alongside Ruby, Python et. al. I can also say: He&nbsp;estado&nbsp;aprendiendo&nbsp;español&nbsp;desde&nbsp;hace&nbsp;dos&nbsp;años.
+
+- Practicing circus skills like juggling or whip-cracking is a physical passtime best enjoyed in a field with friends. I regularly attend an organised event in Wiltshire where I can learn how to balance objects on my chin, and even try things like archery. It's also a great way to meet loads of interesting people.
+
+
+
+<!-- ```
 I have no idea how to do this part. I want to lean towards the fact that I prefer 
 low-tech or even tech-free stuff.
 
@@ -230,7 +241,7 @@ fashioned methods
 -Other stuff like how I like lower league football to get the community feel and 
 none of the nonsense around TV replays and huge commercial/advertising interest
 -I was also thinking about writing a sentence about learning Spanish; but 
-writing it actually in Spanish. (he estado aprender español hace dos años (I think 
+writing it actually in Spanish. (he estado aprendiendo español desde hace dos años (I think 
 this is close))
 -Also maybe a bit about flow art, circus skills and weapon skills
 
@@ -247,7 +258,7 @@ below is how it was on my old CV:
 - Board games, e.g. Carcassonne, Lords of Waterdeep and Codenames.
 - Watching sport, e.g. football, cricket and rugby league.
 - Trivia and pub quizzes, especially geography and sport.
-- Learning Spanish (post-beginner level).
+- Learning Spanish (post-beginner level). -->
 
 [email me](mailto:john.g.baxter@googlemail.com?subject=[GitHubCV])
 
