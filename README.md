@@ -15,7 +15,7 @@ notes I've left to explain my progress/blockers are in code blocks
 
 <p>
   <a href="mailto:john.g.baxter@googlemail.com?subject=[GitHubCV]">
-    <img src="./images/gmail.png" alt="email me" hspace="15" height="42" width="42">
+    <img src="./images/gmail.png" alt="email me" hspace="15" height="42" width="">
   </a>
 
   <a href="https://www.linkedin.com/in/john-baxter2020/">
