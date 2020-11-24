@@ -146,7 +146,7 @@ need to know what to put in.
 |[Bites game](https://github.com/john-baxter/Bites-game)|A playable clone of the existing tabletop game ['Bites'](https://www.boardgametables.com/products/bites-board-game). Playable through the command line and copies the logic used in the game in a clean test-driven Python app. |Python|Python's built-in testing framework: [unittest](https://docs.python.org/3/library/unittest.html)|TDD. SRP. OOP.|
 |[Deep Sea Adventure game](https://github.com/john-baxter/deep-sea-adventure)|A playable clone of the existing tabletop game ['Deep Sea Adventure'](https://oinkgames.com/en/games/analog/deep-sea-adventure/) Playable through the command line and copies the logic used in the game. Uses lessons learned during the Bites project.|Python|Python's built-in testing framework: [unittest](https://docs.python.org/3/library/unittest.html)|More/better TDD, SRP and OOP|
 |[Project Euler](https://github.com/john-baxter/project-euler)|My work on the popular web-based series of mathematical/coding challenges; [Project Euler](https://projecteuler.net/about). Each challenge has its own README explaining how it was approached.|Python|Not test-driven; any testing was done by 'feature tests' and visually inspecting practice outputs|Planning, problem solving and reporting. Memoisation|
-|[Makers Algorithm Workshop](https://github.com/john-baxter/makers-algorithm-workshop)|My work on the Algorithmic Complexity workshop run by Makers Academy post-bootcamp. Where I developed a basic understanding algorithmic time complexity and how to think about optimising my code.|Ruby|Not test-driven; any testing was done by 'feature tests' and visually inspecting practice outputs|OOP. Optimisation. Recursion. big&nbsp;-&nbsp;O|
+|[Makers Algorithm Workshop](https://github.com/john-baxter/makers-algorithm-workshop)|My work on the Algorithmic Complexity workshop run by Makers Academy post-bootcamp. Where I developed a basic understanding algorithmic time complexity and how to think about optimising my code.|Ruby|Not test-driven; any testing was done by 'feature tests' and visually inspecting practice outputs|OOP. Optimisation. Recursion. <nobr>big-O</nobr>|
 |[Operation Green Grid](https://github.com/john-baxter/operation-green-grid)|Something I made for my own amusement. A 'commit-bot' which, if left running, will push commits to my GitHub account at random intervals.|Python|Not test-driven; any testing was done by 'feature tests' and visually inspecting practice outputs|Communication with command line. Spiking. Ad-hoc learning.|
 ***
 ## [^](#john-baxter)Education
@@ -220,8 +220,19 @@ Worked within project teams to develop novel medical devices, encompassing the p
 ***
 ## [^](#john-baxter)Hobbies
 
+I like to contrast my busy tech work-life with stepping away from the screen and keyboard in my leisure time. A lot of what I do for fun could be described as traditional or old-fashioned. I also enjoy learning lots of information about a diverse range of subjects, so when something interests me I am likely to find something to read about it.
 
-```
+- Cooking is a nice activity to help wind down at the end of a busy day. I enjoy taking my time over the process, and experimenting with flavours. Eating delicious food at the end is also a bonus - and if something hasn't worked out, well that's what Tabasco is for. 
+
+- Watching lower league (and non-league) football is a fun passtime for a Saturday afternoon. Going to a small stadium and getting involved with the local community is what I consider 'real' football. It's nice to be far removed from the TV cameras and million-pound advertising contracts.
+
+- Learning languages is a good way to keep the brain active; so alongside Ruby, Python et. al. I can also say: He&nbsp;estado&nbsp;aprendiendo&nbsp;español&nbsp;desde&nbsp;hace&nbsp;dos&nbsp;años.
+
+- Practicing circus skills like juggling or whip-cracking is a physical passtime best enjoyed in a field with friends. I regularly attend an organised event in Wiltshire where I can learn how to balance objects on my chin, and even try things like archery. It's also a great way to meet loads of interesting people.
+
+
+
+<!-- ```
 I have no idea how to do this part. I want to lean towards the fact that I prefer 
 low-tech or even tech-free stuff.
 
@@ -230,7 +241,7 @@ fashioned methods
 -Other stuff like how I like lower league football to get the community feel and 
 none of the nonsense around TV replays and huge commercial/advertising interest
 -I was also thinking about writing a sentence about learning Spanish; but 
-writing it actually in Spanish. (he estado aprender español hace dos años (I think 
+writing it actually in Spanish. (he estado aprendiendo español desde hace dos años (I think 
 this is close))
 -Also maybe a bit about flow art, circus skills and weapon skills
 
@@ -247,7 +258,7 @@ below is how it was on my old CV:
 - Board games, e.g. Carcassonne, Lords of Waterdeep and Codenames.
 - Watching sport, e.g. football, cricket and rugby league.
 - Trivia and pub quizzes, especially geography and sport.
-- Learning Spanish (post-beginner level).
+- Learning Spanish (post-beginner level). -->
 
 [email me](mailto:john.g.baxter@googlemail.com?subject=[GitHubCV])
 
