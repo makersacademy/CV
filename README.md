@@ -79,14 +79,15 @@ Consider skills relevent to software development. Then consider your best skills
 ### Attention to detail
 
 `paragraph`\
-
+In my previous role as a lab technician, one of my responsibiulities was to proof-read technical documents relating to testing of samples. This took the form of homogenising the tone and language style of documents that may have been written over extended periods of time by several individuals; and conceptualising what was actually being asked for to make sure that there was some degree of flow and that instructions were in a sensible order. 
+This has influenced my decision to change career, as this is a very useful skill to have as a software developer. Understanding how small steps flow together helps with building complex algorithms from small functions, and being able to spot small discrepancies in language use is great for debugging code.
 
 - `Experience`
-- 
+- Developed a reputation for being the main reliable person to do this task
 - `Achievements`
-- 
+- Made lab testing more efficient and straightforward for several projects; including on behalf of teams I was not a member of.
 - `Evidence`
-- 
+- ?? 
 
 ### Fast learner
 
