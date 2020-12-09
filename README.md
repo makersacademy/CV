@@ -218,7 +218,7 @@ I like to contrast my busy tech work-life with stepping away from the screen and
 
 - Watching lower league (and non-league) football is a fun passtime for a Saturday afternoon. Going to a small stadium and getting involved with the local community is what I consider 'real' football. It's nice to be far removed from the TV cameras and million-pound advertising contracts.
 
-- Learning languages is a good way to keep the brain active; so alongside Ruby, Python et al. I can also say: 
+- Learning languages is a good way to keep the brain active; so alongside Ruby, Python et al. I can also say: \
 He estado aprendiendo español desde hace dos años.
 
 - Practicing circus skills like juggling or whip-cracking is a physical passtime best enjoyed in a field with friends. I regularly attend an organised event in Warwickshire where I can learn how to balance objects on my chin, and even try things like archery. It's also a great way to meet loads of interesting people.
