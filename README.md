@@ -30,6 +30,8 @@ notes I've left to explain my progress/blockers are in code blocks
 [Volunteering](#voluntary-positions) / 
 [Hobbies](#hobbies)
 
+***
+
 <!-- ```
 this part is still WIP
 ``` -->
@@ -85,7 +87,7 @@ Consider skills relevent to software development. Then consider your best skills
 ### **Attention to detail**
 
 <!-- `paragraph`\ -->
-In my previous role as a lab technician, one of my responsibiulities was to proof-read technical documents relating to testing of samples. This took the form of homogenising the tone and language style of documents that may have been written over extended periods of time by several individuals; and conceptualising what was actually being asked for to make sure that there was some degree of flow and that instructions were in a sensible order. 
+In my previous role as a lab technician, one of my responsibilities was to proof-read technical documents relating to testing of samples. This took the form of homogenising the tone and language style of documents that may have been written over extended periods of time by several individuals; and conceptualising what was actually being asked for to make sure that there was some degree of flow and that instructions were in a sensible order. 
 This has influenced my decision to change career, as this is a very useful skill to have as a software developer. Understanding how small steps flow together helps with building complex algorithms from small functions, and being able to spot small discrepancies in language use is great for debugging code.
 
 <!-- - `Experience` -->
@@ -107,7 +109,7 @@ Fast learning is best illustrated by how I was able to succesfully navigate the 
 [force testing equipment][mecmesin], 
 a position I developed rapidly after it featured prominently in the first project I was involved in.
 <!-- - `I contributed to the growth of X while doing Y (job, or otherwise)` -->
-- 
+<!-- -  -->
 <!-- - `I built this, made this, broke this, fixed this, etc.` -->
 - I have demonstrated my ability to learn quickly throughout my academic career. Understanding the complicated concepts involved in chemistry when each module only lasts for two months; and getting to grips with the nuances of a programming language I've never heard of in preparation to attend the bootcamp.
 <!-- - `A link to some on-line evidence (blogs, videos, articles, etc.)` -->
