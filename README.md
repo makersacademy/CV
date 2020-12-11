@@ -4,13 +4,13 @@
 ### Software Developer, London | Cambridge
 
 
-***
-```
+<!-- *** -->
+<!-- ```
 notes I've left to explain my progress/blockers are in code blocks
 ```
-`notes from the Makers template are in monospace font`
+`notes from the Makers template are in monospace font` -->
 <!-- TO DO remember to delete this part -->
-***
+<!-- *** -->
 
 
 <p>
@@ -116,25 +116,25 @@ a position I developed rapidly after it featured prominently in the first projec
 - Some evidence of how my coding has progressed over time can be seen in my 
 [codewars profile][codewars-killie-skank]
 and the 
-[GitHub repository][project-euler-gh]
-containing the work I've done on project Euler
+[GitHub&nbsp;repository][project-euler-gh]
+containing the work I've done on Project Euler
 
 ### **Teamworking**
 
-```
-I've copied and pasted this from above because the template only had space for two. 
+<!-- ``` -->
+<!-- I've copied and pasted this from above because the template only had space for two. 
 I also changed 'descriptive' to 'short'.
 ```
-`Short paragraph of how capable you are at this skill and, if relevant, how it has developed.`
+`Short paragraph of how capable you are at this skill and, if relevant, how it has developed.` -->
 
+I find working in well organised teams very fulfilling. It is a very satisfying feeling to have worked together to complete a task that would have been impossible for any of the individuals to have done alone. This is something that I experienced in the multi-disciplinary teams I was a member of while working at Cambridge Consultants, while I was studying and even as a member of sports teams.
 
-
-- `Experience`
-- 
-- `Achievements`
-- 
-- `Evidence`
-- 
+<!-- - `Experience` -->
+- Added my experience of working in a lab to project teams including physicists, software developers and mechanical engineers.
+<!-- - `Achievements` -->
+- Achieved distinction in group projects in subjects including chemistry and marketing.
+<!-- - `Evidence` -->
+<!-- -  -->
 
 
 ***
