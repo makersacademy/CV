@@ -76,7 +76,7 @@ Decided to pursue a career change
 - Disciplined and committed to working under the pressures of upcoming project deadlines.
 - Realised the benefits and overcame the difficulty of mixing different working styles.
 
-Programing languages covered: Ruby - including Rails, JavaScript, Python & SQL
+Programing languages covered: Ruby - including Rails, JavaScript, Python, SQL & PHP
 
 ### [Heriot-Watt University, Edinburgh][hw-ac-uk]
 **BSc Chemistry with Management**\
