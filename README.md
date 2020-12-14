@@ -19,10 +19,17 @@
 [Hobbies](#hobbies)
 
 ***
-A junior software developer and graduate of [Makers Academy](#education).\
-My background combines the hard-working logical thoroughness of working in [pharmaceutical research](#experience) with experience of customer service and working to client demands.
+I am a junior software developer and graduate of 
+[Makers Academy](#education).\
+My background combines the hard-working logical thoroughness of working in 
+[pharmaceutical research](#experience) 
+with experience of customer service and working to client demands.
+
+I'm looking for a back-end focussed role where I can continue to develop my technical skills and the problem-solving and teamworking skills that I used during the bootcamp.
 
 I'm very excited about how the world of tech has created so many new ways to improve the lives of people all around the world. From large-scale ecological projects benifiting the natural world to the fact that banking is now a bit easier; real people are seeing real advantages based on the work of developers everywhere.
+
+During the Makers bootcamp; the coursework focussed mainly on Ruby, JavaScript and SQL languages. I have continued to learn Python and PHP to continue my professional development.
 
 ***
 ## [^](#john-baxter)Projects
@@ -44,8 +51,9 @@ This has influenced my decision to change career, as this is a very useful skill
 - Made lab testing more efficient and straightforward for several projects; including on behalf of teams I was not a member of.
 
 ### **Fast learner**
-Learning quickly is something that has helped me throughout my life. Working on multiple projects in various labs requires getting to grips with different lab equipment on a regular basis; and it is fairly typical for different clients and colleagues to have subtly different styles and requirements. Also in my leisure time: board games and video games both must be understood pretty well if I'm to avoid coming in last place.
+Learning quickly is something that has helped me throughout my life. Working on multiple projects in various labs requires getting to grips with different lab equipment on a regular basis; and it is fairly typical for different clients and colleagues to have subtly different styles and requirements. 
 Fast learning is best illustrated by how I was able to succesfully navigate the coding bootcamp from a starting point of having no knowledge or understanding at all, and ending less than one year later in a position where I am managing my own projects and able to sucessfully try out new languages.
+Also in my leisure time: board games and video games both must be understood pretty well if I'm to avoid coming in last place.
 
 - While working at Cambridge consultants, I was the resident expert for using the 
 [force testing equipment][mecmesin], 
@@ -58,10 +66,13 @@ and the
 containing the work I've done on Project Euler.
 
 ### **Teamworking**
-I find working in well organised teams very fulfilling. It is a very satisfying feeling to have worked together to complete a task that would have been impossible for any of the individuals to have done alone. This is something that I experienced in the multi-disciplinary teams I was a member of while working at Cambridge Consultants, while I was studying and even as a member of sports teams.
+I find working in well organised teams very fulfilling. It is a very satisfying feeling to have worked together to complete a task that would have been impossible for any of the individuals to have done alone. 
+This is something that I experienced in the multi-disciplinary teams I was a member of while working at Cambridge Consultants, while I was studying and even as a member of sports teams. I used these experiences to my advantage by succesfully pair programming on projects throughout the bootcamp; a practise which was new to me at the time.
 
 - Added my experience of working in a lab to project teams including physicists, software developers and mechanical engineers.
+- Worked in a team that succesfully developed a novel [neuromodulation device][neuromodulation-wiki] from design concept to market release with very strict deadlines imposed by Health Canada
 - Achieved distinction in group projects in subjects including chemistry and marketing.
+
 
 ***
 ## [^](#john-baxter)Education
@@ -90,9 +101,9 @@ Final project was in inorganic chemistry - specifically organometallic chemistry
 ### [Cambridge Consultants][cambridge-consultants], engineering consultancy (2012 to 2019)
 **Laboratory Technician**\
 Worked within project teams to develop novel medical devices, encompassing the process from initial concept to commercial release.
-- Managed my time efficiently to meet tight deadlines for multiple simultaneous projects, and adapt procedures to accommodate changing requirements.
-- Required to analyse multiple different data points and test for discrepancies.
-- Effectively communicated with multi-disciplinary teams to ensure work was progressing.
+- Used time management efficiently to meet tight deadlines for multiple simultaneous projects, and adapt procedures to accommodate changing requirements.
+- Required to analyse multiple different data points and test for discrepancies, using attention to detail.
+- Effectively used communication skills to communicate with multi-disciplinary teams to ensure work was progressing.
 - Displayed flexibility and adaptability to contend with any changes to project scope or deadlines.
 - Assumed ad-hoc leadership of sub-teams when necessary to make sure team members were working cooperatively.
 
@@ -148,3 +159,4 @@ He estado aprendiendo español desde hace dos años.
 [ed-zoo]: <https://www.edinburghzoo.org.uk/education/>
 [mecmesin]: <https://www.mecmesin.com/>
 [codewars-killie-skank]: <https://www.codewars.com/users/killie_skank/completed_solutions>
+[neuromodulation-wiki]: <https://en.wikipedia.org/wiki/Neuromodulation_(medicine)>
