@@ -25,7 +25,7 @@ My background combines the hard-working logical thoroughness of working in
 [pharmaceutical research](#experience) 
 with experience of customer service and working to client demands.
 
-I'm looking for a back-end focussed role where I can continue to develop my technical skills and the problem-solving and teamworking skills that I used during the bootcamp.
+I'm looking for a back-end focussed role where I can continue to develop my technical ability and the problem-solving and teamworking skills that I used during the bootcamp.
 
 I'm very excited about how the world of tech has created so many new ways to improve the lives of people all around the world. From large-scale ecological projects benifiting the natural world to the fact that banking is now a bit easier; real people are seeing real advantages based on the work of developers everywhere.
 
