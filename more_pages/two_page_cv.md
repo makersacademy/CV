@@ -2,18 +2,16 @@
 #### <u>Software Developer, London | Cambridge</u>
 #### john.g.baxter@googlemail.com
 
-I am a junior software developer and graduate of 
-[Makers Academy](#education).\
+I am a junior software developer and graduate of Makers Academy\
 My background combines the hard-working logical thoroughness of working in 
-[pharmaceutical research](#experience) 
-with experience of customer service and working to client demands.\
+pharmaceutical research with experience of customer service and working to client demands.\
 I'm looking for a back-end focussed role where I can continue to develop my technical ability and the problem-solving and teamworking skills that I used during the bootcamp.
 I'm very excited about how the world of tech has created so many new ways to improve the lives of people all around the world. From large-scale ecological projects benifiting the natural world to the fact that banking is now a bit easier; real people are seeing real advantages based on the work of developers everywhere.
 
 ### <u>Tech experience</u>
 #### [Makers Academy][makers], software bootcamp (January 2020 to Present)
 **Graduated from a leading London software bootcamp**\
-During the Makers bootcamp; the coursework focussed mainly on Ruby, JavaScript and SQL languages. I&nbsp;have continued to learn Python and PHP to continue my professional development.
+During the Makers bootcamp; the coursework focussed mainly on Ruby, JavaScript and SQL languages. I&nbsp;have continued to learn Python and PHP to increase my professional development.
 - Intensive self-led learning environment.
 - Learned the programming practises of TDD, OOP and MVC and Agile development.
 - Developed and refined skills in problem solving, pair programming and working on team projects.
