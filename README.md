@@ -1,6 +1,6 @@
 ## Sean Edwards
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/sean-edwards-654a09195/) | [Blog]()
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/sean-edwards-654a09195/) | [Blog]()
 
 I am an ambitious and energetic budding **Full Stack Junior Developer** learning to code at Makers Academy (a 16 week software development bootcamp). I am looking for a role where I can consolidate and extend my programming knowledge.
 
@@ -66,7 +66,7 @@ A 16 week intensive development bootcamp, focusing on :
 - A Levels : 1 A in Biology and 2 B's in Geology and Physical Education
 - Head Boy in year 13
 
-## Hobbies
+## Hobbies and interests
 - **Rugby** Ex player and part time forwards and scrummaging coach at BSRFC.
 - **Travelling** Love to explore different cultures and languages.
 - **Gym and fitness** To help keep me sane, supple and slim(ish).
