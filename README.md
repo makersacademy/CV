@@ -1,8 +1,15 @@
-## Your Name
+## Sean Edwards
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](#https://www.linkedin.com/in/sean-edwards-654a09195/) | [Blog]()
+
+I am an ambitious and energetic budding **Full Stack Junior Developer** learning to code at Makers Academy, a 16 week software development bootcamp, looking for a role where I can consolidate and extend my programming knowledge.
+
+After graduating from the University of Hertfordshire with a first class degree in Physiotherapy, I spent 11 years working in the NHS finishing as an Extended Scope Practitioner in spinal surgery and chronic pain management. Alongside my NHS work I also played semi-professional national 1 rugby for Bishops Stortford RFC culminating in over 180 appearances for BSRFC and multiple caps for England Counties at international level. I still continue to coach at national 1 level for BSRFC which allows me to continue my passion for people development and coaching.
+
 
 ## Projects
+
+For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
