@@ -1,6 +1,6 @@
 ## Sean Edwards
 
-[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/sean-edwards-654a09195/) | [Blog]()
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](https://www.linkedin.com/in/sean-edwards-654a09195/) | [Blog](https://medium.com/@seantedwards)
 
 I am an ambitious and energetic budding **Full Stack Junior Developer** learning to code at Makers Academy (a 16 week software development bootcamp). I am looking for a role where I can consolidate and extend my programming knowledge.
 
