@@ -45,13 +45,19 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 _Extended Scope Spinal Practitioner_
 
 - Overall responsibility for the effective management, operation and development of the spinal triage team. This included overall responsibility for the management of 12 staff.
+- Consistant
 - High level evidenced based treatment and care of spinal patients within Essex.
 - Developing and implementing policies, procedures, and quality standards.
 - Effective approaches to project management to ensure implementation of vision and strategy.
 - Responsibility for the recruitment and selection of staff.
 
-**Bishops Stortford** (May '17 to Dec '20)
+**Bishops Stortford** (Sep '19 to present)
 _1st VX Coach_
+
+- Specalist forward coaching role.
+- Overall responsibility for players training goals and developement.
+- Team and individual coaching drills and sessions.
+- Player and team performance analysis.
 
 **MSE NHS Trust** (Jan '16 to May '17)
 _Specialist Pain Physiotherapist_
