@@ -9,7 +9,7 @@
 
 </div>
 
-A Junior Full Stack Developer in Ruby and JavaScript. Former Extended Scope Spinal Practitioner in the NHS, making the transition into the tech industry. I recently graduated from a four month Makers Bootcamp where I taught myself Ruby & Javascript by building a range of applications and websites through individual study and team projects. As I continue to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code.
+A Junior Full Stack Developer. Recently graduated from a four month Makers Bootcamp focused on self learning by building a range of apps and websites through individual study and team projects. Continuing to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code.
 
 ## Projects
 
@@ -23,37 +23,40 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 ## Skills
 
-#### Agile Learner
+#### Self Led Learner
 
-- I have a strong history of agile learning. During my 11 years with the NHS, I rose from Junior Physiotherapist to Extended Scope Spinal Practitioner. This required me to continuously learn new concepts at pace to ensure that services and patients were well supported. I have a great desire to succeed and try new things, which led me to Makers Bootcamp, pushing myself to the edge of my comfort zone and drive on my development.
+- A strong self led learner. Within the NHS promoted from junior physiotherapist to consultant level within seven years. Requiring continuous learning of new concepts at pace to ensure that services and patients were well supported. Great desire to succeed and try new things, which led to Makers Bootcamp.
 
 #### Communication
 
-- I have a proven track record of clear and strong communication. As a physiotherapist your key attribute had to be the ability to communicate clearly with a range of people in varied settings. Throughout my working life I regularly gave presentations to both frontline staff and senior management, ensuring that complex ideas were understood fully. I am trained to deliver training in a variety of roles and did so regularly during my employment.
+- Proven track record of clear and strong communication. The ability to communicate clearly with a range of people in varied settings. Regular presentations to; patients, frontline staff and senior management to ensure that complex ideas were understood fully.
 
 #### Problem Solving
 
-- I excel at problem solving and working through issues in a systematic and holistic way. In a recent process review with an experienced web developer I was given a scenario of talking to a client to gather information of their needs and problems, and provide a solution to this issue within a tight 45 mins time frame. The session came with positive feedback which is attached here [Feedback](https://github.com/bear99a9/CV/blob/master/2021-03-01-Red%20Weezing%2068-feedback.pdf)
+- A competent problem solver. In a recent process review with an experienced web developer I was given a scenario of talking to a client to gather information of their needs and problems, and provide a solution to this issue within a tight 45 mins time frame. The session came with positive feedback which is attached here [Feedback](https://github.com/bear99a9/CV/blob/master/2021-03-01-Red%20Weezing%2068-feedback.pdf)
 
 #### Leadership
 
-- I have spent the past few years working in more senior leadership roles within the NHS. I have also captained my university, club and county 1st XV rugby teams. I feel that coupled with my strong communication skills, I am able to work in any team and help them thrive and succeed.
+- Experienced leader. Spent the previous several years working in senior leadership roles within the NHS. Captained university, club and county 1st XV rugby teams. This coupled strong communication skills, allows for effective and successful teamwork.
 
 ## Experience
 
-**MSE Nhs Trust** (05/17-12/20)
+**MSE NHS Trust** (May '17 to Dec '20)
 _Extended Scope Spinal Practitioner_
 
 - Overall responsibility for the effective management, operation and development of the spinal triage team. This included overall responsibility for the management of 12 staff.
-- High level evidenced based treatment and care of spinal patients within Essex
+- High level evidenced based treatment and care of spinal patients within Essex.
 - Developing and implementing policies, procedures, and quality standards.
 - Effective approaches to project management to ensure implementation of vision and strategy.
 - Responsibility for the recruitment and selection of staff.
 
-**MSE Nhs Trust** (01/16-05/17)
+**Bishops Stortford** (May '17 to Dec '20)
+_1st VX Coach_
+
+**MSE NHS Trust** (Jan '16 to May '17)
 _Specialist Pain Physiotherapist_
 
-- High level evidenced based treatment and care of chronic pain patients within Essex
+- High level evidenced based treatment and care of chronic pain patients within Essex.
 - Joint responsibility for the management, operation, and development of the physiotherapy pain service being provided to maximise outcomes for service users.
 - Undertake an annual service review and audit to inform service development plans, quality standards and to establish relevant performance indicators.
 - Determining the strategic direction of the service, providing leadership on corporate priorities.
@@ -64,23 +67,17 @@ _Specialist Pain Physiotherapist_
 
 A 16 week intensive development bootcamp, focusing on :
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine, Jest, Cypress
-- MERN stack
+- OOP, TDD, MVC, DDD.
+- Agile/XP.
+- Ruby, Rails, JavaScript.
+- RSpec, Jasmine, Jest, Cypress.
+- MERN stack.
 
 #### University of Hertfordshire (Sep '07 - Jun '10)
 
-- BSc Physiotherapy
-- First Class
-- Chartered Society of Physiotherapy student rep
-- 1st VX Rugby Captain
-
-#### Corfe Hills School, Broadstone (Sep '02 - Aug '07)
-
-- A Levels : 1 A in Biology and 2 B's in Geology and Physical Education
-- Head Boy in year 13
+- BSc Physiotherapy First Class.
+- Chartered Society of Physiotherapy student rep.
+- 1st VX Rugby Captain.
 
 ## Hobbies and interests
 
