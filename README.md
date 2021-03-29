@@ -9,7 +9,7 @@
 
 </div>
 
-A Junior Full Stack Developer. Recently graduated from a four month Makers Bootcamp focused on self learning by building a range of apps and websites through individual study and team projects. Continuing to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code.
+A Junior Full Stack Developer. Recently graduated from a four month Makers Bootcamp focused on self learning by building a range of apps and websites through individual study and team projects, gaining sound understanding of OOP, Agile methodologies and TDD. Continuing to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code.
 
 ## Projects
 
@@ -25,7 +25,7 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 #### Self Led Learner
 
-- A strong self led learner. Within the NHS promoted from junior physiotherapist to consultant level within seven years. Requiring continuous learning of new concepts at pace to ensure that services and patients were well supported. Great desire to succeed and try new things, which led to Makers Bootcamp.
+- A strong self led learner. Within the NHS promoted from junior Physiotherapist to consultant level within seven years. Requiring continuous learning of new concepts at pace to ensure that services and patients were well supported. Great desire to succeed and try new things, which led to Makers Bootcamp.
 
 #### Communication
 
@@ -33,7 +33,7 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 #### Problem Solving
 
-- A competent problem solver. In a recent process review with an experienced web developer I was given a scenario of talking to a client to gather information of their needs and problems, and provide a solution to this issue within a tight 45 mins time frame. The session came with positive feedback which is attached here [Feedback](https://github.com/bear99a9/CV/blob/master/2021-03-01-Red%20Weezing%2068-feedback.pdf)
+- A competent problem solver. In a recent process review I was given a scenario of solving a client based task in 45 minutes using the TDD model and principles. The session came with positive feedback which is attached here [Feedback](https://github.com/bear99a9/CV/blob/master/2021-03-01-Red%20Weezing%2068-feedback.pdf)
 
 #### Leadership
 
