@@ -9,17 +9,17 @@
 
 </div>
 
-A Junior Full Stack Developer in Ruby and JavaScript. University of Hertfordshire Physiotherapist graduate, former Extended Scope Spinal Practitioner in the NHS, making the transition into the tech industry. I recently graduated from a four month Makers Bootcamp where I taught myself Ruby & Javascript by building a range of applications and websites through individual study and team projects. As I continue to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code.
+A Junior Full Stack Developer in Ruby and JavaScript. Former Extended Scope Spinal Practitioner in the NHS, making the transition into the tech industry. I recently graduated from a four month Makers Bootcamp where I taught myself Ruby & Javascript by building a range of applications and websites through individual study and team projects. As I continue to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code.
 
 ## Projects
 
 For a complete list, see my [GitHub](https://github.com/bear99a9)
 
-| Name           | Description                                                                                                               | Tech/tools                                             | Link                                                        |
-| -------------- | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
-| **Don8**       | A mobile app that connects volunteers to the needs of local charities in their area.                                      | MongoDB, Node JS, Express, React Native, Jest, Cypress | [Source code](https://github.com/bear99a9/don8)             |
-| BBB            | A fully functional social networking site                                                                                 | Ruby on Rails, Rspec, HTML, Bulma, CSS                 | [Source code](https://github.com/bear99a9/acebook-BBB)      |
-| Monarch Makers | A site where users can list properties for rental and rent the properties of others. First engineering project at Makers. | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS   | [Source code](https://github.com/bear99a9/monarchmakersbnb) |
+| Name               | Description                                                                                                               | Tech/tools                                             | Link                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
+| **Don8**           | A mobile app that connects volunteers to the needs of local charities in their area.                                      | MongoDB, Node JS, Express, React Native, Jest, Cypress | [Source code](https://github.com/bear99a9/don8)             |
+| **BBB**            | A fully functional social networking site                                                                                 | Ruby on Rails, Rspec, HTML, Bulma, CSS                 | [Source code](https://github.com/bear99a9/acebook-BBB)      |
+| **Monarch Makers** | A site where users can list properties for rental and rent the properties of others. First engineering project at Makers. | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS   | [Source code](https://github.com/bear99a9/monarchmakersbnb) |
 
 ## Skills
 
