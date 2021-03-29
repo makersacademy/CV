@@ -9,7 +9,7 @@
 
 </div>
 
-A Junior Full Stack Developer in Ruby and JavaScript. University of Hertfordshire Physiotherapist graduate, former Extended Scope Spinal Practitioner in the NHS, making the transition into the tech industry. I recently graduated from a four month Makers Bootcamp where I taught myself Ruby & Javascript by building a range of applications and websites through individual and team. As I continue to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code.
+A Junior Full Stack Developer in Ruby and JavaScript. University of Hertfordshire Physiotherapist graduate, former Extended Scope Spinal Practitioner in the NHS, making the transition into the tech industry. I recently graduated from a four month Makers Bootcamp where I taught myself Ruby & Javascript by building a range of applications and websites through individual study and team projects. As I continue to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code.
 
 ## Projects
 
