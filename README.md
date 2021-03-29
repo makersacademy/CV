@@ -29,7 +29,7 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 #### Communication
 
-- Proven track record of clear and strong communication. The ability to communicate clearly with a range of people in varied settings. Regular presentations to; patients, frontline staff and senior management to ensure that complex ideas were understood fully.
+- Proven track record of clear and effective communication. The ability to communicate clearly with a range of people in varied settings. Regular presentations to; patients, frontline staff and senior management to ensure that complex ideas were understood fully.
 
 #### Problem Solving
 
@@ -39,27 +39,32 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 - Experienced leader. Spent the previous several years working in senior leadership roles within the NHS. Captained university, club and county 1st XV rugby teams. This coupled strong communication skills, allows for effective and successful teamwork.
 
+#### Leadership
+
+- Adept team worker. Thrive and excel within team environments. Help to nurture strong team ethos and collaboration. Agile mindset to working within teams allowing for enhanced performance and success.
+
 ## Experience
 
 **MSE NHS Trust** (May '17 to Dec '20)
 _Extended Scope Spinal Practitioner_
 
 - Overall responsibility for the effective management, operation and development of the spinal triage team. This included overall responsibility for the management of 12 staff.
-- Consistant
 - High level evidenced based treatment and care of spinal patients within Essex.
 - Developing and implementing policies, procedures, and quality standards.
 - Effective approaches to project management to ensure implementation of vision and strategy.
 - Responsibility for the recruitment and selection of staff.
+- Mentoring junior staff in career progression and growth
+- Holistic communication and motivational interviewing to allow patients to receive individual tailored care.
 
-**Bishops Stortford** (Sep '19 to present)
-_1st VX Coach_
+**Bishops Stortford RFC** (Sep '19 to present)
+_1st XV Coach_
 
-- Specalist forward coaching role.
+- Specialist forward coaching role.
 - Overall responsibility for players training goals and developement.
 - Team and individual coaching drills and sessions.
 - Player and team performance analysis.
 
-**MSE NHS Trust** (Jan '16 to May '17)
+**MSE NHS Trust** (Jan '15 to May '17)
 _Specialist Pain Physiotherapist_
 
 - High level evidenced based treatment and care of chronic pain patients within Essex.
@@ -83,7 +88,7 @@ A 16 week intensive development bootcamp, focusing on :
 
 - BSc Physiotherapy First Class.
 - Chartered Society of Physiotherapy student rep.
-- 1st VX Rugby Captain.
+- 1st XV Rugby Captain.
 
 ## Hobbies and interests
 
