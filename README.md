@@ -9,7 +9,7 @@
 
 </div>
 
-A Junior Full Stack Developer. Recently graduated from a four month Makers Bootcamp focused on self learning by building a range of apps and websites through individual study and team projects, gaining sound understanding of OOP, Agile methodologies and TDD. Continuing to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code.
+A Junior Full Stack Developer entering coding from healthcare with a passion for problem solving, professional enrichment and teamwork. Recently graduated from a four month Makers Academy Bootcamp focused on self learning by building a range of apps and websites through individual study and team projects. In the process gaining a sound understanding of OOP, Agile methodologies and TDD. Continuing to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code. 
 
 ## Projects
 
@@ -40,7 +40,6 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 - A competent problem solver. In a recent process review I was given a scenario of solving a client based task in 45 minutes using the TDD model and principles. The session came with positive feedback which is attached here [Feedback](https://github.com/bear99a9/CV/blob/master/2021-03-01-Red%20Weezing%2068-feedback.pdf)
 
 #### Leadership
-
 - Experienced leader. Versatile leader who builds strong relationships and positively inspires others to share best practice and meet high standards. Previous senior leadership roles within the NHS. Captained university, club and county 1st XV rugby teams. 
 
 
@@ -78,7 +77,8 @@ _Semi professional rugby player_ - Sep '10 to Sep ‘19
 
 ## Education
 
-#### Makers Academy (Dec '20 to Mar '21)
+#### Makers Academy - Dec '20 to Mar '21
+
 
 A 16 week intensive development bootcamp, focusing on :
 
@@ -88,7 +88,7 @@ A 16 week intensive development bootcamp, focusing on :
 - RSpec, Jasmine, Jest, Cypress.
 - MERN stack.
 
-#### University of Hertfordshire (Sep '07 - Jun '10)
+#### University of Hertfordshire - Sep '07 - Jun '10
 
 - BSc Physiotherapy First Class.
 - Chartered Society of Physiotherapy student rep.
