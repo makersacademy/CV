@@ -15,11 +15,11 @@ A Junior Full Stack Developer. Recently graduated from a four month Makers Bootc
 
 For a complete list, see my [GitHub](https://github.com/bear99a9)
 
-| Name               | Description                                                                                                               | Tech/tools                                             | Link                                                        |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
-| **Don8**           | A mobile app that connects volunteers to the needs of local charities in their area.                                      | MongoDB, Node JS, Express, React Native, Jest, Cypress | [Source code](https://github.com/bear99a9/don8)             |
-| **BBB**            | A fully functional social networking site                                                                                 | Ruby on Rails, Rspec, HTML, Bulma, CSS                 | [Source code](https://github.com/bear99a9/acebook-BBB)      |
-| **Monarch Makers** | A site where users can list properties for rental and rent the properties of others. First engineering project at Makers. | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS   | [Source code](https://github.com/bear99a9/monarchmakersbnb) |
+| Name               | Description                                                                                                                                                                                                                                                                                 | Tech/tools                                             | Link                                                        |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
+| **Don8**           | A mobile app that connects volunteers to the needs of local charities in their area. A great two week project that really stretched me in lots of aspects. Learning a completely new stack and technologies was exciting and it I can see how the course sets you up to learn new languages | MongoDB, Node JS, Express, React Native, Jest, Cypress | [Source code](https://github.com/bear99a9/don8)             |
+| **BBB**            | A fully functional social networking site. My first two week team project. I learnt alot about agile team working, we rotated roles like scrum master, leader etc giving me greater understanding of the roles and their benefits                                                           | Ruby on Rails, Rspec, HTML, Bulma, CSS                 | [Source code](https://github.com/bear99a9/acebook-BBB)      |
+| **Monarch Makers** | A site where users can list properties for rental and rent the properties of others. First engineering project at Makers. Good consolidation of MVP and restful routes. Also a good introduction to SQL and relational databases.                                                           | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS   | [Source code](https://github.com/bear99a9/monarchmakersbnb) |
 
 ## Skills
 
@@ -45,32 +45,35 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 ## Experience
 
-**MSE NHS Trust** (May '17 to Dec '20)
-_Extended Scope Spinal Practitioner_
+**NHS** - Dec '10 to Dec '20
+_Extended Scope Spinal Practitioner_ - May '17 to Dec '20
+_Specialist Pain Physiotherapist_ - Jan '15 to May '17
+_Senior Physiotherapist_ - Jan '13 to Jan '15
+_Junior Physiotherapist_ - Dec ‘10 to Jan ‘13
 
-- Overall responsibility for the effective management, operation and development of the spinal triage team. This included overall responsibility for the management of 12 staff.
+- Holistic communication and motivational interviewing to allow patients to receive individual tailored care.
+- Responsibility for the effective management, operation and development of the spinal triage team. Including line management of 12 staff.
+- Effective team worker, building strong team ethos through shared goals and values
 - High level evidenced based treatment and care of spinal patients within Essex.
 - Developing and implementing policies, procedures, and quality standards.
 - Effective approaches to project management to ensure implementation of vision and strategy.
 - Responsibility for the recruitment and selection of staff.
-- Mentoring junior staff in career progression and growth
-- Holistic communication and motivational interviewing to allow patients to receive individual tailored care.
-
-**Bishops Stortford RFC** (Sep '19 to present)
-_1st XV Coach_
-
-- Specialist forward coaching role.
-- Overall responsibility for players training goals and developement.
-- Team and individual coaching drills and sessions.
-- Player and team performance analysis.
-
-**MSE NHS Trust** (Jan '15 to May '17)
-_Specialist Pain Physiotherapist_
-
-- High level evidenced based treatment and care of chronic pain patients within Essex.
-- Joint responsibility for the management, operation, and development of the physiotherapy pain service being provided to maximise outcomes for service users.
+- Mentoring junior staff in career progression and growth.
 - Undertake an annual service review and audit to inform service development plans, quality standards and to establish relevant performance indicators.
 - Determining the strategic direction of the service, providing leadership on corporate priorities.
+
+**Bishops Stortford Rugby Football Club** - Sep '10 to present
+_1st XV Coach_ - Sep '19 to present
+_Semi professional rugby player_ - Sep '10 to Sep ‘19
+
+- Six England Counties caps, 14 Hertfordshire county caps, 0ver 200 BSRFC appearances and two national league titles.
+- Specialist forward coaching role.
+- One to one mentorship of junior players.
+- Overall responsibility for players training goals and development.
+- Team and individual coaching drills and sessions.
+- Player and team performance analysis.
+- Ability to consistently perform in elite sport with high levels of pressure.
+- Highly effective team player adapted to high demands of fellow teammates and coaches.
 
 ## Education
 
