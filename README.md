@@ -27,9 +27,13 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 - A strong self led learner. Within the NHS promoted from junior Physiotherapist to consultant level within seven years. Requiring continuous learning of new concepts at pace to ensure that services and patients were well supported. Great desire to succeed and try new things, which led to Makers Bootcamp.
 
-#### Communication
+#### Hollostic Communication
 
 - Proven track record of clear and effective communication. The ability to communicate clearly with a range of people in varied settings. Regular presentations to; patients, frontline staff and senior management to ensure that complex ideas were understood fully.
+
+#### Team worker
+
+- Adept team worker. Thrive and excel within team environments. Help to nurture strong team ethos and collaboration. Agile mindset to working within teams allowing for enhanced performance and success.
 
 #### Problem Solving
 
@@ -37,11 +41,8 @@ For a complete list, see my [GitHub](https://github.com/bear99a9)
 
 #### Leadership
 
-- Experienced leader. Spent the previous several years working in senior leadership roles within the NHS. Captained university, club and county 1st XV rugby teams. This coupled strong communication skills, allows for effective and successful teamwork.
+- Experienced leader. Versatile leader who builds strong relationships and positively inspires others to share best practice and meet high standards. Previous senior leadership roles within the NHS. Captained university, club and county 1st XV rugby teams. 
 
-#### Leadership
-
-- Adept team worker. Thrive and excel within team environments. Help to nurture strong team ethos and collaboration. Agile mindset to working within teams allowing for enhanced performance and success.
 
 ## Experience
 
