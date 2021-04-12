@@ -28,8 +28,11 @@ Consider skills relevent to software development. Then consider your best skills
 
 -STAR
 -What was the situation/task? (ST)
+
 -How was the skill used?
+
 -What did you do? (action)
+
 -What was the result?
 
 
