@@ -44,7 +44,7 @@ Consider skills relevent to software development. Then consider your best skills
 
 #### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed( again use STAR for this)
+Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
