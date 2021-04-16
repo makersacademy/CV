@@ -24,7 +24,7 @@ _Your job title_
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.)
+(Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
 -What was the situation/task? (ST)
