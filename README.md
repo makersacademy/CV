@@ -1,5 +1,5 @@
 # John Baxter
-### Software Developer, London | Cambridge
+### Software Developer, London | Scotland
 
 <p>
   <a href="mailto:john.g.baxter@googlemail.com?subject=[GitHubCV]">
@@ -27,7 +27,7 @@ with experience of customer service and working to client demands.
 
 I'm looking for a back-end focussed role where I can continue to develop my technical ability and the problem-solving and teamworking skills that I used during the bootcamp.
 
-I'm very excited about how the world of tech has created so many new ways to improve the lives of people all around the world. From large-scale ecological projects benifiting the natural world to the fact that banking is now a bit easier; real people are seeing real advantages based on the work of developers everywhere.
+I'm very excited about how the world of tech has created so many new ways to improve the lives of people all around the world. From large-scale ecological projects benefiting the natural world to the fact that banking is now a bit easier; real people are seeing real advantages based on the work of developers everywhere.
 
 During the Makers bootcamp; the coursework focussed mainly on Ruby, JavaScript and SQL languages. I have continued to learn Python and PHP to continue my professional development.
 
@@ -52,7 +52,7 @@ This has influenced my decision to change career, as this is a very useful skill
 
 ### **Fast learner**
 Learning quickly is something that has helped me throughout my life. Working on multiple projects in various labs requires getting to grips with different lab equipment on a regular basis; and it is fairly typical for different clients and colleagues to have subtly different styles and requirements. 
-Fast learning is best illustrated by how I was able to succesfully navigate the coding bootcamp from a starting point of having no knowledge or understanding at all, and ending less than one year later in a position where I am managing my own projects and able to sucessfully try out new languages.
+Fast learning is best illustrated by how I was able to successfully navigate the coding bootcamp from a starting point of having no knowledge or understanding at all, and ending less than one year later in a position where I am managing my own projects and able to successfully try out new languages.
 Also in my leisure time: board games and video games both must be understood pretty well if I'm to avoid coming in last place.
 
 - While working at Cambridge consultants, I was the resident expert for using the 
@@ -135,7 +135,7 @@ I like to contrast my busy tech work-life with stepping away from the screen and
 - Cooking is a nice activity to help wind down at the end of a busy day. I enjoy taking my time over the process, and experimenting with flavours. Eating delicious food at the end is also a bonus - and if something hasn't worked out, well that's what Tabasco is for. 
 - Watching lower league (and non-league) football is a fun passtime for a Saturday afternoon. Going to a small stadium and getting involved with the local community is what I consider 'real' football. It's nice to be far removed from the TV cameras and million-pound advertising contracts.
 - Learning languages is a good way to keep the brain active; so alongside Ruby, Python et al. I can also say: \
-He estado aprendiendo español desde hace dos años.
+He estado aprendiendo español desde hace tres años.
 - Practicing circus skills like juggling or whip-cracking is a physical passtime best enjoyed in a field with friends. I regularly attend an organised event in Warwickshire where I can learn how to balance objects on my chin, and even try things like archery. It's also a great way to meet loads of interesting people.
 
 [email me](mailto:john.g.baxter@googlemail.com?subject=[GitHubCV])
