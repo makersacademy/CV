@@ -20,21 +20,24 @@ I have worked in the contemporary art world for the last ten years
 _Exhibitions Manager_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
+- Website and database management
 
 **MoMA PS1, New York** (September to December 2014)  
 _Curatorial Internship_
 
-- Any experience relevent to software development
+- Exhibition production in a museum environment
 
 **Sternberg Press, Berlin** (July 2013 to August 2014)  
 _Editorial Assistant_
 
-- Any experience relevent to software development
+- Rigorous attention to detail while proofreading texts before print
+- Website management
 
 **ChertLuedde Galerie, Berlin** (March 2012 to August 2014)  
 _Gallery Co-ordinater_
 
-- Any experience relevent to software development
+- Website management 
+- Database management
 
 ## Skills
 
