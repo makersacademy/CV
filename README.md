@@ -1,6 +1,11 @@
-## Your Name
+## Lilly Daniell
+
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am an ambitious, organised and creative full stack junior-developer-in-training. I am looking for a role where I can extend my programming knowledge while gaining exposure to product management.  
+
+I have lived abroad in Berlin and New York. 
+I have worked in the contemporary art world for the last ten years
 
 ## Projects
 
@@ -11,13 +16,23 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sadie Coles HQ, London** (January 2015 to May 2021)  
+_Exhibitions Manager_
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**MoMA PS1, New York** (September to December 2014)  
+_Curatorial Internship_
+
+- Any experience relevent to software development
+
+**Sternberg Press, Berlin** (July 2013 to August 2014)  
+_Editorial Assistant_
+
+- Any experience relevent to software development
+
+**ChertLuedde Galerie, Berlin** (March 2012 to August 2014)  
+_Gallery Co-ordinater_
 
 - Any experience relevent to software development
 
@@ -53,7 +68,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July to November 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -62,16 +77,17 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Sussex (October 2008 to June 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- English Literature and History of Art Bachelor of Arts (BA)
+- 2.1
+- Arts and Culture Editor, University Magazine
 
-#### Any other qualifications
+#### Building AI, University of Helsinki and Reaktor, Intermediate Coding (June 2021)
 
 That in some arguable way make you a better software developer or well-rounded person
 
 ## Hobbies
 
 Any cool stuff that makes you a super part of a software development team
+Playing football, gardening and being outside, running, going to see exhibitions, having a dance.
