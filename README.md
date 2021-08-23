@@ -1,11 +1,9 @@
 ## Lilly Daniell
 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
-I am an ambitious, organised and creative full stack junior-developer-in-training. I am looking for a role where I can extend my programming knowledge while gaining exposure to product management.  
+I am an ambitious, organised and creative full-stack junior developer (in-training!). I am looking for a role where I can extend my programming knowledge and gain business development experience, while contributing to well-designed, useful tech.
 
-I have lived abroad in Berlin and New York. 
-I have worked in the contemporary art world for the last ten years
+I have worked in the contemporary art world for the last decade as an Exhibitions Manager. I've worked in galleries and museums in Berlin, New York and London. This career let me work with many different people on exciting large-scale projects, facilitating artists and delivering exhibitions within tight deadlines. Driven by curiosity, possibility, and a desire to keep learning, I'm learning to code at Makers Acedemy to create and build something, and to challenge myself. 
 
 ## Projects
 
@@ -19,25 +17,29 @@ I have worked in the contemporary art world for the last ten years
 **Sadie Coles HQ, London** (January 2015 to May 2021)  
 _Exhibitions Manager_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-- Website and database management
+- Team player: managed inter-departmental organisation and exhibition meetings
+- Communication: ensuring information is shared and discussed
+- People person: Artist liaison and external production negotiator
+- Big-picture perspective: ambitious on-site and off-site projects
+- Problem solving: calm and resourceful in the face of setbacks, a lateral thinker
+- Practical planner: logistics, timelines, budget management
+- Data-driven: Website maintenance and analytics, database cataloguing
 
 **MoMA PS1, New York** (September to December 2014)  
 _Curatorial Internship_
 
-- Exhibition production in a museum environment
+- Ambitious: awarded an internship at MoMA PS1's curatorial department, working with international artists on innovative exhibitions and events. 
 
 **Sternberg Press, Berlin** (July 2013 to August 2014)  
 _Editorial Assistant_
 
-- Rigorous attention to detail while proofreading texts before print
-- Website management
+- Attention to detail: rigorous proofreading of texts in layout stages
+- Time management: careful, precise editing while working within print deadlines
 
 **ChertLuedde Galerie, Berlin** (March 2012 to August 2014)  
 _Gallery Co-ordinater_
 
-- Website management 
-- Database management
+- All-rounder: assisted in the organisation of the gallery’s exhibitions, fairs, projects, and artists’ books, and updated the gallery's archive database, website, press and publications blog, 
 
 ## Skills
 
@@ -73,8 +75,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (July to November 2021)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+- Frequently used paring in order to problem solve effeciently, requiring teamwork and communication.
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
@@ -86,11 +87,10 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - 2.1
 - Arts and Culture Editor, University Magazine
 
-#### Building AI, University of Helsinki and Reaktor, Intermediate Coding (June 2021)
+#### Building AI, University of Helsinki and Reaktor (June 2021)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Intermediate Coding (Python)
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
 Playing football, gardening and being outside, running, going to see exhibitions, having a dance.
