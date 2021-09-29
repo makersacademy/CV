@@ -1,24 +1,70 @@
-## Anton Plisnier &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ruby](https://github.com/Apliz/CV/blob/master/src/languages-tools/ruby_24.png)&nbsp;![Javascript](https://github.com/Apliz/CV/blob/master/src/languages-tools/Javascript_24.png)&nbsp;![Rails](https://github.com/Apliz/CV/blob/master/src/languages-tools/rails_24.png)&nbsp;![Python](https://github.com/Apliz/CV/blob/master/src/languages-tools/python_24.png)&nbsp;![psql](https://github.com/Apliz/CV/blob/master/src/languages-tools/psql_24.png)&nbsp;![Django](https://github.com/Apliz/CV/blob/master/src/languages-tools/django_24.png)&nbsp;![heroku](https://github.com/Apliz/CV/blob/master/src/languages-tools/heroku_24.png)&nbsp;![travis](https://github.com/Apliz/CV/blob/master/src/languages-tools/travis_24.png)&nbsp;![html](https://github.com/Apliz/CV/blob/master/src/languages-tools/html_24.png)&nbsp;![css](https://github.com/Apliz/CV/blob/master/src/languages-tools/css_24.png)&nbsp;![cSharp](https://github.com/Apliz/CV/blob/master/src/languages-tools/c_sharp_24.png)
+## Anton Plisnier &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ruby](https://github.com/Apliz/CV/blob/master/src/languages-tools/ruby_24.png)&nbsp;![Javascript](https://github.com/Apliz/CV/blob/master/src/languages-tools/Javascript_24.png)&nbsp;![Python](https://github.com/Apliz/CV/blob/master/src/languages-tools/python_24.png)&nbsp;![psql](https://github.com/Apliz/CV/blob/master/src/languages-tools/psql_24.png)&nbsp;![MySQL]
+
+&nbsp;![PHP]
+
+&nbsp;![Bash]
+
+&nbsp;![Django](https://github.com/Apliz/CV/blob/master/src/languages-tools/django_24.png)&nbsp;![heroku](https://github.com/Apliz/CV/blob/master/src/languages-tools/heroku_24.png)&nbsp;![travis](https://github.com/Apliz/CV/blob/master/src/languages-tools/travis_24.png)&nbsp;![html](https://github.com/Apliz/CV/blob/master/src/languages-tools/html_24.png)&nbsp;![css](https://github.com/Apliz/CV/blob/master/src/languages-tools/css_24.png)&nbsp;
 [SKILLS](#Skills) ~ [EXPERIENCE](#Experience) ~ [EDUCATION](#Education) ~ [INTERESTS](#Interests) ~ [CONTACT](#Contact) ~ [LINKEDIN](https://www.linkedin.com/in/anttongp/)  
 
 ***
 
-Junior full-stack developer focused on front end web development who values outside the box thinking.  
-Moving across disparate industries has turned me into a determined self-starter; bringing transferable skills developed managing live music events and working with a leading personal development company in client-facing roles. The pre-requisite has been that I can contribute value while thriving from it. Coding is that pre-requisite, found!  
-<br>
-Recent graduate from [Makers Academy](https://makers.tech/hire/), a highly selective 12 week software development intensive in the heart of London where we learn software fundamentals including SOLID design principles, test-driven development using modern coding frameworks. A strong communicator; creative and dedicated individual looking to expand my own skillset and grow.  
+I am a Junior Full-Stack Developer & DevOps Engineer searching for opportunities to snowball my programming knowledge in a team environment while bringing tangible value.  
+
+##################WORK ON THIS#####################  
+Needs to be more personal and less focused on the past  
+
+Moving across many industries early in my career has inspired strong intiative for solving problems and a hunger to learn. Alongside my recent apprentiship and subsequent management experience working for a Vienna based startup, I hope to bring additional transferable skills gained managing live music events and working with an international personal development company.  
+#######################################################  
+
+<br></br>
+Graduate from [Makers Academy](https://makers.tech/hire/), a highly selective 12 week software development intensive in the heart of London learning software fundamentals including SOLID design principles, test-driven development using modern coding frameworks. A strong communicator; creative and dedicated individual looking to expand my own skillset and grow.  
 Based in Vienna, Austria. Searching for work locally or as part of a remote community.  
+
+_References available on request_
+
+## Technologies
+
 
 
 ## Projects
 
 | Name                         | Description         | Tech/tools        | Explore |  
 | ---------------------------- |:-----------------:|-----------------|:---:|
-| **Space Trash**| Final project at Makers Academy, an educational app for orbital debris visualisation implementing machine learning| Django, Python, D3, Tensorflow, Anaconda, Cesium, Travis, Heroku, PostgreSQL  | <a href="https://github.com/Apliz/SpaceTrash">![SpaceTrash](https://github.com/Apliz/CV/blob/master/src/github-logos/sleek_64.png "Shoot the Moon!")</a> |  
-| **Makers BnB** | AirBnb clone built on rails  | Ruby-on-Rails, HTML, CSS | <a href="https://github.com/Apliz/MakersBnb">![MakersBnb](https://github.com/Apliz/CV/blob/master/src/github-logos/rustic_64.png "Come fly with Me!")</a> |  
-| **Separatab** | Current project building a Chrome extension to organise groups of tabs | Javascript, Google Chrome API  | <a href="https://github.com/Apliz/Separatab">![Separatab](https://github.com/Apliz/CV/blob/master/src/github-logos/cloud_64.png "Lost no more!")</a> |  
+| **Space Trash**| Final project at Makers Academy, an educational app for orbital debris visualisation using linear regression| Django, Python, D3, Tensorflow, Anaconda, Cesium, Travis, Heroku, PostgreSQL  | <a href="https://github.com/Apliz/SpaceTrash">![SpaceTrash](https://github.com/Apliz/CV/blob/master/src/github-logos/sleek_64.png "Shoot the Moon!")</a> |  
+| **Makers BnB** | AirBnb clone built on rails  | Ruby-on-Rails, HTML, CSS | <a href="https://github.com/Apliz/MakersBnb">![MakersBnb](https://github.com/Apliz/CV/blob/master/src/github-logos/rustic_64.png "Come fly with Me!")</a> | 
+| **Cloud.ofBandits** |  |  |  |
+|  |  |  |  |
+
 
 ## Experience
+
+**House of Bandits** (August '20 - September '21)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_IT Manager, Networking Systems & Server Administrator_ _Media Agency & Coworking Space, Vienna_
+
+- Proposed a highly optimised Nextcloud instance that facilitated web access to NAS units for client delivery & project management. 
+- Implemented a company-wide central authentication system linked to the company CRM, cloud & server room infrastructure.
+- Installation & maintenance of production servers in a team of two for SME film production studios in Vienna.
+- Administration of our micro data center, deployment and maintenance of HP Proliant DL380 filers, Arista 3000 series & HP procurve switches.
+- Conducted an audit of the internal network, leading to the centralisation of production data and a 30% reduction in resource load across the IT unit. 
+- Technical project manager in a team delivering a media server for a bespoke light installation. Providing documentation & support representing the largest contract for the company to date.
+
+_Wider Responsabilities:_
+
+- Network architecture design & implementation
+- Data center management
+- Server Administration
+- Web development
+- General IT troubleshooting
+
+Main Technologies : 
+    - Linux kernal CLI
+    - OPNsense 
+    - Proxmox Virtual Environment
+    - Open-source tools & packages
+    - PHP
+
+<br></br>
 
 **Caravan** (March '19 - February '20)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Waiter_  
@@ -38,13 +84,15 @@ _Anthony Robbins personal development events company_
 - Responsible for visa applications for overseas customers with preperation, submission and follow up of applications to the Foreign Office.  
 
 <br><br/>
-**Grillstock** (September '17 - January '18)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Project Lead_  
-_National BBQ Smokehouse_
-
-- Self-motivated leadership role in the design, reasearch, contruction, promotion and launch of 'Grillstock Live,' a weekly live music evening hosted at the Grillstock smokehouses with the goal of promoting fresh talent that attracted customers to dine with us.
-
 ## Skills
+
+#### Server Room Administration
+
+- Managed a variety of hardware for House of Bandits & it's clients. 
+      HP Proliant DL380 Gen 8 - 9,
+      HP C7000
+      Arista 7000 Series switch
+    
 
 #### Problem Solver
 
@@ -78,7 +126,7 @@ _National BBQ Smokehouse_
 
 #### British Irish Modern Music Institue (September '16 - May '17)
 
-- BMus Hons Popular Music Performance Guitar~ _Incomplete_
+- BMus Hons Popular Music Performance Guitar ~ _Incomplete_
 
 #### British Irish Modern Music Institute (October '15 - June '16)
 
@@ -87,7 +135,8 @@ _National BBQ Smokehouse_
 ## Interests
 
 - Personal development
-- Fitness & yoga  
+- Unix philosophy & open-source technologies
+- 
 - Cooking spaghetti vongole  
 - Noodling on my piano  
 - Gaming  
