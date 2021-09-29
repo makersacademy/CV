@@ -1,40 +1,23 @@
-## Anton Plisnier &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ruby](https://github.com/Apliz/CV/blob/master/src/languages-tools/ruby_24.png)&nbsp;![Javascript](https://github.com/Apliz/CV/blob/master/src/languages-tools/Javascript_24.png)&nbsp;![Python](https://github.com/Apliz/CV/blob/master/src/languages-tools/python_24.png)&nbsp;![psql](https://github.com/Apliz/CV/blob/master/src/languages-tools/psql_24.png)&nbsp;![MySQL]
-
-&nbsp;![PHP]
-
-&nbsp;![Bash]
-
-&nbsp;![Django](https://github.com/Apliz/CV/blob/master/src/languages-tools/django_24.png)&nbsp;![heroku](https://github.com/Apliz/CV/blob/master/src/languages-tools/heroku_24.png)&nbsp;![travis](https://github.com/Apliz/CV/blob/master/src/languages-tools/travis_24.png)&nbsp;![html](https://github.com/Apliz/CV/blob/master/src/languages-tools/html_24.png)&nbsp;![css](https://github.com/Apliz/CV/blob/master/src/languages-tools/css_24.png)&nbsp;
-[SKILLS](#Skills) ~ [EXPERIENCE](#Experience) ~ [EDUCATION](#Education) ~ [INTERESTS](#Interests) ~ [CONTACT](#Contact) ~ [LINKEDIN](https://www.linkedin.com/in/anttongp/)  
-
+## Anton Plisnier &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![ruby](https://github.com/Apliz/CV/blob/master/src/languages-tools/ruby_24.png)&nbsp;![Javascript](https://github.com/Apliz/CV/blob/master/src/languages-tools/Javascript_24.png)&nbsp;![PHP](https://github.com/Apliz/CV/blob/tmp/src/languages-tools/php%20(1).png)&nbsp;![Linux](https://github.com/Apliz/CV/blob/tmp/src/languages-tools/linux_25.png)&nbsp;![Bash](https://github.com/Apliz/CV/blob/tmp/src/languages-tools/Bash_24.png)&nbsp;![Python](https://github.com/Apliz/CV/blob/master/src/languages-tools/python_24.png)&nbsp;![Django](https://github.com/Apliz/CV/blob/master/src/languages-tools/django_24.png)&nbsp;![heroku](https://github.com/Apliz/CV/blob/master/src/languages-tools/heroku_24.png)&nbsp;![travis](https://github.com/Apliz/CV/blob/master/src/languages-tools/travis_24.png)&nbsp;![html](https://github.com/Apliz/CV/blob/master/src/languages-tools/html_24.png)&nbsp;![css](https://github.com/Apliz/CV/blob/master/src/languages-tools/css_24.png)&nbsp;![psql](https://github.com/Apliz/CV/blob/master/src/languages-tools/psql_24.png)&nbsp;![MySQL](https://github.com/Apliz/CV/blob/tmp/src/languages-tools/icons8-mysql-logo-24.png)
+[SKILLS](#skills) | [EXPERIENCE](#experience) | [EDUCATION](#education) | [INTERESTS](#interests) | [CONTACT](#contact) |
 ***
 
-I am a Junior Full-Stack Developer & DevOps Engineer searching for opportunities to snowball my programming knowledge in a team environment while bringing tangible value.  
-
-##################WORK ON THIS#####################  
-Needs to be more personal and less focused on the past  
-
-Moving across many industries early in my career has inspired strong intiative for solving problems and a hunger to learn. Alongside my recent apprentiship and subsequent management experience working for a Vienna based startup, I hope to bring additional transferable skills gained managing live music events and working with an international personal development company.  
-#######################################################  
-
+Junior Full-Stack Developer & DevOps Engineer searching for opportunities to enrich my programming & IT knowledge as part of a team while creating real, tangible value to users in the process.  
+I've always had a keen interest for computers, and taking a leap of faith in January 2020 I decided to study web development; the frameworks, technologies and principles behind it have taken me to new countries, people and oppurtunities.  
+Having started my work experience at a small startup based in Vienna, first as an apprentice, and later as the IT manager pushed me to learn dynamically and to work effectively under pressure.  
+My work and projects are important parts of my identity. Having promoted live music events and worked at an international personal development company, I gained transferable skills that have given me a base as a determined self-starter with strong intiative for problem solving and a hunger to learn.
 <br></br>
-Graduate from [Makers Academy](https://makers.tech/hire/), a highly selective 12 week software development intensive in the heart of London learning software fundamentals including SOLID design principles, test-driven development using modern coding frameworks. A strong communicator; creative and dedicated individual looking to expand my own skillset and grow.  
-Based in Vienna, Austria. Searching for work locally or as part of a remote community.  
 
 _References available on request_
 
-## Technologies
 
-
-
-## Projects
+## Dev Projects
 
 | Name                         | Description         | Tech/tools        | Explore |  
 | ---------------------------- |:-----------------:|-----------------|:---:|
 | **Space Trash**| Final project at Makers Academy, an educational app for orbital debris visualisation using linear regression| Django, Python, D3, Tensorflow, Anaconda, Cesium, Travis, Heroku, PostgreSQL  | <a href="https://github.com/Apliz/SpaceTrash">![SpaceTrash](https://github.com/Apliz/CV/blob/master/src/github-logos/sleek_64.png "Shoot the Moon!")</a> |  
-| **Makers BnB** | AirBnb clone built on rails  | Ruby-on-Rails, HTML, CSS | <a href="https://github.com/Apliz/MakersBnb">![MakersBnb](https://github.com/Apliz/CV/blob/master/src/github-logos/rustic_64.png "Come fly with Me!")</a> | 
-| **Cloud.ofBandits** |  |  |  |
-|  |  |  |  |
+| **Cloud.ofBandits** | In-house cloud for House of Bandits | Apache2, Linux, Nextcloud, MySql, network architecture  | <a href="https://cloud.ofbandits.com">![CloudofBandits](https://github.com/Apliz/CV/blob/tmp/src/github-logos/HOB_L_PNG.png "Don't Create Alone!")</a> |
+| **B.A ArtWalks** | Livestreaming platform built in collaboration | PHP, JQuery, Markup, PHPMyAdmin | <a href="https://artwalks.at">![ArtWalks](https://github.com/Apliz/CV/blob/tmp/src/github-logos/live-red_58.png "Kunstforum/ Albertina")</a> |
 
 
 ## Experience
@@ -42,78 +25,67 @@ _References available on request_
 **House of Bandits** (August '20 - September '21)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_IT Manager, Networking Systems & Server Administrator_ _Media Agency & Coworking Space, Vienna_
 
-- Proposed a highly optimised Nextcloud instance that facilitated web access to NAS units for client delivery & project management. 
+My responsibilities included network architecture design, implementation, maintenance and web development. As well as the deployment and administration of network attached storages and other server-room infrastructures.  I was also on hand to assist staff and coworkers with any IT related queries.  
+
+- Built an optimised Nextcloud instance that allowed for web access to internal resources for client delivery & project management, increasing the productivity of our team during the pandemic. 
 - Implemented a company-wide central authentication system linked to the company CRM, cloud & server room infrastructure.
 - Installation & maintenance of production servers in a team of two for SME film production studios in Vienna.
-- Administration of our micro data center, deployment and maintenance of HP Proliant DL380 filers, Arista 3000 series & HP procurve switches.
-- Conducted an audit of the internal network, leading to the centralisation of production data and a 30% reduction in resource load across the IT unit. 
-- Technical project manager in a team delivering a media server for a bespoke light installation. Providing documentation & support representing the largest contract for the company to date.
+- Administration of a micro data center, knowledge of HP Proliant DL380 filers, Arista 3000 series & HP procurve switches.
+- Audit of the internal network, leading to the centralisation of production data and a 25-30% reduction in resource load across the IT unit. 
+- Technical project manager in a team delivering a media server for a bespoke light installation. Providing expertise, support and documentation to a client        representing the largest contract for the company to date.
 
-_Wider Responsabilities:_
-
-- Network architecture design & implementation
-- Data center management
-- Server Administration
-- Web development
-- General IT troubleshooting
-
-Main Technologies : 
-    - Linux kernal CLI
-    - OPNsense 
-    - Proxmox Virtual Environment
-    - Open-source tools & packages
-    - PHP
-
+Main Technologies :  
+- Linux kernal & CLI  
+- OPNsense  
+- Proxmox Virtual Environment  
+- RAID
+- Open-source tools & packages  
 <br></br>
 
 **Caravan** (March '19 - February '20)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Waiter_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Waiter_  
 _London restaurant_  
 - Consistely hitting or exceeding turnover rates serving 54+ covers per evening.    
-- Regularly parised for customer satisfaction and role efficacy by managers.  
-- Responsible with serving returning dissatisfied customers to regain brand trust.  
-  
+- Regularly praised for customer satisfaction and role efficacy by managers.  
+- Responsible for serving returning dissatisfied customers and regaining their trust.    
 <br><br/>
+
 **Success Resources** (March '18 - March '19)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Customer Service Executive_  
-_Anthony Robbins personal development events company_  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Customer Service Executive_  
+_Tony Robbins personal development events_  
   
-- Networked into full-time paid role after 7 months volunteers at the events.   
-- With no scripts for interactions, I was given agency to make decisions that challenged us to consistently balance business and client interests.  
-- Compiling and presenting daily revenue figures to our directors.  
+- Networked myself into a full-time paid role after 7 months of volunteering at the events.   
+- With no scripts for interactions, I was given agency to make decisions that challenged me to consistently balance business and client interests.  
+- Compiling and presenting daily revenue figures to the directors.  
 - Responsible for visa applications for overseas customers with preperation, submission and follow up of applications to the Foreign Office.  
-
 <br><br/>
+
+**Grillstock** (September '17 - January '18)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_Promoter_
+_National BBQ Smokehouse_
+
+Self-motivated leadership role in the design, research, contruction, promotion and launch of 'Grillstock Live,' a weekly live music evening hosted at the Grillstock smokehouses with the goal of promoting fresh talent that attracted customers to dine with us.
+
 ## Skills
-
-#### Server Room Administration
-
-- Managed a variety of hardware for House of Bandits & it's clients. 
-      HP Proliant DL380 Gen 8 - 9,
-      HP C7000
-      Arista 7000 Series switch
     
 
 #### Problem Solver
 
-- Pitched an intitative to our directors for 'Grillstock Live,' The implemented locations consistently saw 30- 50% increase in drink sales and a 1/3 increase in covers on average over a 2 month period.
-- As customer support, when speaking with difficult customers regarding complaints and issues they faced; responding empathetically maintained customer loyalty while making judgements that balanced the needs of the clients with those of the business to resolve cases in a professional manner.
+- Pitched an intitative to the directors of Grillstock Restaurants for 'Grillstock Live'. The selected locations consistently saw 30-50% increase in drink sales and a 1/3 increase in diners on average over a 2 month period.
 
 #### Quick Study
 
-- Part of a small team tasked with redeveloping our CS business processes for GDPR compliance for our UK offices. with no prior business process analysis experience I quickly learnt the structure of each existing process and GDPR requirements to facilitate reforming our best practices with minimal loss in team efficacy.
-- Recognised and mentored by the Country Manager in business facing elements leading to further offers to mentor with the group general manager at our Singapore headquaters.
-
-#### Learn and Grow Curious  
-
-- Part of a team tasked with creating GDPR compliant standard business practices for the UK office customer service department. I had no prior experience and at the time had quickly developed necessary understanding of GDPR compliance to be able to merge with our combined teams knowledge of the client support roles and create ste-by-step processes for all possible interactions and edge cases.
-- Recognised and mentored by the Country Manager in business facing elements leading to further mentorship offers with the group general manager at our Singapore headquaters.
+- Started as an apprentice and was promoted to IT Manager within 6-months.
 
 #### Communication
+ 
+- Pitching Projects for the House of Bandits team and its clients
+- IT consulting for clients
 
-- Assisted in coordinating with agencies to organise endorsements from celebrity clientele meetups/ for our events.  
-- Responsible for compilation and presentation of daily formatted revenue reports for review to the company GGM and CEO in Singapore.  
-- Responsible for visa application for overseas clients at our European events, including constant communication with embassies & home office, and keeping detailed records.
+### Languages
+
+- English (fluent, written and spoken)
+- French (fluent, spoken)
 
 ## Education
 
@@ -124,28 +96,26 @@ _Anthony Robbins personal development events company_
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine, Capybara
 
-#### British Irish Modern Music Institue (September '16 - May '17)
+#### British Irish Modern Music Institute (October '15 - May '17)
 
+- Diploma Popular Music Performace Guitar 1-year intensive  ~ _Merit/ Merit_    
 - BMus Hons Popular Music Performance Guitar ~ _Incomplete_
-
-#### British Irish Modern Music Institute (October '15 - June '16)
-
-- Diploma Popular Music Performace Guitar 1-year intensive  ~ _Merit/ Merit_  
 
 ## Interests
 
-- Personal development
+- Machine learning
 - Unix philosophy & open-source technologies
-- 
-- Cooking spaghetti vongole  
-- Noodling on my piano  
-- Gaming  
-- Making spontaneous decisions  
-- Speaking french  
+- The cosmos & rocketry
+- Playing the piano  
+- Gaming    
 
 ## Contact
-
-- Twitter : [@antonplisnier](https://twitter.com/AntonPlisnier)  
+Email : anttongp@gmail.com  
+Telephone : +43 (0) 676 3821552  
+Location : Vienna 9th district
+<br></br>
+Twitter : [@antonplisnier](https://twitter.com/AntonPlisnier)  
+Linkedin : [Anton Plisnier](https://www.linkedin.com/in/anttongp/)  
 <br><br/>
 
 [Back to Top](https://github.com/Apliz/CV)
