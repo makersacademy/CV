@@ -1,25 +1,44 @@
-## Your Name
+## Matt Zimmer
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+##### Who am I?
+Training to become a junior developer, with the long-term goal of becoming a full-stack developer. Professional background of over 5 years in medical advertising, with over 7 years' experience in programming video game plugins (aka mods) as a hobby.
 
-## Projects
+### Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
-## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+### Professional Experience
+##### Learner Adams Bones (LAB)
+Small creative agency specialsing in healthcare communications and advertising, including digital solutions for pharmaceutical sales teams and design of web materials, including websites, microsites and advertisements.
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+Relevant experince listed below.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+_**Account Director**, April 2021_
+• Project management: project planning, finance, internal resource management, digital platform management
+• Client relationships: strategy development, tactic development, day-to-day communications and weekly meetings
 
-- Any experience relevent to software development
+_**Senior Account Manager**,  Oct 2018 - Mar 2021_
+• Established myself as the in-agency expert on [Veeva Vault](https://www.veeva.com/products/enterprise-content-management/), a content management platform partnered with [Salesforce](https://www.salesforce.com/uk/campaign/sem/salesforce-products/?d=70130000000tQwC&DCMP=KNC-Google&keyword=salesforce&adused=337697992930&gclid=CjwKCAjwzaSLBhBJEiwAJSRoksuixODVmD2FKBBpdd__MX5clbHvJ9r4CLsZGd1JY_sBqoK6tpRy5xoC-i0QAvD_BwE) used throughout the UK pharmaceutical industry. Educated other agencies on my processes for using this software, recognised as best practice by clients
+• Developed a reference management process for regulatory review (used in combination with Veeva Vault), now used by several agencies and considered best practice by clients
+• Created promotional emails, including development of creative copy, imagery, and HTML code
+• Personally designed client website, including layout design, wireframes, and creation of written/visual content
+• Won two new accounts during the COVID-19 pandemic
+
+_**Account Manager**,  Dec 2017 - Sep 2018_ 
+• Re-designed pitch templates in collaboration with design department to look more professional and aesthetically pleasing; this improved pitch performance and helped end a long period of not winning pitches
+• Began proofing HTML files in CLM deployment packages to check correct links, and edited HTMLs where necessary
+
+_**Senior Account Executive**,  Jan 2017 - Nov 2017_ 
+• Improved Agency efficiency and transparency by creating automated financial, planning and tracking documents
+• Improved Agency proofing capabilities by creating an Excel- based proofing process, saving time and improving performance
+
+_**Account Executive**,  Oct 2015 - Dec 2016_ 
+• Client-facing within first month
+• Solo client-facing meetings within first year
 
 ## Skills
 
