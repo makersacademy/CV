@@ -26,15 +26,6 @@ At University I was made vice captain of the City Water Polo Team in Dundee with
 You won't often find people raving about the fact they dropped out of university posted all over their CVs. Leaving University was a difficult decision for me, it left me in London with no qualifications, job or financial support. Being completely independent since the age of 19, I've had to work hard to get to where I am today and have absolutely no desire to stop now. When I set myself a task there is little or nothing that will stand in my way.
 
 
-## Projects
-| Project  | Summary | Technologies |
-| ------------- | ------------- | ------------- |
-|1. [Machine Learning Project](https://github.com/Raefey/FinalProjectML)  | Our final project at Makers Academy which explored Machine Learning. We wrote models to detect cancerous tumours and diabetes. We went into the week with no experience in machine learning and we were able to test drive all the models with 100% coverage  | Python, Unittest, Tensorflow |
-|2. [Acebook](https://github.com/Raefey/acebook-dart)  | A two week group project to create a clone of Facebook  | Ruby on Rails, RSpec, JQuery, Postgres, Heroku  |
-|3. [Bank Tech Test](https://github.com/Raefey/bank-tech-test)  | A practice tech test, simulating a Bank, focusing on the bank statement  | Ruby, RSpec |
-|4. [Bowling Challenge](https://github.com/Raefey/bowling-challenge)  | A bowling-score calculator, I was proud of this project as I used a really interesting recurring method  | Javascript, Jasmine |
-|5. [Thermostat](https://github.com/Raefey/thermostat-challenge)  | A simulation of a Thermostat, with an interactive web page, built in my first week of Javascript  | Javascript, Jasmine, JQuery  |
-|6. [Oystercard Challenge](https://github.com/Raefey/oystercard)  | The content of my second week of the Makers Academy course, a simulation of the Oystercard system  | Ruby, RSpec  |
 
 
 ## Experience
@@ -47,7 +38,6 @@ You won't often find people raving about the fact they dropped out of university
 - Agile scrum environment
 - Python, Neo4J, SQL, SQL Server, GCP, Microsoft Azure, Microservices Architecture, TDD
 
-
 ## Education
 
 #### Makers Academy (February - May 2018)
@@ -59,6 +49,17 @@ You won't often find people raving about the fact they dropped out of university
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
+
+## Projects
+| Project  | Summary | Technologies |
+| ------------- | ------------- | ------------- |
+|1. [Machine Learning Project](https://github.com/Raefey/FinalProjectML)  | Our final project at Makers Academy which explored Machine Learning. We wrote models to detect cancerous tumours and diabetes. We went into the week with no experience in machine learning and we were able to test drive all the models with 100% coverage  | Python, Unittest, Tensorflow |
+|2. [Acebook](https://github.com/Raefey/acebook-dart)  | A two week group project to create a clone of Facebook  | Ruby on Rails, RSpec, JQuery, Postgres, Heroku  |
+|3. [Bank Tech Test](https://github.com/Raefey/bank-tech-test)  | A practice tech test, simulating a Bank, focusing on the bank statement  | Ruby, RSpec |
+|4. [Bowling Challenge](https://github.com/Raefey/bowling-challenge)  | A bowling-score calculator, I was proud of this project as I used a really interesting recurring method  | Javascript, Jasmine |
+|5. [Thermostat](https://github.com/Raefey/thermostat-challenge)  | A simulation of a Thermostat, with an interactive web page, built in my first week of Javascript  | Javascript, Jasmine, JQuery  |
+|6. [Oystercard Challenge](https://github.com/Raefey/oystercard)  | The content of my second week of the Makers Academy course, a simulation of the Oystercard system  | Ruby, RSpec  |
+
 
 #### University of Dundee (2015 - 16)
 
