@@ -31,112 +31,60 @@ During my time at Makers Academy, I completed several pair-programming and solo 
 
 ### Professional Experience
 
-| **Learner Adams Bones (LAB)**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| A small creative agency specialsing in healthcare communications and advertising, including digital solutions for pharmaceutical sales teams and design of web materials, including websites, microsites and advertisements. Relevant experince listed below.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| _**Account Director**, April 2021_</br>• Project management: project planning, finance, internal resource management, digital platform management</br>• Client relationships: strategy development, tactic development, day-to-day communications and weekly meetings                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| _**Senior Account Manager**, Oct 2018 - Mar 2021_</br>• Established myself as the in-agency expert on [Veeva Vault](https://www.veeva.com/products/enterprise-content-management/), a content management platform partnered with [Salesforce](https://www.salesforce.com/uk/campaign/sem/salesforce-products/?d=70130000000tQwC&DCMP=KNC-Google&keyword=salesforce&adused=337697992930&gclid=CjwKCAjwzaSLBhBJEiwAJSRoksuixODVmD2FKBBpdd__MX5clbHvJ9r4CLsZGd1JY_sBqoK6tpRy5xoC-i0QAvD_BwE) used throughout the UK pharmaceutical industry. Educated other agencies on my processes for using this software, recognised as best practice by clients</br>• Developed a reference management process for regulatory review (used in combination with Veeva Vault), now used by several agencies and considered best practice by clients</br>• Created promotional emails, including development of creative copy, imagery, and HTML code</br>• Personally designed client website, including layout design, wireframes, and creation of written/visual content</br>• Won two new accounts during the COVID-19 pandemic |
-| _**Account Manager**, Dec 2017 - Sep 2018_</br>• Re-designed pitch templates in collaboration with design department to look more professional and aesthetically pleasing; this improved pitch performance and helped end a long period of not winning pitches</br>• Began proofing HTML files in CLM deployment packages to check correct links, and edited HTMLs where necessary                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| _**Senior Account Executive**, Jan 2017 - Nov 2017_</br>• Improved Agency efficiency and transparency by creating automated financial, planning and tracking documents</br>• Improved Agency proofing capabilities by creating an Excel- based proofing process, saving time and improving performance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| _**Account Executive**, Oct 2015 - Dec 2016_</br>• Client-facing within first month</br>• Solo client-facing meetings within first year                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+#### Learner Adams Bones (LAB)
 
-| Momenta                                                                                                                                                                                                                    |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| _**Case Handler**, Jan 2015 - Sep 2015_</br>First paid role out of university; refined communication skills and knowledge of finanacial software systems in a short-term, intensive contract investigating insurance fraud |
+A small creative agency specialsing in healthcare communications and advertising, including digital solutions for pharmaceutical sales teams and design of web materials, including websites, microsites and advertisements.
 
-### Education
+Relevant experince listed below.
+
+_**Account Director**, April 2021_
+</br>• Project management: project planning, finance, internal resource management, digital platform management
+</br>• Client relationships: strategy development, tactic development, day-to-day communications and weekly meetings
+
+_**Senior Account Manager**, Oct 2018 - Mar 2021_
+</br>• Established myself as the in-agency expert on [Veeva Vault](https://www.veeva.com/products/enterprise-content-management/), a content management platform partnered with [Salesforce](https://www.salesforce.com/uk/campaign/sem/salesforce-products/?d=70130000000tQwC&DCMP=KNC-Google&keyword=salesforce&adused=337697992930&gclid=CjwKCAjwzaSLBhBJEiwAJSRoksuixODVmD2FKBBpdd__MX5clbHvJ9r4CLsZGd1JY_sBqoK6tpRy5xoC-i0QAvD_BwE) used throughout the UK pharmaceutical industry. Educated other agencies on my processes for using this software, recognised as best practice by clients
+</br>• Developed a reference management process for regulatory review (used in combination with Veeva Vault), now used by several agencies and considered best practice by clients
+</br>• Created promotional emails, including development of creative copy, imagery, and HTML code
+</br>• Personally designed client website, including layout design, wireframes, and creation of written/visual content
+</br>• Won two new accounts during the COVID-19 pandemic
+
+_**Account Manager**, Dec 2017 - Sep 2018_
+</br>• Re-designed pitch templates in collaboration with design department to look more professional and aesthetically pleasing; this improved pitch performance and helped end a long period of not winning pitches
+</br>• Began proofing HTML files in CLM deployment packages to check correct links, and edited HTMLs where necessary
+
+_**Senior Account Executive**, Jan 2017 - Nov 2017_
+</br>• Improved Agency efficiency and transparency by creating automated financial, planning and tracking documents
+</br>• Improved Agency proofing capabilities by creating an Excel- based proofing process, saving time and improving performance
+
+_**Account Executive**, Oct 2015 - Dec 2016_
+</br>• Client-facing within first month
+</br>• Solo client-facing meetings within first year
+
+#### Momenta
+
+_**Case Handler**, Jan 2015 - Sep 2015_
+</br>First paid role out of university; refined communication skills
+in a short-term, intensive contract
+
+### Education and courses
+
+_**Makers Academy** - Sep 2021 - Jan 2022_
+</br>A highly selective 4-month software engineering bootcamp:
+</br>• Emphasis on Test-driven development (TDD), pair-programming and agile workflows, as well as emotional intelligence and XP values
+</br>• Focus on becoming "language agnostic" and able to adapt to new languages with ease
+</br>• Encouraged independant learning and problem-solving
+</br>• Specifically taught Ruby (with Rspec) and JavaScript (with Jest)
+</br>• Full stack web development, including web frameworks like Ruby on Rails and ReactJs
 
 _**University of Manchester** - BSc Hones, 2011 - 2014_
-</br>2.1 in Stem Cell Biology; first class science comms project
+</br>2.1 in Stem Cell Biology; first class science communication project
 
 _**Sherborne School** - 2005 - 2010_
 </br>A Levels: Biology (A), English (A), Chemistry (B)
 
-## Skills
+### Hobbies
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (start_date to end_date)
-
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below:
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
-
-### Makers Academy repos
-
-During my time at Makers Academy, I completed group projects, pair-programming challenges and solo challenges. All repos are listed here:
-
-| Week  | Name (linked)                                                                           | Language   | Tech/Tools                                                                                            |
-| ----- | --------------------------------------------------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------------- |
-| 10    | [Solo challenge: Bank](https://github.com/Zimmja/Makers-challenge-Bank)                 | JavaScript | Node, Jest, Prettier, ESLint                                                                          |
-| 8/9\* | [Group project: Acebook](https://github.com/Zimmja/acebook-blue-magpies)                | Ruby, SQL  | Ruby on Rails, PostgreSQL, Sinatra, Capybara, Selenium Webdriver,Rspec, Rubocop, HTML, CSS, Bootstrap |
-| 7     | [Solo challenge: News](https://github.com/Zimmja/Makers-challenge-News)                 | JavaScript | Node, Guardian API, HTML                                                                              |
-| 7\*   | [Pairing challenge: Notes](https://github.com/Zimmja/Notes-App)                         | JavaScript | Node, Jest, Prettier, HTML, CSS                                                                       |
-| 6     | [Solo challenge: Bowling JS](https://github.com/Zimmja/Makers-challenge-Thermostat)     | JavaScript | Node, Jest, Prettier                                                                                  |
-| 6\*   | [Pairing challenge: Thermostat](https://github.com/Zimmja/Makers-challenge-Thermostat)  | JavaScript | Node, Jest, OpenWeather API                                                                           |
-| 5     | [Solo challenge: Bowling](https://github.com/Zimmja/Makers-challenge-Bowling-Ruby)      | Ruby       | Rspec, Rubocop                                                                                        |
-| 5\*   | [Group project: ROMA](https://github.com/Zimmja/ROMA)                                   | Ruby, SQL  | PostgreSQL, Sinatra, Capybara, Selenium Webdriver, Rspec, Rubocop, SimpleCov, HTML, CSS               |
-| 4     | [Solo challenge: Chitter](https://github.com/Zimmja/Makers-challenge-Chitter)           | Ruby, SQL  | PostgreSQL, Sinatra, Capybara, Selenium Webdriver, Rspec, Rubocop, SimpleCov                          |
-| 4     | [Pairing challenge: Bookmarks](https://github.com/Zimmja/Makers-challenge-Bookmarks)    | Ruby, SQL  | PostgreSQL, Sinatra, Capybara, Selenium Webdriver, Rspec                                              |
-| 3     | [Solo challenge: Rock, Paper, Scissors](https://github.com/Zimmja/Makers-challenge-RPS) | Ruby       | Sinatra, Capybara, Selenium Webdriver, HTML, CSS, Rspec, Rubocop, SimpleCov                           |
-| 3     | [Pairing challenge: Battle](https://github.com/Zimmja/Makers-challenge-Battle)          | Ruby       | Sinatra, Capybara, Selenium Webdriver, HTML, Rspec                                                    |
-| 2     | [Solo challenge: Takeaway](https://github.com/Zimmja/Makers-challenge-Takeaway)         | Ruby       | Twilio, Rspec, Rubocop, SimpleCov                                                                     |
-| 2     | [Pairing challenge: Oystercard](https://github.com/Zimmja/Makers-challenge-Oystercard)  | Ruby       | Rspec                                                                                                 |
-| 1     | [Extra work: Pub-crawl](https://github.com/Zimmja/Pub-crawl)                            | Ruby       | Rspec                                                                                                 |
-| 1     | [Solo challenge: Airport](https://github.com/Zimmja/Makers-challenge-Airport)           | Ruby       | Rspec, Rubocop, SimpleCov                                                                             |
-| 1     | [Pairing challenge: Bikes](https://github.com/Zimmja/Makers-challenge-Bikes)            | Ruby       | Rspec                                                                                                 |
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimmja)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimmja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-In 2021, I was bored as an Account Director in a healthcare advertising agency. I wanted a more fulfilling career where I could use my creative problem solving skills for more than just project management. I wanted an intellectually stimulating challenge and to actually create something, not simply help others be creative. So I left.
-
-For over 7 years, most of my creative fulfillment has come from my self-taught hobby of developing video game plugins (aka mods). I love wrestling with a programming language to make my ideas a reality, and this hobby has let me do that and achieve success (with 1.6 million downloads across 8 mods). When I left advertising, I was pleased to discover the similarity between the coding language I was using (Papyrus) and other object-orientated languages like JavaScript. I realised my hobby-acquired skills could lead me to a career in software development that would fulfill my needs.
-
-After several months of learning to code through self-directed learning, I joined Makers Academy to improve my amateur coding skills for use in a professional context, and to learn new skills and langauages to make me a desirable candidate for a future employer. I am now ready for a junior developer role. I am determined and hungry for the challenge, and I am so excited to get started.
+**Modding** - my main hobby is creating mod plugins for the video game, Skyrim. I am currently working on my 7th update of my most popular mod (over 600K unique downloads), [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138)
+</br>**Dog walking** - I'm lucky enough to live between three parks in South London, so grabbing a coffee and taking the dog for a walk is a great pleasure of mine
+</br>**Codewars** - I really enjoy the puzzle element of coding, and can happily spend a day solving katas on Codewars
+</br>**Cooking** - my favourite thing to do on a Sunday is spend half the day creating an amazing roast dinner, preferably followed by a glass of wine and a movie
