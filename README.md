@@ -1,6 +1,4 @@
-## Matt Zimmer
-
-I am a determined and driven aspiring full-stack developer with a background in engineering and geology. I am looking to join a team in a positive and supportive environment where principles such as TDD are followed and where a growth mindset is encouraged.
+# Matt Zimmer
 
 #### Me at a glance
 
@@ -14,18 +12,22 @@ After several months of self-directed learning, I joined [Makers Academy](https:
 
 ### My Projects
 
-| Name (linked)                                                     | Description                                                                                                                                                                                     | Tech/Tools                                                         |
-| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [**Heyday**\*](https://github.com/mhbae-dev/heyday)               | Created with a team during my Makers Academy final project, this webapp help groups find a day to meet up, resolving availablilty and preferences while emphasising privacy and ease-of-access. | JavaScript, React, Node, Jest, Express, HTML, SCSS, Heroku, Vercel |
-| [**Switchwatch**\*](https://github.com/Zimmja/React-Stopwatch)    | A stopwatch webapp specifically designed for users who have several tasks to complete and record their time on, and need to switch between quickly                                              | JavaScript, React, Node, HTML, CSS                                 |
-| [**Skyrim modding**\*](https://github.com/Zimmja/React-Stopwatch) | Scripts written for my various mods for the video game, Skyrim                                                                                                                                  | Papyrus, Skyrim Creation Kit                                       |
+| Name                                                              | Description                                                                                                                                                                                      | Tech/Tools                                                         |
+| ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
+| [**Heyday**\*](https://github.com/mhbae-dev/heyday)               | Created with a team during my Makers Academy final project, this web-app help groups find a day to meet up, resolving availablilty and preferences while emphasising privacy and ease-of-access. | JavaScript, React, Node, Jest, Express, HTML, SCSS, Heroku, Vercel |
+| [**Switchwatch**\*](https://github.com/Zimmja/React-Stopwatch)    | A stopwatch web-app specifically designed for users who have several tasks to complete and record their time on, and need to switch between quickly                                              | JavaScript, React, Node, HTML, CSS                                 |
+| [**Skyrim modding**\*](https://github.com/Zimmja/React-Stopwatch) | Scripts written for my various mods for the video game, Skyrim                                                                                                                                   | Papyrus, Skyrim Creation Kit                                       |
 
 ### Featured Makers Challenges
 
-During my time at Makers Academy, I completed several pair-programming and solo challenges. The repos I enjoyed the most are listed here:
-| Name (linked) | Description | Tech/Tools |
-|--|--|--|
-| [Group project: **Acebook**](https://github.com/Zimmja/acebook-blue-magpies) | Description here | Ruby, Ruby on Rails, SQL, PostgreSQL, Sinatra, Capybara, Selenium Webdriver, Rspec, Rubocop, HTML, CSS, Bootstrap|
+During my time at Makers Academy, I completed several pair-programming and solo challenges. The ones I felt were most educational and enjoyable are listed here.
+| Name | Aims |Description | Tech/Tools |
+|--|--|--|--|
+| [**Acebook**](https://github.com/Zimmja/acebook-blue-magpies) | Use a framework to develop a full-stack web-app | For this group engineering challenge, we built a simple social media web-app based on Facebook which allowed users to create a basic profile and comment on other users' profiles | Ruby, Ruby on Rails, SQL, PostgreSQL, Sinatra, Capybara, Selenium Webdriver, Rspec, Rubocop, HTML, CSS, Bootstrap, Heroku|
+| [**Banking**](https://github.com/Zimmja/Makers-challenge-Bank) | Practice writing well-crafted code to solve a technical problem | For this technical solo challenge, I had the chance to craft my own code and to practice making it easily readable, understandable, and editable for a coach review. I was pleased to pass this challenge on my first attempt | JavaScript, Node, Jest, Prettier |
+| [**Bowling**](https://github.com/Zimmja/Makers-challenge-Thermostat) | To convert code from one language to another (i.e. Ruby to JavaScript) | For this solo challenge, I was tasked with creating a scoring card for a bowling game. This was deceptively difficult, and I really enjoyed designing the logic and writing the code to calculate the scoring. Once completed in Ruby, I converted it to JavaScript, which I had less experience with at the time | JavaScript, Ruby, Node, Jest, Rspec |
+| [**Thermostat**](https://github.com/Zimmja/Makers-challenge-Thermostat) | Create and test-drive a simple JavaScript program using Node | For this pairing challenge, we created a thermostat that could be interacted with via the command line and utilise API calls from OpenWeather | JavaScript, Node, Jest, APIs |
+| [**RPS Game**](https://github.com/Zimmja/Makers-challenge-RPS) | Create a game that is playable in a web browser | For this solo challenge, I was tasked with creating a Rock, Paper, Scissors (RPS) style game. I particularly enjoyed this challenge because I finished quickly and was able to stretch myself to a 16-item game (instead of the 3-item RPS game) | Ruby, Sinatra, Capybara, Selenium Webdriver, HTML, CSS, Rspec, Rubocop|
 
 ### Professional Experience
 
@@ -138,6 +140,8 @@ During my time at Makers Academy, I completed group projects, pair-programming c
 | 1     | [Pairing challenge: Bikes](https://github.com/Zimmja/Makers-challenge-Bikes)            | Ruby       | Rspec                                                                                                 |
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimmja)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimmja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 In 2021, I was bored as an Account Director in a healthcare advertising agency. I wanted a more fulfilling career where I could use my creative problem solving skills for more than just project management. I wanted an intellectually stimulating challenge and to actually create something, not simply help others be creative. So I left.
 
