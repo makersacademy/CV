@@ -1,6 +1,6 @@
 ## Raefe Newton-Jones
 
-I am a Data Engineer with a particular interest in helping companies to turn machine learning models into production-ready software. The most enjoyable aspect of coding for me is writing a beautiful piece of code which is efficient, succinct and accessible. I love automating, in every arena possible.
+I am a Software Engineer looking for a company with a mission I can really get behind, working collaboratively on improving peoples lives through innovation. The most enjoyable aspect of coding for me is writing a beautiful piece of code which is efficient, succinct and accessible. I love automating, in every arena possible.
 
 
 *<div align="center">"[Raefe] quickly impressed the teams he worked in with his quick grasp of what we were working on and began to contribute at a usable level even earlier than I had hoped. Raefe is going to make great contributions wherever he goes".  - Steven Hamblin, CEO, Dyad </div>*
@@ -13,9 +13,10 @@ I am a Data Engineer with a particular interest in helping companies to turn mac
 I've always prided myself on my ability to be pragmatic.
 I have a particular strength in Maths and from a young age have enjoyed solving really difficult mathematical problems.
 In the final project at Makers Academy I faced many high-level coding challenges. With no prior knowledge of Machine Learning I was able to test-drive three machine learning models.
-One particular project I'm proud of is building an entire data pipeline; integrating legacy APIs with new technologies to create a ward reporting function for hospitals.
 
-#### Communication
+One particular project I'm proud of in my professional career is building software that uses machine learning to help influence clinician decisions. The project involved creating a data pipeline; integrating existing APIs with the machine learning engineers' algorithm, it is currently being used in NHS hospitals.
+
+#### Strong Communication Skills
 
 In year 12 at school I was part of the Young Enterprise Program. I was voted by my peers and year 13 to represent the company as Managing Director which involved public speaking, and management of the team.  
 At University I was made vice captain of the City Water Polo Team in Dundee within the first few weeks playing for the club.
