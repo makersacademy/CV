@@ -25,7 +25,7 @@ After several months of self-directed learning, I joined [Makers Academy](https:
 During my time at Makers Academy, I completed several pair-programming and solo challenges. The repos I enjoyed the most are listed here:
 | Name (linked) | Description | Tech/Tools |
 |--|--|--|
-| [Group project: **Acebook**](https://github.com/Zimmja/acebook-blue-magpies) | | Ruby, Ruby on Rails, SQL, PostgreSQL, Sinatra, Capybara, Selenium Webdriver, Rspec, Rubocop, HTML, CSS, Bootstrap|
+| [Group project: **Acebook**](https://github.com/Zimmja/acebook-blue-magpies) | Description here | Ruby, Ruby on Rails, SQL, PostgreSQL, Sinatra, Capybara, Selenium Webdriver, Rspec, Rubocop, HTML, CSS, Bootstrap|
 
 ### Professional Experience
 
