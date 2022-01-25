@@ -16,7 +16,9 @@ After several months of self-directed learning, I joined [Makers Academy](https:
 | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ |
 | [**Heyday**](https://github.com/mhbae-dev/heyday)               | Created with a team during my Makers Academy final project, this web-app help groups find a day to meet up, resolving availablilty and preferences while emphasising privacy and ease-of-access. | JavaScript, React, Node, Jest, Express, HTML, SCSS, Heroku, Vercel |
 | [**Switchwatch**](https://github.com/Zimmja/React-Stopwatch)    | A stopwatch web-app specifically designed for users who have several tasks to complete and record their time on, and need to switch between quickly                                              | JavaScript, React, Node, HTML, CSS                                 |
-| [**Skyrim modding**](https://github.com/Zimmja/React-Stopwatch) | Scripts written for my various mods for the video game, Skyrim                                                                                                                                   | Papyrus, Skyrim Creation Kit                                       |
+| [**Skyrim modding**](https://github.com/Zimmja/React-Stopwatch) | Scripts written for my various mods for the video game, Skyrim                                                                                                                                   | Papyrus, Skyrim Creation, TES5Edit Kit                             |
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimmja)
 
 ### Featured Makers Challenges
 
@@ -24,10 +26,16 @@ During my time at Makers Academy, I completed several pair-programming and solo 
 | Name | Aim | Description | Tech/Tools |
 |--|--|--|--|
 | [**Acebook**](https://github.com/Zimmja/acebook-blue-magpies) | Group engineering challenge: use a framework to develop a full-stack web-app | A simple social media web-app based on Facebook which allowed users to create a basic profile and comment on other users' profiles | Ruby, Ruby on Rails, SQL, PostgreSQL, Rspec, Rubocop, HTML, CSS, Bootstrap, Heroku|
-| [**Banking**](https://github.com/Zimmja/Makers-challenge-Bank) | Solo technical challenge: write well-crafted code to solve a technical problem | Wrote easily readable, understandable, and editable code for making transactions with a bank account using a REPL. Code was reviewed by a coach, and I was pleased to pass on my first attempt | JavaScript, Node, Jest, Prettier |
+| [**Banking**](https://github.com/Zimmja/Makers-challenge-Bank) | Solo technical challenge: write well-crafted code to solve a technical problem | Wrote easily readable, understandable, and editable code for making transactions with a bank account using a REPL. Coach reviewed, passed on first attempt and then refined | JavaScript, Node, Jest, Prettier |
 | [**Bowling**](https://github.com/Zimmja/Makers-challenge-Thermostat) | Solo challenge: solve a technical problem and convert code from one language to another | Created a scoring card for a bowling game using Ruby (a deceptively difficult task requiring solid planning and execution), and then converted to JavaScript | JavaScript, Ruby, Node, Jest, Rspec |
-| [**Thermostat**](https://github.com/Zimmja/Makers-challenge-Thermostat) | Pairing challenge: create and test-drive a simple JavaScript program using Node | We created a thermostat that could be interacted with via the command line and utilise API calls from OpenWeather to receive and display real-world information | JavaScript, Node, Jest, APIs |
+| [**Thermostat**](https://github.com/Zimmja/Makers-challenge-Thermostat) | Pairing challenge: create and test-drive a simple JavaScript program using Node | We created a thermostat that could be interacted with via the command line and utilise API calls from OpenWeather to receive and display real-world info | JavaScript, Node, Jest, APIs |
 | [**RPS Game**](https://github.com/Zimmja/Makers-challenge-RPS) | Solo challenge: create a game that is playable in a web browser | Tasked with creating a Rock, Paper, Scissors (RPS) style game. Finished quickly and was able to stretch myself to a 16-item game (instead of the 3-item RPS game) | Ruby, Sinatra, Capybara, Selenium Webdriver, HTML, CSS, Rspec, Rubocop|
+
+### Skills
+
+**Languages** - Ruby (Rspec, Ruby on Rails, Capybara; 4kyu on Codewars), JavaScript (React, Node, Jest, Express; 5kyu on Codewars), SQL, HTML, CSS, SCSS
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimmja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Professional Experience
 
@@ -86,5 +94,4 @@ _**Sherborne School** - 2005 - 2010_
 
 **Modding** - my main hobby is creating mod plugins for the video game, Skyrim. I am currently working on my 7th update of my most popular mod (over 600K unique downloads), [Zim's Immersive Artifacts](https://www.nexusmods.com/skyrimspecialedition/mods/9138)
 </br>**Dog walking** - I'm lucky enough to live between three parks in South London, so grabbing a coffee and taking the dog for a walk is a great pleasure of mine
-</br>**Codewars** - I really enjoy the puzzle element of coding, and can happily spend a day solving katas on Codewars
 </br>**Cooking** - my favourite thing to do on a Sunday is spend half the day creating an amazing roast dinner, preferably followed by a glass of wine and a movie
