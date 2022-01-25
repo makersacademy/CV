@@ -37,6 +37,12 @@ During my time at Makers Academy, I completed several pair-programming and solo 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zimmja&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+**Understanding client needs and rapidly responding** - one of my main responsibilities as an account handler was taking briefs from clients (written and spoken), understanding them well enough to identify questions and issues early on, quickly formulate solutions, discussing them with clients and actioning under tight timelines. For example, when a prospective client was disatisfied with her current agency, I was able to respond to her briefs, offer insights and produce an action plan so quickly and to such a high standard that she skipped the usual procurement process and hired our agency without asking us to pitch first.
+
+**Understanding systems and developing processes** - identifying better processes for working with systems helped me add value to my employer's agency. When a new system for medical review ([Veeva Vault](https://www.veeva.com/products/enterprise-content-management/)) was launched across the healthcare advertising industry, I rapidly learned how it worked and developed our agency's processes for using it. These processes allowed us to approve advertising materials faster than other agencies, and a client asked me to present them over three workshops to other agencies so they could improve to our standard. This allowed our agency to present ourselves as experts in Veeva Vault, a barrier many prospective clients were keen to avoid.
+
+**Problem solving** - proven track record of combining different skillsets to solve problems. For example, while in healthcare advertising, a colleague's client threatened to close an account with our agency due to our creative department's inability to present scientific information clearly and accurately. I volunteered to solve the issue myself, combining the client brief, my scientific knowledge, writing and design (usually handled by three different departments) to solve the issue. I found a solution, my colleague presented it, and the client remains with the agency to this day.
+
 ### Professional Experience
 
 #### Learner Adams Bones (LAB)
