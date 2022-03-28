@@ -116,6 +116,7 @@ Assistant to the Head of Agricultural Services on a Rubber Plantation, Gabon
 - rubber price trend analysis in accordance with crude oil and freight prices
 - Responsible for implementing and executing rubber purchasing strategy and reconciling purchasing positions
 
+<a name="hobbies"></a>
 HOBBIES AND INTERESTS
  - Fishing, exercise, aquarium, reading, raspberry pi
  - Medium blog [@jaiye.s][medium-blog]
