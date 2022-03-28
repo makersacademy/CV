@@ -104,15 +104,15 @@ Software Engineer
 - Pair programming, code review, documentation
 
 LandAfrique Agriculture, Nigeria / London  
-March 2009 to September 2010, September 2011 to December 2015
-Associate Business Development, Agriculture
+March 2009 to September 2010, September 2011 to December 2015  
+Associate Business Development, Agriculture  
 - developed detailed feasibility reports and financial models for a cassava production and starch/glucose syrup processing enterprises. Reported to MD
 - calculation of financial and accounting variables such as NPV, IRR, ADSCR, cash flow, and lending modelling calculating interest rate repayment, asset depreciation and amortisation
 - involved in the company listing and equity placement through AIM segment of the London Stock exchange and discussions with TATA GROUP Agriculture Africa Fund through Investec Bank
 
 SIAT Group  
 January 2007 to January 2009  
-Assistant to the Head of Agricultural Services on a Rubber Plantation, Gabon
+Assistant to the Head of Agricultural Services on a Rubber Plantation, Gabon  
 - rubber price trend analysis in accordance with crude oil and freight prices
 - Responsible for implementing and executing rubber purchasing strategy and reconciling purchasing positions
 
