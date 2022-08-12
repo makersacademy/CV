@@ -29,10 +29,9 @@ Event venue in London.
 
 <strong>Skills:</strong> Organisation, Fast Paced, Patience
 
-**Pret A Manger** (Jan. 2019 to Oct. 2019)  
-<strong>_Team Member_</strong>
-
+**Pret A Manger** (Jan. 2019 to Oct. 2019) 
 Pret A Manger is a fast casual restaurant that pushes its members to give their best.
+<strong>_Team Member_</strong>
 
 <strong>Skills:</strong> Team work, Goal oriented, Fast Paced, Adaptability
 
