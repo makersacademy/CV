@@ -9,11 +9,11 @@ Throughout this course, I intend to learn how to write reusable and clean code w
 ## Projects
 
  **Student Directory** 
-  - A program that allows us to manage students | Ruby  | 
+  - A program that allows us to manage students | <strong> Ruby </strong>  | 
 
 
  **Fizzbuzz**                 
-  - Test Driven Development program with pair programming | Ruby, RSPEC |
+  - Test Driven Development program with pair programming | <strong> Ruby, RSPEC </strong> |
 
 ## Work Experience
 
