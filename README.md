@@ -3,7 +3,7 @@
 I am a passionate <strong>full-stack developer student</strong> at Makers Academy who is eager to learn more about <strong>software development</strong>. 
 My love for tech started in university when I learnt the basics of  <strong>Java</strong>, and I have been looking for ways to explore this area more. 
 The ability to write different programs to solve a single problem has improved my critical thinking and stretched my comfort zone, something that reminds me a lot of <strong>Mathematics</strong>.
-Throughout this course, I intend to learn how to write reusable and clean code with the help of <strong>TDD</strongs> practices, and I am aiming to become proficient in <strong>Ruby, Python and Javascript</strong>. 
+Throughout this course, I intend to learn how to write reusable and clean code with the help of <strong>TDD</strong> practices, and I am aiming to become proficient in <strong>Ruby, Python and Javascript</strong>. 
 
 
 ## Projects
