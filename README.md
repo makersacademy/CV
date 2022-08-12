@@ -18,6 +18,7 @@ Throughout this course, I intend to learn how to write reusable and clean code w
 ## Work Experience
 
 **Home** (Since Mar.2020 - )
+
 <strong>_Full time mother of a lovely toddler_</strong>
 
 <strong>Skills:</strong> Empathy, Communication, Adaptability, Creative thinking, Patience, Emotional Intelligence
