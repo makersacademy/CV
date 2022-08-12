@@ -20,28 +20,28 @@ Throughout this course, I intend to learn how to write reusable and clean code w
 **Home** (Since Mar.2020 - )<br/>
 <strong>_Full time mother of a lovely toddler_</strong>
 
-<strong>Skills:</strong> Empathy, Communication, Adaptability, Creative thinking, Patience, Emotional Intelligence
+<strong>Skills:</strong> <em>Empathy, Communication, Adaptability, Creative thinking, Patience, Emotional Intelligence</em>
 
 **Queens Elizabeth II Centre** (Oct. 2019 to Mar.2020)  
 <strong>_Cloackroom assistant_</strong>
 
 Event venue in London.
 
-<strong>Skills:</strong> Organisation, Fast Paced, Patience
+<strong>Skills:</strong> <em>Organisation, Fast Paced, Patience</em>
 
 **Pret A Manger** (Jan. 2019 to Oct. 2019) <br/>
 <strong>_Team Member_</strong>
 
 Pret A Manger is a fast casual restaurant that pushes its members to give their best.
 
-<strong>Skills:</strong> Team work, Goal oriented, Fast Paced, Adaptability
+<strong>Skills:</strong> <em>Team work, Goal oriented, Fast Paced, Adaptability</em>
 
 **Roosters Piri Piri** (Sep.2017 to Sep.2018)  
 <strong>_Waitress_</strong>
 
 Fast food restaurant who strives to deliver grilled healthy food.
 
-<strong>Skills:</strong> Communication, Fast Paced, Problem solving, Emotional Intelligence, Resilience
+<strong>Skills:</strong><em> Communication, Fast Paced, Problem solving, Emotional Intelligence, Resilience</em>
 
 ## Education
 
