@@ -18,26 +18,26 @@ Throughout this course, I intend to learn how to write reusable and clean code w
 ## Work Experience
 
 **Home** (Since Mar.2020 - )
-_Full time mother of a lovely toddler_
+<strong>_Full time mother of a lovely toddler_</strong>
 
 <strong>Skills:</strong> Empathy, Communication, Adaptability, Creative thinking, Patience, Emotional Intelligence
 
 **Queens Elizabeth II Centre** (Oct. 2019 to Mar.2020)  
-_Cloackroom assistant_
+<strong>_Cloackroom assistant_</strong>
 
 Event venue in London.
 
 <strong>Skills:</strong> Organisation, Fast Paced, Patience
 
 **Pret A Manger** (Jan. 2019 to Oct. 2019)  
-_Team Member_
+<strong>_Team Member_</strong>
 
 Pret A Manger is a fast casual restaurant that pushes its members to give their best.
 
 <strong>Skills:</strong> Team work, Goal oriented, Fast Paced, Adaptability
 
 **Roosters Piri Piri** (Sep.2017 to Sep.2018)  
-_Waitress_
+<strong>_Waitress_</strong>
 
 Fast food restaurant who strives to deliver grilled healthy food.
 
@@ -66,4 +66,5 @@ At the end of the course, students are able to know and use the following featur
 ## Hobbies
 
 Baking Cupcakes and Cakes
+
 Swimming with my toddler
