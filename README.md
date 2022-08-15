@@ -1,77 +1,74 @@
-## Your Name
+## Liovirgilda Mendonca
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a passionate <strong>full-stack developer student</strong> at Makers Academy who is eager to learn more about <strong>software development</strong>. 
+My love for tech started in university when I learnt the basics of  <strong>Java</strong>, and I have been looking for ways to explore this area more. 
+The ability to write different programs to solve a single problem has improved my critical thinking and stretched my comfort zone, something that reminds me a lot of <strong>Mathematics</strong>.
+Throughout this course, I intend to learn how to write reusable and clean code with the help of <strong>TDD</strong> practices, and I am aiming to become proficient in <strong>Ruby, Python and Javascript</strong>. 
+
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+ **Student Directory** 
+  - A program that allows us to manage students | <strong> Ruby </strong>  | 
+
+
+ **Fizzbuzz**                 
+  - Test Driven Development program with pair programming | <strong> Ruby, RSPEC </strong> |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Home** (Since Mar.2020 - )<br/>
+<strong>_Full time mother of a lovely toddler_</strong>
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+<strong>Skills:</strong> <em>Empathy, Communication, Adaptability, Creative thinking, Patience, Emotional Intelligence</em>
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Queens Elizabeth II Centre** (Oct. 2019 to Mar.2020)  
+<strong>_Cloackroom assistant_</strong>
 
-- Any experience relevent to software development
+Event venue in London.
 
-## Skills
+<strong>Skills:</strong> <em>Organisation, Fast Paced, Patience</em>
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+**Pret A Manger** (Jan. 2019 to Oct. 2019) <br/>
+<strong>_Team Member_</strong>
 
--STAR
--What was the situation/task? (ST)
+Pret A Manger is a fast casual restaurant that pushes its members to give their best.
 
--How was the skill used?
+<strong>Skills:</strong> <em>Team work, Goal oriented, Fast Paced, Adaptability</em>
 
--What did you do? (action)
+**Roosters Piri Piri** (Sep.2017 to Sep.2018)  
+<strong>_Waitress_</strong>
 
--What was the result?
+Fast food restaurant who strives to deliver grilled healthy food.
 
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+<strong>Skills:</strong><em> Communication, Fast Paced, Problem solving, Emotional Intelligence, Resilience</em>
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
+#### Makers Academy (Jul/2022 to Nov/2022)
+Makers Academy is the leading Software engineering Bootcamp provider in Europe.
+Over 16 weeks, students immerse themselves in a full-time course where they learn different computer languages, methods and frameworks.
+At the end of the course, students are able to know and use the following features:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Code Academy 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Learn Ruby - June 2022
 
-#### Any other qualifications
+#### Python Institute 
 
-That in some arguable way make you a better software developer or well-rounded person
+- Certified Associate in Python Programming - April 12, 2021
+- Certified Entry-Level Python Programmer - February 4, 2021
+
+#### Lisbon University, Faculty of Science (Sep. 2013- Jul.2016)
+
+- 2 years Bsc Mathematics
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Baking Cupcakes and Cakes
+
+Swimming with my toddler
