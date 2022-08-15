@@ -54,6 +54,10 @@ At the end of the course, students are able to know and use the following featur
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
+#### Code Academy 
+
+- Learn Ruby - June 2022
+
 #### Python Institute 
 
 - Certified Associate in Python Programming - April 12, 2021
