@@ -62,17 +62,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### UWS (2012 to 2018)
-- Network Communication
+#### UWS Glasgow (2012 to 2018)
+- BSc Network Communication
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
+#### Stow college Glasgow (2008 to 2010)
+- HND software developer
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I started painting from early teenage year , I love water_color painting as much as acrylic, oil, mix media. After my second child I challenged myself to learn caligraphy on canvas which I have comibined it with painting .
+
+I have passion for cooking .I cook every day and my grandmum was my inspration those years  after I moved to uk Jamie Oliver opened my eyes to new cooking style since then I like to try different flavors with new ingridiants to create new tastes.
