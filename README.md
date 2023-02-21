@@ -1,7 +1,6 @@
-## Ladan Torkzaban
-Junior Full Stack Software Developer
+## Ladan Torkzaban _ Junior Full Stack Software Developer
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After beieng a full time mum for few years ,I have decided to refresh my knowledge and memory from what I have studied in university. I joined the Makers academy and achived an incredible experience in 16 weeks on full stack programing  and testing . I'm skilled in communiction and pair programming.I love to challenge myself with learning new skills to keep my brain motivated.
 
 ## Projects
 
@@ -54,7 +53,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (July 2022 to October 2022)
 - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -63,7 +62,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### UWS (2012 to 2018)
+- Network Communication
 
 - Subject, any specialisms
 - Grade
