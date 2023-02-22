@@ -1,69 +1,57 @@
-## Your Name
+## Ladan Torkzaban _ Junior Full Stack Software Developer
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+After being a full time mum for few years ,I have decided to refresh my knowledge and memory from what I have studied in university. I joined the Makers academy and achieved an incredible experience in 16 weeks on full stack programming  and testing . I'm skilled in communication and pair programming.I love to challenge myself with learning new skills to keep my brain motivated.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
+|         Name              |                     Description                    |               Tech tools            |
+| --------------------------| -------------------------------------------------- | ----------------------------------- |
+|         **Divvy**         | A mobile app to calculate & split group meal cost. User can take a photo of their receipt and will be itemised on Divvy app.Tips,taxes and service changes can add as well.| Javascript, React Native, Node.js,  Expo, Realm, Taggun, CSS.   |  
 | **Something else worked on** | A webapp to do y. | Ruby              |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**The Bay Tree * (2009 to 2016) 
+- Director Manager 
+- Book keeping, cash and orders handle , update tills software
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
-
-**Company Name** (start-date to end-date)  
-_Your job title_
-
-- Any experience relevent to software development
 
 ## Skills
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
+#### Quick Learner
+- Now that I am developing and maintaining software, my enthusiasm is boundless. I am eager to learn as much as possible   and continue improving as a developer. I am excited to work on new challenges, gain new knowledge and use my existing 
+skills to enhance my future projects. 
 
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
+#### Adaptable and control
+- Since I have joined Makers I learned to be Adaptable, as my learning environment was getting changed every day and I had to cope and control the situation to progress forward and achieve my goals on time.
 
+#### Team-Player
+- I genuinely enjoy working with others, learning and teaching at the same time  are always great motivators for creating high-quality  projects. The Makers course led us to work on individual and joint projects, and I was comfortable with either arrangement. One of my strengths is ensuring that everyone has the opportunity to put forward their ideas so that we identify the best solution most effectively.
 
-Here's an example
-
-#### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
-
-#### Another skill
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-#### Another skill
-
+#### detail-oriented
+- I'm well organised and pay attention to all details such as major or minor ,The ability to be detail-oriented build up with practice in me during my years of painting and now programming.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July 2022 to October 2022)
+- Learnt how to utilise pair programming, Test Driven Development and Object Orientated Design to develop software with high quality code (and ensure it is easy to read and change)
 
-#### Your University / College (start_date to end_date)
+- Programmed in Ruby, JavaScript, and Python but learnt how to translate into any language (can't wait to do this more)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Experienced using multiple frameworks, use of Restful APIs and integrating with databases like MongoDB, mySQL and Postgres
 
-#### Any other qualifications
+- Developed passion for learning new technologies & languages, working as part of an agile team and problem solving with tight deadlines
 
-That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+#### UWS Glasgow (2012 to 2018)
+- BSc Computer Networking
 
-Any cool stuff that makes you a super part of a software development team
+#### Stow college Glasgow (2008 to 2010)
+- HND software developer
+
+## Hobbies 
+
+I started painting from early teenage year , I love water_color painting as much as acrylic, oil, mix media. After my second child I challenged myself to learn calligraphy on canvas which I have combined it with painting .
+
+I have passion for cooking .I cook every day,my grand_mum was my inspiration at first. I was amazed how she managed to pull out the best taste out of ingredients .After I moved to uk Jamie Oliver opened my eyes to new cooking style since then I like to try different spices with new ingredients to create new tastes.
+
