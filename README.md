@@ -11,7 +11,7 @@ After being a full time mum for few years ,I have decided to refresh my knowledg
 
 ## Work Experience
 
-**The Bay Tree * (2009 to 2016) 
+#### The Bay Tree (2009 to 2016) 
 - Director Manager 
 - Book keeping, cash and orders handle , update tills software
 
